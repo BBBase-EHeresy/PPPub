@@ -1,0 +1,171 @@
+site_name: Prancing Pony Pub
+theme:
+  name: material
+  palette:
+    scheme: mesbg
+  custom_dir: overrides
+  logo: assets/PPPub_Logo.webp
+  favicon: assets/PPPub_Favicon.ico
+  font:
+    text: PT Serif
+  features:  
+    - header.autohide
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - tables
+  - pymdownx.details
+  - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - includes/tooltip_skills.md
+nav:
+  - Quick Start: 'quick_start.md'
+  - Rules Manual: 
+      - Rules Manual: 'rules_manual/index.md'
+      - The Rules: 'rules_manual/the_rules.md'
+      - Turn Sequence: 'rules_manual/turn_sequence.md'
+      - Priority Phase: 'rules_manual/priority_phase.md'
+      - Move Phase: 'rules_manual/move_phase.md'
+      - Shoot Phase: 'rules_manual/shoot_phase.md'
+      - Fight Phase: 'rules_manual/fight_phase.md'
+      - Courage: 'rules_manual/courage.md'
+      - Cavalry: 'rules_manual/cavalry.md'
+      - Heroes: 'rules_manual/heroes.md'
+      - Monsters: 'rules_manual/monsters.md'
+      - Weapons and Wargear: 'rules_manual/weapons_and_wargear.md'
+      - Magical Powers: 'rules_manual/magical_powers.md'
+      - Special Rules: 'rules_manual/special_rules.md'
+      - Advanced Rules: 'rules_manual/advanced_rules.md'
+      - Siege Engines: 'rules_manual/siege_engines.md'
+      - Sieges: 'rules_manual/sieges.md'
+      - Narrative Play: 'rules_manual/narrative_play.md'
+      - Open Play: 'rules_manual/open_play.md'
+      - Matched Play: 'rules_manual/matched_play.md'
+  - Matched Play Guide: 
+      - Matched Play Guide: 'matched_play_guide/index.md'
+      - Recommended Tournament Style: 'matched_play_guide/recommended_tournament_style.md'
+      - Results Sheet: 'matched_play_guide/results_sheet.md'
+      - Scenario Pool System: 'matched_play_guide/scenario_pool_system.md'
+      - Doubles Events: 'matched_play_guide/doubles_events.md'
+      - Campaign Events: 'matched_play_guide/campaign_events.md'
+      - Additional Rules: 'matched_play_guide/additional_rules.md'
+  - Battle Companies: 
+      - Introduction: 'battle_companies/introduction.md'
+      - Mustering Your Warband: 'battle_companies/mustering_your_warband.md'
+      - War's Aftermath: 'battle_companies/wars_aftermath.md'
+      - Injuries: 'battle_companies/injuries.md'
+      - Experience: 'battle_companies/experience.md'
+      - Armoury: 'battle_companies/armoury.md'
+      - Good Battle Companies: 'battle_companies/good_battle_companies.md'
+      - Evil Battle Companies: 'battle_companies/evil_battle_companies.md'
+      - Scenarios: 'battle_companies/scenarios.md'
+      - Adventures in Middle-Earth: 'battle_companies/adventures_in_middle_earth.md'
+      - Narrative Campaign: 'battle_companies/narrative_campaign.md'
+      - Map-Based Campaigns: 'battle_companies/map_based_campaigns.md'
+      - Additional Rules: 'battle_companies/additional_rules.md'
+      - Using Your Company in Larger Games: 'battle_companies/using_your_company_in_larger_games.md'
+      - Gallery of Battle Companies: 'battle_companies/gallery_of_battle_companies.md'
+      - Battle Companies Roster: 'battle_companies/battle_companies_roster.md'
+  - Forces of Good: 
+      - Amor: 'forces_of_good/amor.md'
+      - Army of Lake-town: 'forces_of_good/army_of_lake_town.md'
+      - Army of Thrór: 'forces_of_good/army_of_thror.md'
+      - Erebor Reclaimed: 'forces_of_good/erebor_reclaimed.md'
+      - Fangorn: 'forces_of_good/fangorn.md'
+      - Garrison of Dale: 'forces_of_good/garrison_of_dale.md'
+      - Halls of Thranduil: 'forces_of_good/halls_of_thranduil.md'
+      - Lothlorien: 'forces_of_good/lothlorien.md'
+      - Minas Tirith: 'forces_of_good/minas_tirith.md'
+      - Numenor: 'forces_of_good/numenor.md'
+      - Radagast's Alliance: 'forces_of_good/radagasts_alliance.md'
+      - Rivendell: 'forces_of_good/rivendell.md'
+      - Rohan: 'forces_of_good/rohan.md'
+      - Survivors of Lake-town: 'forces_of_good/survivors_of_lake_town.md'
+      - The Dead of Dunharrow: 'forces_of_good/the_dead_of_dunharrow.md'
+      - The Fiefdoms: 'forces_of_good/the_fiefdoms.md'
+      - The Fellowship: 'forces_of_good/the_fellowship.md'
+      - The Iron Hills: 'forces_of_good/the_iron_hills.md'
+      - The Kingdom of Khazad-Dum: 'forces_of_good/the_kingdom_of_khazad_dum.md'
+      - The Misty Mountains: 'forces_of_good/the_misty_mountains.md'
+      - The Rangers: 'forces_of_good/the_rangers.md'
+      - The Shire: 'forces_of_good/the_shire.md'
+      - The White Council: 'forces_of_good/the_white_council.md'
+      - Thorin's Company: 'forces_of_good/thorins_company.md'
+      - Wanderers in the Wild: 'forces_of_good/wanderers_in_the_wild.md'
+      - Wildmen of Druadan: 'forces_of_good/wildmen_of_druadan.md'
+  - Forces of Evil: 
+      - Angmar: 'forces_of_evil/angmar.md'
+      - Azog's Hunters: 'forces_of_evil/azogs_hunters.md'
+      - Azog's Legion: 'forces_of_evil/azogs_legion.md'
+      - Barad-Dur: 'forces_of_evil/barad_dur.md'
+      - Corsairs of Umbar: 'forces_of_evil/corsairs_of_umbar.md'
+      - Dark Denizens of Mirkwood: 'forces_of_evil/dark_denizens_of_mirkwood.md'
+      - Dark Powers of Dol Guldur: 'forces_of_evil/dark_powers_of_dol_guldur.md'
+      - Desolator of the North: 'forces_of_evil/desolator_of_the_north.md'
+      - Far Harad: 'forces_of_evil/far_harad.md'
+      - Goblin-town: 'forces_of_evil/goblin_town.md'
+      - Isengard: 'forces_of_evil/isengard.md'
+      - Mordor: 'forces_of_evil/mordor.md'
+      - Moria: 'forces_of_evil/moria.md'
+      - Sharkey's Rogues: 'forces_of_evil/sharkeys_rogues.md'
+      - The Easterlings: 'forces_of_evil/the_easterlings.md'
+      - The Serpent Horde: 'forces_of_evil/the_serpent_horde.md'
+      - The Trolls: 'forces_of_evil/the_trolls.md'
+      - Variags of Khand: 'forces_of_evil/variags_of_khand.md'
+  - Legendary Legions: 
+      - Army of Dale: 'legendary_legions/army_of_dale.md'
+      - Army of Dunland: 'legendary_legions/army_of_dunland.md'
+      - Assault on Lothlórien: 'legendary_legions/assault_on_lothlorien.md'
+      - Assault upon Helm's Deep: 'legendary_legions/assault_upon_helms_deep.md'
+      - Azog's Hunters: 'legendary_legions/azogs_hunters.md'
+      - Azog's Legion: 'legendary_legions/azogs_legion.md'
+      - Breaking of the Fellowship: 'legendary_legions/breaking_of_the_fellowship.md'
+      - Cirith Ungol: 'legendary_legions/cirith_ungol.md'
+      - Dark Denizens of Mirkwood: 'legendary_legions/dark_denizens_of_mirkwood.md'
+      - Dark Powers of Dol Guldur: 'legendary_legions/dark_powers_of_dol_guldur.md'
+      - Defenders of Erebor: 'legendary_legions/defenders_of_erebor.md'
+      - Defenders of Helm's Deep: 'legendary_legions/defenders_of_helms_deep.md'
+      - Defenders of the Shire: 'legendary_legions/defenders_of_the_shire.md'
+      - Depths of Moria: 'legendary_legions/depths_of_moria.md'
+      - Desolator of the North: 'legendary_legions/desolator_of_the_north.md'
+      - Fell Beings of Mirkwood: 'legendary_legions/fell_beings_of_mirkwood.md'
+      - Goblin-town: 'legendary_legions/goblin_town.md'
+      - Grand Army of the South: 'legendary_legions/grand_army_of_the_south.md'
+      - Host of the Dragon Emperor: 'legendary_legions/host_of_the_dragon_emperor.md'
+      - Lurtz's Scouts: 'legendary_legions/lurtzs_scouts.md'
+      - Paths of the Drúadan: 'legendary_legions/paths_of_the_druadan.md'
+      - Pits of Dol Guldur: 'legendary_legions/pits_of_dol_guldur.md'
+      - Rangers of Ithilien: 'legendary_legions/rangers_of_ithilien.md'
+      - Rangers of Mirkwood: 'legendary_legions/rangers_of_mirkwood.md'
+      - Rise of the Necromancer: 'legendary_legions/rise_of_the_necromancer.md'
+      - The Army of Gothmog: 'legendary_legions/the_army_of_gothmog.md'
+      - The Beornings: 'legendary_legions/the_beornings.md'
+      - The Black Gate Opens: 'legendary_legions/the_black_gate_opens.md'
+      - The Black Riders: 'legendary_legions/the_black_riders.md'
+      - The Chief's Ruffians: 'legendary_legions/the_chiefs_ruffians.md'
+      - The Grey Company: 'legendary_legions/the_grey_company.md'
+      - The Men of the West: 'legendary_legions/the_men_of_the_west.md'
+      - The Return of the King: 'legendary_legions/the_return_of_the_king.md'
+      - The Riders of Théoden: 'legendary_legions/the_riders_of_theoden.md'
+      - The Trolls: 'legendary_legions/the_trolls.md'
+      - The Vanquishers of the Necromancer: 'legendary_legions/the_vanquishers_of_the_necromancer.md'
+      - Théodred's Guard: 'legendary_legions/theodreds_guard.md'
+      - Uglúk's Scouts: 'legendary_legions/ugluks_scouts.md'
+      - Wolves of Isengard: 'legendary_legions/wolves_of_isengard.md'
+  - Scenarios: 
+      - Rules Manual: 'scenarios/rules_manual.md'
+      - Matched Play Guide: 'scenarios/matched_play_guide.md'
+      - Armies of Lord of the Rings: 'scenarios/armies_of_lord_of_the_rings.md'
+      - Armies of the Hobbit: 'scenarios/armies_of_the_hobbit.md'
+      - Gondor at War: 'scenarios/gondor_at_war.md'
+      - Scouring of the Shire: 'scenarios/scouring_of_the_shire.md'
+      - War in Rohan: 'scenarios/war_in_rohan.md'
+      - Quest of the Ringbearer: 'scenarios/quest_of_the_ringbearer.md'
+      - Fall of the Necromancer: 'scenarios/fall_of_the_necromancer.md'
+      - Defence of the North: 'scenarios/defence_of_the_north.md'
