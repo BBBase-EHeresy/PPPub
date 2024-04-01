@@ -1,4 +1,4 @@
-
+﻿
 [**DOUBLES EVENTS**]
 
 [![](../media/matched_play_guide/image40.jpeg)
@@ -56,7 +56,7 @@ Force.]
 of the Dead) even though each individual force may
 not.*]
 
-[If a Legendary Legion states that a specific Hero is always the army leader, then whichever force the model is in will automatically be the Primary Force for each game — there is no need to roll.]
+[If a Legendary Legion states that a specific Hero is always the army leader, then whichever force the model is in will automatically be the Primary Force for each game â€” there is no need to roll.]
 
 [THE LEADER]
 
@@ -68,7 +68,7 @@ game.]
 [For Doubles games, the Break Point is worked out across the entire army rather than each individual
 force.]
 
-[SCENARIO 1 — NO ESCAPE]
+[SCENARIO 1 â€” NO ESCAPE]
 
 [*Half of each army is fighting at the centre of the battlefield, with
 the rest of their enemies bearing down upon
@@ -88,7 +88,7 @@ them.*]
 
 [STARTING POSITIONS]
 
-[Both teams roll a D6 — the team that scores highest becomes Team A and chooses one of the deployment zones in the centre of the board. Team A then deploys their Primary Force within 6" of the centreline of the board in their deployment zone. Team B then deploys their Primary Force within 6" of the centreline of the board in their deployment zone. Team A then deploys their Secondary Force within 6" of the board edge in the opposite half of the board to their Primary Force; Team B then does the
+[Both teams roll a D6 â€” the team that scores highest becomes Team A and chooses one of the deployment zones in the centre of the board. Team A then deploys their Primary Force within 6" of the centreline of the board in their deployment zone. Team B then deploys their Primary Force within 6" of the centreline of the board in their deployment zone. Team A then deploys their Secondary Force within 6" of the board edge in the opposite half of the board to their Primary Force; Team B then does the
 same.]
 
 [ ]
@@ -119,7 +119,7 @@ the leader of the Secondary Force.]
 
 [![](../media/matched_play_guide/image41.jpeg)
 
-[SCENARIO 2 — TOTAL CONQUEST]
+[SCENARIO 2 â€” TOTAL CONQUEST]
 
 [*Two enemy forces are embroiled in a deadlock on the battlefield. Only
 by their allies joining the fight and taking control of key areas can
@@ -139,7 +139,7 @@ they achieve victory.*]
 
 [STARTING POSITIONS]
 
-[Both teams roll a D6 — the team that scores highest becomes Team A and chooses one of the deployment zones in the centre of the board. Team A then deploys their Primary Force within 6" of the centre of the board in their deployment zone. Team B then deploys their Primary Force within 6" of the centre of the board in their deployment zone. Both Secondary Forces are kept aside for later in the game.]
+[Both teams roll a D6 â€” the team that scores highest becomes Team A and chooses one of the deployment zones in the centre of the board. Team A then deploys their Primary Force within 6" of the centre of the board in their deployment zone. Team B then deploys their Primary Force within 6" of the centre of the board in their deployment zone. Both Secondary Forces are kept aside for later in the game.]
 
 [INITIAL PRIORITY]
 
@@ -188,9 +188,9 @@ Broken.]
 6.  
 
 [The warband does not arrive yet.Your opponent chooses a point on either
-the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on
-either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on any board
-edge at least 6" from a corner — all models in the warband move onto the battlefield from this point.\*v\*\*]
+the north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.Your opponent chooses a point on either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on either the north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on
+either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on any board
+edge at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.\*v\*\*]
 
 [*Objective*]
 
@@ -209,7 +209,7 @@ edge at least 6" from a corner — all models in the warband move onto the battl
 
 [![](../media/matched_play_guide/image42.jpeg)![](../media/matched_play_guide/image43.jpeg)
 
-[![](../media/matched_play_guide/image44.jpeg)SCENARIO 3 — TAKE AND
+[![](../media/matched_play_guide/image44.jpeg)SCENARIO 3 â€” TAKE AND
 HOLD]
 
 [*The two rival forces are converging upon a site of great power;
@@ -231,7 +231,7 @@ victory.]
 
 [STARTING POSITIONS]
 
-[Both teams roll a D6 — the team that scores highest becomes Team A and chooses a corner. The chosen corner and the one opposite are Team A's deployment zones; the other two corners are Team B's deployment zones. Team A then deploys their Primary Force within 12" of their chosen corner. Team B then deploys their Primary Force within 12" of one of their corners. Team A then deploys their Secondary Force within 12" of their other corner. Finally, Team B deploys their Secondary Force within 12" of their other corner.]
+[Both teams roll a D6 â€” the team that scores highest becomes Team A and chooses a corner. The chosen corner and the one opposite are Team A's deployment zones; the other two corners are Team B's deployment zones. Team A then deploys their Primary Force within 12" of their chosen corner. Team B then deploys their Primary Force within 12" of one of their corners. Team A then deploys their Secondary Force within 12" of their other corner. Finally, Team B deploys their Secondary Force within 12" of their other corner.]
 
 [INITIAL PRIORITY]
 
@@ -239,7 +239,7 @@ victory.]
 
 [OBJECTIVES]
 
-[Once one army has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.]
+[Once one army has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.]
 
 [ ]
 
@@ -289,7 +289,7 @@ rolls.]
 
 [*Deployment / 12"*]
 
-[SCENARIO 4 — CLASH OF CHAMPIONS]
+[SCENARIO 4 â€” CLASH OF CHAMPIONS]
 
 [*The two allied leaders must show their combined might against that of
 their enemies; whoever slays the most shall earn a great
@@ -310,7 +310,7 @@ leaders.]
 
 [STARTING POSITIONS]
 
-[Both teams roll a D6 — the team that scores highest becomes Team A and chooses a board edge. Team A then deploys their Primary Force within 24" of their board edge. Models may not be deployed further than 6" from the captain of their warband. When this has been done, Team B deploys their Primary Force within 24" of their board edge. Teams then take it turn to deploy their Secondary Forces following the same
+[Both teams roll a D6 â€” the team that scores highest becomes Team A and chooses a board edge. Team A then deploys their Primary Force within 24" of their board edge. Models may not be deployed further than 6" from the captain of their warband. When this has been done, Team B deploys their Primary Force within 24" of their board edge. Teams then take it turn to deploy their Secondary Forces following the same
 restrictions.]
 
 [INITIAL PRIORITY]
@@ -339,7 +339,7 @@ ally.]
 
 [![](../media/matched_play_guide/image45.jpeg) ]
 
-[SCENARIO 5 — CORNERED]
+[SCENARIO 5 â€” CORNERED]
 
 [*With one force surrounded, their allies must fight to save them from
 the combined might of their enemies.*]
@@ -362,7 +362,7 @@ defend.]
 
 [STARTING POSITIONS]
 
-[Both teams roll a D6 — the team that scores highest becomes Team A. Team A then deploys their Primary Force within 6" of the centre of the board. Team B then deploys their entire army at between 6" and 12" away from Team A's deployment area. Team A then sets up their Secondary Force anywhere within 3" of any board edge.]
+[Both teams roll a D6 â€” the team that scores highest becomes Team A. Team A then deploys their Primary Force within 6" of the centre of the board. Team B then deploys their entire army at between 6" and 12" away from Team A's deployment area. Team A then sets up their Secondary Force anywhere within 3" of any board edge.]
 
 [INITIAL PRIORITY]
 
@@ -370,7 +370,7 @@ defend.]
 
 [OBJECTIVES]
 
-[Once one army has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.]
+[Once one army has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.]
 
 [At the end of the game, the team that has scored the most Victory Points wins the game. If both teams have the same number of Victory Points, the game is a draw.]
 
@@ -385,7 +385,7 @@ defend.]
 [Team A scores 1 Victory Point if their leader is alive at the end of the game. If Team A's leader is alive at the end of the game, and has suffered no Wounds, they instead score 3 Victory Points.Team B scores 1 Victory Point for causing one or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count). If they kill the enemy leader, you instead score 3 Victory Points.You score 1 Victory Point if the enemy force is
 Broken at the end of the game. If the enemy force is Broken, and your force is unbroken, you instead score 3 Victory Points.You score 2 Victory Points
 if your team has more models within the central terrain piece than your opponents. If your team has at least twice the number of models in the terrain piece than your opponents, you instead score 4 Victory Points.You score 1
-Victory Point if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score 2 Victory Points.SCENARIO 6 — DUEL OF
+Victory Point if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score 2 Victory Points.SCENARIO 6 â€” DUEL OF
 WITS]
 
 [*Each force has been tasked with eliminating key enemy targets, though
@@ -405,7 +405,7 @@ in the heat of battle they have been unable to relay this information to their a
 
 [STARTING POSITIONS]
 
-[Both teams roll a D6 — the team that scores highest becomes Team A. Team A then chooses two opposite quarters of the board, and then deploys their Primary Force within one of their chosen quarters but not within 12" of the centre of the board. Team B then deploys their Primary Force within one of the two remaining quarters, but not within 12" of the centre of the board. Team A then deploys their Secondary Force within their other quarter, but not within 12" of the centre of the board. Finally, Team B deploys their Secondary Force within the last remaining quarter, but not within 12" of the centre of the board.]
+[Both teams roll a D6 â€” the team that scores highest becomes Team A. Team A then chooses two opposite quarters of the board, and then deploys their Primary Force within one of their chosen quarters but not within 12" of the centre of the board. Team B then deploys their Primary Force within one of the two remaining quarters, but not within 12" of the centre of the board. Team A then deploys their Secondary Force within their other quarter, but not within 12" of the centre of the board. Finally, Team B deploys their Secondary Force within the last remaining quarter, but not within 12" of the centre of the board.]
 
 [INITIAL PRIORITY]
 
@@ -417,13 +417,13 @@ in the heat of battle they have been unable to relay this information to their a
 
 [OBJECTIVES]
 
-[Once one army has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.]
+[Once one army has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.]
 
 [At the end of the game, the team that has scored the most Victory Points wins the game. If both teams have the same number of Victory Points, the game is a draw.]
 
 [SCORING VICTORY POINTS]
 
-[At the start of the game, each player secretly writes down one enemy Hero model to be the target of their forces. This means that each team will have two targets. Players may not discuss with their partner which Hero they have chosen for the duration of the game — it is secret from all players accept the player who wrote it down.]
+[At the start of the game, each player secretly writes down one enemy Hero model to be the target of their forces. This means that each team will have two targets. Players may not discuss with their partner which Hero they have chosen for the duration of the game â€” it is secret from all players accept the player who wrote it down.]
 
 -   
 -   

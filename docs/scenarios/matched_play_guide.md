@@ -1,4 +1,4 @@
-
+﻿
 [**SCENARIOS**]
 
 [![](../media/matched_play_guide/image10.jpeg)
@@ -8,7 +8,7 @@
 [***- Smaug, TheHobbit: TheDesolation of
 Smaug***]
 
-[SCENARIO 1 — DOMINATION]
+[SCENARIO 1 â€” DOMINATION]
 
 [*This battlefield will provide a distinct tactical advantage for
 whoever holds it for many years to come. Victory can be achieved by
@@ -75,7 +75,7 @@ permitted!*]
 | POSITION                          |                                  |
 | S] |                                  |
 |                                   |                                  |
-| [Both players roll a D6 — the    |                                  |
+| [Both players roll a D6 â€” the    |                                  |
 | player with the highest result    |                                  |
 | chooses\                          |                                  |
 | one of the deployment zones. They |                                  |
@@ -100,8 +100,8 @@ permitted!*]
 | placed                            |                                  |
 | .] |                                  |
 |                                   |                                  |
-| [- a® \$ o \^                     |                                  |
-| ®] |                                  |
+| [- aÂ® \$ o \^                     |                                  |
+| Â®] |                                  |
 |                                   |                                  |
 | [*24"* 0 *Side A                 |                                  |
 | Deployment                        |                                  |
@@ -118,12 +118,12 @@ permitted!*]
 | ^0                              |                                  |
 | ^] |                                  |
 |                                   |                                  |
-| [*• \Side B Deployment          |                                  |
+| [*â€¢ \Side B Deployment          |                                  |
 | 24"                              |                                  |
 | *] |                                  |
 |                                   |                                  |
 | [4 % \* \^ \* \                 |                                  |
-| „] |                                  |
+| â€ž] |                                  |
 +-----------------------------------+----------------------------------+
 
 [You score 2 Victory Points for each Objective marker that has at least one of your models, and no enemy models, within 3".You score 1
@@ -133,7 +133,7 @@ the enemy force is Broken at the end of the game.]
 
 [![](../media/matched_play_guide/image11.jpeg)![](../media/matched_play_guide/image12.jpeg)
 
-[SCENARIO 2 — TO THE DEATH!]
+[SCENARIO 2 â€” TO THE DEATH!]
 
 [*Once again, fate has pitted the forces of Good and Evil against each
 other, and no matter the cost, the enemy must be
@@ -160,7 +160,7 @@ who will win the day!*]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their
+[Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their
 warband.]
 
 [When this has been done, the opposing player chooses one of their warbands and deploys it within 12" of their board edge, as described above. Players then alternate until all warbands have been placed.]
@@ -188,7 +188,7 @@ if you have at least one banner remaining at the end of the game. If you have at
 the enemy force is reduced to 25% of its starting models at the end of the
 game.]
 
-[\■]
+[\â– ]
 
 [*Side B Deployment*]
 
@@ -219,7 +219,7 @@ it.*]
 
 [*Central*]
 
-[*Objective.•?£*]
+[*Objective.â€¢?Â£*]
 
 [*D6 roll of*]
 
@@ -236,11 +236,11 @@ cost.]
 
 [LAYOUT]
 
-[Set up terrain as described on page 136 of the Middle-earth Strategy Battle Game rules manual. Once the battlefield has been set up, an Objective marker is placed in the centre of the battlefield. Players must also agree which direction is north — this is important for determining where and when Reinforcements arrive from.]
+[Set up terrain as described on page 136 of the Middle-earth Strategy Battle Game rules manual. Once the battlefield has been set up, an Objective marker is placed in the centre of the battlefield. Players must also agree which direction is north â€” this is important for determining where and when Reinforcements arrive from.]
 
 [STARTING POSITIONS]
 
-[At the battle's start, the forces are yet to arrive — models are not deployed at the start of the game, but will enter as the game continues (see Special Rules later).]
+[At the battle's start, the forces are yet to arrive â€” models are not deployed at the start of the game, but will enter as the game continues (see Special Rules later).]
 
 [INITIAL PRIORITY]
 
@@ -248,7 +248,7 @@ cost.]
 
 [OBJECTIVES]
 
-[Once one force has been Broken, the game might suddenly end. At the end of each turn, after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.]
+[Once one force has been Broken, the game might suddenly end. At the end of each turn, after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.]
 
 [At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.]
 
@@ -277,9 +277,9 @@ RULES]
 6.  
 
 [The warband does not arrive.Your opponent chooses a point on either the
-north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on
-either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on any board
-edge at least 6" from a corner — all models in the warband move onto the battlefield from this point.*After weeks of skirmishes and close
+north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.Your opponent chooses a point on either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on either the north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on
+either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on any board
+edge at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.*After weeks of skirmishes and close
 encounters with the opposing side, it comes down to one final battle to
 determine which faction will emerge victorious. The more enemies a side can kill, the more it will spur them on to
 victory.*]
@@ -288,7 +288,7 @@ victory.*]
 
 [*Side B Deployment*]
 
-[if\* §]
+[if\* Â§]
 
 [SCENARIO OUTLINE]
 
@@ -304,7 +304,7 @@ victory.*]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 24" of their board edge, but at least 1" away from enemy models. Models may not be deployed further than 6" from the captain of their warband.]
+[Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 24" of their board edge, but at least 1" away from enemy models. Models may not be deployed further than 6" from the captain of their warband.]
 
 [When this has been done, the opposing player chooses one of their warbands and deploys it within 24" of their board edge as described above. Players then alternate until all warbands have been placed.]
 
@@ -318,7 +318,7 @@ victory.*]
 
 [OBJECTIVES]
 
-[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.]
+[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.]
 
 [At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.]
 
@@ -359,10 +359,10 @@ same.*]
 
 [STARTING POSITIONS]
 
-[At the battle's start, the forces are yet to arrive — models are not deployed at the start of the game. Both players roll a
+[At the battle's start, the forces are yet to arrive â€” models are not deployed at the start of the game. Both players roll a
 D6.]
 
-[The player with the highest result chooses one of the long table edges to be their board edge — the opposing player has the opposite board edge as their board edge (see Special Rules
+[The player with the highest result chooses one of the long table edges to be their board edge â€” the opposing player has the opposite board edge as their board edge (see Special Rules
 later).]
 
 [INITIAL PRIORITY]
@@ -388,7 +388,7 @@ Broken.]
 -   
 
 [You score 3 Victory Points if more of your models have escaped the battlefield via your opponent's board edge than vice versa. If at least two of your models and twice as many models than your opponent have escaped the board, then you instead score 5 Victory Points. If at least three of your models, and three times as many models than your opponent have escaped the board, then you instead score 7 Victory Points.You score 1 Victory
-Point for causing one or more Wounds on the enemy leader — Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score 2 Victory Points.You score 1 Victory Point if the enemy force is Broken
+Point for causing one or more Wounds on the enemy leader â€” Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score 2 Victory Points.You score 1 Victory Point if the enemy force is Broken
 at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score 3 Victory Points.SPECIAL
 RULES]
 
@@ -401,7 +401,7 @@ manual).]
 
 -   
 -   
- [-3 The warband does not arrive, but receives +1 to this dice roll next turn.-6 The controlling player chooses a point on their board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point.*Designer's Note: Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*]
+ [-3 The warband does not arrive, but receives +1 to this dice roll next turn.-6 The controlling player chooses a point on their board edge at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.*Designer's Note: Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*]
 
 [SCENARIO 6 --A CLASH BY MOONLIGHT]
 
@@ -425,7 +425,7 @@ night!]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their
+[Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their
 warband.]
 
 [When this has been done, the opposing player chooses one of their warbands and deploys it within 12" of their board edge as described above. Players then alternate until all warbands have been placed.]
@@ -443,7 +443,7 @@ at the end of the game. If the enemy force is Broken and your force is unbroken,
 if you have at least one Hero remaining at the end of the game. If you have at least one Hero left alive, and have killed more Hero models than your opponent, you instead score 3 Victory Points. If you have at least one Hero remaining, and your opponent has none remaining, then you instead score 5 Victory Points.SPECIAL
 RULES]
 
-[The Dark of Night: Due to the reduced visibility, models cannot be targeted by shooting, Magical Powers or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. Siege Engine models may still target enemy models more than 12" away — however in this situation they will only ever hit on the roll of a 6.]
+[The Dark of Night: Due to the reduced visibility, models cannot be targeted by shooting, Magical Powers or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. Siege Engine models may still target enemy models more than 12" away â€” however in this situation they will only ever hit on the roll of a 6.]
 
 [INITIAL PRIORITY]
 
@@ -455,7 +455,7 @@ RULES]
 
 [![](../media/matched_play_guide/image25.jpeg) ]
 
-[SCENARIO 7 — SEIZE THE PRIZE]
+[SCENARIO 7 â€” SEIZE THE PRIZE]
 
 [*Within Middle-earth, an ancient and mysterious artefact has awoken.
 Its power has drawn two opposing armies to claim it, hoping to use its
@@ -477,7 +477,7 @@ artefact.]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their
+[Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their
 warband.]
 
 [When this has been done, the opposing player chooses one of their warbands and deploys it within 12" of their board edge as described above. Players then alternate until all warbands have been placed.]
@@ -536,7 +536,7 @@ and ultimately win the day.*]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They place their leader within their deployment zone and within 3" of the centre of the board and then deploy their leader's warband in their deployment zone and within 6" of the leader. Their opponent then does the
+[Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They place their leader within their deployment zone and within 3" of the centre of the board and then deploy their leader's warband in their deployment zone and within 6" of the leader. Their opponent then does the
 same.]
 
 [Players then take it in turns (starting with the player who rolled highest) to select a warband in their force and roll a
@@ -585,13 +585,13 @@ Rules]
 
 [**\^ KJ-**]
 
-['•4]
+['â€¢4]
 
 [**is** *Side A Deployment*]
 
 [*24"*]
 
-[■1\^ \^ \^ V]
+[â– 1\^ \^ \^ V]
 
 [**S"'** *3*]
 
@@ -609,7 +609,7 @@ Rules]
 
 [![](../media/matched_play_guide/image27.jpeg)![](../media/matched_play_guide/image28.jpeg)
 
-[SCENARIO 9 — CAPTURE AND CONTROL]
+[SCENARIO 9 â€” CAPTURE AND CONTROL]
 
 [*By holding key strategic points, both armies believe they can control
 the field of battle and use these tactically important locations to
@@ -632,7 +632,7 @@ foe.]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force and roll a D6.]
+[Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force and roll a D6.]
 
 [Players then take it in turns (starting with the player who rolled highest) to select a warband in their force and roll a
 D6.]
@@ -648,7 +648,7 @@ warband.]
 
 [OBJECTIVES]
 
-[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.]
+[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.]
 
 [At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.]
 
@@ -678,7 +678,7 @@ placed.]
 
 [*1-3: Warband deploys here*]
 
-[SCENARIO 10 — HEIRLOOM OF AGES PAST]
+[SCENARIO 10 â€” HEIRLOOM OF AGES PAST]
 
 [*Buried somewhere upon the field of battle is a long-forgotten heirloom
 of ages past. Having narrowed down its location, the two armies now
@@ -701,7 +701,7 @@ earlier.]
 
 [STARTING POSITIONS]
 
-[At the battle's start, the forces are yet to arrive — models are not deployed at the start of the game, but will enter as the game continues (see Special Rules [on page
+[At the battle's start, the forces are yet to arrive â€” models are not deployed at the start of the game, but will enter as the game continues (see Special Rules [on page
 21]).]
 
 [INITIAL PRIORITY]
@@ -750,9 +750,9 @@ phase, roll a D6 for each of your warbands not on the battlefield and consult th
 6.  
 
 [The warband does not arrive.Your opponent chooses a point on either the
-north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on
-either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on any board
-edge at least 6" from a corner — all models in the warband move onto the battlefield from this
+north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.Your opponent chooses a point on either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on either the north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on
+either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on any board
+edge at least 6" from a corner â€” all models in the warband move onto the battlefield from this
 point.![](../media/matched_play_guide/image31.jpeg)
 
 [![](../media/matched_play_guide/image32.jpeg)
@@ -777,7 +777,7 @@ objective.]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their
+[Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their
 warband.]
 
 [When this has been done, the opposing player chooses one of their warbands and deploys it within 12" of their board edge as described above. Players then alternate until all warbands have been placed.]
@@ -788,7 +788,7 @@ warband.]
 
 [OBJECTIVES]
 
-[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.]
+[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.]
 
 [ ]
 
@@ -802,8 +802,8 @@ warband.]
 
 -   
 
-[At the start of the game secretly note down one of your own Hero models — this may not be your leader unless you only have one Hero. You score 1 Victory Point if the nominated Hero is still alive at the end of the game. If the nominated Hero is still alive and has suffered no Wounds, you instead score 3 Victory Points.At the start of the game secretly note down one of
-your opponent's Hero models — this may not be your opponent's leader unless they only have one Hero. You score 1 Victory Point for causing one or more Wounds on the nominated Hero. Wounds prevented by a successful Fate roll do not count. If you kill the nominated Hero, you instead score 3 Victory Points.At the start
+[At the start of the game secretly note down one of your own Hero models â€” this may not be your leader unless you only have one Hero. You score 1 Victory Point if the nominated Hero is still alive at the end of the game. If the nominated Hero is still alive and has suffered no Wounds, you instead score 3 Victory Points.At the start of the game secretly note down one of
+your opponent's Hero models â€” this may not be your opponent's leader unless they only have one Hero. You score 1 Victory Point for causing one or more Wounds on the nominated Hero. Wounds prevented by a successful Fate roll do not count. If you kill the nominated Hero, you instead score 3 Victory Points.At the start
 of the game secretly note down a single terrain piece in your opponent's half of the board. You scoreVictory Point if at the
 end of the game you have more models than your opponent completely within your selected terrain piece. If your opponent has no models completely within your selected terrain piece and you have at least one, you instead score 3 Victory Points.You score 1 Victory Point if the enemy force is
 Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score 3 Victory Points.*Designer's Notes: In this
@@ -814,7 +814,7 @@ aren't.*]
 
 [![](../media/matched_play_guide/image33.jpeg)
 
-[SCENARIO 12 — STORM THE CAMP]
+[SCENARIO 12 â€” STORM THE CAMP]
 
 [*Both armies desire the land before them for its strategic position
 within Middle-earth. Setting up encampments, both forces seek to outlast
@@ -867,7 +867,7 @@ campsite.]
 
 [![](../media/matched_play_guide/image34.jpeg) ]
 
-[SCENARIO 13 — COMMAND THE BATTLEFIELD]
+[SCENARIO 13 â€” COMMAND THE BATTLEFIELD]
 
 [*Two enemy forces are embroiled in a deadlock on the battlefield. Only
 by gaining control of the grounds they are fighting upon can either side
@@ -887,7 +887,7 @@ hope to claim victory.*]
 
 [STARTING POSITIONS]
 
-[At the battle's start, the forces are yet to arrive — models are not deployed at the start of the game, but will enter as the game continues (see Special Rules later).]
+[At the battle's start, the forces are yet to arrive â€” models are not deployed at the start of the game, but will enter as the game continues (see Special Rules later).]
 
 [INITIAL PRIORITY]
 
@@ -901,11 +901,11 @@ hope to claim victory.*]
 
 [**\* \***]
 
-[**0°**]
+[**0Â°**]
 
 [*D6 roll of D6 roll of*]
 
-[*3 or 5 « 3 or 5*]
+[*3 or 5 Â« 3 or 5*]
 
 [**'A ' X3-**]
 
@@ -940,9 +940,9 @@ Broken.]
 6.  
 
 [The warband does not arrive yet.Your opponent chooses a point on either
-the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on
-either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.You choose a point on any board
-edge at least 6" from a corner — all models in the warband move onto the battlefield from this point.SCENARIO 14 --
+the north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.Your opponent chooses a point on either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on either the north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on
+either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.You choose a point on any board
+edge at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.SCENARIO 14 --
 RETRIEVAL]
 
 [*Both forces have claimed something of value from their enemy, and both
@@ -963,7 +963,7 @@ theirs.*]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest result chooses one of the corners of the board, and their opponent automatically has the opposite. A line is then drawn between the two chosen corners, and both players then place a single Objective marker 15" away from their corner along this line — this is their own
+[Both players roll a D6 â€” the player with the highest result chooses one of the corners of the board, and their opponent automatically has the opposite. A line is then drawn between the two chosen corners, and both players then place a single Objective marker 15" away from their corner along this line â€” this is their own
 relic.]
 
 [The board is then split into two halves diagonally between the two corners that were not chosen, forming two deployment zones. The player who scored the highest then selects a warband in their force to deploy in their deployment zone, but not within 3" of the line that runs diagonally through the centre of the board. Models may not be deployed further than 6" from the captain of their warband.]
@@ -981,13 +981,13 @@ placed.]
 
 [OBJECTIVES]
 
-[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.]
+[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.]
 
 [At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.]
 
 [SCORING VICTORY POINTS]
 
-[• You score 1 Victory Point if your opponent's relic has moved from its original position at the end of the game. If you have retrieved your opponent's relic, you instead score 3 Victory Points. If you have retrieved your opponent's relic, and the model holding it is in your deployment zone, you instead score 5 Victory Points. If you have retrieved your opponent's relic, and managed to move it off the board via either of the board edges in your deployment zone, you instead
+[â€¢ You score 1 Victory Point if your opponent's relic has moved from its original position at the end of the game. If you have retrieved your opponent's relic, you instead score 3 Victory Points. If you have retrieved your opponent's relic, and the model holding it is in your deployment zone, you instead score 5 Victory Points. If you have retrieved your opponent's relic, and managed to move it off the board via either of the board edges in your deployment zone, you instead
 score]
 
 7.  
@@ -1003,7 +1003,7 @@ RULES]
 [The Relic: Each relic is a Light Object (see page 109 of the Middle-earth Strategy Battle Game rules manual). A relic is considered to have been retrieved if at the end of the game it is being carried by a friendly model. If a relic has been picked up by an enemy model, and is then subsequently dropped or retaken by a friendly model, then a player must try to return it to its original position as quickly as possible. Until it has been picked up by an enemy model, friendly models may not pick up their own
 relic.]
 
-[SCENARIO 15 — BREAKTHROUGH]
+[SCENARIO 15 â€” BREAKTHROUGH]
 
 [*With both forces locked in a battle for supremacy, both sides know
 that if they can break through their enemy's lines they can seize a
@@ -1023,7 +1023,7 @@ valuable strategic point from their foe.*]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 24" of their board edge. Models may not be deployed further than 6" from the captain of their
+[Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 24" of their board edge. Models may not be deployed further than 6" from the captain of their
 warband.]
 
 [When this has been done, the opposing player chooses one of their warbands and deploys it within 24" of their board edge, as described above. Players then alternate until all of their warbands have been placed.]
@@ -1057,7 +1057,7 @@ warband.]
 scoreVictory Point if there are more friendly models than enemy models within 3" of the Objective. If there is at least one friendly model, and no enemy models, within 3" of this Objective, you instead score 2 Victory Points.You score 2 Victory Points if there are
 more friendly models than enemy models within 3" of the Objective marker in your opponent's deployment zone. If there is at least one friendly model, and no enemy models, within 3" of this Objective, you instead score 4 Victory Points.You score 1 Victory Point for causing one
 or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count). If you kill the enemy leader, you instead score 2 Victory Points.You score 1 Victory Point if the enemy force is Broken
-at the end of the game.SCENARIO 16 — DESTROY THE
+at the end of the game.SCENARIO 16 â€” DESTROY THE
 SUPPLIES]
 
 [*By destroying the supplies and rations of their enemy, one force can
@@ -1081,7 +1081,7 @@ own.]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their
+[Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their
 warband.]
 
 [When this has been done, the opposing player chooses one of their warbands and deploys it within 12" of their board edge, as described above. Players then alternate until all of their warbands have been placed.]
@@ -1113,7 +1113,7 @@ RULES]
 
 [Supply Markers: The Objective markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy supply marker, a model must be in base contact with the marker during the End phase of a turn having not cast any Magical Powers, used a missile weapon, been involved in a Fight, or been under the effects of the Paralyse, Immobilise or Transfix Magical Power during that turn. Once a supply marker has been destroyed, remove it from play.]
 
-[SCENARIO 17 — DIVIDE & CONQUER]
+[SCENARIO 17 â€” DIVIDE & CONQUER]
 
 [*With battle having divided two opposing forces, each army must now
 fight to rejoin their allies, all whilst trying to claim key areas of
@@ -1134,7 +1134,7 @@ battlefield.]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest score chooses two opposite corners to be their deployment zones, and labels them A and B. Their opponent has the other two corners and labels them A and B.]
+[Both players roll a D6 â€” the player with the highest score chooses two opposite corners to be their deployment zones, and labels them A and B. Their opponent has the other two corners and labels them A and B.]
 
 [The player who scored highest then deploys one of their warbands anywhere within 12" of their corner A. The other player then does the same. The player that scored highest then deploys one of their warbands anywhere within 12" of corner B. The other player then deploys the same.]
 
@@ -1148,7 +1148,7 @@ battlefield.]
 
 [OBJECTIVES]
 
-[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.]
+[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.]
 
 [At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.]
 
@@ -1188,7 +1188,7 @@ victory.]
 
 [STARTING POSITIONS]
 
-[Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 24" of their board edge. Models may not be deployed further than 6" from the captain of their
+[Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 24" of their board edge. Models may not be deployed further than 6" from the captain of their
 warband.]
 
 [When this has been done, the opposing player chooses one of their warbands and deploys it within 24" of their board edge, as described above. Players then alternate until all of their warbands have been placed.]
@@ -1203,7 +1203,7 @@ warband.]
 
 [OBJECTIVES]
 
-[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.]
+[Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.]
 
 [At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.]
 

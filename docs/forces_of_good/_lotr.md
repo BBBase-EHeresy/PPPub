@@ -1,4 +1,4 @@
-![](../media/2_MESBG_-_Armies_of_LOTR_media/image1.jpeg)
+﻿![](../media/2_MESBG_-_Armies_of_LOTR_media/image1.jpeg)
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image2.jpeg)
 
@@ -40,7 +40,7 @@ CONTENTS
 
 [*Lothlorien 82*]
 
-*Fangom „.... 90*
+*Fangom â€ž.... 90*
 
 [*The Misty Mountains 94*]
 
@@ -106,14 +106,14 @@ Rogues....................................................................
 thanks to Frank Barron, Wendy Ryan, Steven Carter and Chaz Fitzhugh from Warner Bros, and Fredrica Drotos, Sam Benson and
 Joseph Mandragona at Middle-earth Enterprises.*
 
-® Warner Bros. Entertainment Inc. All rights reserved. THE HOBBIT: AN
+Â® Warner Bros. Entertainment Inc. All rights reserved. THE HOBBIT: AN
 UNEXPECTED JOURNEY, THE HOBBIT: THE DESOLATION OF SMAUG and
 
 THE HOBBIT: THE BATTLE OFTHE FIVE ARMIES and the names of the
 characters, items, events and places therein are trademarks of The Saul Zaentz Company d/b/a Middle-earth Enterprises under license to
 New Line Productions, Inc, (sl8)
 
-© 2018 New Line Productions, Inc, All rights reserved. The Lord of the
+Â© 2018 New Line Productions, Inc, All rights reserved. The Lord of the
 Rings: The Fellowship of the Ring, The Lord of the Rings: The Two
 Towers, The Lord of the Rings: The Return of the King and the names of the characters, items, events and places therein are
 trademarks of The Saul Zaentz Company d/b/a Middle-earth Enterprises
@@ -124,11 +124,11 @@ the characters, events, items and places therein, are trademarks of The Saul Zae
 license to Games Workshop Limited All rights reserved.
 
 All quotations from J R R. Tolkien's literary trilogy *The Lord of the
-Rings* (including any of the volumes thereof) ® The Tolkien Estate
+Rings* (including any of the volumes thereof) Â® The Tolkien Estate
 1954-55, 1966.
 
-© Copyright Games Workshop Limited 2018 Citadel and Games Workshop are ®
-and all associated logos are either ® orTM and/or ® Games Workshop
+Â© Copyright Games Workshop Limited 2018 Citadel and Games Workshop are Â®
+and all associated logos are either Â® orTM and/or Â® Games Workshop
 Limited.
 
 No part of this publication may be reproduced, stored in a retrieval
@@ -284,7 +284,7 @@ FORTITUDE]
 MWF***]
 
 [*4' 3/3+ 2 3 12 6
-w®*]
+wÂ®*]
 
 [WARGEAR]
 
@@ -330,7 +330,7 @@ FORTITUDE]
 [***MvFSDAWC MWF***]
 
 [*4" 3/3+ 2 3 12 6
-w®*]
+wÂ®*]
 
 [WARGEAR]
 
@@ -357,12 +357,12 @@ Frodo.*]
 
 [![](../media/2_MESBG_-_Armies_of_LOTR_media/image13.jpeg)![](../media/2_MESBG_-_Armies_of_LOTR_media/image14.jpeg)
 
-[***• M W F 000***]
+[***â€¢ M W F 000***]
 
 [*Often called Merry, this Hobbit is a known troublemaker and practical joker - more than once he has been responsible for setting off Gandalf's fireworks, much to the annoyance of the Grey Wizard. However, Merry is ready to help Frodo in his quest and sets out from The Shire into a life of adventure and discovery that will change him
 forever.*]
 
-[*M W F **00®***]
+[*M W F **00Â®***]
 
 [*Peregrin, or Pippin to those who know him, is a carefree Hobbit who is content with his life of mischief alongside his best friend, Merry. But when Pippin volunteers himself as part of The Fellowship of the Ring, he has little idea of the perils that lie ahead - and the fact that he will have to leave second breakfast behind in The
 Shire.*]
@@ -500,7 +500,7 @@ Strike*OPTIONS]
   [*Blinding                                                          [*-*]       [*2+*]
   Light*]                                                                         
 
-  [*Terrifying                                                        [*•*]       [*2+*]
+  [*Terrifying                                                        [*â€¢*]       [*2+*]
   Aura*]                                                                          
 
   [*Immobilise*]   [*12"*]    [*3+*]
@@ -589,7 +589,7 @@ VALOUR]
 MWF***]
 
 [*6" 6/4+ 4 5 3 3 6
-®®®*]
+Â®Â®Â®*]
 
 [WARGEAR]
 
@@ -630,7 +630,7 @@ VALOUR]
 F*]
 
 [*6" 6/3+ 4 4 2 2 6
-®0®*]
+Â®0Â®*]
 
 [*WARGEAR Elven-made daggers and Elf
 bow*]
@@ -666,7 +666,7 @@ POINTS]
 VALOUR]
 
 [***Mv F S D A W C ; M W F **5" 6/4+ 4 8 2 2 6
-®0®*]
+Â®0Â®*]
 
 [WARGEAR]
 
@@ -686,7 +686,7 @@ can choose to use either an axe in each hand, in which case he fights with
 3 Attacks, or use his two-handed
 axe.*]
 
-[*Accompanying his father Gloin to the Council of Elrond, Gimli volunteers his axe in service to the Ringbearer. Although a brash and stubborn Dwarf, Gimli is a fierce warrior, capable of slaying hordes °ffoes with a grim determination - especially if a certain pointy-eared Elvish princeling happens to be laying the enemy in greater numbers than
+[*Accompanying his father Gloin to the Council of Elrond, Gimli volunteers his axe in service to the Ringbearer. Although a brash and stubborn Dwarf, Gimli is a fierce warrior, capable of slaying hordes Â°ffoes with a grim determination - especially if a certain pointy-eared Elvish princeling happens to be laying the enemy in greater numbers than
 him!*]
 
 [*I myself am sitting pretty on 43 **\^E3 -** If Legolas and Gimli are
@@ -718,7 +718,7 @@ C***]
 
 [SPECIAL RULES]
 
-[*Official Meals \| ' ■■^1^ - As Bill carries all of the food for The
+[*Official Meals \| ' â– â– ^1^ - As Bill carries all of the food for The
 Fellowship, he is well looked after, and protected, by the Hobbits of the
 Shire.*]
 
@@ -826,7 +826,7 @@ FORTITUDE]
 MWF***]
 
 [*4' 3/3+ 26126
-0®0*]
+0Â®0*]
 
 [WARGEAR]
 
@@ -865,7 +865,7 @@ FORTITUDE]
 
 [*Sting.*]
 
-[***MWF ©0®***]
+[***MWF Â©0Â®***]
 
 [*Sting **ESS3 -** Made by the Elves, Sting was passed to Sam by Frodo
 following*]
@@ -953,7 +953,7 @@ VALOUR]
 MWF***]
 
 [*4" 3/3+ 2 4 2 2 5
-0®0*]
+0Â®0*]
 
 [WARGEAR]
 
@@ -1040,7 +1040,7 @@ C***]
 
 [***M W F***]
 
-[*0®®*]
+[*0Â®Â®*]
 
 [*4" 3/3+ 3 3 2 2
 5*]
@@ -1091,7 +1091,7 @@ HERO]
 [***MvFSDAWC MWF***]
 
 [*4" 2/3+ 12 116
-00®*]
+00Â®*]
 
 [WARGEAR]
 
@@ -1110,7 +1110,7 @@ Sackville-Baggins.*]
 Hero model's Stand Fast! whilst within 6" of
 Lobelia.*]
 
-[*The Umbrella is not Mightier than the Sword \^£\] - Many of
+[*The Umbrella is not Mightier than the Sword \^Â£\] - Many of
 Sharkey's Ruffians have been on the wrong end of a swift, but not fatal, thwack
 from Lobelia's
 umbrella.*]
@@ -1360,7 +1360,7 @@ Evenstar*]
 
 [*Horse...,*]
 
-[***■MWF***]
+[***â– MWF***]
 
 [*40 points*]
 
@@ -1413,7 +1413,7 @@ Pelennor.*]
 
 [HEROIC ACTIONS]
 
-[• Heroic Accuracy]
+[â€¢ Heroic Accuracy]
 
 [WARGEAR]
 
@@ -1809,7 +1809,7 @@ he ever was before. During the battle for Minas Tirith, it is Gandalf that ralli
 City, inspiring them to hold back the Orc
 invaders.*]
 
-[***[M]{.underline} W\_ [F ]{.underline}**00®*]
+[***[M]{.underline} W\_ [F ]{.underline}**00Â®*]
 
 [OPTIONS]
 
@@ -1899,7 +1899,7 @@ VALOUR]
 [***MvFSDAWC MWF***]
 
 [*6" 5/4+ 4 5 2 2 5
-w®*]
+wÂ®*]
 
 [WARGEAR]
 
@@ -1907,7 +1907,7 @@ w®*]
 
 [SPECIAL RULES]
 
-[*Broken Mind \|®?\^ - The loss of Boromir has driven Denethor into
+[*Broken Mind \|Â®?\^ - The loss of Boromir has driven Denethor into
 near madness.*]
 
 [*At the start of every turn, before Priority is rolled, the controlling
@@ -1920,7 +1920,7 @@ Should Boromir be slain, then Denethor will automatically fail the next
 Courage test he must take for this special
 rule.*]
 
-[*"The rule of Gondor is mine, and no other's!" \[£OWI - Years of
+[*"The rule of Gondor is mine, and no other's!" \[Â£OWI - Years of
 ruling the White City have made Denethor reluctant to give up power - not even to
 the true King of Gondor.*]
 
@@ -1928,7 +1928,7 @@ the true King of Gondor.*]
 your force also contains Aragorn, King
 Elessar.*]
 
-[*Having pledged his service to Denethor in payment for Boromir's saving of his life, Pippin joins the ranks °J the Citadel Guard. During the battle for Minas nith, it becomes apparent that little remains of & impetuous Hobbit who set out. from The Shire, an\^' \^\^^Jl^" h^as^ proven himself to be a valuable „ ^Ji,b\ earne(^l ihe respect of all of
+[*Having pledged his service to Denethor in payment for Boromir's saving of his life, Pippin joins the ranks Â°J the Citadel Guard. During the battle for Minas nith, it becomes apparent that little remains of & impetuous Hobbit who set out. from The Shire, an\^' \^\^^Jl^" h^as^ proven himself to be a valuable â€ž ^Ji,b\ earne(^l ihe respect of all of
 those*]
 
 [*Minas Titith.*]
@@ -1948,7 +1948,7 @@ dagger.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic Defence*]
+[*â€¢ Heroic Defence*]
 
 [*SPECIAL RULES Resistant to Magic; Throw Stones (range 8", Strength
 1).*]
@@ -2030,7 +2030,7 @@ lance.*]
 MWF***]
 
 [*6" 5/3+ 4 5 2 2 6
-00®*]
+00Â®*]
 
 [WARGEAR OPTIONS]
 
@@ -2086,7 +2086,7 @@ longbow.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic Accuracy*]
+[*â€¢ Heroic Accuracy*]
 
 [OPTIONS]
 
@@ -2112,7 +2112,7 @@ bow.*]
 
 [***M W F***]
 
-[*®0®*]
+[*Â®0Â®*]
 
 [*Madril is an experienced Ranger and a veteran of many conflicts with the Orcs of Mordor. A captain under the command of Faramir, Madril fights at his commander's right hand when the armies of Mordor invade Osgiliath. Jt is the ambush put in place by Madril that keeps the Orcish invaders at bay for a time, ensuring that as much of Gondor's forces as possible can escape to
 safety.*]
@@ -2149,7 +2149,7 @@ bow.]
 
 [HEROIC ACTIONS]
 
-[• Heroic Accuracy]
+[â€¢ Heroic Accuracy]
 
 [SPECIAL RULES]
 
@@ -2177,7 +2177,7 @@ FORTITUDE]
 [***Mv F S D A W C **6" 4/3+ 4 6 2 2
 4*]
 
-[***M W F **®00*]
+[***M W F **Â®00*]
 
 [WARGEAR]
 
@@ -2255,7 +2255,7 @@ FORTITUDE]
 MWF***]
 
 [*6" 5/4+ 4 5 2 2 5
-00©*]
+00Â©*]
 
 [*Kings of Men may not be included in any army that contains any other named Gondor Hero
 models.*]
@@ -2306,11 +2306,11 @@ sword.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic March*]
+[*â€¢ Heroic March*]
 
 [OPTIONS]
 
-[*MWF 00©*]
+[*MWF 00Â©*]
 
 [*Horse 10 points*]
 
@@ -2668,7 +2668,7 @@ POINTS]
 
 [MAN, GONDOR, INFANTRY, HERO - HERO OF
 LEGEND]
- [***MvFSDAWC** M **W** F 6" 6/4+ 4 7 3 3 6 ©®®*]
+ [***MvFSDAWC** M **W** F 6" 6/4+ 4 7 3 3 6 Â©Â®Â®*]
 
 [WARGEAR]
 
@@ -2694,7 +2694,7 @@ Middle-earth.*]
 [*The range of Prince Imrahil's Stand Fast! is 12" rather than
 6".*]
 
-[*\*Dol Amroth for Gondor! -.■V' ^1^ - Following the lead of their
+[*\*Dol Amroth for Gondor! -.â– V' ^1^ - Following the lead of their
 Prince, warriors of Dol Amroth will stop at nothing to ensure that Gondor does
 not fall.*]
 
@@ -2716,7 +2716,7 @@ horn.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic Strength*]
+[*â€¢ Heroic Strength*]
 
 [SPECIAL RULES]
 
@@ -2773,7 +2773,7 @@ weapon.*]
 
 [![](../media/2_MESBG_-_Armies_of_LOTR_media/image83.jpeg)
 
-[*•MWF*]
+[*â€¢MWF*]
 
 [*Duinhir is the lord of Morthond, the Blackroot Vale that lies beneath the shadows of the White Mountains. Through protecting his home from the raids of Orcs and Corsairs, Duinhir's skill with a bow has become unrivalled in the Fiefdoms of Gondor, a skill which he has passed on to those that reside in Morthond. It is upon the Pelennor that Duinhir's fate shall be decided, yet whatever the outcome, Duinhir will doubtless ensure that swathes of Orcs will fall before he does.*]
 
@@ -3306,7 +3306,7 @@ FORTITUDE]
 
 [HEROIC ACTIONS]
 
-[*• Heroic Resolve*]
+[*â€¢ Heroic Resolve*]
 
 [SPECIAL RULES]
 
@@ -3345,7 +3345,7 @@ shield.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic March*]
+[*â€¢ Heroic March*]
 
 [OPTIONS]
 
@@ -3561,7 +3561,7 @@ VALOUR]
 [***MvFSDAWC MWF***]
 
 [*6' 5/4+ 4 6 3 3 5
-®0®*]
+Â®0Â®*]
 
 [WARGEAR OPTIONS]
 
@@ -3710,9 +3710,9 @@ Hammerhand.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic March*]
+[*â€¢ Heroic March*]
 
-[*• Heroic Strength*]
+[*â€¢ Heroic Strength*]
 
 [OPTIONS]
 
@@ -3858,7 +3858,7 @@ Warriors of Rohan to Helmingas for a cost of + 1 point per model. Helmingas are 
 
 [![](../media/2_MESBG_-_Armies_of_LOTR_media/image115.jpeg)![](../media/2_MESBG_-_Armies_of_LOTR_media/image116.jpeg)
 
-[***M W F \@0®***]
+[***M W F \@0Â®***]
 
 [*Eorl the Young was the first King of Rohan. Coming to the aid of Gondor in a time of great need, Eorl and his kin participated in the defeat of the armies that sought to destroy Minas Tirith and break the realm of Gondor. In recognition of this noble deed, Eorl was gifted the land of Calenardhon, which would later become the realm of Rohan, and an alliance was formed that would endure to the worst of
 hardship*]
@@ -4507,7 +4507,7 @@ mle.*]
 
 [![](../media/2_MESBG_-_Armies_of_LOTR_media/image133.jpeg)
 
-[***M W F 0®0***]
+[***M W F 0Â®0***]
 
 [85 POINTS]
 
@@ -4748,7 +4748,7 @@ his own store of Will.*]
 
 [70 POINTS]
 
-[***•MWF***]
+[***â€¢MWF***]
 
 [OPTIONS]
 
@@ -4851,7 +4851,7 @@ HERO]
 [***MvFSDAWC MWF***]
 
 [*6" 5/3+ 3 4 12 5
-0®0*]
+0Â®0*]
 
 [WARGEAR]
 
@@ -5113,7 +5113,7 @@ shield.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic Defence*]
+[*â€¢ Heroic Defence*]
 
 [***MWF***]
 
@@ -5198,7 +5198,7 @@ sword.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic March*]
+[*â€¢ Heroic March*]
 
 [OPTIONS]
 
@@ -5276,7 +5276,7 @@ HERO]
 [***MvFSDAWC MWF***]
 
 [*6" 5/3+ 3 4 12 5
-00®*]
+00Â®*]
 
 [WARGEAR]
 
@@ -5575,7 +5575,7 @@ Branches.*]
 -   
 -   
 
-[*Heroic StrikeHeroic Strength • Heroic
+[*Heroic StrikeHeroic Strength â€¢ Heroic
 Defence*OPTIONS]
 
 [*Merry & Pippin 10
@@ -5885,7 +5885,7 @@ rule.*]
 
 [HEROIC ACTIONS]
 
-[![](../media/2_MESBG_-_Armies_of_LOTR_media/image173.jpeg)*• Heroic Strength* ]
+[![](../media/2_MESBG_-_Armies_of_LOTR_media/image173.jpeg)*â€¢ Heroic Strength* ]
 
 [FLOI STONEHAND 75
 POINTS]
@@ -5985,12 +5985,12 @@ roll.*]
 [![](../media/2_MESBG_-_Armies_of_LOTR_media/image175.jpeg)DWARF KING 75
 POINTS]
 
-[*MWF 00®*]
+[*MWF 00Â®*]
 
 [DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF
 FORTITUDE]
 
-[***Mv \[■' S D A W C **5" 6/4+ 4 8 2 2
+[***Mv \[â– ' S D A W C **5" 6/4+ 4 8 2 2
 6*]
 
 [WARGEAR]
@@ -6436,7 +6436,7 @@ models.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic Accuracy*]
+[*â€¢ Heroic Accuracy*]
 
 [HEROIC ACTIONS]
 

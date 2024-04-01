@@ -1,4 +1,4 @@
-*Scenarios*
+﻿*Scenarios*
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image363.jpeg)
 
@@ -785,7 +785,7 @@ ARMY KEY
 
 *\^Wildmen of Druadan*
 
-*The Kingdom of Khazad-dum \^®rRivendell*
+*The Kingdom of Khazad-dum \^Â®rRivendell*
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image397.jpeg)![](../media/2_MESBG_-_Armies_of_LOTR_media/image398.jpeg)![](../media/2_MESBG_-_Armies_of_LOTR_media/image399.jpeg)
 
@@ -807,7 +807,7 @@ ARMY KEY
 
 *\|\| Dark Powers of Dol Guldur*
 
-*\*» Desolator of the North*
+*\*Â» Desolator of the North*
 
 *The Easterlings*
 
@@ -817,11 +817,11 @@ ARMY KEY
 
 *Mordor*
 
-*\<S\$5\>^M^°^ria^*
+*\<S\$5\>^M^Â°^ria^*
 
-*® The Serpent Horde*
+*Â® The Serpent Horde*
 
-*°\^\>Sharkey's Rogues \^ The Trolls ■\^■Variags of Khand*
+*Â°\^\>Sharkey's Rogues \^ The Trolls â– \^â– Variags of Khand*
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image400.jpeg)
 
@@ -874,7 +874,7 @@ of Che Ring*
 
 ***CITADEL***
 
-***GAUCS A WORKSHOP** [~m~£m]{.smallcaps}*
+***GAUCS A WORKSHOP** [~m~Â£m]{.smallcaps}*
 
 [9 781788 262361 \>]{.underline}
 

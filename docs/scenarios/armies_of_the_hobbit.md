@@ -1,4 +1,4 @@
-
+﻿
 ***Scenarios***
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image232.jpeg)
@@ -31,7 +31,7 @@ may stand a chance of surviving Smaug's fiery wrath...*
 
 **LAYOUT**
 
-This battle takes place within Dale, City of Men. To represent this, you will want a board covered in buildings, roads, pathways and, of course, plenty of towers to fire at the Dragon from. The centre of the playing area should have the highest tower on the board (this needs to be accessible), and the Windlance should be placed on top of this — Dale's only hope at stopping the dreaded Smaug!
+This battle takes place within Dale, City of Men. To represent this, you will want a board covered in buildings, roads, pathways and, of course, plenty of towers to fire at the Dragon from. The centre of the playing area should have the highest tower on the board (this needs to be accessible), and the Windlance should be placed on top of this â€” Dale's only hope at stopping the dreaded Smaug!
 
 **STARTING POSITIONS**
 
@@ -39,15 +39,15 @@ The Good player deploys their force anywhere on the board, but at least 6" from 
 
 **SPECIAL RULES**
 
-**The Coming of Smaug** — *The Dragon has come from the north and is circling the city, ready to unleash his wrath upon the people of Dale.*
+**The Coming of Smaug** â€” *The Dragon has come from the north and is circling the city, ready to unleash his wrath upon the people of Dale.*
 
 At the end of the Evil player's first Move phase, Smaug will arrive. The Evil player rolls a D6. On a 1-3, the Good player may decide which board edge Smaug arrives from. On a 4+, the Evil player may choose instead.
 
-**Not Yet Loosened** — *The Lord of Dale is yet to leave his mark upon the great Fire-drake.*
+**Not Yet Loosened** â€” *The Lord of Dale is yet to leave his mark upon the great Fire-drake.*
 
 Smaug is not subject to his Missing Scale rule in this Scenario.
 
-**The Lord of Dale** — *This is the moment in history where Girion will make his last stand, and the outcome will form his legacy for years to come.*
+**The Lord of Dale** â€” *This is the moment in history where Girion will make his last stand, and the outcome will form his legacy for years to come.*
 
 Girion automatically passes all Courage tests for this Scenario. Additionally, Girion may choose to re-roll a single D6 in each turn.
 
@@ -73,16 +73,16 @@ This is a fight to the death. The Men of Dale must slay the Dragon, or perish in
 
 *Following the loss of The Lonely Mountain to Smaug, the Dwarves of Erebor set out to reclaim the former*
 
-*Dwarven kingdom of Khazad-dûm. In the years since the awakening of Durin's Bane, the once proud ancestral home of the Dwarves had become overrun and defiled by Orcs and other vile creatures. No more was Khazad-dûm a place of Dwarven industry and the sound of harps; instead, it had descended into a realm of darkness and cruelty, becoming known instead as the Black Pit of Moria.*
+*Dwarven kingdom of Khazad-dÃ»m. In the years since the awakening of Durin's Bane, the once proud ancestral home of the Dwarves had become overrun and defiled by Orcs and other vile creatures. No more was Khazad-dÃ»m a place of Dwarven industry and the sound of harps; instead, it had descended into a realm of darkness and cruelty, becoming known instead as the Black Pit of Moria.*
 
-*As Thrór leads the Dwarves of Erebor towards their rightful home, the Pale Orc, Azog, the leader of the Orc armies, strides forth from the
+*As ThrÃ³r leads the Dwarves of Erebor towards their rightful home, the Pale Orc, Azog, the leader of the Orc armies, strides forth from the
 Dimrill Gate as tides of Orcs pour from the bowels of the mountain with the
 sole purpose of putting an end to the Dwarven advance.*
 
 *Azanulbizar will now be the site of a bloody battle between Dwarves
 and Orcs. Countless casualties will be suffered on both sides as they fight
 for control of the Dimrill Gate. If the Dwarves fail to reclaim the realm
-of Khazad-dûm, then Azog will put an untimely end to the line of Durin and the Dwarves will never again lay claim to the mountain...*
+of Khazad-dÃ»m, then Azog will put an untimely end to the line of Durin and the Dwarves will never again lay claim to the mountain...*
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image236.jpeg)
 
@@ -92,18 +92,18 @@ of Khazad-dûm, then Azog will put an untimely end to the line of Durin and the 
 
 **LAYOUT**
 
-This battle takes place upon the slopes of the Dimrill Dale, a rocky battlefield of scree-strewn slopes and clumps of wiry foliage. The western board edge represents the thick rock walls of Khazad-dûm, and in the centre are the gates to the formerly great Dwarven realm.
+This battle takes place upon the slopes of the Dimrill Dale, a rocky battlefield of scree-strewn slopes and clumps of wiry foliage. The western board edge represents the thick rock walls of Khazad-dÃ»m, and in the centre are the gates to the formerly great Dwarven realm.
 
 **SPECIAL RULES**
 
-**Long live the King! --** *With Thrór alive, his ancestors do not yet
+**Long live the King! --** *With ThrÃ³r alive, his ancestors do not yet
 need to avenge his death.*
 
-Whilst Thrór is alive and on the battlefield, Thráin receives no benefit from his Blood Feud special rule. Additionally, Thrór cannot benefit from the Arkenstone in this Scenario.
+Whilst ThrÃ³r is alive and on the battlefield, ThrÃ¡in receives no benefit from his Blood Feud special rule. Additionally, ThrÃ³r cannot benefit from the Arkenstone in this Scenario.
 
 **There was one I could follow --** *In the wake of his grandfather's death, and his father's presumed fate, Thorin rallies the Dwarves that remain for the final charge towards their enemies.*
 
-If both Thrór and Thráin have been slain, and Young Thorin Oakenshield wins a Duel roll, then all **Dwarf** models on the board count as if they are in range of a banner until the end of the turn.
+If both ThrÃ³r and ThrÃ¡in have been slain, and Young Thorin Oakenshield wins a Duel roll, then all **Dwarf** models on the board count as if they are in range of a banner until the end of the turn.
 
 **Hordes without End --** *The armies under Azog's command are impossibly vast, flocking to battle to spill Dwarvish blood.*
 
@@ -115,13 +115,13 @@ The Good player deploys their army anywhere within 12" of the eastern board edge
 
 **OBJECTIVES**
 
-The Dwarves are fighting to reclaim Moria and rid the lands of the Orc's leader, Azog. However, Azog's mission is far simpler — to end the line of Durin. The Good player wins if, at the end of any turn, Azog has been slain and there are at least twelve Good models within 6" of the Dimrill Gate. The Evil player wins immediately if all of the Good Heroes have been slain.
+The Dwarves are fighting to reclaim Moria and rid the lands of the Orc's leader, Azog. However, Azog's mission is far simpler â€” to end the line of Durin. The Good player wins if, at the end of any turn, Azog has been slain and there are at least twelve Good models within 6" of the Dimrill Gate. The Evil player wins immediately if all of the Good Heroes have been slain.
 
 **PARTICIPANTS**
 
 **GOOD**
 
-Thrór; Thráin; Young Thorin Oakenshield; Young Balin the Dwarf; Young Dwalin the Dwarf; 36 Warriors of Erebor; 24 Grim Hammers.
+ThrÃ³r; ThrÃ¡in; Young Thorin Oakenshield; Young Balin the Dwarf; Young Dwalin the Dwarf; 36 Warriors of Erebor; 24 Grim Hammers.
 
 **EVIL**
 
@@ -140,8 +140,8 @@ a cold-filled Troll who uses him as an impromptu handkerchief.*
 *Bilbo suddenly finds himself in the clutches of the Three Trolls, who
 have now set about deciding how best to cook and eat him, and any other burrahobbits that may be lurking nearby.*
 
-*Yet as the Trolls are about to seal Bilbo's fate, Kíli bursts through
-the foliage, catching them off-guard and commanding them to release their prisoner. Following Kíli, the rest of the company throw themselves into
+*Yet as the Trolls are about to seal Bilbo's fate, KÃ­li bursts through
+the foliage, catching them off-guard and commanding them to release their prisoner. Following KÃ­li, the rest of the company throw themselves into
 a swirling melee in order to rescue Bilbo from a miserable death.*
 
 *Can the Dwarves survive long enough to see the sun rise and the Trolls turned to stone, or will the company of Thorin Oakenshield become
@@ -165,7 +165,7 @@ At the start of turn 7, and each turn thereafter, roll a D6. On a 4+, Gandalf ha
 
 **"I said drop him!" --** *The Dwarves have rushed to the aid of their burglar, and must now fight to rescue him.*
 
-At the end of the Good player's first Move phase, roll a D6 for each member of Thorin's Company not on the board. On a 3+, they enter the board from the point that Kíli was deployed. Any Dwarves that do not arrive will enter from the same point at the end of the Good player's second Move phase.
+At the end of the Good player's first Move phase, roll a D6 for each member of Thorin's Company not on the board. On a 3+, they enter the board from the point that KÃ­li was deployed. Any Dwarves that do not arrive will enter from the same point at the end of the Good player's second Move phase.
 
 **A Burrahobbit? --** *The Trolls are somewhat confused by Bilbo's
 sudden appearance, and would much rather find more to make a pie than simply scoff the Hobbit.*
@@ -174,7 +174,7 @@ The Trolls may not make Strikes against Bilbo until the start of the third turn,
 
 **STARTING POSITIONS**
 
-The Evil player places the Three Trolls within 3" of the Campfire. The Good player then places Bilbo within 3" of Bill and places Kíli touching the centre of any board edge. The rest of Thorin's Company will be available later.
+The Evil player places the Three Trolls within 3" of the Campfire. The Good player then places Bilbo within 3" of Bill and places KÃ­li touching the centre of any board edge. The rest of Thorin's Company will be available later.
 
 **OBJECTIVES**
 
@@ -184,7 +184,7 @@ The Dwarves are trying to rescue Bilbo by slaying the Trolls, whilst the Trolls 
 
 **GOOD**
 
-Thorin Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Bilbo Baggins. As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not have Orcrist or Sting respectively. Bilbo also has not yet found The Ring.
+Thorin Oakenshield; KÃ­li the Dwarf; FÃ­li the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Ã“in the Dwarf; GlÃ³in the Dwarf; Bilbo Baggins. As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not have Orcrist or Sting respectively. Bilbo also has not yet found The Ring.
 
 **EVIL**
 
@@ -266,16 +266,16 @@ for the Dwarves, help is at hand as the Grey Wizard makes his way to aid them in
 
 **LAYOUT**
 
-This Scenario takes place upon the rickety walkways that make up the vile dwelling of Goblin-town, deep within The Misty Mountains. The board should be covered with various walkways of all different shapes and sizes. There should be a large platform near the centre of the board where the Goblin King's throne sits and the Dwarves will start — the weapons pile will be located next to the Goblin King's throne. It is important to have multiple walkways on each board edge that leave the board in all directions to give Thorin's Company a selection of ways to escape Goblin-town.
+This Scenario takes place upon the rickety walkways that make up the vile dwelling of Goblin-town, deep within The Misty Mountains. The board should be covered with various walkways of all different shapes and sizes. There should be a large platform near the centre of the board where the Goblin King's throne sits and the Dwarves will start â€” the weapons pile will be located next to the Goblin King's throne. It is important to have multiple walkways on each board edge that leave the board in all directions to give Thorin's Company a selection of ways to escape Goblin-town.
 
 **SPECIAL RULES**
 
 **Take up arms --** *Upon being presented to the Goblin King, the
 Dwarves have been stripped of their weapons, which now lay to one side of the Goblin King's throne.*
 
-The Dwarves all start the game unarmed. Any Dwarf that moves into base contact with the weapons pile at any point in their Move phase may pick up their weapons — at which point they are no longer considered to be unarmed.
+The Dwarves all start the game unarmed. Any Dwarf that moves into base contact with the weapons pile at any point in their Move phase may pick up their weapons â€” at which point they are no longer considered to be unarmed.
 
-**A Wizard is never late** — *Gandalf has followed the Dwarves into
+**A Wizard is never late** â€” *Gandalf has followed the Dwarves into
 the depths of Goblin-town in order to save them from a terrible fate.*
 
 At the end of the Good player's second Move phase, Gandalf will arrive; roll a D6. On a 1-3, the Evil player chooses any board edge for Gandalf to enter play from. On a 4+, the Good player may choose.
@@ -302,7 +302,7 @@ The company of Thorin Oakenshield must escape the clutches of the denizens of Go
 
 **GOOD**:
 
-Thorin Oakenshield with Orcrist and Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Gandalf the Grey.
+Thorin Oakenshield with Orcrist and Oakenshield; KÃ­li the Dwarf; FÃ­li the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Ã“in the Dwarf; GlÃ³in the Dwarf; Gandalf the Grey.
 
 **EVIL: 3**
 
@@ -420,7 +420,7 @@ Any Mirkwood Spiders that are slain are kept to one side. At the start of each t
 **PARTICIPANTS**
 
 **GOOD**
- Thorin Oakenshield with Orcrist and Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Legolas Greenleaf; Tauriel; 10 Mirkwood Rangers.
+ Thorin Oakenshield with Orcrist and Oakenshield; KÃ­li the Dwarf; FÃ­li the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Ã“in the Dwarf; GlÃ³in the Dwarf; Legolas Greenleaf; Tauriel; 10 Mirkwood Rangers.
 
 **EVIL**
 
@@ -441,7 +441,7 @@ gouts of flame. The only hope for the people of Lake-town is for the Dragon to
 be slain, an act much easier said than done.*
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image251.jpeg)*Yet all is not lost. Having escaped imprisonment at the
-hands of the Master of Lake-town, Bard grabs his great bow and sets out to finish what his ancestor Girion started many years before, lest Lake-town be razed to the ground and be consumed by fire and smoke — the mark left upon the Dragon by the Lord of Dale may yet prove to be Smaug's undoing.*
+hands of the Master of Lake-town, Bard grabs his great bow and sets out to finish what his ancestor Girion started many years before, lest Lake-town be razed to the ground and be consumed by fire and smoke â€” the mark left upon the Dragon by the Lord of Dale may yet prove to be Smaug's undoing.*
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image252.jpeg)
 
@@ -451,7 +451,7 @@ This Scenario is played across the wooden jetties and walkways of Esgaroth. Ther
 
 **STARTING POSITIONS**
 
-The Good player deploys Bard touching the eastern board edge. They then deploy Bain, Sigrid, Tilda, Tauriel, Kíli, Fíli, Bofur and Óin touching the western board edge. The Master of Lake-town, Alfrid and Braga are deployed touching the southern board edge. The Lake-town Guard are deployed anywhere on the board.
+The Good player deploys Bard touching the eastern board edge. They then deploy Bain, Sigrid, Tilda, Tauriel, KÃ­li, FÃ­li, Bofur and Ã“in touching the western board edge. The Master of Lake-town, Alfrid and Braga are deployed touching the southern board edge. The Lake-town Guard are deployed anywhere on the board.
 
 **OBJECTIVES**
 
@@ -475,14 +475,14 @@ Bard gains the Mighty Hero special rule. Additionally, Bard is not affected by S
 
 Any model that has been Set Ablaze that moves into the waters of the Long Lake will immediately extinguish the flames.
 
-**The Defence of Lake-town --** *Such is Smaug's tremendous bulk that he can easily be targeted by bowfire — not that arrows will have much
+**The Defence of Lake-town --** *Such is Smaug's tremendous bulk that he can easily be targeted by bowfire â€” not that arrows will have much
 effect against the Dragon's thick hide.*
 
-Good models may shoot at Smaug even if he is Engaged in combat, with no risk of hitting friendly models. Any model that shoots at Smaug in this way suffers a -1 penalty when rolling To Hit — this is cumulative with other such penalties, such as moving and shooting.
+Good models may shoot at Smaug even if he is Engaged in combat, with no risk of hitting friendly models. Any model that shoots at Smaug in this way suffers a -1 penalty when rolling To Hit â€” this is cumulative with other such penalties, such as moving and shooting.
  **PARTICIPANTS**
 **GOOD**
 Bard the Bowman; Bain, Son of Bard; Sigrid & Tilda;
-Tauriel; Kíli the Dwarf; Fíli the Dwarf; Bofur the Dwarf; Óin the Dwarf; the Master of Lake-town; Alfrid the Councillor; Braga, Captain of the Guard and 24 Lake- town Guard: 8 with sword, 8 with spear and 8 with bow.
+Tauriel; KÃ­li the Dwarf; FÃ­li the Dwarf; Bofur the Dwarf; Ã“in the Dwarf; the Master of Lake-town; Alfrid the Councillor; Braga, Captain of the Guard and 24 Lake- town Guard: 8 with sword, 8 with spear and 8 with bow.
 **EVIL**
 Smaug.
 
@@ -493,7 +493,7 @@ Smaug.
 *Guldur, Gandalf has uncovered the truth as to what dwells within. For lurking deep inside the seemingly forgotten fortress is none other than Sauron, the enemy of the Free Peoples of Middle-earth. Upon confronting this terrible foe, Gandalf has been captured and is now at the mercy of the monstrous Keeper of the Dungeons, who relishes the opportunity to torture and maim the Grey Wizard.*
 
 *Yet help is at hand; for Radagast the Brown has been true to his word
-and brought news of Gandalf's predicament to the Lady Galadriel — perhaps the one being in Middle-earth that Sauron fears. The Lady of Light ventures to Dol Guldur to deliver Gandalf from the terrible fate that
+and brought news of Gandalf's predicament to the Lady Galadriel â€” perhaps the one being in Middle-earth that Sauron fears. The Lady of Light ventures to Dol Guldur to deliver Gandalf from the terrible fate that
 may await him, and she does not come alone.*
 
 *The remaining members of the White Council also join their lady in the fight against this ancient foe now returned. The White Wizard Saruman uses his mastery of magical power and unrivalled knowledge of the enemy to combat the servants of the Dark Lord.*
@@ -530,9 +530,9 @@ Gandalf starts the game with no Might or Will, no Staff of Power, and under the 
 
 Galadriel can target the Keeper of the Dungeons with the Banish Magical Power as if it were a **Spirit** model.
 
-**"Nine for Mortal Men, doomed to die..." --** *Summoned by the Necromancer, the Nazgûl of Dol Guldur have been tasked with slaying the members of the White Council.*
+**"Nine for Mortal Men, doomed to die..." --** *Summoned by the Necromancer, the NazgÃ»l of Dol Guldur have been tasked with slaying the members of the White Council.*
 
-As soon as the Keeper of the Dungeons is slain, place all nine Nazgûl of Dol Guldur on the board at least 6" away from any Good model.
+As soon as the Keeper of the Dungeons is slain, place all nine NazgÃ»l of Dol Guldur on the board at least 6" away from any Good model.
 
 **"Are you in need of assistance?" --** *Galadriel has not come to
 rescue Gandalf alone; Saruman and Elrond have also come to Dol Guldur.*
@@ -553,7 +553,7 @@ At the end of the ninth game turn, the Evil player places the Necromancer touchi
  Gandalf the Grey; Saruman the White; Radagast the Brown on Sleigh; Galadriel, Lady of Light and Elrond, Master of Rivendell.
 
 **EVIL**
- The Necromancer; All 9 Nazgûl of Dol Guldur and the Keeper of the Dungeons.
+ The Necromancer; All 9 NazgÃ»l of Dol Guldur and the Keeper of the Dungeons.
 
 []{#bookmark1321 .anchor}**BATTLE OF THE FIVE ARMIES**
 
@@ -577,7 +577,7 @@ the Pale Orc, the battle for the mountain begins...*
 
 **LAYOUT**
 
-The board represents the plains before Erebor — there should be a few scattered rocks and scrubland dotted around (not too much as there are a lot of models in this Scenario!). The eastern board edge represents the walls of Erebor, the centre of which marks the gates of Erebor.
+The board represents the plains before Erebor â€” there should be a few scattered rocks and scrubland dotted around (not too much as there are a lot of models in this Scenario!). The eastern board edge represents the walls of Erebor, the centre of which marks the gates of Erebor.
 
 **STARTING POSITIONS**
 
@@ -620,11 +620,11 @@ Beorn enters the board as a passenger on the back of any of the Great Eagles (no
 
 **Erebor Reclaimed**
 
-Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.
+Thorin Oakenshield, King Under the Mountain; KÃ­li the Dwarf, Champion of Erebor; FÃ­li the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Ã“in the Dwarf, Champion of Erebor; GlÃ³in the Dwarf, Champion of Erebor.
 
 **The Iron Hills**
 
-Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.
+DÃ¡in Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.
 
 **Halls of Thranduil**
 
@@ -716,7 +716,7 @@ Once you have selected all of the warbands for your force, you will need to indi
 
 **ARMY BONUS**
 
-If your army consists entirely of models from a single army list, then the army receives its own unique Army Bonus. Each Army Bonus will be listed in the introduction for each army list. Note that, unless otherwise stated, the Army Bonus will only come into effect as long as your force only contains models from a single army list (although certain alliances will allow for the forces to keep their Army Bonus — see opposite).
+If your army consists entirely of models from a single army list, then the army receives its own unique Army Bonus. Each Army Bonus will be listed in the introduction for each army list. Note that, unless otherwise stated, the Army Bonus will only come into effect as long as your force only contains models from a single army list (although certain alliances will allow for the forces to keep their Army Bonus â€” see opposite).
 
 **ADDING ALLIES**
 
@@ -727,21 +727,21 @@ There are many advantages to adding allies into your force, either to overcome a
 **WHO CAN ALLY?**
 
 When playing Matched Play games, there are only really two real sides; you are either trying to defeat Sauron (Good) or help him conquer Middle-earth (Evil). Good armies may only ally with other Good armies and Evil armies may only ally with other Evil allies. One force cannot contain both Good and Evil models.
- ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image258.jpeg){width="5.906944444444444in" Some armies have long-standing friendships and will ride to war in aid of their allies upon the battlefield; whilst others will only form an alliance under dire circumstances, and there are even some armies that simply did not exist at the same time as others. Whilst it is possible for you to ally any armies together in Matched Play games, there are benefits to taking armies that are proven allies — and even disadvantages for taking those that did not exist at the same time!
+ ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image258.jpeg){width="5.906944444444444in" Some armies have long-standing friendships and will ride to war in aid of their allies upon the battlefield; whilst others will only form an alliance under dire circumstances, and there are even some armies that simply did not exist at the same time as others. Whilst it is possible for you to ally any armies together in Matched Play games, there are benefits to taking armies that are proven allies â€” and even disadvantages for taking those that did not exist at the same time!
 
 []{#bookmark1354 .anchor}**ALLIANCE MATRIX**
 
 Over the next few pages we present you with both of the full versions of
 the Allies Matrix, as well as all of the information that you need to use the Allies Matrix within your games. There is one Allies Matrix
 for Good, and a separate one for Evil; and each will denote which armies have which level of alliance with each other. There are three
-varying levels of alliance (listed below) — each with their own
+varying levels of alliance (listed below) â€” each with their own
 effects:
 
-**HISTORICAL ALLIES — GREEN**
+**HISTORICAL ALLIES â€” GREEN**
  Historical Allies are those that risked everything to fight alongside each other, such as the Survivors of Lake-town and the Halls of Thranduil at the Battle of the Five Armies. They could also represent those forces that provided invaluable help to each other for a common goal, such as The Misty Mountains and Thorin's Company.
 Historical Allies are allowed to keep all of their Army Bonuses even though the force is selected from more than one army list.
 
-**CONVENIENT ALLIES — YELLOW**
+**CONVENIENT ALLIES â€” YELLOW**
 
 A Convenient Allies are those armies that were around at the same point in time, but never actually fought together (such as Azog's Hunters and The Trolls). While they may not have fought side-by-side, it is possible that, given the right circumstances, they might have found themselves upon the same battlefield.
 
@@ -753,10 +753,10 @@ There are occasions where you may wish to include models from more than two diff
 
 **ALLIES AND BOW LIMIT**
 
-If your army is made up of several allied contingents, Bow Limit is not calculated across the entire force, but separately across each allied contingent — so, one in three models in each allied contingent can be given bows, rather than one in three across the entire force.
+If your army is made up of several allied contingents, Bow Limit is not calculated across the entire force, but separately across each allied contingent â€” so, one in three models in each allied contingent can be given bows, rather than one in three across the entire force.
  Convenient Allies lose their Army Bonus, but suffer no further effects.
 
-**IMPOSSIBLE ALLIES — RED**
+**IMPOSSIBLE ALLIES â€” RED**
 
 ') As mentioned earlier, there are some armies in Middle-earth that simply did not co-exist (Smaug was dead by the time Azog's Legion marched upon Erebor!). Whilst it is possible for you to make these alliances in your Points Match games, there are a few disadvantages for crossing time lines.
 
@@ -785,13 +785,13 @@ Army of Lake-town
 
 *V*
 
-Army of Thrór
+Army of ThrÃ³r
 
 \* The Dead of Dunharrow
 
 *Erebor Reclaimed*
 
-*\*♦ Fangorn*
+*\*â™¦ Fangorn*
 
 *The Fellowship*
 

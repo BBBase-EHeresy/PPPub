@@ -1,4 +1,4 @@
-
+﻿
 [*forces* ]
 
 [![](../media/2_MESBG_-_Armies_of_LOTR_media/image190.jpeg)
@@ -324,7 +324,7 @@ fangs.*]
 
 [***C MWF***]
 
-[*^4^ 0®®*]
+[*^4^ 0Â®Â®*]
 
 [SPECIAL RULES]
 
@@ -363,7 +363,7 @@ pick.]
 
 [HEROIC ACTIONS]
 
-[• Heroic March]
+[â€¢ Heroic March]
 
 [OPTIONS]
 
@@ -890,7 +890,7 @@ sword.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic
+[*â€¢ Heroic
 Channelling*]
 
 [OPTIONS]
@@ -1024,12 +1024,12 @@ VALOUR]
 [***MvFSDAWC MWF***]
 
 [*6" 7/4+ 8 5 \* 4 \*
-00®*]
+00Â®*]
 
 [WARGEAR HEROIC
 ACTIONS]
 
-[*Huge claws and teeth. • Heroic
+[*Huge claws and teeth. â€¢ Heroic
 Strength*]
 
 -   
@@ -1067,7 +1067,7 @@ VALOUR]
 [***Mv F S D A W C **6" 6/4+ 6 6 3 3
 4*]
 
-[***MWF **©00*]
+[***MWF **Â©00*]
 
 [WARGEAR]
 
@@ -1104,7 +1104,7 @@ FORTITUDE]
 
 [***Mv F S D A W C **6" 1/4+ 18131*]
 
-[***MWF 00®***]
+[***MWF 00Â®***]
 
 [WARGEAR]
 
@@ -1273,7 +1273,7 @@ pick.*]
 
 [*Shield 1 point*]
 
-[*Spear ..„, 1
+[*Spear ..â€ž, 1
 point*]
 
 [*Two-handed weapon 1
@@ -1559,7 +1559,7 @@ sword.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic
+[*â€¢ Heroic
 Channelling*]
 
 [OPTIONS]
@@ -1841,7 +1841,7 @@ sword.*]
 
 [HEROIC ACTIONS]
 
-[*• Heroic
+[*â€¢ Heroic
 Channelling*]
 
 [OPTIONS]
@@ -1983,7 +1983,7 @@ URUK-HA1, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE
 
 ***MvFSDAWC MWF***
 
-*6" 5/4+ 5 5 3 3 4 ®w .*
+*6" 5/4+ 5 5 3 3 4 Â®w .*
 
 WARGEAR
 
@@ -1999,7 +1999,7 @@ HEROIC ACTIONS
 
 OPTIONS
 
-*Shield of Cirith Ungol ....,.„...„*
+*Shield of Cirith Ungol ....,.â€ž...â€ž*
 
 *Heavy armour.*
 
@@ -2029,9 +2029,9 @@ Armour and sword.
 
 HEROIC ACTIONS
 
-• Heroic Strike
+â€¢ Heroic Strike
 
-• Heroic Strength
+â€¢ Heroic Strength
 
 OPTIONS
 
@@ -2067,7 +2067,7 @@ ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE
 
 ***MvFSDAWC MWF***
 
-*6" 4/5+ 4 5 2 2 3 ©SO*
+*6" 4/5+ 4 5 2 2 3 Â©SO*
 
 WARGEAR
 
@@ -2101,11 +2101,11 @@ WARGEAR
 
 ***MWF***
 
-00®
+00Â®
 
 HEROIC ACTIONS
 
-*• Heroic Channelling*
+*â€¢ Heroic Channelling*
 
 SPECIAL RULES
 
@@ -2203,7 +2203,7 @@ treat the Captain of the Black Guard's Courage value as being 6.*
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image247.jpeg)
 
-***MWF ®00***
+***MWF Â®00***
 
 *Marching alongside the Black Guard are their drummers, there to speed along the advance of the deadliest of Sauron's armies. Those tasked with sounding the advance are veterans of many wars and have become accustomed to the booming sounds of the drums. Using the severed bone of a past victim as a drumstick, these warriors hasten the relentless advance of the Black Guard.*
 
@@ -2465,7 +2465,7 @@ SPECIAL RULES
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image259.jpeg)
 
-***MWF ®0®***
+***MWF Â®0Â®***
 
 DURBURZ THE GOBLIN KING OF MORIA 70 POINTS
 
@@ -2555,11 +2555,11 @@ w c
 
 *2 4*
 
-***MWF ©0®***
+***MWF Â©0Â®***
 
 HEROIC ACTIONS
 
-*• Heroic Channelling*
+*â€¢ Heroic Channelling*
 
 *\* Master of the Dark Wild CT - The mastery that Druzhag has over the beasts of the wild is unparalleled, it is even said that they will
 protect their Goblin master with a terrible fury.*
@@ -2602,7 +2602,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*• Heroic Channelling*
+*â€¢ Heroic Channelling*
 
 SPECIAL RULES
 
@@ -2651,7 +2651,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*• Heroic March*
+*â€¢ Heroic March*
 
 SPECIAL RULES
 
@@ -2679,7 +2679,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*• Heroic Channelling*
+*â€¢ Heroic Channelling*
 
 SPECIAL RULES
 
@@ -2693,7 +2693,7 @@ w
 
 ***C MWF***
 
-*^3^ 0®®*
+*^3^ 0Â®Â®*
 
 *Range*
 
@@ -2800,11 +2800,11 @@ OPTIONS (UP TO TWO OF THE FOLLOWING)
 
 *Breathe Fire 50 points*
 
-*Fly .„„..„■„„.„,. 50 points*
+*Fly .â€žâ€ž..â€žâ– â€žâ€ž.â€ž,. 50 points*
 
 *Tough Hide , 50 points*
 
-*Wyrmtongue .„.,.„ 50 points*
+*Wyrmtongue .â€ž.,.â€ž 50 points*
 
 *Fly - The Dragon gains the Fly special rule.*
 
@@ -3250,7 +3250,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*• Heroic Channelling*
+*â€¢ Heroic Channelling*
 
 OPTIONS
 
@@ -3341,7 +3341,7 @@ URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF VALOUR
 
 ***MvFSDAWC MWF***
 
-*6" 5/3+ 5 6 3 3 5 00®*
+*6" 5/3+ 5 6 3 3 5 00Â®*
 
 WARGEAR
 
@@ -3519,7 +3519,7 @@ hear.*
 
 ***MWF***
 
-00®
+00Â®
 
 *Command of Isengard's legions falls to the many Uruk-hai Captains. Stoic and hardy, these unsubtle orcish brutes can be relied upon to carry out Saruman's orders with exactness, leading the warriors around them with single-minded determination. In battle, they are a brutal horror, their strength and toughness great enough to make any foe baulk.*
 
@@ -3587,7 +3587,7 @@ URUK-HAI, ISENGARD, INFANTRY, HERO - MINOR HERO
 
 ***Mv F S D A W C MWF***
 
-*6" 4/4~+~ 4 4 12 4 00©*
+*6" 4/4~+~ 4 4 12 4 00Â©*
 
 WARGEAR
 
@@ -3613,7 +3613,7 @@ URUK-HAI DRUMMER 35 POINTS
 
 URUK-HAI, ISENGARD, INFANTRY, HERO - INDEPENDENT HERO
 
-**MvFSDAWC 4 W F **6" 4/4+ 4 5 114 ®®0
+**MvFSDAWC 4 W F **6" 4/4+ 4 5 114 Â®Â®0
 
 WARGEAR
 
@@ -3877,7 +3877,7 @@ DETONATION TABLE
 *D6 RESULT*
 
 1.  *Dud. The charge has been damaged in some way     and will not detonate; remove it from play.*
- *2‑5 Instant Reaction. The charge catches instantly, exploding in a roar of smoke and flame, as described previously.*
+ *2â€‘5 Instant Reaction. The charge catches instantly, exploding in a roar of smoke and flame, as described previously.*
 
 6.  *Titanic Explosion. The powder in the charge     detonates with colossal fury as described previously,     but inflicts 2D6 Wounds rather than D6.*
 
@@ -4352,9 +4352,9 @@ OPTIONS
 
 *Chariot Charge EEE3 - A Khandish Chariot has the Monstrous Charge special rule. Additionally, a Khandish Chariot is an unusual model and moves in the following way:*
 
--   *At the start of its Move phase, the controlling player may     pivot the Chariot up to 45°. When pivoting, the Chariot     may touch models or terrain. In the case of models, move     them out of the way by the shortest route possible. In     the case of terrain, move the Chariot away just enough to     complete its pivot.*
+-   *At the start of its Move phase, the controlling player may     pivot the Chariot up to 45Â°. When pivoting, the Chariot     may touch models or terrain. In the case of models, move     them out of the way by the shortest route possible. In     the case of terrain, move the Chariot away just enough to     complete its pivot.*
 
--   *The Chariot may then move up to 10" in a straight     line. After each full 3" the Chariot has moved, it may     pivot a further 45°.*
+-   *The Chariot may then move up to 10" in a straight     line. After each full 3" the Chariot has moved, it may     pivot a further 45Â°.*
 
 -   *Once the Chariot has pivoted to face its desired direction,     move it forwards the desired amount in a straight line,     ignoring enemy models' Control Zones. Any models     the Chariot comes into contact with whilst moving (not     pivoting) will suffer two Strength 4 hits. If the model is     slain, the Chariot may continue with its movement. Cavalry     models suffer two hits on both the rider and the mount. If     the rider survives but the mount is slain, the rider is thrown     and, after testing on the Thrown Rider chart, is placed in     base contact with the Chariot. Might may not be used to     affect the result of these hits. A Chariot that is affected by a     I leroic March may still inflict these hits as normal.*
 
@@ -4416,7 +4416,7 @@ MAN, HARADRIM, INFANTRY, HERO - HERO OF LEGEND
 
 ***MvFSDAWC MWF***
 
-*6" 5/4+ 4 5 3 3 5 ©0®*
+*6" 5/4+ 4 5 3 3 5 Â©0Â®*
 
 WARGEAR
 
@@ -4550,7 +4550,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*• Heroic March*
+*â€¢ Heroic March*
 
 OPTIONS
 
@@ -4594,7 +4594,7 @@ wake.*
 
 HEROIC ACTIONS
 
-*• Heroic March*
+*â€¢ Heroic March*
 
 *MUMAK*
 
@@ -4690,7 +4690,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*• Heroic March*
+*â€¢ Heroic March*
 
 ***C MWF***
 
@@ -4885,7 +4885,7 @@ MAN, MAHUD, INFANTRY, HERO - HERO OF FORTITUDE
 
 ***MvFSDAWC MWF***
 
-*6\* 5/3+ 5 5 3 2 5 00®*
+*6\* 5/3+ 5 5 3 2 5 00Â®*
 
 WARGEAR
 
@@ -4919,7 +4919,7 @@ WARGEAR
 
 *Armour and club.*
 
-MWF 00©
+MWF 00Â©
 
 *Within the Mahud tribes, leadership goes to the warrior who is the strongest and can best fend off would-be usurpers. Even once they have succeeded, Tribesmasters must constantly show both strength and cunning, for their place at the top of the pecking order is subject to them remaining unassailable. Often, Mahud will turn on their Tribesmaster in favour of a contender perceived to be stronger.*
 
@@ -5283,7 +5283,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*• Heroic Channelling*
+*â€¢ Heroic Channelling*
 
 MAGICAL POWERS
 

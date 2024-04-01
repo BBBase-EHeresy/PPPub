@@ -1,4 +1,4 @@
-At the start of each round of a tournament, you will need to decide which of the 18 Scenarios everyone will be playing.
+﻿At the start of each round of a tournament, you will need to decide which of the 18 Scenarios everyone will be playing.
 
 Whilst the Tournament Organiser can decide to simply choose which Scenario is played, or randomly draw any of the Scenarios out of a hat, we would recommend using the following Scenario Pool system to choose the Scenario.
 

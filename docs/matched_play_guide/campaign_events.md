@@ -1,4 +1,4 @@
-Not every gaming event has to be a winner-takes-all tournament, pitting players against one another in order to find out which of them is the best on that particular day. Sometimes, it is nice to run a different type of event where players can try out new armies or play as part of a larger team.
+﻿Not every gaming event has to be a winner-takes-all tournament, pitting players against one another in order to find out which of them is the best on that particular day. Sometimes, it is nice to run a different type of event where players can try out new armies or play as part of a larger team.
 
 Campaign events are another way for a group of gamers to play games together over a weekend, and have always proved to be pretty popular among fans of the Middle-earth Strategy Battle Game. Grouping players into factions allows them to battle over key areas of Middle-earth in order to try to conquer it for their faction, adding that extra layer of depth to your weekend as it is not just your results that matter, but those of your entire team.
 
@@ -22,7 +22,7 @@ A Campaign event should have a total of six rounds, each one played in one of th
 
 After players have been paired up, and any re-pairings sorted out, the Region that is being fought over and the Scenario to be played need to be decided. The Scenarios will be chosen from the 18 Matched Play Scenarios listed previously in this supplement. To decide which of the Scenarios will be played, follow the same process for determining a Scenario for a Matched Play event as found on page 8.
 
-To decide on which Region all players will be fighting over, roll a D6 and consult the chart below. Once a Region has been fought over once it cannot be fought over again — its fate will already have been decided. This way, each Region will be fought over once in an event.
+To decide on which Region all players will be fighting over, roll a D6 and consult the chart below. Once a Region has been fought over once it cannot be fought over again â€” its fate will already have been decided. This way, each Region will be fought over once in an event.
 
 | D6  | Result     |
 |-----------|------------|
@@ -72,7 +72,7 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 #### RHOVANION
 
-*The wide lands between the Misty Mountains in the west, and the River Celduin in the east. They contain many great kingdoms and settlements such as Mirkwood, Lothlórien, Erebor, and Dale.*
+*The wide lands between the Misty Mountains in the west, and the River Celduin in the east. They contain many great kingdoms and settlements such as Mirkwood, LothlÃ³rien, Erebor, and Dale.*
 
 **SPECIAL RULE**
 
@@ -92,7 +92,7 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 #### HARADWAITH
 
-*To the south of Gondor and Mordor lies the vast desert region of Haradwaith. These arid and desolate lands play home to the hardy and ruthless ‘south-folk’ who have ever sought to wage war on the lands of Gondor to their north.*
+*To the south of Gondor and Mordor lies the vast desert region of Haradwaith. These arid and desolate lands play home to the hardy and ruthless â€˜south-folkâ€™ who have ever sought to wage war on the lands of Gondor to their north.*
 
 **SPECIAL RULE**
 
@@ -102,10 +102,10 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 #### GONDOR
 
-*The southern kingdom of Men formed by the high king Elendil upon his arrival in Middle-earth, Gondor is a great realm that has ever been a bastion against the Evil of Mordor to the east; protecting the free lands against Sauron’s forces.*
+*The southern kingdom of Men formed by the high king Elendil upon his arrival in Middle-earth, Gondor is a great realm that has ever been a bastion against the Evil of Mordor to the east; protecting the free lands against Sauronâ€™s forces.*
 
 **SPECIAL RULE**
 
-**City of Númenor:** Whilst fighting a battle in Gondor, all models add 1 to their Courage value.
+**City of NÃºmenor:** Whilst fighting a battle in Gondor, all models add 1 to their Courage value.
 
 **Campaign Bonus:** If your faction controls Gondor then the range of banners in your army is increased to 6".
