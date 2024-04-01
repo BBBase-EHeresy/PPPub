@@ -31,7 +31,7 @@ may stand a chance of surviving Smaug's fiery wrath...*
 
 **LAYOUT**
 
-This battle takes place within Dale, City of Men. To represent this, you will want a board covered in buildings, roads, pathways and, of course, plenty of towers to fire at the Dragon from. The centre of the playing area should have the highest tower on the board (this needs to be accessible), and the Windlance should be placed on top of this â€” Dale's only hope at stopping the dreaded Smaug!
+This battle takes place within Dale, City of Men. To represent this, you will want a board covered in buildings, roads, pathways and, of course, plenty of towers to fire at the Dragon from. The centre of the playing area should have the highest tower on the board (this needs to be accessible), and the Windlance should be placed on top of this — Dale's only hope at stopping the dreaded Smaug!
 
 **STARTING POSITIONS**
 
@@ -39,15 +39,15 @@ The Good player deploys their force anywhere on the board, but at least 6" from 
 
 **SPECIAL RULES**
 
-**The Coming of Smaug** â€” *The Dragon has come from the north and is circling the city, ready to unleash his wrath upon the people of Dale.*
+**The Coming of Smaug** — *The Dragon has come from the north and is circling the city, ready to unleash his wrath upon the people of Dale.*
 
 At the end of the Evil player's first Move phase, Smaug will arrive. The Evil player rolls a D6. On a 1-3, the Good player may decide which board edge Smaug arrives from. On a 4+, the Evil player may choose instead.
 
-**Not Yet Loosened** â€” *The Lord of Dale is yet to leave his mark upon the great Fire-drake.*
+**Not Yet Loosened** — *The Lord of Dale is yet to leave his mark upon the great Fire-drake.*
 
 Smaug is not subject to his Missing Scale rule in this Scenario.
 
-**The Lord of Dale** â€” *This is the moment in history where Girion will make his last stand, and the outcome will form his legacy for years to come.*
+**The Lord of Dale** — *This is the moment in history where Girion will make his last stand, and the outcome will form his legacy for years to come.*
 
 Girion automatically passes all Courage tests for this Scenario. Additionally, Girion may choose to re-roll a single D6 in each turn.
 
@@ -115,7 +115,7 @@ The Good player deploys their army anywhere within 12" of the eastern board edge
 
 **OBJECTIVES**
 
-The Dwarves are fighting to reclaim Moria and rid the lands of the Orc's leader, Azog. However, Azog's mission is far simpler â€” to end the line of Durin. The Good player wins if, at the end of any turn, Azog has been slain and there are at least twelve Good models within 6" of the Dimrill Gate. The Evil player wins immediately if all of the Good Heroes have been slain.
+The Dwarves are fighting to reclaim Moria and rid the lands of the Orc's leader, Azog. However, Azog's mission is far simpler — to end the line of Durin. The Good player wins if, at the end of any turn, Azog has been slain and there are at least twelve Good models within 6" of the Dimrill Gate. The Evil player wins immediately if all of the Good Heroes have been slain.
 
 **PARTICIPANTS**
 
@@ -266,16 +266,16 @@ for the Dwarves, help is at hand as the Grey Wizard makes his way to aid them in
 
 **LAYOUT**
 
-This Scenario takes place upon the rickety walkways that make up the vile dwelling of Goblin-town, deep within The Misty Mountains. The board should be covered with various walkways of all different shapes and sizes. There should be a large platform near the centre of the board where the Goblin King's throne sits and the Dwarves will start â€” the weapons pile will be located next to the Goblin King's throne. It is important to have multiple walkways on each board edge that leave the board in all directions to give Thorin's Company a selection of ways to escape Goblin-town.
+This Scenario takes place upon the rickety walkways that make up the vile dwelling of Goblin-town, deep within The Misty Mountains. The board should be covered with various walkways of all different shapes and sizes. There should be a large platform near the centre of the board where the Goblin King's throne sits and the Dwarves will start — the weapons pile will be located next to the Goblin King's throne. It is important to have multiple walkways on each board edge that leave the board in all directions to give Thorin's Company a selection of ways to escape Goblin-town.
 
 **SPECIAL RULES**
 
 **Take up arms --** *Upon being presented to the Goblin King, the
 Dwarves have been stripped of their weapons, which now lay to one side of the Goblin King's throne.*
 
-The Dwarves all start the game unarmed. Any Dwarf that moves into base contact with the weapons pile at any point in their Move phase may pick up their weapons â€” at which point they are no longer considered to be unarmed.
+The Dwarves all start the game unarmed. Any Dwarf that moves into base contact with the weapons pile at any point in their Move phase may pick up their weapons — at which point they are no longer considered to be unarmed.
 
-**A Wizard is never late** â€” *Gandalf has followed the Dwarves into
+**A Wizard is never late** — *Gandalf has followed the Dwarves into
 the depths of Goblin-town in order to save them from a terrible fate.*
 
 At the end of the Good player's second Move phase, Gandalf will arrive; roll a D6. On a 1-3, the Evil player chooses any board edge for Gandalf to enter play from. On a 4+, the Good player may choose.
@@ -441,7 +441,7 @@ gouts of flame. The only hope for the people of Lake-town is for the Dragon to
 be slain, an act much easier said than done.*
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image251.jpeg)*Yet all is not lost. Having escaped imprisonment at the
-hands of the Master of Lake-town, Bard grabs his great bow and sets out to finish what his ancestor Girion started many years before, lest Lake-town be razed to the ground and be consumed by fire and smoke â€” the mark left upon the Dragon by the Lord of Dale may yet prove to be Smaug's undoing.*
+hands of the Master of Lake-town, Bard grabs his great bow and sets out to finish what his ancestor Girion started many years before, lest Lake-town be razed to the ground and be consumed by fire and smoke — the mark left upon the Dragon by the Lord of Dale may yet prove to be Smaug's undoing.*
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image252.jpeg)
 
@@ -475,10 +475,10 @@ Bard gains the Mighty Hero special rule. Additionally, Bard is not affected by S
 
 Any model that has been Set Ablaze that moves into the waters of the Long Lake will immediately extinguish the flames.
 
-**The Defence of Lake-town --** *Such is Smaug's tremendous bulk that he can easily be targeted by bowfire â€” not that arrows will have much
+**The Defence of Lake-town --** *Such is Smaug's tremendous bulk that he can easily be targeted by bowfire — not that arrows will have much
 effect against the Dragon's thick hide.*
 
-Good models may shoot at Smaug even if he is Engaged in combat, with no risk of hitting friendly models. Any model that shoots at Smaug in this way suffers a -1 penalty when rolling To Hit â€” this is cumulative with other such penalties, such as moving and shooting.
+Good models may shoot at Smaug even if he is Engaged in combat, with no risk of hitting friendly models. Any model that shoots at Smaug in this way suffers a -1 penalty when rolling To Hit — this is cumulative with other such penalties, such as moving and shooting.
  **PARTICIPANTS**
 **GOOD**
 Bard the Bowman; Bain, Son of Bard; Sigrid & Tilda;
@@ -493,7 +493,7 @@ Smaug.
 *Guldur, Gandalf has uncovered the truth as to what dwells within. For lurking deep inside the seemingly forgotten fortress is none other than Sauron, the enemy of the Free Peoples of Middle-earth. Upon confronting this terrible foe, Gandalf has been captured and is now at the mercy of the monstrous Keeper of the Dungeons, who relishes the opportunity to torture and maim the Grey Wizard.*
 
 *Yet help is at hand; for Radagast the Brown has been true to his word
-and brought news of Gandalf's predicament to the Lady Galadriel â€” perhaps the one being in Middle-earth that Sauron fears. The Lady of Light ventures to Dol Guldur to deliver Gandalf from the terrible fate that
+and brought news of Gandalf's predicament to the Lady Galadriel — perhaps the one being in Middle-earth that Sauron fears. The Lady of Light ventures to Dol Guldur to deliver Gandalf from the terrible fate that
 may await him, and she does not come alone.*
 
 *The remaining members of the White Council also join their lady in the fight against this ancient foe now returned. The White Wizard Saruman uses his mastery of magical power and unrivalled knowledge of the enemy to combat the servants of the Dark Lord.*
@@ -577,7 +577,7 @@ the Pale Orc, the battle for the mountain begins...*
 
 **LAYOUT**
 
-The board represents the plains before Erebor â€” there should be a few scattered rocks and scrubland dotted around (not too much as there are a lot of models in this Scenario!). The eastern board edge represents the walls of Erebor, the centre of which marks the gates of Erebor.
+The board represents the plains before Erebor — there should be a few scattered rocks and scrubland dotted around (not too much as there are a lot of models in this Scenario!). The eastern board edge represents the walls of Erebor, the centre of which marks the gates of Erebor.
 
 **STARTING POSITIONS**
 
@@ -716,7 +716,7 @@ Once you have selected all of the warbands for your force, you will need to indi
 
 **ARMY BONUS**
 
-If your army consists entirely of models from a single army list, then the army receives its own unique Army Bonus. Each Army Bonus will be listed in the introduction for each army list. Note that, unless otherwise stated, the Army Bonus will only come into effect as long as your force only contains models from a single army list (although certain alliances will allow for the forces to keep their Army Bonus â€” see opposite).
+If your army consists entirely of models from a single army list, then the army receives its own unique Army Bonus. Each Army Bonus will be listed in the introduction for each army list. Note that, unless otherwise stated, the Army Bonus will only come into effect as long as your force only contains models from a single army list (although certain alliances will allow for the forces to keep their Army Bonus — see opposite).
 
 **ADDING ALLIES**
 
@@ -727,21 +727,21 @@ There are many advantages to adding allies into your force, either to overcome a
 **WHO CAN ALLY?**
 
 When playing Matched Play games, there are only really two real sides; you are either trying to defeat Sauron (Good) or help him conquer Middle-earth (Evil). Good armies may only ally with other Good armies and Evil armies may only ally with other Evil allies. One force cannot contain both Good and Evil models.
- ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image258.jpeg){width="5.906944444444444in" Some armies have long-standing friendships and will ride to war in aid of their allies upon the battlefield; whilst others will only form an alliance under dire circumstances, and there are even some armies that simply did not exist at the same time as others. Whilst it is possible for you to ally any armies together in Matched Play games, there are benefits to taking armies that are proven allies â€” and even disadvantages for taking those that did not exist at the same time!
+ ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image258.jpeg){width="5.906944444444444in" Some armies have long-standing friendships and will ride to war in aid of their allies upon the battlefield; whilst others will only form an alliance under dire circumstances, and there are even some armies that simply did not exist at the same time as others. Whilst it is possible for you to ally any armies together in Matched Play games, there are benefits to taking armies that are proven allies — and even disadvantages for taking those that did not exist at the same time!
 
 []{#bookmark1354 .anchor}**ALLIANCE MATRIX**
 
 Over the next few pages we present you with both of the full versions of
 the Allies Matrix, as well as all of the information that you need to use the Allies Matrix within your games. There is one Allies Matrix
 for Good, and a separate one for Evil; and each will denote which armies have which level of alliance with each other. There are three
-varying levels of alliance (listed below) â€” each with their own
+varying levels of alliance (listed below) — each with their own
 effects:
 
-**HISTORICAL ALLIES â€” GREEN**
+**HISTORICAL ALLIES — GREEN**
  Historical Allies are those that risked everything to fight alongside each other, such as the Survivors of Lake-town and the Halls of Thranduil at the Battle of the Five Armies. They could also represent those forces that provided invaluable help to each other for a common goal, such as The Misty Mountains and Thorin's Company.
 Historical Allies are allowed to keep all of their Army Bonuses even though the force is selected from more than one army list.
 
-**CONVENIENT ALLIES â€” YELLOW**
+**CONVENIENT ALLIES — YELLOW**
 
 A Convenient Allies are those armies that were around at the same point in time, but never actually fought together (such as Azog's Hunters and The Trolls). While they may not have fought side-by-side, it is possible that, given the right circumstances, they might have found themselves upon the same battlefield.
 
@@ -753,10 +753,10 @@ There are occasions where you may wish to include models from more than two diff
 
 **ALLIES AND BOW LIMIT**
 
-If your army is made up of several allied contingents, Bow Limit is not calculated across the entire force, but separately across each allied contingent â€” so, one in three models in each allied contingent can be given bows, rather than one in three across the entire force.
+If your army is made up of several allied contingents, Bow Limit is not calculated across the entire force, but separately across each allied contingent — so, one in three models in each allied contingent can be given bows, rather than one in three across the entire force.
  Convenient Allies lose their Army Bonus, but suffer no further effects.
 
-**IMPOSSIBLE ALLIES â€” RED**
+**IMPOSSIBLE ALLIES — RED**
 
 ') As mentioned earlier, there are some armies in Middle-earth that simply did not co-exist (Smaug was dead by the time Azog's Legion marched upon Erebor!). Whilst it is possible for you to make these alliances in your Points Match games, there are a few disadvantages for crossing time lines.
 

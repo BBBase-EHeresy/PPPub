@@ -22,7 +22,7 @@ A Campaign event should have a total of six rounds, each one played in one of th
 
 After players have been paired up, and any re-pairings sorted out, the Region that is being fought over and the Scenario to be played need to be decided. The Scenarios will be chosen from the 18 Matched Play Scenarios listed previously in this supplement. To decide which of the Scenarios will be played, follow the same process for determining a Scenario for a Matched Play event as found on page 8.
 
-To decide on which Region all players will be fighting over, roll a D6 and consult the chart below. Once a Region has been fought over once it cannot be fought over again â€” its fate will already have been decided. This way, each Region will be fought over once in an event.
+To decide on which Region all players will be fighting over, roll a D6 and consult the chart below. Once a Region has been fought over once it cannot be fought over again — its fate will already have been decided. This way, each Region will be fought over once in an event.
 
 | D6  | Result     |
 |-----------|------------|
@@ -92,7 +92,7 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 #### HARADWAITH
 
-*To the south of Gondor and Mordor lies the vast desert region of Haradwaith. These arid and desolate lands play home to the hardy and ruthless â€˜south-folkâ€™ who have ever sought to wage war on the lands of Gondor to their north.*
+*To the south of Gondor and Mordor lies the vast desert region of Haradwaith. These arid and desolate lands play home to the hardy and ruthless 'south-folk' who have ever sought to wage war on the lands of Gondor to their north.*
 
 **SPECIAL RULE**
 
@@ -102,7 +102,7 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 #### GONDOR
 
-*The southern kingdom of Men formed by the high king Elendil upon his arrival in Middle-earth, Gondor is a great realm that has ever been a bastion against the Evil of Mordor to the east; protecting the free lands against Sauronâ€™s forces.*
+*The southern kingdom of Men formed by the high king Elendil upon his arrival in Middle-earth, Gondor is a great realm that has ever been a bastion against the Evil of Mordor to the east; protecting the free lands against Sauron's forces.*
 
 **SPECIAL RULE**
 

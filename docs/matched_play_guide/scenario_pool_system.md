@@ -27,7 +27,7 @@ The Scenario Pool system is designed to enhance your tournament experience, and 
 
 At the start of each round, roll a D6 to determine which of the pools will be used, then a D3 to determine which of the three Scenarios from that pool will be played. After this has been decided, remove the entire pool from the selection process.
 
-#### POOL 1
+### POOL 1
 
 **MAELSTROM OF BATTLE SCENARIOS**
 
@@ -37,7 +37,7 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 
 5-6 COMMAND THE BATTLEFIELD
 
-#### POOL 2 
+### POOL 2 
 
 **HOLD OBJECTIVE SCENARIOS**
 
@@ -47,7 +47,7 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 
 5-6 BREAKTHROUGH
 
-#### POOL 3 
+### POOL 3 
 
 **OBJECT SCENARIOS**
 
@@ -57,7 +57,7 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 
 5-6 RETRIEVAL
 
-#### POOL 4 
+### POOL 4 
 
 **KILL THE ENEMY SCENARIOS**
 
@@ -68,7 +68,7 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 5-6 TO THE DEATH!
 
 
-#### POOL 5 
+### POOL 5 
 
 **MANOEUVRING SCENARIOS **
 
@@ -78,7 +78,7 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 
 5-6 DIVIDE & CONQUER
 
-#### POOL 6 
+### POOL 6 
 
 **UNIQUE SCENARIOS**
 

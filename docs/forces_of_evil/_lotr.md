@@ -363,7 +363,7 @@ pick.]
 
 [HEROIC ACTIONS]
 
-[â€¢ Heroic March]
+[* Heroic March]
 
 [OPTIONS]
 
@@ -890,7 +890,7 @@ sword.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic
+[** Heroic
 Channelling*]
 
 [OPTIONS]
@@ -1029,7 +1029,7 @@ VALOUR]
 [WARGEAR HEROIC
 ACTIONS]
 
-[*Huge claws and teeth. â€¢ Heroic
+[*Huge claws and teeth. * Heroic
 Strength*]
 
 -   
@@ -1559,7 +1559,7 @@ sword.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic
+[** Heroic
 Channelling*]
 
 [OPTIONS]
@@ -1841,7 +1841,7 @@ sword.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic
+[** Heroic
 Channelling*]
 
 [OPTIONS]
@@ -2029,9 +2029,9 @@ Armour and sword.
 
 HEROIC ACTIONS
 
-â€¢ Heroic Strike
+* Heroic Strike
 
-â€¢ Heroic Strength
+* Heroic Strength
 
 OPTIONS
 
@@ -2105,7 +2105,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*â€¢ Heroic Channelling*
+** Heroic Channelling*
 
 SPECIAL RULES
 
@@ -2559,7 +2559,7 @@ w c
 
 HEROIC ACTIONS
 
-*â€¢ Heroic Channelling*
+** Heroic Channelling*
 
 *\* Master of the Dark Wild CT - The mastery that Druzhag has over the beasts of the wild is unparalleled, it is even said that they will
 protect their Goblin master with a terrible fury.*
@@ -2602,7 +2602,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*â€¢ Heroic Channelling*
+** Heroic Channelling*
 
 SPECIAL RULES
 
@@ -2651,7 +2651,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*â€¢ Heroic March*
+** Heroic March*
 
 SPECIAL RULES
 
@@ -2679,7 +2679,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*â€¢ Heroic Channelling*
+** Heroic Channelling*
 
 SPECIAL RULES
 
@@ -3250,7 +3250,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*â€¢ Heroic Channelling*
+** Heroic Channelling*
 
 OPTIONS
 
@@ -3877,7 +3877,7 @@ DETONATION TABLE
 *D6 RESULT*
 
 1.  *Dud. The charge has been damaged in some way     and will not detonate; remove it from play.*
- *2â€‘5 Instant Reaction. The charge catches instantly, exploding in a roar of smoke and flame, as described previously.*
+ *2‑5 Instant Reaction. The charge catches instantly, exploding in a roar of smoke and flame, as described previously.*
 
 6.  *Titanic Explosion. The powder in the charge     detonates with colossal fury as described previously,     but inflicts 2D6 Wounds rather than D6.*
 
@@ -4550,7 +4550,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*â€¢ Heroic March*
+** Heroic March*
 
 OPTIONS
 
@@ -4594,7 +4594,7 @@ wake.*
 
 HEROIC ACTIONS
 
-*â€¢ Heroic March*
+** Heroic March*
 
 *MUMAK*
 
@@ -4690,7 +4690,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*â€¢ Heroic March*
+** Heroic March*
 
 ***C MWF***
 
@@ -5283,7 +5283,7 @@ WARGEAR
 
 HEROIC ACTIONS
 
-*â€¢ Heroic Channelling*
+** Heroic Channelling*
 
 MAGICAL POWERS
 

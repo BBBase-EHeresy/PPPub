@@ -1,27 +1,4 @@
-﻿With your armies chosen, you're ready to begin your Matched Play game. Here you will find a selection of twelve Scenarios, designed to give both players an even chance of winning. You can either agree with your opponent which Scenario you would like to play, or you can randomise by rolling on the charts below. First roll a D6 to determine which of the two tables to roll on next. Then roll a second D6 to determine which Scenario you will play. It is usually a good idea for one player to roll the first dice then the other player roll the second â€” that way which Scenario you play is equally both players' fault!
-
-D6 ROLL OF 1-3 D6 ROLL OF 4-6
-
-+----------------------------------+-----------------------------------+
-| D6 RESULT | D6 RESULT |
-+----------------------------------+-----------------------------------+
-| 1 Domination | 1 Hold Ground |
-+----------------------------------+-----------------------------------+
-| 2 To the Death! | 2 Lords of Battle |
-+----------------------------------+-----------------------------------+
-| 3 Seize the Prize | 3 Heirloom of Ages Past |
-+----------------------------------+-----------------------------------+
-| 4 Storm the Camp | 4 Capture and Control |
-+----------------------------------+-----------------------------------+
-| 5 Reconnoitre | 5 Fog of War |
-+----------------------------------+-----------------------------------+
-| 6 A Clash by Moonlight | 6 Contest of Champions |
-+----------------------------------+-----------------------------------+
- Each Scenario contains all of the information you need to get set up and start playing. This information is broken down into the following categories: The Armies, Layout, Starting Positions, Initial Priority, Objectives and Special Rules (if there are any for that Scenario).
-
-[]{#bookmark305 .anchor}GOOD VS**o**GOO**E**D**l**AND EVIL VS EVIL
- Whilst the game is designed to be played as Good versus Evil, there will be occasions in which you may find both players playing as either Good or Evil. In these situations you will need to decide which of you will be the 'Good' player and which of you will be the 'Evil' player for the purpose of roll-offs.
-
+﻿
 ![](../media/rules_manual/image229.jpeg)
 
 []{#bookmark308 .anchor}**SCENARIOS**
@@ -30,9 +7,9 @@ D6 ROLL OF 1-3 D6 ROLL OF 4-6
 
 ***"The age of Men is over, the time of the Orc has come".***
 
-***- Gothmog^â„¢^, The Lord of the Rings: The Return of the King^â„¢^.***
+***- Gothmog^™^, The Lord of the Rings: The Return of the King^™^.***
 
-[]{#bookmark311 .anchor}SCENARIO 1 â€” DOMINATION
+[]{#bookmark311 .anchor}SCENARIO 1 — DOMINATION
 
 *This battlefield will provide a distinct tactical advantage for whoever
 holds it for many years to come. Victory can be achieved by forcing the
@@ -55,7 +32,7 @@ five Objective markers on the battlefield; one is automatically placed in the ce
 
 STARTING POSITIONS
 
-Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 24" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
+Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 24" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
 
 When this has been done, the opposing player chooses one of their warbands and deploys it within 24" of their board edge, as described above. Players then alternate until all of their warbands have been placed.
 
@@ -83,7 +60,7 @@ Victory Points are scored for the following:
 
 ![](../media/rules_manual/image231.jpeg)
 
-[]{#bookmark313 .anchor}SCENARIO 2 â€” TO THE DEATH!
+[]{#bookmark313 .anchor}SCENARIO 2 — TO THE DEATH!
 
 *Once again, fate has pitted the forces of Good and Evil against each
 other, and no matter the cost, the enemy must be slain. No quarter shall
@@ -104,7 +81,7 @@ Set up terrain as described on [page 136].
 
 STARTING POSITIONS
 
-Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
+Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
 
 When this has been done, the opposing player chooses one of their warbands and deploys it within 12" of their board edge, as described above. Players then alternate until all warbands have been placed.
 
@@ -136,7 +113,7 @@ Victory Points are scored for the following:
 
 ![](../media/rules_manual/image232.jpeg)
 
-[]{#bookmark315 .anchor}SCENARIO 3 â€” HOLD GROUND
+[]{#bookmark315 .anchor}SCENARIO 3 — HOLD GROUND
 
 *In the swirl of battle it becomes apparent that a certain, usually
 insignificant, area of the battlefield has become vital to the victory
@@ -155,11 +132,11 @@ to an equal points value before the game.
 LAYOUT
 
 Set up terrain as described on [page 136]. Once the
-battlefield has been set up, an Objective marker is placed in the centre of the battlefield. Players must also agree which direction is north â€” this is important for determining where and when Reinforcements arrive from.
+battlefield has been set up, an Objective marker is placed in the centre of the battlefield. Players must also agree which direction is north — this is important for determining where and when Reinforcements arrive from.
 
 STARTING POSITIONS
 
-At the battle's start, the forces are yet to arrive â€” models are not deployed at the start of the game, but will enter as the game continues (see Special Rules later).
+At the battle's start, the forces are yet to arrive — models are not deployed at the start of the game, but will enter as the game continues (see Special Rules later).
 
 INITIAL PRIORITY
 
@@ -167,7 +144,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 OBJECTIVES
 
-Once one force has been Broken, the game might suddenly end. At the end of each turn, after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.
+Once one force has been Broken, the game might suddenly end. At the end of each turn, after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.
 
 At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
 
@@ -191,19 +168,19 @@ D6 RESULT
 
 1. The warband does not arrive.
 
-2. Your opponent chooses a point on either the north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.
+2. Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.
 
-3. Your opponent chooses a point on either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.
+3. Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.
 
-4. You choose a point on either the north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.
+4. You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.
 
-5. You choose a point on either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.
+5. You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.
 
-6. You choose a point on any board edge at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.
+6. You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point.
 
 ![](../media/rules_manual/image234.jpeg)
 
-[]{#bookmark318 .anchor}SCENARIO 4 â€” LORDS OF BATTLE
+[]{#bookmark318 .anchor}SCENARIO 4 — LORDS OF BATTLE
 
 *After weeks of skirmishes and close encounters with the opposing side,
 it comes down to one final battle to determine which faction will emerge
@@ -231,7 +208,7 @@ victory.*
 | | to the Wound Tally for each |
 | STARTING POSITIONS | one unspent. Models that |
 | | flee\ |
-| Both players roll a D6 â€” the | because their force is |
+| Both players roll a D6 — the | because their force is |
 | player with the highest result | Broken count towards the |
 | chooses\ | Wound Tally,\ |
 | one of the deployment zones. They | but mounts that flee do not. |
@@ -266,7 +243,7 @@ victory.*
 | At the end of each turn after | score 2 Victory Points. |
 | this condition has been met, roll | |
 | a\ | - You score 1 Victory Point if |
-| D6. On a 1-2, the game ends â€” | the enemy force is Broken at |
+| D6. On a 1-2, the game ends — | the enemy force is Broken at |
 | otherwise, the battle continues\ | the\ |
 | for another turn. | end of the game. If the |
 | | enemy force is Broken and |
@@ -290,7 +267,7 @@ victory.*
 
 ![](../media/rules_manual/image235.jpeg)![](../media/rules_manual/image236.jpeg)
 
-[]{#bookmark321 .anchor}SCENARIO 5 â€” RECONNOITRE
+[]{#bookmark321 .anchor}SCENARIO 5 — RECONNOITRE
 
 *Scouts have been sent out by both forces in order to gather vital
 information from behind enemy lines. Each force is attempting to sneak
@@ -313,7 +290,7 @@ Set up terrain as described on [page 136].
 
 STARTING POSITIONS
 
-At the battle's start, the forces are yet to arrive â€” models are not deployed at the start of the game. Both players roll a D6. The player with the highest result chooses one of the long table edges to be their board edge â€” the opposing player has the opposite board edge as their board edge (see Special Rules later).
+At the battle's start, the forces are yet to arrive — models are not deployed at the start of the game. Both players roll a D6. The player with the highest result chooses one of the long table edges to be their board edge — the opposing player has the opposite board edge as their board edge (see Special Rules later).
 
 INITIAL PRIORITY
 
@@ -330,7 +307,7 @@ Victory Points are scored for the following:
 
 - You score 3 Victory Points if more of your models have escaped the battlefield via your opponent's board edge than vice versa. If at least two of your models and twice as many models than your opponent have escaped the board, then you instead score 5 Victory Points. If at least three of your models, and three times as many models than your opponent have escaped the board, then you instead score 7 Victory Points.
 
-- You score 1 Victory Point for causing one or more Wounds on the enemy leader â€” Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score 2 Victory Points.
+- You score 1 Victory Point for causing one or more Wounds on the enemy leader — Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score 2 Victory Points.
 
 - You score 1 Victory Point if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score
 
@@ -346,7 +323,7 @@ D6 RESULT
 
 1-3 The warband does not arrive, but receives +1 to this dice roll next turn.
 
-4-6 The controlling player chooses a point on their board edge at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.
+4-6 The controlling player chooses a point on their board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point.
  *Designer's Note:* Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.
 
 ![](../media/rules_manual/image239.jpeg)
@@ -373,7 +350,7 @@ Set up terrain as described on [page 136].
 
 STARTING POSITIONS
 
-Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
+Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
 
 When this has been done, the opposing player chooses one of their warbands and deploys it within 12" of their board edge as described above. Players then alternate until all warbands have been placed.
 
@@ -397,11 +374,11 @@ Victory Points are scored for the following:
 
 SPECIAL RULES
 
-The Dark of Night: Due to the reduced visibility, models cannot be targeted by shooting, Magical Powers or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. Siege Engine models may still target enemy models more than 12" away â€” however in this situation they will only ever hit on the roll of a 6.
+The Dark of Night: Due to the reduced visibility, models cannot be targeted by shooting, Magical Powers or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. Siege Engine models may still target enemy models more than 12" away — however in this situation they will only ever hit on the roll of a 6.
 
 ![](../media/rules_manual/image240.jpeg)
 
-[]{#bookmark326 .anchor}SCENARIO 7 â€” SEIZE THE PRIZE
+[]{#bookmark326 .anchor}SCENARIO 7 — SEIZE THE PRIZE
 
 *Within Middle-earth, an ancient and mysterious artefact has awoken. Its
 power has drawn two opposing armies to claim it, hoping to use its
@@ -423,7 +400,7 @@ marker in the centre of the board to represent the artefact.
 
 STARTING POSITIONS
 
-Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
+Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
 
 When this has been done, the opposing player chooses one of their warbands and deploys it within 12" of their board edge as described above. Players then alternate until all warbands have been placed.
 
@@ -481,7 +458,7 @@ SCENARIO OUTLINE
 | | |
 | STARTING POSITIONS | Victory Points are scored for |
 | | the following: |
-| Both players roll a D6 â€” the | |
+| Both players roll a D6 — the | |
 | player with the highest result | - Keep a count of how many |
 | chooses\ | kills your leader scores in |
 | one of the deployment zones. They | combat\ |
@@ -545,7 +522,7 @@ SCENARIO OUTLINE
 
 ![](../media/rules_manual/image243.jpeg)![](../media/rules_manual/image244.jpeg)
 
-[]{#bookmark330 .anchor}SCENARIO 9 â€” CAPTURE AND CONTROL
+[]{#bookmark330 .anchor}SCENARIO 9 — CAPTURE AND CONTROL
 
 *By holding key strategic points, both armies believe they can control
 the field of battle and use these tactically important locations to
@@ -568,7 +545,7 @@ five Objective markers on the battlefield; one is automatically placed in the ce
 
 STARTING POSITIONS
 
-Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force and roll a D6.
+Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force and roll a D6.
 
 Players then take it in turns (starting with the player who rolled highest) to select a warband in their force and roll a D6.
 
@@ -582,7 +559,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 OBJECTIVES
 
-Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.
+Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.
 
 At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
 
@@ -600,7 +577,7 @@ Controlling Objectives: At the start of the game, all of the objectives are cons
 
 ![](../media/rules_manual/image245.jpeg)![](../media/rules_manual/image246.jpeg)
 
-[]{#bookmark333 .anchor}SCENARIO 10 â€” HEIRLOOM OF AGES PAST
+[]{#bookmark333 .anchor}SCENARIO 10 — HEIRLOOM OF AGES PAST
 
 *Buried somewhere upon the field of battle is a long-forgotten heirloom
 of ages past. Having narrowed down its location, the two armies now
@@ -624,7 +601,7 @@ six Objective markers on the battlefield. To place the objectives, both players 
 
 STARTING POSITIONS
 
-At the battle's start, the forces are yet to arrive â€” models are not deployed at the start of the game, but will enter as the game continues (see Special Rules later).
+At the battle's start, the forces are yet to arrive — models are not deployed at the start of the game, but will enter as the game continues (see Special Rules later).
 
 INITIAL PRIORITY
 
@@ -643,7 +620,7 @@ Victory Points are scored for the following:
 - You score 1 Victory Point if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score
 
 2 Victory Points.
- ![](../media/rules_manual/image247.jpeg){width="1.2631944444444445in" ![](../media/rules_manual/image248.jpeg){width="0.1763888888888889in" ![](../media/rules_manual/image249.jpeg){width="4.043055555555555in" â€¢ You score 1 Victory Point if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score 2 Victory Points.
+ ![](../media/rules_manual/image247.jpeg){width="1.2631944444444445in" ![](../media/rules_manual/image248.jpeg){width="0.1763888888888889in" ![](../media/rules_manual/image249.jpeg){width="4.043055555555555in" * You score 1 Victory Point if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score 2 Victory Points.
 
 SPECIAL RULES
 
@@ -657,15 +634,15 @@ D6 RESULT
 
 1. The warband does not arrive.
 
-2. Your opponent chooses a point on either the north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.
+2. Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.
 
-3. Your opponent chooses a point on either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.
+3. Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.
 
-4. You choose a point on either the north or south board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.
+4. You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.
 
-5. You choose a point on either the east or west board edges at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.
+5. You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.
 
-6. You choose a point on any board edge at least 6" from a corner â€” all models in the warband move onto the battlefield from this point.
+6. You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point.
 
 ![](../media/rules_manual/image250.jpeg)
 
@@ -691,7 +668,7 @@ Set up terrain as described on [page 136].
 
 STARTING POSITIONS
 
-Both players roll a D6 â€” the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
+Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 12" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
 
 When this has been done, the opposing player chooses one of their warbands and deploys it within 12" of their board edge as described above. Players then alternate until all warbands have been placed.
 
@@ -701,7 +678,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 OBJECTIVES
 
-Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends â€” otherwise, the battle continues for another turn.
+Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends — otherwise, the battle continues for another turn.
 
 At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
 
@@ -709,9 +686,9 @@ At the end of the game, the force that has scored the most Victory Points wins t
 
 Victory Points are scored for the following:
 
-- At the start of the game secretly note down one of your own Hero models â€” this may not be your leader unless you only have one Hero. You score 1 Victory Point if the nominated Hero is still alive at the end of the game. If the nominated Hero is still alive and has suffered no Wounds, you instead score 3 Victory Points.
+- At the start of the game secretly note down one of your own Hero models — this may not be your leader unless you only have one Hero. You score 1 Victory Point if the nominated Hero is still alive at the end of the game. If the nominated Hero is still alive and has suffered no Wounds, you instead score 3 Victory Points.
 
-- At the start of the game secretly note down one of your opponent's Hero models â€” this may not be your opponent's leader unless they only have one Hero. You score 1 Victory Point for causing one or more Wounds on the nominated Hero. Wounds prevented by a successful Fate roll do not count. If you kill the nominated Hero, you instead score 3 Victory Points.
+- At the start of the game secretly note down one of your opponent's Hero models — this may not be your opponent's leader unless they only have one Hero. You score 1 Victory Point for causing one or more Wounds on the nominated Hero. Wounds prevented by a successful Fate roll do not count. If you kill the nominated Hero, you instead score 3 Victory Points.
 
 - At the start of the game secretly note down a single terrain piece in your opponent's half of the board. You score 1 Victory Point if at the end of the game you have more models than your opponent completely within your selected terrain piece. If your opponent has no models completely within your selected terrain piece and you have at least one, you instead score 3 Victory Points.
 
@@ -774,7 +751,7 @@ Models that are within their own campsite will defend it at all costs. Any model
 
 THE FELLOWSHIP
 
-*Aragorn â€” Strider*
+*Aragorn — Strider*
 
 *Legolas*
 
@@ -799,7 +776,7 @@ Peregrin Took
 
 *Denethor, Steward of Gondor*
 
-â„¢
+™
 
 *Boromir, Captain of the White Tower*
 
@@ -892,7 +869,7 @@ Galadriel Celeborn *Haldir*
 
 ![](../media/rules_manual/image290.jpeg)
 
-â„¢
+™
 
 *Witch-king of Angmar on Fell Beast*
 
@@ -940,7 +917,7 @@ MORIA
 ![](../media/rules_manual/image301.jpeg)![](../media/rules_manual/image302.jpeg)![](../media/rules_manual/image303.jpeg)![](../media/rules_manual/image304.jpeg)![](../media/rules_manual/image305.jpeg)
 
 ![](../media/rules_manual/image306.jpeg)
- *The Balrogâ„¢*
+ *The Balrog™*
 
 ![](../media/rules_manual/image307.jpeg)
  *The Watcher in the Water*
@@ -996,7 +973,7 @@ EASTERLINGS
 
 ![](../media/rules_manual/image318.jpeg)![](../media/rules_manual/image319.jpeg)![](../media/rules_manual/image320.jpeg)![](../media/rules_manual/image321.jpeg)![](../media/rules_manual/image322.jpeg)
 
-~â„¢~
+~™~
 
 *Gandalf the Grey*
 
@@ -1143,7 +1120,7 @@ Armoured Elf Cavalry*
 
 []{#bookmark379 .anchor}THE WHITE COUNCIL
 
-â„¢
+™
 
 *Saruman the White*
 
@@ -1227,7 +1204,7 @@ Yazneg
 
 []{#bookmark392 .anchor}ADAM TROKE'S MINAS TIRITH
 
-Inspired by the heroic defence of Minas Tirith as depicted in *The Lord of the Rings*: *The Return of the Kingâ„¢*, Adam has built this army up over the course of a few months. Originally, his army started life as a joint effort with his friend Sam so they could attend a Doubles tournament weekend, but since then it has taken on a life of its own, with Adam constantly adding more to it. Adam's fledgling army has since grown into the mighty 1,000 point force you see below.
+Inspired by the heroic defence of Minas Tirith as depicted in *The Lord of the Rings*: *The Return of the King™*, Adam has built this army up over the course of a few months. Originally, his army started life as a joint effort with his friend Sam so they could attend a Doubles tournament weekend, but since then it has taken on a life of its own, with Adam constantly adding more to it. Adam's fledgling army has since grown into the mighty 1,000 point force you see below.
 
 Due to Denethor's The Rule of Gondor is Mine, and No Others! special rule, Adam must choose Denethor to be the leader of his army. Because Denethor is a Hero of Valour, Adam has been able to pack a total of 15 Warrior models into the warband. This provides the Steward of Gondor with an inner circle of Guards of the Fountain Court and Citadel Guard for his protection, and seeing as they all have the Bodyguard special rule, makes them very useful indeed.
 
@@ -1351,7 +1328,7 @@ No. of Bows
 
 ![](../media/rules_manual/image408.jpeg)
 
-THE ARMY OF THE DEAD Adam isn't content with leaving his Army of Minas Tirith as it is â€” he's begun adding allies in already, painting the King of the Dead and a full warband of Warriors of the Dead too. His plan is to add these, along with Aragorn, to the army as Historical Allies in the very near future.
+THE ARMY OF THE DEAD Adam isn't content with leaving his Army of Minas Tirith as it is — he's begun adding allies in already, painting the King of the Dead and a full warband of Warriors of the Dead too. His plan is to add these, along with Aragorn, to the army as Historical Allies in the very near future.
 
 Gandalf the White is Adam's next Hero, and he has included Peregrin Took, Guard of the Citadel within his warband, along with a slew of Warriors of Minas Tirith to represent those who fought alongside the Wizard on the White City's ramparts. Adding Gandalf provides Adam's force with access to some Magical Powers such as Immobilise and Blinding Light, which can be very useful in a tight spot.
 
@@ -1363,7 +1340,7 @@ V7
 
 []{#bookmark395 .anchor}DAN HUCKVALE'S ISENGARD
 
-Dan has been collecting his Isengard army for a few years, and recently gathered together an impressive army to march to war at 2017's *The Hobbit*â„¢ Throne of Skulls tournament. However, with the new rules and changes to building an army, Dan has been eagerly painting up even more Uruk-hai so that he can put together a brand new force consisting of a nice mixture of Uruk- hai Warriors and Uruk-hai Scouts.
+Dan has been collecting his Isengard army for a few years, and recently gathered together an impressive army to march to war at 2017's *The Hobbit*™ Throne of Skulls tournament. However, with the new rules and changes to building an army, Dan has been eagerly painting up even more Uruk-hai so that he can put together a brand new force consisting of a nice mixture of Uruk- hai Warriors and Uruk-hai Scouts.
 
 Dan has chosen Saruman to lead his armies due to the magical support that the *White Wizard* can provide. As Saruman is a Hero of Legend, Dan has given him a full warband of 18 fighting Uruk-hai with an equal mix of shields, pikes and crossbows, providing Saruman with plenty of protection against those more combat orientated heroes that pose a serious threat to the former lord of the Istari.
 
@@ -1480,7 +1457,7 @@ As you can see, Dan's force is rather impressive, containing a good amount of *U
 
 []{#bookmark398 .anchor}JAY CLARE'S DEFENDERS OF EREBOR
 
-Jay wanted to build his army around the epic scenes from *The Hobbit: The Battle of the Five Armies*â„¢, where Men, Elves and Dwarves fight alongside each other against the teeming hordes of Azog's Legion in defence of Erebor and Dale. Jay has combined warbands from the Iron Hills, Halls of Thranduil and Survivors of Lake-town in order to build an impressive 1,000 point army that can accurately recreate the scenes from the films.
+Jay wanted to build his army around the epic scenes from *The Hobbit: The Battle of the Five Armies*™, where Men, Elves and Dwarves fight alongside each other against the teeming hordes of Azog's Legion in defence of Erebor and Dale. Jay has combined warbands from the Iron Hills, Halls of Thranduil and Survivors of Lake-town in order to build an impressive 1,000 point army that can accurately recreate the scenes from the films.
 
 Even though Jay has selected three warbands from three different army lists: the Iron Hills, Halls of Thranduil and Survivors of Lake-town, all three of the armies in his force are all Historical Allies with each other. This means that Jay's force will still get to benefit from all three of its Army Bonuses, something that Jay was very keen to make sure of. The combination of Iron Hills Dwarves, Mirkwood Elves and Lake-town Militia makes this force one to be reckoned with.
 
@@ -1595,13 +1572,13 @@ Even though Jay has selected three warbands from three different army lists: the
 
 ![](../media/rules_manual/image412.jpeg)
 
-To get the best feel of the scenes from the film, Jay has chosen to have the three main leaders of the armies in his force: Bard, Dain and Thranduil. All of these Heroes are Heroes of Legend, which means that they could all be selected as the force's leader. All three Heroes would excel in this role but Jay has chosen to make Bard the leader â€” although this may be more to do with the fact that Bard is his favourite character than anything else!
+To get the best feel of the scenes from the film, Jay has chosen to have the three main leaders of the armies in his force: Bard, Dain and Thranduil. All of these Heroes are Heroes of Legend, which means that they could all be selected as the force's leader. All three Heroes would excel in this role but Jay has chosen to make Bard the leader — although this may be more to do with the fact that Bard is his favourite character than anything else!
 
-As Bard, Dain and Thranduil are all Heroes of Legend, they can all lead warbands of 18 Warriors, and Jay has made the most of this by packing each Hero's warband with the maximum number of models to bring his force up to a rather large 57-model total â€” perfect for fighting large battles against a horde of Gundabad Orcs and their monstrous allies.
+As Bard, Dain and Thranduil are all Heroes of Legend, they can all lead warbands of 18 Warriors, and Jay has made the most of this by packing each Hero's warband with the maximum number of models to bring his force up to a rather large 57-model total — perfect for fighting large battles against a horde of Gundabad Orcs and their monstrous allies.
 
 SURVIVORS OF LAKE-TOWN
 
-Jay already has quite a large collection of Lake-town models, both from the Army of Lake-town and the Survivors of Lake-town, and he is planning on adding even more to them â€” next up will be yet more Lake-town Militia as well as Bain, Sigrid & Tilda.
+Jay already has quite a large collection of Lake-town models, both from the Army of Lake-town and the Survivors of Lake-town, and he is planning on adding even more to them — next up will be yet more Lake-town Militia as well as Bain, Sigrid & Tilda.
 
 ![](../media/rules_manual/image413.jpeg)
 
@@ -1609,7 +1586,7 @@ Jay already has quite a large collection of Lake-town models, both from the Army
 
 []{#bookmark401 .anchor}DAVID WHITAKER'S AZOG'S HUNTERS
 
-David has been involved with the Strategy Battle Game for a number of years, and has built up quite an impressive collection of models for his vast array of armies from all areas of Middle-earth. However, possibly his favourite army is his collection of Azog's Hunters, which he has been constantly adding to over time â€” so naturally he was eager to see how the new rules affected his choice of army building. His 1,000 point army is:
+David has been involved with the Strategy Battle Game for a number of years, and has built up quite an impressive collection of models for his vast array of armies from all areas of Middle-earth. However, possibly his favourite army is his collection of Azog's Hunters, which he has been constantly adding to over time — so naturally he was eager to see how the new rules affected his choice of army building. His 1,000 point army is:
 
 When choosing his leader, David had the choice between Bolg and *Bill the Troll,* as they are both Heroes of Valour. As the majority of his force is from the Azog's Hunters list, David has opted to select Bolg to lead his forces into battle. He has then packed his warband with as many Hunter Orcs as he can, making the most of Bolg's 15-model warband limit, to ensure that Bolg has a suitable amount of protection from enemy warbands at all times.
 
@@ -1731,7 +1708,7 @@ So, you've read through this rules manual and begun to get your head
 around how the game works. By now you are probably thinking 'where do I go from here?'.
 
 Well, the first place to look to are the two army books that cover all
-of the characters, warriors and creatures from *The Lord of the Rings*â„¢ and *The Hobbit*â„¢. From there, there are loads of other resources and
+of the characters, warriors and creatures from *The Lord of the Rings*™ and *The Hobbit*™. From there, there are loads of other resources and
 places to get extra Middle-earth content from.
 
 ![](../media/rules_manual/image417.jpeg)
@@ -1741,16 +1718,16 @@ places to get extra Middle-earth content from.
 THE ARMIES OF THE LORD OF THE RINGS
 
 This manual covers all of the profiles for the characters from *The Lord
-of the Rings*â„¢ trilogy, from the noble warriors of Gondor that bravely fought
+of the Rings*™ trilogy, from the noble warriors of Gondor that bravely fought
 against the forces of Sauron, to the fighting Uruk-hai that were bred by Saruman
 in the pits of Isengard to put an end to the race of Men.
 
-The Armies of *The Lord of the Rings*â„¢ is a 240-page hardback tome that
+The Armies of *The Lord of the Rings*™ is a 240-page hardback tome that
 contains 27 different army lists, representing factions from both the films and
 the books; as well as 11 different Narrative Play Scenarios that faithfully
 recreate some of the most iconic scenes from both page and screen.
 
-The Armies of *The Lord of the Rings*â„¢ is available now to help you
+The Armies of *The Lord of the Rings*™ is available now to help you
 begin, or continue, your journey into Middle-earth.
 
 ![](../media/rules_manual/image419.png)
@@ -1759,23 +1736,23 @@ begin, or continue, your journey into Middle-earth.
 
 THE ARMIES OF THE HOBBIT
 
-The Armies of *The Hobbit*â„¢ covers all of the profiles for the
-characters depicted within *The Hobbit*â„¢ films and books, from the ragged and homeless
+The Armies of *The Hobbit*™ covers all of the profiles for the
+characters depicted within *The Hobbit*™ films and books, from the ragged and homeless
 militia from Lake-town, to the fearsome and fully-armed legions that march upon *The
 Lonely Mountain* from Gundabad.
 
 This hardback manual contains 20 different army lists from *The
-Hobbit*â„¢ trilogy as well as from the pages of the books. There are also 11
+Hobbit*™ trilogy as well as from the pages of the books. There are also 11
 Narrative Play Scenarios that allow you to play through your favourite scenes, enabling
 you to recreate them with your own models.
 
-[]{#bookmark406 .anchor}The Armies of *The Hobbit*â„¢ will be available in
+[]{#bookmark406 .anchor}The Armies of *The Hobbit*™ will be available in
 the coming months. In the meantime, until it is released, you can use the profiles found in the
 Heroes and Villains of *Middle-earth* download and *The Hobbit: Motion Picture
-Trilogyâ„¢ There and Back Again*. There is also a free PDF download available on the
+Trilogy™ There and Back Again*. There is also a free PDF download available on the
 Games Workshop website that will provide you with the army lists, and what
 they contain, as well as the Heroic Tiers and Heroic Abilities of all the
-heroes found within *The Hobbit*â„¢ to tide you over until The Armies of *The Hobbit*â„¢
+heroes found within *The Hobbit*™ to tide you over until The Armies of *The Hobbit*™
 is released.
 
 ***WEBSTORES***
@@ -1800,7 +1777,7 @@ available)!
 
 COMMUNITY WEBSITE
 
-Visit the exciting Warhammer Community page at warhammer- community.com. Every day there is a plethora of new and exciting content from all aspects of the Games Workshop hobby â€” from painting tips to tactics to details on new releases. There is even a section dedicated to all things Middle-earth â€” the perfect way to grow your hobby knowledge or get some inspiration.
+Visit the exciting Warhammer Community page at warhammer- community.com. Every day there is a plethora of new and exciting content from all aspects of the Games Workshop hobby — from painting tips to tactics to details on new releases. There is even a section dedicated to all things Middle-earth — the perfect way to grow your hobby knowledge or get some inspiration.
 
 WARHAMMER TV
 
@@ -1812,7 +1789,7 @@ Subscribe to the Warhammer TV Twitch channel for regular content from across Gam
 
 Every month, *White Dwarf* magazine is crammed full of hobby goodness from Games Workshop, with something to interest almost everyone within its hallowed pages. Each issue will have all the information on the most recent releases, army showcases, battle reports, painting guides, articles and more, making *White Dwarf* truly the number one Warhammer magazine across the globe!
 
-For fans of the Middle-earth Strategy Battle Game, most issues will contain some form of Middle-earth related content. This could include Narrative Play Scenarios, battle reports, galleries and more â€” many of which appear exclusively first to *White Dwarf*.
+For fans of the Middle-earth Strategy Battle Game, most issues will contain some form of Middle-earth related content. This could include Narrative Play Scenarios, battle reports, galleries and more — many of which appear exclusively first to *White Dwarf*.
 
 ![](../media/rules_manual/image428.jpeg)![](../media/rules_manual/image429.jpeg)![](../media/rules_manual/image430.jpeg)
 
@@ -1850,7 +1827,7 @@ Started
 
 Paint by Miniature
 
-Now includes The Hobbitâ„¢ and The Lord of the Ringsâ„¢ miniatures painting guides.
+Now includes The Hobbit™ and The Lord of the Rings™ miniatures painting guides.
 
 Paint
 
@@ -2730,7 +2707,7 @@ M
 
 *Which Models can Ride? 57*
 
-*Who Sees â€” Rider or Mount? 57*
+*Who Sees — Rider or Mount? 57*
 
 *What Wargear does a Model Have? 83*
 
@@ -2780,8 +2757,8 @@ M
 
 ***"I think I'm quite ready for another adventure.***
 
-***- Bilbo Baggins^â„¢^, The Lord of the Rings: The Return of the King
-^â„¢^.***
+***- Bilbo Baggins^™^, The Lord of the Rings: The Return of the King
+^™^.***
 
 ![](../media/rules_manual/image437.jpeg)
 

@@ -1,4 +1,4 @@
-﻿With the vast number of races, creatures and heroes that inhabit the realms of Middle-earth, it should come as little surprise that many of them possess a variety of attributes, skills or abilities that set them apart from each other â€” from heroes that coat their weapons in exotic toxins to monsters that instill fear into their prey or even possess the ability to set their enemies on fire. These are represented by special rules, and many models will have a selection of them. Here we have compiled a collection of the most common for easy reference purposes.
+﻿With the vast number of races, creatures and heroes that inhabit the realms of Middle-earth, it should come as little surprise that many of them possess a variety of attributes, skills or abilities that set them apart from each other — from heroes that coat their weapons in exotic toxins to monsters that instill fear into their prey or even possess the ability to set their enemies on fire. These are represented by special rules, and many models will have a selection of them. Here we have compiled a collection of the most common for easy reference purposes.
 
 ## PASSIVE AND ACTIVE SPECIAL RULES 
 
@@ -28,7 +28,7 @@ An enemy model within 18" of this model suffers a -1 penalty to its Courage. Not
 
 **ACTIVE**
 
-*Many warriors have made sly, cunning murder an art form. They fight most effectively when their prey is outnumbered â€“ or better yet, completely unaware of their assailant's presence.* 
+*Many warriors have made sly, cunning murder an art form. They fight most effectively when their prey is outnumbered — or better yet, completely unaware of their assailant's presence.* 
 
 This model receives +1 to their To Wound rolls when making Strikes against a Trapped model. This bonus is cumulative with other bonuses, such as using a two-handed weapon.
 
@@ -46,7 +46,7 @@ This model must re-roll all failed To Wound rolls when making Strikes in close c
 
 *These weapons were forged in ages past, during wars of terrible hate and desperate survival. Enchanted to slay the direst of foes, such weapons kill more readily than mere steel alone.* 
 
-Bane weapons cause D3 Wounds rather than 1, per successful Strike, on specific races â€“ the race in question will be presented as Xbane, where X is the race in question. For example, a model with the Orcbane special rule will cause D3 Wounds per successful Strike against models with the Orc keyword.
+Bane weapons cause D3 Wounds rather than 1, per successful Strike, on specific races — the race in question will be presented as Xbane, where X is the race in question. For example, a model with the Orcbane special rule will cause D3 Wounds per successful Strike against models with the Orc keyword.
 
 ### BLADES OF THE DEAD
 
@@ -140,11 +140,11 @@ A model that has this special rule, and the Woodland Creature special rule, will
 
 **ACTIVE**
 
-*From the Great Eagles of The Misty Mountains to the Fell Beasts of the NazgÃ»l, many creatures in Middle-earth possess the ability to soar amongst the clouds â€“ providing a serious advantage upon the battlefield.* 
+*From the Great Eagles of The Misty Mountains to the Fell Beasts of the NazgÃ»l, many creatures in Middle-earth possess the ability to soar amongst the clouds — providing a serious advantage upon the battlefield.* 
 
-This model may ignore all intervening models and terrain as it moves â€“ flying over buildings, woods and so on. The model may not end its movement within woods or upon any terrain that its base will not safely balance upon (flat rocks, hills and the like are fine, but don't try to perch your model precariously upon trees, sloped roofs, and so on). When flying, a model may move up to 12". A model with this special rule may still choose to use their normal Move value if they wish, however, they will gain none of the benefits of the Fly special rule if they move in this way. If a model with the Fly special rule walks into a wood, they cannot use the Fly special rule again until they have fully left the wood. 
+This model may ignore all intervening models and terrain as it moves — flying over buildings, woods and so on. The model may not end its movement within woods or upon any terrain that its base will not safely balance upon (flat rocks, hills and the like are fine, but don't try to perch your model precariously upon trees, sloped roofs, and so on). When flying, a model may move up to 12". A model with this special rule may still choose to use their normal Move value if they wish, however, they will gain none of the benefits of the Fly special rule if they move in this way. If a model with the Fly special rule walks into a wood, they cannot use the Fly special rule again until they have fully left the wood. 
 
-Furthermore, a model with this special rule may pass 'over' enemy Control Zones without charging the model â€“ as long as they end their move outside of the Control Zone.
+Furthermore, a model with this special rule may pass 'over' enemy Control Zones without charging the model — as long as they end their move outside of the Control Zone.
 
 ### HARBINGER OF EVIL
 
@@ -178,7 +178,7 @@ Whilst this model is mounted, they may choose to expend their own Fate points to
 
 Whenever an enemy **Hero** attempts a Heroic Action within 6" of a model with this special rule, this model may call the same Heroic Action without spending Might, even if they would not usually have access to it. 
 
-Sometimes a model with this special rule will have a number after the rule in brackets, e.g., Master of Battle (5+). In this situation, whenever an enemy **Hero** attempts a Heroic Action within 6" of a model with this special rule, roll a D6. If the dice score equals or beats the number after the special rule, this model may call the same Heroic Action without spending Might â€“ even if they would not normally be able to call the same Heroic Action.
+Sometimes a model with this special rule will have a number after the rule in brackets, e.g., Master of Battle (5+). In this situation, whenever an enemy **Hero** attempts a Heroic Action within 6" of a model with this special rule, roll a D6. If the dice score equals or beats the number after the special rule, this model may call the same Heroic Action without spending Might — even if they would not normally be able to call the same Heroic Action.
 
 ### MIGHTY BLOW
 
@@ -192,7 +192,7 @@ For each Strike that successfully Wounds in close combat, this model inflicts 2 
 
 **PASSIVE**
 
-*Only the greatest Heroes have been touched by destiny â€“ and they will make their mark upon the history of Middle-earth and etch themselves into songs and legend for years to come.* 
+*Only the greatest Heroes have been touched by destiny — and they will make their mark upon the history of Middle-earth and etch themselves into songs and legend for years to come.* 
 
 A model with this special rule may expend 1 point of Might each turn without reducing their own store of Might.
 
@@ -258,7 +258,7 @@ If this model is armed with a shield, whilst in base contact with two or more no
 
 *The ability to walk silently and undetected is a rare gift indeed, and the stealthiest fighters can avoid being seen if they so wish.* 
 
-If a model with this special rule is partially concealed from view by a piece of terrain, they cannot be seen at all at distances of more than 6" â€“ they appear to melt into the background. This means that enemies cannot Charge, Shoot or target them with Magical Powers or special rules at ranges of greater than 6", unless they have a completely clear view of the target. 
+If a model with this special rule is partially concealed from view by a piece of terrain, they cannot be seen at all at distances of more than 6" — they appear to melt into the background. This means that enemies cannot Charge, Shoot or target them with Magical Powers or special rules at ranges of greater than 6", unless they have a completely clear view of the target. 
 
 If the model is riding a mount, Stalk Unseen has no effect.
 
@@ -274,15 +274,15 @@ Each time a model with this special rule suffers a Wound, it must take a Courage
 
 **ACTIVE**
 
-*Some creatures are able to scale any surface, climbing over rocks and scaling walls with ease â€“ an advantage that can prove decisive on the battlefield.* 
+*Some creatures are able to scale any surface, climbing over rocks and scaling walls with ease — an advantage that can prove decisive on the battlefield.* 
 
-A model with this special rule can climb on any surface, regardless of angle. They can therefore move at full speed over any type of difficult terrain and ignore all obstacles except for water features and gaps such as chasms, ditches and other spaces, which they have to jump as normal. The model must be able to balance safely upon wherever it finishes its movement â€“ no spiders finishing upside down, for example!
+A model with this special rule can climb on any surface, regardless of angle. They can therefore move at full speed over any type of difficult terrain and ignore all obstacles except for water features and gaps such as chasms, ditches and other spaces, which they have to jump as normal. The model must be able to balance safely upon wherever it finishes its movement — no spiders finishing upside down, for example!
 
 ### SWORN PROTECTOR
 
 **ACTIVE**
 
-*Some warriors will stop at nothing to protect those close to them â€“ whether they are their kin, lord or someone they are very close to.* 
+*Some warriors will stop at nothing to protect those close to them — whether they are their kin, lord or someone they are very close to.* 
 
 Models with this special rule will have a specific model in brackets after the special rule. Whilst the named model is alive and on the battlefield, this model passes all Courage tests.
 
@@ -318,9 +318,9 @@ If a model with this special rule is knocked Prone, roll a D6. On a 4+, this mod
 
 *Certain spirits are only kept in existence by some unnatural and dark power. Should they become disconnected from this power, they will vanish like smoke upon a breeze.* 
 
-This model must give up 1 point of Will at the end of the Fight phase if it has been involved in one or more Fights that turn. Note that if a model is in base contact with an enemy model then it must fight â€“ it cannot choose not to fight! Once the model is reduced to 0 Will points, it is banished and therefore removed as a casualty. If a model with this special rule uses their last Will points to cast a Magical Power with the Instant duration, the effects of the Magical Power will be resolved before the model is removed as a casualty. 
+This model must give up 1 point of Will at the end of the Fight phase if it has been involved in one or more Fights that turn. Note that if a model is in base contact with an enemy model then it must fight — it cannot choose not to fight! Once the model is reduced to 0 Will points, it is banished and therefore removed as a casualty. If a model with this special rule uses their last Will points to cast a Magical Power with the Instant duration, the effects of the Magical Power will be resolved before the model is removed as a casualty. 
 
-Additionally, a **Hero** wearing The One Ring is not invisible to this model as they are to others. Furthermore, this model does not need to give up a point of Will if they are fighting a model wearing the Ring â€“ not even if other enemy models are included as part of a Multiple Combat.
+Additionally, a **Hero** wearing The One Ring is not invisible to this model as they are to others. Furthermore, this model does not need to give up a point of Will if they are fighting a model wearing the Ring — not even if other enemy models are included as part of a Multiple Combat.
 
 ### WOODLAND CREATURE
 

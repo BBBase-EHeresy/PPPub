@@ -41,7 +41,7 @@ The style of event that is being run will often dictate the tiebreakers used. In
 
 ## ESCALATION EVENTS
 
-Some events like to use what is known as an Escalation format for the armies that the players will use. What this means is that players will start with a small army, then add more and more to their army following each game â€” though they cannot remove anything from their army after it has been added
+Some events like to use what is known as an Escalation format for the armies that the players will use. What this means is that players will start with a small army, then add more and more to their army following each game — though they cannot remove anything from their army after it has been added
 in.
 
 What this results in is the constantly changing state of an army, one where players can grow their force over the course of the event.
@@ -69,7 +69,7 @@ Have your leader kill the enemy leader in combat. Your leader must cause every W
 
 **3. SENDING A MESSAGE**
 
-Kill the most expensive Hero model (include wargear in their points cost) in your opponentâ€™s force. If the most expensive Hero is part of two Hero models bought together (e.g., Elladan & Elrohir or Murin & DrÃ¡r), then you must kill both to score this Secret Objective.
+Kill the most expensive Hero model (include wargear in their points cost) in your opponent's force. If the most expensive Hero is part of two Hero models bought together (e.g., Elladan & Elrohir or Murin & DrÃ¡r), then you must kill both to score this Secret Objective.
 
 **4. MINIMISE CASUALTIES**
 

@@ -357,7 +357,7 @@ Frodo.*]
 
 [![](../media/2_MESBG_-_Armies_of_LOTR_media/image13.jpeg)![](../media/2_MESBG_-_Armies_of_LOTR_media/image14.jpeg)
 
-[***â€¢ M W F 000***]
+[**** M W F 000***]
 
 [*Often called Merry, this Hobbit is a known troublemaker and practical joker - more than once he has been responsible for setting off Gandalf's fireworks, much to the annoyance of the Grey Wizard. However, Merry is ready to help Frodo in his quest and sets out from The Shire into a life of adventure and discovery that will change him
 forever.*]
@@ -500,7 +500,7 @@ Strike*OPTIONS]
   [*Blinding                                                          [*-*]       [*2+*]
   Light*]                                                                         
 
-  [*Terrifying                                                        [*â€¢*]       [*2+*]
+  [*Terrifying                                                        [***]       [*2+*]
   Aura*]                                                                          
 
   [*Immobilise*]   [*12"*]    [*3+*]
@@ -1413,7 +1413,7 @@ Pelennor.*]
 
 [HEROIC ACTIONS]
 
-[â€¢ Heroic Accuracy]
+[* Heroic Accuracy]
 
 [WARGEAR]
 
@@ -1948,7 +1948,7 @@ dagger.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic Defence*]
+[** Heroic Defence*]
 
 [*SPECIAL RULES Resistant to Magic; Throw Stones (range 8", Strength
 1).*]
@@ -2086,7 +2086,7 @@ longbow.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic Accuracy*]
+[** Heroic Accuracy*]
 
 [OPTIONS]
 
@@ -2149,7 +2149,7 @@ bow.]
 
 [HEROIC ACTIONS]
 
-[â€¢ Heroic Accuracy]
+[* Heroic Accuracy]
 
 [SPECIAL RULES]
 
@@ -2306,7 +2306,7 @@ sword.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic March*]
+[** Heroic March*]
 
 [OPTIONS]
 
@@ -2716,7 +2716,7 @@ horn.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic Strength*]
+[** Heroic Strength*]
 
 [SPECIAL RULES]
 
@@ -2773,7 +2773,7 @@ weapon.*]
 
 [![](../media/2_MESBG_-_Armies_of_LOTR_media/image83.jpeg)
 
-[*â€¢MWF*]
+[**MWF*]
 
 [*Duinhir is the lord of Morthond, the Blackroot Vale that lies beneath the shadows of the White Mountains. Through protecting his home from the raids of Orcs and Corsairs, Duinhir's skill with a bow has become unrivalled in the Fiefdoms of Gondor, a skill which he has passed on to those that reside in Morthond. It is upon the Pelennor that Duinhir's fate shall be decided, yet whatever the outcome, Duinhir will doubtless ensure that swathes of Orcs will fall before he does.*]
 
@@ -3306,7 +3306,7 @@ FORTITUDE]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic Resolve*]
+[** Heroic Resolve*]
 
 [SPECIAL RULES]
 
@@ -3345,7 +3345,7 @@ shield.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic March*]
+[** Heroic March*]
 
 [OPTIONS]
 
@@ -3710,9 +3710,9 @@ Hammerhand.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic March*]
+[** Heroic March*]
 
-[*â€¢ Heroic Strength*]
+[** Heroic Strength*]
 
 [OPTIONS]
 
@@ -4748,7 +4748,7 @@ his own store of Will.*]
 
 [70 POINTS]
 
-[***â€¢MWF***]
+[****MWF***]
 
 [OPTIONS]
 
@@ -5113,7 +5113,7 @@ shield.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic Defence*]
+[** Heroic Defence*]
 
 [***MWF***]
 
@@ -5198,7 +5198,7 @@ sword.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic March*]
+[** Heroic March*]
 
 [OPTIONS]
 
@@ -5575,7 +5575,7 @@ Branches.*]
 -   
 -   
 
-[*Heroic StrikeHeroic Strength â€¢ Heroic
+[*Heroic StrikeHeroic Strength * Heroic
 Defence*OPTIONS]
 
 [*Merry & Pippin 10
@@ -5885,7 +5885,7 @@ rule.*]
 
 [HEROIC ACTIONS]
 
-[![](../media/2_MESBG_-_Armies_of_LOTR_media/image173.jpeg)*â€¢ Heroic Strength* ]
+[![](../media/2_MESBG_-_Armies_of_LOTR_media/image173.jpeg)** Heroic Strength* ]
 
 [FLOI STONEHAND 75
 POINTS]
@@ -6436,7 +6436,7 @@ models.*]
 
 [HEROIC ACTIONS]
 
-[*â€¢ Heroic Accuracy*]
+[** Heroic Accuracy*]
 
 [HEROIC ACTIONS]
 

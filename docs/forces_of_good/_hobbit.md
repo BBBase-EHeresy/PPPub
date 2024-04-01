@@ -222,7 +222,7 @@ Erebor, and fought at the battle of Azanulbizar against the armies of the Pale
 Orc.*]
 
 [*Bifur, Bofur and Bombur all joined the company from their home in the Blue Mountains. A jolly and light-hearted Dwarf, Bofur served the company well by raising the spirits of those around him, and formed a close bond with Bilbo. Bifur, on the other hand, was unable to speak the common tongue at all. This was entirely due to the jagged axe-blade that jutted from his skull. Bombur was easily the largest of the
-Dwarves â€” and it was he who all but emptied Bilbo's pantry upon the Dwarves' arrival at Bag End.*]
+Dwarves — and it was he who all but emptied Bilbo's pantry upon the Dwarves' arrival at Bag End.*]
 
 [*The brothers Ori, Nori and Dori, who hailed from the Blue Mountains, also joined Thorin's Company. Dori was the oldest of the three and would spend most of his time trying to keep his two brothers out of trouble, for Nori was a renowned troublemaker and pickpocket, whilst Ori was the youngest of the company. Ã“in and GlÃ³in were the final members of the company, both unable to resist the lure of potential treasure.*]
 
@@ -248,7 +248,7 @@ captain.*]
 
 [***ARMY BONUS***]
 
-[*"I would take each and every one of these Dwarves over an army from the Iron Hills, for when I called upon them, they answered" â€” Models from this army list may re-roll To Wound rolls of a 1 whilst within 3" of Thorin Oakenshield.*]
+[*"I would take each and every one of these Dwarves over an army from the Iron Hills, for when I called upon them, they answered" — Models from this army list may re-roll To Wound rolls of a 1 whilst within 3" of Thorin Oakenshield.*]
 
 [![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image7.jpeg)
 
@@ -260,7 +260,7 @@ COMPANY**]
 [**THORIN OAKENSHIELD 100
 POINTS**]
 
-[**DWARF, INFANTRY, HERO â€” HERO OF
+[**DWARF, INFANTRY, HERO — HERO OF
 LEGEND**]
 
 [*Thorin Oakenshield is the heir to the throne of Erebor, a Dwarf of
@@ -285,7 +285,7 @@ burglar!*]
 [*Dwarf armour and
 sword.*]
 
-[*Orcrist â€” A magical blade forged by the Elves during their ancient wars, Orcrist is the bane of Orc-kind. Known in the tongue of Men as Goblin Cleaver, and the language of the Orcs as Biter, Orcrist is
+[*Orcrist — A magical blade forged by the Elves during their ancient wars, Orcrist is the bane of Orc-kind. Known in the tongue of Men as Goblin Cleaver, and the language of the Orcs as Biter, Orcrist is
 a brutal sword with an unnaturally keen edge that has claimed hundreds of Sauron's minions over the
 years.*]
 
@@ -306,7 +306,7 @@ ACTIONS***]
 [*The Oakenshield 5
 points*]
 
-[*The Oakenshield â€” It was at the battle of Azanulbizar where Thorin truly made his name, fighting off the Pale Orc with naught but
+[*The Oakenshield — It was at the battle of Azanulbizar where Thorin truly made his name, fighting off the Pale Orc with naught but
 an oaken branch for a shield. To this day, Thorin still bears the
 Oakenshield in battle.*]
  [*The Oakenshield is a shield. Additionally, should Thorin opt to use it for Shielding during a Fight and he wins, he may make a single Strike at his Strength (receiving no bonuses from any weapons).*]
@@ -316,7 +316,7 @@ C*]
 
 [*The younger of Thorin's nephews, KÃ­li is still a skilled fighter and a valuable member of Thorin's Company. His noble lineage has provided him with great swordsmanship, as well as making him a crack shot with a bow. However, his best quality is his unwavering loyalty to his family, for KÃ­li will do anything within his power to protect his brother and uncle.*]
 
-[*Older brother to KÃ­li, FÃ­li is every bit his brother's equal. However, where his brother is dark, he is fair. FÃ­li's quick wits are matched only by the speed of his blades â€” many an Orc has fallen foul of the swiftness in which FÃ­li throws his axes and even more have failed to match the young Dwarf's skill in combat. Like his brother, FÃ­li is fiercely loyal to Thorin, and is willing to risk everything for
+[*Older brother to KÃ­li, FÃ­li is every bit his brother's equal. However, where his brother is dark, he is fair. FÃ­li's quick wits are matched only by the speed of his blades — many an Orc has fallen foul of the swiftness in which FÃ­li throws his axes and even more have failed to match the young Dwarf's skill in combat. Like his brother, FÃ­li is fiercely loyal to Thorin, and is willing to risk everything for
 him.*]
 
 [*5" 5/3+ 4 5 2 2
@@ -345,14 +345,14 @@ RULES**]
 
 [*.5 points*]
 
-[*Combat Synerg y â€” FÃ­li and KÃ­li fight together with one purpose,
+[*Combat Synerg y — FÃ­li and KÃ­li fight together with one purpose,
 effortlessly*]
 
 [*coordinating their
 offensive.*]
 
 [*If they are in base contact, FÃ­li the Dwarf and KÃ­li the Dwarf may
-choose to swap places with one another at the start of any phase â€” this does
+choose to swap places with one another at the start of any phase — this does
 not count as moving.*]
 
 [![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image10.png)**FÃLI THE DWARF 50
@@ -362,7 +362,7 @@ POINTS**]
 
 [Pony.]
 
-[**DWARF, INFANTRY, HERO â€” HERO OF
+[**DWARF, INFANTRY, HERO — HERO OF
 FORTITUDE**]
 
 [*Mv F S*]
@@ -390,14 +390,14 @@ axes.*]
 
 [**SPECIAL RULES**]
 
-[*Combat Synerg y â€” FÃ­li and KÃ­li fight together with one purpose,
+[*Combat Synerg y — FÃ­li and KÃ­li fight together with one purpose,
 effortlessly*]
 
 [*coordinating their
 offensive.*]
 
 [*If they are in base contact, FÃ­li the Dwarf and KÃ­li the Dwarf may
-choose to swap places with one another at the start of any phase â€” this does
+choose to swap places with one another at the start of any phase — this does
 not count as moving.*]
 
 [![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image11.jpeg)![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image12.jpeg)*Mv F S D A W
@@ -420,7 +420,7 @@ cause.*]
 [*Armour and
 sword-mace.*]
 
-[*Sword-mace â€” This deadly weapon is part sword and part spiked
+[*Sword-mace — This deadly weapon is part sword and part spiked
 mace.*]
 
 [*This weapon may use the Feint or Bash Special
@@ -438,7 +438,7 @@ Strikes.*]
 
 [**SPECIAL RULES**]
 
-[*Longbeard â€” Balin's grand age brings with it a wealth of
+[*Longbeard — Balin's grand age brings with it a wealth of
 wisdom.*]
 
 [*In the Priority phase, Balin may spend a Will point to enable his side
@@ -455,7 +455,7 @@ POINTS**]
 [*axes and two-handed
 hammer.*]
 
-[**DWARF, INFANTRY, HERO â€” HERO OF
+[**DWARF, INFANTRY, HERO — HERO OF
 VALOUR**]
 
 [*Mv F S D A W 5" 6/4+ 5 6 3 2*]
@@ -479,7 +479,7 @@ two*]
 
 [*Burly, Fearless.*]
 
-[*Weapon Master â€” Dwalin is a deadly warrior in any situation, whether
+[*Weapon Master — Dwalin is a deadly warrior in any situation, whether
 he carries a weapon or is armed with just his
 fists.*]
 
@@ -502,7 +502,7 @@ C*]
 [*Armour, dagger and Boar
 spear.*]
 
-[*Boar spear â€” This weapon is a large-bladed spear used for hunting
+[*Boar spear — This weapon is a large-bladed spear used for hunting
 wild boars. However, Bifur has found it extremely useful for felling his
 enemies.*]
 
@@ -521,11 +521,11 @@ ACTIONS***]
 [*Throw Stones (range 8", Strength
 1).*]
 
-[*Embedded Axe-blade â€” Although it will cause considerable pain,
+[*Embedded Axe-blade — Although it will cause considerable pain,
 removing Bifur's axe-blade may allow him to speak the common tongue once
 again.*]
 
-[*Following his cousins, Bofur and Bombur, in the quest for Erebor, Bifur joins Thorin's Company in order to lay claim to some of the treasure that is within the mountain. Perhaps the most noticeable thing about Bifur is the shard of an axe-blade the can be seen jutting out from his skull â€” a wound that he suffered many years ago, and one that has left him with more scars than the eye can
+[*Following his cousins, Bofur and Bombur, in the quest for Erebor, Bifur joins Thorin's Company in order to lay claim to some of the treasure that is within the mountain. Perhaps the most noticeable thing about Bifur is the shard of an axe-blade the can be seen jutting out from his skull — a wound that he suffered many years ago, and one that has left him with more scars than the eye can
 see.*]
 
 [***OPTIONS***]
@@ -540,7 +540,7 @@ POINTS***]
 
 [*Bofur is a Dwarf with a constantly positive outlook on life, and his wit and cheery disposition often keep the spirits of the company high. A miner from the Blue Mountains, Bofur is a sturdy Dwarf with many skills that will prove useful. Armed with the mattock he used in his trade, Bofur sets out upon the quest for Erebor ready to prove his worth.*]
 
-[***DWARF, INFANTRY, HERO â€” HERO OF
+[***DWARF, INFANTRY, HERO — HERO OF
 FORTITUDE***]
 
 [*Mv F S D A W C M W
@@ -553,14 +553,14 @@ F*]
 
 [*Armour and
 mattock.*]
- [*Mattock â€” This is a two-handed weapon, which can use either the Bash or Piercing Strike Special Strikes.*]
+ [*Mattock — This is a two-handed weapon, which can use either the Bash or Piercing Strike Special Strikes.*]
 [***HEROIC ACTIONS OPTIONS***]
 
 -   
 
 [*Heroic Resolve Pony 5 points**SPECIAL
 RULES***]
- [*Steadfast â€” Bofur's boundless optimism allows him to press on through seemingly impossible odds with the same determination as ever.*]
+ [*Steadfast — Bofur's boundless optimism allows him to press on through seemingly impossible odds with the same determination as ever.*]
 [*Whenever Bofur is targeted by a Magical Power or special rule, he may try to ignore its effects. Roll a D6; on the score of a 2+, its effects are ignored. This roll may be modified by Might. If you wish to try to Resist a Magical Power, you must do so before making Bofur's Steadfast roll.* ]
 
 [![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image15.jpeg)*Mv F S D A W
@@ -584,15 +584,15 @@ OPTIONS**]
 [*Heroic Defence Pony 5 points***SPECIAL
 RULES**]
 
-[*Beefy â€” Bombur's bulk makes him
+[*Beefy — Bombur's bulk makes him
 formidable.*]
 
 [*Bombur the Dwarf may choose to use the Bash Special Strike, just as if
 he were using a mace.*]
 
-[*Whilst many of the Dwarves of Thorin's Company share a great love for treasure, Bombur's heart lies with food. It is no surprise, therefore, that Bombur is by far the largest of the Dwarves on Thorin's quest. His enormous appetite is almost unending â€” he even eats cheese by the block! Bombur is courageous, kind-hearted and also a skilled chef, and he is not adverse to using his utensils as weapons should he need to.*]
+[*Whilst many of the Dwarves of Thorin's Company share a great love for treasure, Bombur's heart lies with food. It is no surprise, therefore, that Bombur is by far the largest of the Dwarves on Thorin's quest. His enormous appetite is almost unending — he even eats cheese by the block! Bombur is courageous, kind-hearted and also a skilled chef, and he is not adverse to using his utensils as weapons should he need to.*]
 
-[*Lumbering â€” Bombur is quite overweight and is far from being nimble
+[*Lumbering — Bombur is quite overweight and is far from being nimble
 or agile.*]
 
 [*When making Jump or Climb tests, Bombur the Dwarf must re-roll results
@@ -601,7 +601,7 @@ of 6.*]
 [*Additionally, he may not call Heroic
 Moves.*]
 
-[*Raising Spirits â€” Bombur can lift flagging morale with a kindly word
+[*Raising Spirits — Bombur can lift flagging morale with a kindly word
 or a proffered treat.*]
 
 [*Once each turn, at any point in Bombur's Move phase, choose a friendly
@@ -622,7 +622,7 @@ POINTS**]
 
 [*Ori is the youngest and weakest member of Thorin's Company. Although naive, Ori's true strength lies in his heart. A gentle and thoughtful Dwarf, Ori is intent on documenting the adventures of the company as they travel to reclaim Erebor. Ori is no coward, however, for when danger rears its head, he will take up arms and fight alongside his kin.*]
 
-[**DWARF, INFANTRY, HERO â€” HERO OF
+[**DWARF, INFANTRY, HERO — HERO OF
 FORTITUDE**]
 
 [*Mv F S D A*]
@@ -641,7 +641,7 @@ slingshot.*]
 [*Heroic Accuracy***SPECIAL
 RULES**]
 
-[*Chronicler 225333 â€” Ori's hope is to document the adventures of his
+[*Chronicler 225333 — Ori's hope is to document the adventures of his
 kinsmen and compile them into a record worthy of their
 exploits.*]
 
@@ -650,7 +650,7 @@ Monster within 3" of Ori the Dwarf, that model immediately regains a point of
 Might, Will or Fate (your choice) that has previously been spent in that game (or
 campaign).*]
 
-[*Deadeye EJ33 â€” While a slingshot is far from being a deadly weapon,
+[*Deadeye EJ33 — While a slingshot is far from being a deadly weapon,
 Ori has an uncanny ability to strike his target with pinpoint
 accuracy.*]
 
@@ -674,7 +674,7 @@ mace.*]
 
 [**HEROIC ACTIONS**]
 
-[*â€¢ Heroic Strike*]
+[** Heroic Strike*]
 
 [**OPTIONS**]
 
@@ -686,7 +686,7 @@ mace.*]
 
 [**SPECIAL RULES**]
 
-[*Weapon Master â€” Nori has spent a lot of time travelling the world
+[*Weapon Master — Nori has spent a lot of time travelling the world
 and fighting with many different 'borrowed'
 weapons.*]
 
@@ -697,7 +697,7 @@ weapon.*]
 [**DORI THE DWARF 55
 POINTS**]
 
-[**DWARF, INFANTRY, HERO â€” HERO OF
+[**DWARF, INFANTRY, HERO — HERO OF
 FORTITUDE**]
 
 [*Mv F S*]
@@ -722,7 +722,7 @@ travels.*]
 
 [**HEROIC ACTIONS**]
 
-[*â€¢ Heroic Strength*]
+[** Heroic Strength*]
 
 [**OPTIONS**]
 
@@ -730,7 +730,7 @@ travels.*]
 
 [**SPECIAL RULES**]
 
-[*A Good Sort Really â€” Dori is very kindly at heart and looks out for
+[*A Good Sort Really — Dori is very kindly at heart and looks out for
 Bilbo Baggins when he is in
 peril.*]
 
@@ -771,7 +771,7 @@ staff.*]
 [*Heroic Resolve***SPECIAL
 RULES**]
 
-[*Healing Herbs 25323 â€” Ã“in has a great mastery of herbs and poultices,
+[*Healing Herbs 25323 — Ã“in has a great mastery of herbs and poultices,
 and can cure wounds, and sometimes severe injuries, with surprising
 speed.*]
 
@@ -781,7 +781,7 @@ there is no effect. On a 4 or 5, the model regains a Wound lost previously in th
 game (or campaign). On a 6, the model regains all of its lost
 Wounds.*]
 
-[*Prognostication â€” Ã“in gazes into the future to read the portents.
+[*Prognostication — Ã“in gazes into the future to read the portents.
 Such an act takes a toll on him, but can be valuable to his
 comrades.*]
 
@@ -795,7 +795,7 @@ POINTS**]
 [*Although he was reluctant to leave his wife and son behind, GlÃ³in committed himself to Thorin's cause, pledging his services to the quest. GlÃ³in is a formidable warrior, and is exceptionally skilled with his trusted axe. GlÃ³in is a veteran of many wars and has proven himself to be a valuable ally, one whom many would consider themselves lucky to fight
 alongside.*]
 
-[**DWARF, INFANTRY, HERO â€” HERO OF
+[**DWARF, INFANTRY, HERO — HERO OF
 FORTITUDE**]
 
 [*Mv F S D A 5" 6/4+ 4 7 3*]
@@ -820,7 +820,7 @@ Strength***OPTIONS**]
 
 [**SPECIAL RULES**]
 
-[*A Warrior Born â€” GlÃ³in is a fearsome fighter, whose blows waste no
+[*A Warrior Born — GlÃ³in is a fearsome fighter, whose blows waste no
 effort.*]
 
 [*GlÃ³in the Dwarf must re-roll scores of 1 To Wound in
@@ -840,7 +840,7 @@ combat.*]
 [**GANDALF THE GREY 170
 POINTS**]
 
-[**WIZARD, INFANTRY, HERO â€” HERO OF
+[**WIZARD, INFANTRY, HERO — HERO OF
 LEGEND**]
 
 [*One of the Istari, Gandalf the Grey has been tasked with guiding the
@@ -867,12 +867,12 @@ rolls.]
 [*Staff of Power\*, Glamdring and
 Narya.*]
 
-[*Glamdring â€” Known as the Foe Hammer, Glamdring is a sword of incredible Elven
+[*Glamdring — Known as the Foe Hammer, Glamdring is a sword of incredible Elven
 craftsmanship.*]
 
 [*Glamdring is an Elven-made hand-and-a-half sword. Additionally, Glamdring increases Gandalf's Strength by 1 when making Strikes with it.*]
 
-[*Narya â€” The Ring of Fire, one of the three Elven rings forged by Celebrimbor.*]
+[*Narya — The Ring of Fire, one of the three Elven rings forged by Celebrimbor.*]
 
 +------------------------------+-------------------+-------------------+
 |                              |                   |                   |
@@ -965,18 +965,18 @@ case.]
 [**BILBO BAGGINS 60
 POINTS**]
 
-[**HOBBIT, INFANTRY, HERO â€” HERO OF
+[**HOBBIT, INFANTRY, HERO — HERO OF
 FORTITUDE**]
 
 [*Burglar, adventurer and treasure hunter, these were never words that
 Bilbo Baggins ever thought would describe him. Unexpectedly thrust into
 the company of Thorin Oakenshield by the Wizard, Gandalf, Bilbo soon had to
 realise his potential. Traversing forests, fields and the Goblin
-tunnels, fate it seems had a plan for the plucky Hobbit â€” for his part in the quest for
+tunnels, fate it seems had a plan for the plucky Hobbit — for his part in the quest for
 Erebor was perhaps the greatest of them
 all.*]
 
-[*Sting â€” Made by the Elves, Bilbo found this dagger hidden within a Troll
+[*Sting — Made by the Elves, Bilbo found this dagger hidden within a Troll
 hoard.*]
 
 [*Sting is an Elven-made dagger. Additionally, whilst carrying Sting, Bilbo adds +1 to his Strength when making
@@ -987,7 +987,7 @@ Strikes.*]
 [*Resistant to Magic, Thrown Stones (range 8", Strength
 1).*]
 
-[*It has not yet Awoken â€” The Ring lies dormant, yet to return to its full malice.*]
+[*It has not yet Awoken — The Ring lies dormant, yet to return to its full malice.*]
 
 [[]{#bookmark133 .anchor}**ARMY OF
 THRÃ“R**]
@@ -1006,7 +1006,7 @@ left*]
 
 [*However, this time of prosperity would not last. For ThrÃ³r's love of gold had become too fierce and a sickness had begun to take over his mind. It wasn't long thereafter that ThrÃ³r's treasure hoard tempted fate. For Smaug, a great Fire-drake from the north, rained down destruction upon the kingdom of Erebor, slaughtering its people and claiming the mountain for himself. The Dwarves of Erebor were now homeless, and forced to roam Middle-earth in search of a new place to call their own.*]
 
-[*Following Erebor's loss, ThrÃ³r's people set out to reclaim the lost kingdom of Moria from the clutches of the Orcs that resided within its huge stone halls. It was at the fateful battle of Azanulbizar that ThrÃ³r fell, beheaded by the Pale Orc, Azog. Driven mad with grief, ThrÃ¡in rushed into the fray, only to be lost and presumed fallen like his father. It was in the midst of this tide of death that Thorin rose to the destiny he was meant for. With the use of an oaken branch, Thorin defeated Azog in combat â€” forever earning himself the moniker of 'Oakenshield'.*]
+[*Following Erebor's loss, ThrÃ³r's people set out to reclaim the lost kingdom of Moria from the clutches of the Orcs that resided within its huge stone halls. It was at the fateful battle of Azanulbizar that ThrÃ³r fell, beheaded by the Pale Orc, Azog. Driven mad with grief, ThrÃ¡in rushed into the fray, only to be lost and presumed fallen like his father. It was in the midst of this tide of death that Thorin rose to the destiny he was meant for. With the use of an oaken branch, Thorin defeated Azog in combat — forever earning himself the moniker of 'Oakenshield'.*]
 
 [**ARMY
 COMPOSITION**]
@@ -1025,7 +1025,7 @@ Erebor.*]
 
 [**ARMY BONUS**]
 
-[*"ThrÃ³r ruled with utter surety, never doubting his house would endure" â€” Friendly Erebor Dwarf models count as being in range of a banner if ThrÃ³r is within
+[*"ThrÃ³r ruled with utter surety, never doubting his house would endure" — Friendly Erebor Dwarf models count as being in range of a banner if ThrÃ³r is within
 6".*]
 
 [![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image30.jpeg)
@@ -1039,7 +1039,7 @@ THRÃ“R**]
 
 [***THRÃ“R.***]
 
-[**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF
+[**DWARF, EREBOR, INFANTRY, HERO — HERO OF
 LEGEND**]
 
 [*Perhaps the greatest king of his Age, ThrÃ³r was a Dwarf lord of
@@ -1067,7 +1067,7 @@ Moria.*]
 [*Heavy Dwarf armour, sword, shield and the
 Arkenstone.*]
 
-[*Arkenstone â€” An heirloom that is undoubtedly the most treasured item amongst all those of Durin's folk, the Arkenstone glows
+[*Arkenstone — An heirloom that is undoubtedly the most treasured item amongst all those of Durin's folk, the Arkenstone glows
 as if with an inner
 light.*]
 
@@ -1090,7 +1090,7 @@ Challenge***OPTIONS**]
 [*If your army does not include Durin, King of Khazad-dÃ»m, then ThrÃ³r carries the Ring of
 Durin.*]
 
-[*The Ring of Durin â€” One of the seven Dwarven Rings, the Ring of Durin is entwined with
+[*The Ring of Durin — One of the seven Dwarven Rings, the Ring of Durin is entwined with
 power.*]
  [*Once per game, the bearer of the Ring of Durin may re-roll a single Priority roll.*]
 
@@ -1099,7 +1099,7 @@ power.*]
 [**THRÃIN 120
 POINTS**]
 
-[**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF
+[**DWARF, EREBOR, INFANTRY, HERO — HERO OF
 VALOUR**]
 
 [*ThrÃ³r's heir, ThrÃ¡in, is a grim warrior who bears the scars of many
@@ -1133,7 +1133,7 @@ Defence***OPTIONS**]
 [*If your army does not include Durin, King of Khazad-dÃ»m, or ThrÃ³r, then ThrÃ¡in carries the Ring of
 Durin.*]
 
-[*The Ring of Durin â€” One of the seven Dwarven Rings, the Ring of Durin is entwined with
+[*The Ring of Durin — One of the seven Dwarven Rings, the Ring of Durin is entwined with
 power.*]
 
 [*Once per game, the bearer of the Ring of Durin may re-roll a single Priority
@@ -1141,14 +1141,14 @@ roll.*]
 
 [**SPECIAL RULES**]
 
-[*Durin's Heir â€” Even before his father's death, ThrÃ¡in was beloved of Erebor's warriors. Any Dwarf would willingly fight beside
+[*Durin's Heir — Even before his father's death, ThrÃ¡in was beloved of Erebor's warriors. Any Dwarf would willingly fight beside
 him to the bitterest of
 ends.*]
 
 [*ThrÃ¡in's Stand Fast! is unusual. In addition to all of the normal rules for Stand Fast!, when ThrÃ¡in passes a Stand Fast! roll, every friendly Dwarf model on the battlefield is automatically affected, including other Dwarf Hero
 models.*]
 
-[*Blood Feud â€” Azog slew ThrÃ¡in's father, an insult that cannot be borne.*]
+[*Blood Feud — Azog slew ThrÃ¡in's father, an insult that cannot be borne.*]
 
 [*ThrÃ¡in re-rolls all failed To Wound rolls when making Strikes against Azog, and any model in the same army as
 Azog.*]
@@ -1183,7 +1183,7 @@ ACTIONS***]
 THORIN OAKENSHIELD 100
 POINTS**]
 
-[**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF
+[**DWARF, EREBOR, INFANTRY, HERO — HERO OF
 VALOUR**]
 
 [*As Prince of Erebor, Thorin held a position of respect and honour
@@ -1197,10 +1197,10 @@ earned himself the moniker
 'Oakenshield'.*]
 
 [*.5 points*]
- [*The Oakenshield [ESZ3]{.underline} â€” At the Battle of Azanulbizar, Thorin famously took up a fallen tree branch and used it as a shield to protect himself from Azog's murderous onslaught. This one act propelled his legend, as word spread of the young Dwarf who had defeated the Pale Orc with oaken shield in hand.*]
+ [*The Oakenshield [ESZ3]{.underline} — At the Battle of Azanulbizar, Thorin famously took up a fallen tree branch and used it as a shield to protect himself from Azog's murderous onslaught. This one act propelled his legend, as word spread of the young Dwarf who had defeated the Pale Orc with oaken shield in hand.*]
 [*The Oakenshield is a shield. Additionally, should Thorin opt to use it for Shielding during a Fight and he wins, he may make a single Strike at his Strength (receiving no bonuses from any weapons).*]
 [**SPECIAL RULES**]
-[*To Arms! â€” With a rallying cry, Thorin sounded the charge that led his kin to fight with redoubled fury.*]
+[*To Arms! — With a rallying cry, Thorin sounded the charge that led his kin to fight with redoubled fury.*]
 [*Once per game, when moving Young Thorin Oakenshield, the controlling player may declare "To Arms!". At the start of the following Fight phase, all friendly Erebor Dwarf models within 3" increase their Strength by 1 for that phase.*]
 
 [**YOUNG BALIN THE
@@ -1208,7 +1208,7 @@ DWARF**]
 
 [**55 POINTS**]
 
-[**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF
+[**DWARF, EREBOR, INFANTRY, HERO — HERO OF
 FORTITUDE**]
 
 [*Mv F S D A W C*]
@@ -1225,7 +1225,7 @@ sword-mace.*]
 
 [*132*]
 
-[*Sword-mace â€” Young Balin carries a fearsome weapon, part sword and
+[*Sword-mace — Young Balin carries a fearsome weapon, part sword and
 part spiked mace.*]
 
 [*This weapon may use the Feint or Bash Special
@@ -1233,7 +1233,7 @@ Strikes.*]
 
 [**HEROIC ACTIONS**]
 
-[*^â€¢^ Heroic
+[*^*^ Heroic
 Defence*]
 
 [*Wherever Dwalin travelled, his older brother, Balin, was sure to be found. Wise, even in his youth, Balin was the kind of Dwarf that others sought out for sage counsel, although he was in no way lacking for skill-at-arms. At the Battle of Azanulbizar, Balin joined Thorin in rallying the wavering Dwarven hosts, charging to victory up the corpse- strewn slopes beside his beloved
@@ -1241,7 +1241,7 @@ kinsmen.*]
 
 [**SPECIAL RULES**]
 
-[*The Young Sage â€” Even as a youth, Balin possessed a wisdom beyond
+[*The Young Sage — Even as a youth, Balin possessed a wisdom beyond
 his years and his counsel was heard by kings and
 princes.*]
 
@@ -1254,7 +1254,7 @@ DWARF**]
 
 [ **85 POINTS**]
 
-[**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF
+[**DWARF, EREBOR, INFANTRY, HERO — HERO OF
 FORTITUDE**]
 
 [*Mv F S 5" 5/4+ 5*]
@@ -1274,9 +1274,9 @@ two*]
 
 [**HEROIC ACTIONS**]
 
-[*^â€¢^ Heroic Strike*]
+[*^*^ Heroic Strike*]
 
-[*â€¢ Heroic Strength*]
+[** Heroic Strength*]
 
 [*axes.*]
 
@@ -1284,7 +1284,7 @@ two*]
 
 [*Fearless.*]
 
-[*Weapon Master â€” Dwalin is a deadly warrior, whether he carries a
+[*Weapon Master — Dwalin is a deadly warrior, whether he carries a
 weapon or not.*]
 
 [![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image35.jpeg)![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image36.jpeg)
@@ -1295,7 +1295,7 @@ weapon or not.*]
 the usual -1 penalty to the Duel roll for fighting with a two-handed
 weapon.*]
 
-[*Dwarven Fury â€” Young and brash, Dwalin will often take unnecessary
+[*Dwarven Fury — Young and brash, Dwalin will often take unnecessary
 risks in order to slay his foes even
 quicker.*]
 
@@ -1309,7 +1309,7 @@ CAPTAIN**]
 
 [ **70 POINTS**]
 
-[**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF
+[**DWARF, EREBOR, INFANTRY, HERO — HERO OF
 FORTITUDE**]
 
 [*Mv F S D A W C*]
@@ -1326,7 +1326,7 @@ FORTITUDE**]
 [*Heavy Dwarf armour, pick-hammer and throwing
 axes.*]
 
-[*Pick-hammer â€” These are hand-and-a-half weapons, which may
+[*Pick-hammer — These are hand-and-a-half weapons, which may
 use*]
 
 [*either the Bash or Piercing Strike Special
@@ -1334,7 +1334,7 @@ Strikes.*]
 
 [**HEROIC ACTIONS**]
 
-[*â€¢ Heroic March*]
+[** Heroic March*]
 
 [![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image37.jpeg)
 
@@ -1344,7 +1344,7 @@ armour.*]
 [**CAPTAIN OF EREBOR 60
 POINTS**]
 
-[**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF
+[**DWARF, EREBOR, INFANTRY, HERO — HERO OF
 FORTITUDE**]
 
 [*Mv F S D 5" 5/4+ 4 7*]
@@ -1355,7 +1355,7 @@ FORTITUDE**]
 
 [**HEROIC ACTIONS**]
 
-[*â€¢ Heroic March*]
+[** Heroic March*]
 
 [**OPTIONS**]
 
@@ -1403,7 +1403,7 @@ WARRIOR**]
 
 [*Heavy Dwarf armour, pick-hammer and throwing
 axes.*]
- [*Pick-hammer â€” These are hand-and-a-half weapons, which may use either the Bash or Piercing Strike Special Strikes.*]
+ [*Pick-hammer — These are hand-and-a-half weapons, which may use either the Bash or Piercing Strike Special Strikes.*]
 
 [**OPTIONS**]
 
@@ -1483,7 +1483,7 @@ Hills;*]
 Ballistae.*]
 
 [**ARMY BONUS**]
- [*"Ironfoot has come!" â€” In Scenarios where you roll for additional forces to arrive (such as those that use the Reinforcements rule), you may modify your own Reinforcements rolls for warbands from this army list by +1 or -1. In Scenarios where you roll to see which part of the board your warbands deploy in, you may modify the dice roll by +1 or -1.*]
+ [*"Ironfoot has come!" — In Scenarios where you roll for additional forces to arrive (such as those that use the Reinforcements rule), you may modify your own Reinforcements rolls for warbands from this army list by +1 or -1. In Scenarios where you roll to see which part of the board your warbands deploy in, you may modify the dice roll by +1 or -1.*]
 [*Additionally, DÃ¡in Ironfoot, Lord of the Iron Hills receives the Master of Battle 4+ special rule.*]
 
 [![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image43.jpeg)
@@ -1496,7 +1496,7 @@ HILLS**]
 [**DÃIN IRONFOOT, LORD OF THE IRON HILLS 140
 POINTS**]
 
-[**DWARF, IRON HILLS, INFANTRY, HERO â€” HERO OF
+[**DWARF, IRON HILLS, INFANTRY, HERO — HERO OF
 LEGEND**]
 
 [*DÃ¡in Ironfoot is the Lord of the Iron Hills and cousin to Thorin, King
@@ -1553,24 +1553,24 @@ Challenge***OPTIONS**]
 
 [ ]
 
-[*Lord of the Iron Hills â€” DÃ¡in is the undisputed Lord of the Iron Hills, and as such his stoic warriors will follow him into any
+[*Lord of the Iron Hills — DÃ¡in is the undisputed Lord of the Iron Hills, and as such his stoic warriors will follow him into any
 battle without question.*]
 
 [*Whilst DÃ¡in Ironfoot, Lord of the Iron Hills is alive on the battlefield, all Iron Hills Dwarf models within 12" of DÃ¡in automatically pass all Courage tests they are required to
 make.*]
 
-[*Fiery Temper â€” DÃ¡in's temper is so fierce that his fury could be his downfall.*]
+[*Fiery Temper — DÃ¡in's temper is so fierce that his fury could be his downfall.*]
 
 [*As soon as DÃ¡in Ironfoot, Lord of the Iron Hills kills an enemy model, for the rest of the game, if DÃ¡in is in range to Charge, he must do so if he is able
 to.*]
 
-[*Fearsome Charge â€” The sight of DÃ¡in charging into battle is a terrifying sight to behold and not a challenge that many would face
+[*Fearsome Charge — The sight of DÃ¡in charging into battle is a terrifying sight to behold and not a challenge that many would face
 willingly.*]
 
 [*In a turn that DÃ¡in Ironfoot, Lord of the Iron Hills Charges into combat, he causes Terror until the end of the
 turn.*]
 
-[*Headbutt â€” DÃ¡in's thick skull is just as likely to knock down an enemy as his
+[*Headbutt — DÃ¡in's thick skull is just as likely to knock down an enemy as his
 hammer.*]
 
 [*If DÃ¡in Ironfoot, Lord of the Iron Hills wins a Duel roll but fails
@@ -1582,7 +1582,7 @@ Ground.*]
 [**MÃšRIN & DRÃR 140 POINTS FOR
 BOTH**]
 
-[**DWARF, IRON HILLS, INFANTRY, HERO â€” HEROES OF
+[**DWARF, IRON HILLS, INFANTRY, HERO — HEROES OF
 FORTITUDE**]
 
 [*Unlike the vast majority of the Dwarves of Middle-earth, MÃºrin and
@@ -1593,7 +1593,7 @@ and wide beyond their mountain home, and more than once have found themselves em
 in a fight to aid those Free Peoples who need it most. The rash and
 daring MÃºrin has developed great skill with his sword, KalazÃ¢l, and Sauron's
 minions of all kinds have felt its cutting blade. In contrast DrÃ¡r is a
-calm and collected fellow, preferring instead to arm himself with a bow â€” a
+calm and collected fellow, preferring instead to arm himself with a bow — a
 weapon he possesses incredible skill
 with.*]
 
@@ -1622,7 +1622,7 @@ KalazÃ¢l.*]
 [*Dwarf armour and Dwarf
 bow.*]
 
-[*KalazÃ¢l â€” This is a sword. Additionally, MÃºrin receives a bonus of +1 To Wound when making Strikes against Orc models, Goblin models and Uruk-hai
+[*KalazÃ¢l — This is a sword. Additionally, MÃºrin receives a bonus of +1 To Wound when making Strikes against Orc models, Goblin models and Uruk-hai
 models.*]
 
 [***SPECIAL RULES***]
@@ -1632,18 +1632,18 @@ models.*]
 [***HEROIC
 ACTIONS***]
 
-[*â€¢ Heroic Accuracy*]
+[** Heroic Accuracy*]
 
 [**HEROIC ACTIONS**]
 
-[*^â€¢^ Heroic Strike*]
+[*^*^ Heroic Strike*]
 
 [**IRON HILLS
 CAPTAIN**]
 
 [ **80 POINTS**]
 
-[***DWARF, IRON HILLS, INFANTRY, HERO â€” HERO OF
+[***DWARF, IRON HILLS, INFANTRY, HERO — HERO OF
 FORTITUDE***]
 
 [*Mv F S D A W C*]
@@ -1709,7 +1709,7 @@ shield.*]
 
 [*Shieldwall.*]
 
-[*Mattock â€” A mattock is a two-handed weapon that can either use the Bash or Piercing Strike Special
+[*Mattock — A mattock is a two-handed weapon that can either use the Bash or Piercing Strike Special
 Strikes.*]
 
 [*The Dwarves of the Iron Hills will follow their lord into battle without question, their unbending resolve and will to fight driving them forwards against unassailable odds. Many Dwarves are equipped with huge mattocks or crossbows, whilst others are armed with long spears and broad shields; these Dwarves are highly trained in the art of forming a nigh-impenetrable shieldwall. Just as with Dwarven armour, no weakness is permitted in the army of the Iron Hills, and so the Dwarves of DÃ¡in's army are the finest of their
@@ -1777,7 +1777,7 @@ HILLS)***]
 [*Mountain
 Dwellers.*]
 
-[*Devastating Charge â€” The force of the Goat Rider's charge is enough to knock even the most sure-footed of foes to the ground.*]
+[*Devastating Charge — The force of the Goat Rider's charge is enough to knock even the most sure-footed of foes to the ground.*]
 
 [*When this model Charges into combat against one or more Man-sized (or smaller) models, roll a D6 for each. On a 5+, that model is immediately Knocked to the
 Ground.*]
@@ -1811,7 +1811,7 @@ ground.*]
 
 [*4*]
 
-[*The Old Twirly Whirlies \[552 â€” Iron Hills Ballistae are designed to shred any arrows that cross the path of their
+[*The Old Twirly Whirlies \[552 — Iron Hills Ballistae are designed to shred any arrows that cross the path of their
 bolts.*]
 
 [**CREW**]
@@ -1837,13 +1837,13 @@ each*]
 
 [**SPECIAL RULES**]
 
-[*Reliable â€” The Dwarves that crew these war machines are experts at hitting their desired
+[*Reliable — The Dwarves that crew these war machines are experts at hitting their desired
 targets.*]
 
-[*The Iron Hills Ballista always counts as declaring a Heroic Shoot â€” there is no need to spend Might. Additionally, the Ballista follows the rules for Volley Fire. When the Ballista hits a target, place a marker under the centre of the target model. Draw a line from the centre of the Ballista to the centre of the marker. Shooting attacks that are Strength 6 or less cannot target any model within 3" of that line for the remainder of the turn. Additionally, shooting attacks that are Strength 6 or less cannot be made if they cross the line at any point. If a shooting attack that is Strength 7 or more targets a model that is either within 3" of the line, or the shot crosses the line, roll a D6. On the roll of a 5+, the shooting attack is prevented. At the end of the turn, remove any marker placed due to this special
+[*The Iron Hills Ballista always counts as declaring a Heroic Shoot — there is no need to spend Might. Additionally, the Ballista follows the rules for Volley Fire. When the Ballista hits a target, place a marker under the centre of the target model. Draw a line from the centre of the Ballista to the centre of the marker. Shooting attacks that are Strength 6 or less cannot target any model within 3" of that line for the remainder of the turn. Additionally, shooting attacks that are Strength 6 or less cannot be made if they cross the line at any point. If a shooting attack that is Strength 7 or more targets a model that is either within 3" of the line, or the shot crosses the line, roll a D6. On the roll of a 5+, the shooting attack is prevented. At the end of the turn, remove any marker placed due to this special
 rule.*]
 
-[*Tremendous Impact â€” The bolts from these deadly weapons crash into the foe with tremendous force, gouging out huge chunks of land, and the bodies of those unlucky enough to get in their way are
+[*Tremendous Impact — The bolts from these deadly weapons crash into the foe with tremendous force, gouging out huge chunks of land, and the bodies of those unlucky enough to get in their way are
 sent sprawling to the
 ground.*]
 
@@ -1900,20 +1900,20 @@ Heavy armour and sword.
 
 Fearless, Monstrous Charge.
 
-Dwarven Crew â€” *The Iron Hills Chariot has four crew members. As crew members are slain, other Iron Hills Dwarves move to take their place atop the Chariot.*
+Dwarven Crew — *The Iron Hills Chariot has four crew members. As crew members are slain, other Iron Hills Dwarves move to take their place atop the Chariot.*
 
 Any Iron Hills Dwarf Warrior may replace a slain crew member by ending their Move phase in base contact with the Chariot. Any Iron Hills Dwarf Warrior who joins the Chariot immediately drops their spear, shield, mattock, crossbow or banner.
 
 Should the driver be killed, another Iron Hills Dwarf on the Chariot immediately takes their place. Any Chariot that has all of its crew slain is removed as a casualty.
 
-Rapid Fire Bolt Thrower â€” *Attached to the Chariot is a bolt thrower. Capable of firing multiple shots in quick succession, this
+Rapid Fire Bolt Thrower — *Attached to the Chariot is a bolt thrower. Capable of firing multiple shots in quick succession, this
 weapon makes the Chariot even more deadly.*
 
 Any Iron Hills Dwarf, that is not the driver, may man the rapid fire bolt thrower. This is a crossbow that fires D6 shots per turn. The bolt thrower only has a limited field of fire of 45Ëš to its left or right. The Chariot may still fire even if it has moved its full distance that turn. Additionally, the Chariot does not suffer the -1 penalty for moving and shooting.
 
 The Chariot may still shoot even if Engaged in combat and does not need an In The Way test for models Engaged with it. Each shot may target a different enemy. If it does this, then the Dwarf operating the rapid fire bolt thrower may not add its Attacks or Fight value to the Duel roll, and may not make Strikes, in the following Fight phase.
 
-Chariot Charge â€” *Iron Hills Chariots charge forward with deadly, yet unwieldy, force.*
+Chariot Charge — *Iron Hills Chariots charge forward with deadly, yet unwieldy, force.*
 
 The Iron Hills Chariot is an unusual model and moves in the following way:
 
@@ -1931,27 +1931,27 @@ The Iron Hills Chariot is an unusual model and moves in the following way:
 
 -   The Chariot may instead choose to forego its movement in order     to pivot to face any direction. If a Chariot is moved by an enemy     model, it may not pivot in this way.
 
-The Chariot in Combat â€” *The platform upon which the crew stands is sturdy enough for them to fight from.*
+The Chariot in Combat — *The platform upon which the crew stands is sturdy enough for them to fight from.*
 
 The Chariot counts as one model in a fight. Any surviving crew member that is not driving the Chariot adds their Attacks to the Duel roll. Additionally, the Chariot will also use the highest Fight value of any Dwarf that is on the Chariot (including the driver). No model that is riding on an Iron Hills Chariot can declare a Heroic Combat.
 
-If beaten, any model wishing to Strike the crew must roll to see if they hit the crew or the Chariot. To do this, roll a D6 for each Strike. On a 4+, the Strike hits the crew member of the attacker's choice â€” anything else hits the Chariot.
+If beaten, any model wishing to Strike the crew must roll to see if they hit the crew or the Chariot. To do this, roll a D6 for each Strike. On a 4+, the Strike hits the crew member of the attacker's choice — anything else hits the Chariot.
 
-If the Chariot loses the Fight, it does not Back Away. It also never counts as Trapped. If the Chariot is slain, then the crew inside are lost â€” remove the model as a casualty.
+If the Chariot loses the Fight, it does not Back Away. It also never counts as Trapped. If the Chariot is slain, then the crew inside are lost — remove the model as a casualty.
 
-Large War Machine â€” On a turn in which the Iron Hills Chariot Charges, it gains the Extra Attack and Knock to the Ground bonuses as if it was a Cavalry model. The Iron
+Large War Machine — On a turn in which the Iron Hills Chariot Charges, it gains the Extra Attack and Knock to the Ground bonuses as if it was a Cavalry model. The Iron
 
 Hills Chariot still gets these bonuses even if it charges a Cavalry model. When the Chariot is hit by a shooting attack, the shooter must take an In The Way test to determine if the Chariot or the crew are hit. On a 1-4, the Chariot has been hit and on a 5-6, it hits the Dwarf closest to the shooter. The Chariot may not make Jump, Climb, Leap or Swim tests, and may not lie down or defend barriers. It may not enter difficult terrain other than shallow water features (including swamps, rivers, etc.), which it is completely unimpeded by. The Chariot cannot be Barged, Hurled or knocked Prone for any reason.
 
-The Chariot and Magic 2522 â€” Models with Magical Powers can use them on the Chariot, selecting either the Chariot itself or one of the crew members as the target. Magical Powers that affect multiple targets will automatically affect both the Chariot and its crew, if in range of the model. Only by affecting the Driver will a Magical Power such as Transfix or Compel impede the Chariot's movement (thereby causing it to remain stationary or take a move as described by the Magical Power). Finally, Magical Powers such as Sorcerous Blast, Nature's Wrath and Call Winds will not move the Chariot or knock it Prone, although they will still inflict any damage as detailed in the Magical Power's description.
+The Chariot and Magic 2522 — Models with Magical Powers can use them on the Chariot, selecting either the Chariot itself or one of the crew members as the target. Magical Powers that affect multiple targets will automatically affect both the Chariot and its crew, if in range of the model. Only by affecting the Driver will a Magical Power such as Transfix or Compel impede the Chariot's movement (thereby causing it to remain stationary or take a move as described by the Magical Power). Finally, Magical Powers such as Sorcerous Blast, Nature's Wrath and Call Winds will not move the Chariot or knock it Prone, although they will still inflict any damage as detailed in the Magical Power's description.
 
-Iron Hills Captain â€” If this upgrade is taken for the Chariot, then an Iron Hills Captain will replace the driver. The Iron Hills Captain will have all of the usual wargear and special rules that an Iron Hills Captain would normally possess whilst riding the Chariot (see page 29). The Chariot counts as a Hero for the Iron Hills army list and may be the army leader. If the Iron Hills Captain is taken, replace the Warrior keyword with Hero whilst the Captain remains alive.
+Iron Hills Captain — If this upgrade is taken for the Chariot, then an Iron Hills Captain will replace the driver. The Iron Hills Captain will have all of the usual wargear and special rules that an Iron Hills Captain would normally possess whilst riding the Chariot (see page 29). The Chariot counts as a Hero for the Iron Hills army list and may be the army leader. If the Iron Hills Captain is taken, replace the Warrior keyword with Hero whilst the Captain remains alive.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image57.jpeg)
 
 **CHAMPIONS OF EREBOR AS CREW: DESIGNER'S NOTE**
 
-Champions of Erebor â€” If this upgrade is taken for the Chariot, then
+Champions of Erebor — If this upgrade is taken for the Chariot, then
 instead of being crewed by four Iron Hills Dwarves, it is crewed by Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf,
 Champion of Erebor; Kili the Dwarf, Champion of Erebor and Fili the Dwarf, Champion of Erebor. If the Champions of
 Erebor are taken, replace the Warrior keyword with Hero.
@@ -1998,11 +1998,11 @@ When firing the rapid fire bolt thrower, place the template as described above. 
 
 *Thorin Oakenshield has fulfilled his quest to The Lonely*
 
-*Mountain, reclaiming his birthright â€” and now he sits upon the throne of Erebor as King Under the Mountain. However, all is not well within the mountain's walls. For the Arkenstone is still seemingly missing, driving Thorin into near-madness in order to find the King's jewel. As his desperation grows, a sickness begins to seep into Thorin's mind â€” the same sickness that drove his grandfather to madness many years before.*
+*Mountain, reclaiming his birthright — and now he sits upon the throne of Erebor as King Under the Mountain. However, all is not well within the mountain's walls. For the Arkenstone is still seemingly missing, driving Thorin into near-madness in order to find the King's jewel. As his desperation grows, a sickness begins to seep into Thorin's mind — the same sickness that drove his grandfather to madness many years before.*
 
 *Amidst his search for the Arkenstone, Thorin is confronted by a host
 of Elves and Men at his gates, demanding the share of the treasure that
-was pledged to them. However, Thorin will not be swayed and refuses that which was promised â€” tarnishing his word, and the word of the Hobbit who spoke on his behalf. Appalled with what he has witnessed, Bilbo
+was pledged to them. However, Thorin will not be swayed and refuses that which was promised — tarnishing his word, and the word of the Hobbit who spoke on his behalf. Appalled with what he has witnessed, Bilbo
 gifts the Arkenstone to Bard as a token to make Thorin honour his word.*
 
 *Confronted once more by the armies of Elves and Men, Thorin sends a raven with a message calling for aid to his cousin, DÃ¡in. The sound of iron-shod boots heralds the arrival of DÃ¡in Ironfoot and his army of*
@@ -2025,7 +2025,7 @@ Thorin, and all twelve Champions of Erebor, may be deployed as one warband if yo
 
 **ARMY BONUS**
 
-"Will you follow me, one last time" â€” All friendly Erebor
+"Will you follow me, one last time" — All friendly Erebor
 
 Dwarf models from this army list gain the
 
@@ -2047,7 +2047,7 @@ The profile for Iron Hills Goat Riders can be found on page 30.
 
 **THORIN OAKENSHIELD, KING UNDER THE MOUNTAIN 115 POINTS**
 
-**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF LEGEND**
+**DWARF, EREBOR, INFANTRY, HERO — HERO OF LEGEND**
 
 *The Lonely Mountain has been reclaimed; Thorin Oakenshield now sits
 upon the throne of Erebor. Yet despite this great triumph, a sickness
@@ -2082,11 +2082,11 @@ Heavy Dwarf armour and sword.
 
 **SPECIAL RULES**
 
-A Score to Settle â€” *Thorin has vowed to rid the world of his bitter enemy once and for all.*
+A Score to Settle — *Thorin has vowed to rid the world of his bitter enemy once and for all.*
 
 Thorin Oakenshield, King Under the Mountain re-rolls all failed rolls To Wound when making Strikes against Azog.
 
-Ancestral Fury â€” *Never has Thorin Oakenshield fought so hard to avenge his fallen kin.*
+Ancestral Fury — *Never has Thorin Oakenshield fought so hard to avenge his fallen kin.*
 
 Thorin Oakenshield, King Under the Mountain may call a Heroic Combat every Fight phase without expending Might.
 
@@ -2120,16 +2120,16 @@ Sworn Protector (Thorin Oakenshield, King Under the Mountain).
 
 *After recovering his strength from his brush with death at the hands of a Morgul arrow, KÃ­li is now ready to fight alongside his kin upon the field of battle. Charging into the fray with his brother at his side, KÃ­li has prepared himself for the fact that he may have to give his life in order to protect those that he loves.*
 
-Combat Synerg y â€” *FÃ­li and KÃ­li fight together with one purpose,
+Combat Synerg y — *FÃ­li and KÃ­li fight together with one purpose,
 effortlessly*
 
 *coordinating their offensive.*
 
 If they are in base contact, FÃ­li the Dwarf, Champion of Erebor and KÃ­li
 the Dwarf, Champion of Erebor may choose to swap places with one another at
-the start of any phase â€” this does not count as moving.
+the start of any phase — this does not count as moving.
 
-Du BekÃ¢r! â€” *KÃ­li fights hard for his royal kinsman, striving both to
+Du BekÃ¢r! — *KÃ­li fights hard for his royal kinsman, striving both to
 protect him*
 
 *and make him proud.*
@@ -2139,7 +2139,7 @@ they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
 **FÃLI THE DWARF, CHAMPION OF EREBOR 75 POINTS**
 
-**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -2165,9 +2165,9 @@ Sworn Protector (Thorin Oakenshield, King Under the Mountain).
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image63.jpeg)![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image64.jpeg)
 
-Combat Synerg y â€” See above.
+Combat Synerg y — See above.
 
-Du BekÃ¢r! â€” See above.
+Du BekÃ¢r! — See above.
 
 *Having finally reached Erebor with his brother following their encounter with Smaug in Lake-town, FÃ­li finds his uncle tormented and falling into sickness. Remaining completely loyal to Thorin and his brother, FÃ­li does not hesitate in joining his kin in taking up arms in the Battle of the Five Armies. FÃ­li will fight with utter loyalty for his uncle, and is willing to give his life, should it come to that.*
 
@@ -2175,7 +2175,7 @@ Du BekÃ¢r! â€” See above.
 
 **BALIN THE DWARF, CHAMPION OF EREBOR 60 POINTS**
 
-**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF VALOUR**
+**DWARF, EREBOR, INFANTRY, HERO — HERO OF VALOUR**
 
 MWF
 
@@ -2183,7 +2183,7 @@ MWF
 
 Sworn Protector (Thorin Oakenshield, King Under the Mountain).
 
-Longbeard â€” *Balin's grand age brings with it a wealth of wisdom.*
+Longbeard — *Balin's grand age brings with it a wealth of wisdom.*
 
 In the Priority phase, Balin may spend a Will point to enable his side
 to re-roll their D6 in the Priority roll.
@@ -2213,7 +2213,7 @@ MWF
 *Having fought alongside Thorin since the Battle of the Dimrill Dale, Dwalin's loyalty to his king is unwavering. His sense of duty to Thorin is unmatched within the company and he will follow him into any battle without question. Versed in all manner of weaponry, Dwalin is an unstoppable force against Azog's legions. However, as the Battle of the Five Armies provides Dwalin with his hardest fight to date, the fortitude of even this mighty warrior will be needed more than ever.*
  **DWALIN THE DWARF, CHAMPION OF EREBOR 115 POINTS**
 
-**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF VALOUR**
+**DWARF, EREBOR, INFANTRY, HERO — HERO OF VALOUR**
 
 Mv F S D A W C
 
@@ -2231,9 +2231,9 @@ Heavy Dwarf armour, two-handed axe and two axes.
 
 **SPECIAL RULES**
  Burly, Fearless, Sworn Protector (Thorin Oakenshield, King Under the Mountain).
-Weapon Master â€” *Dwalin is a deadly warrior in any situation, whether he carries a weapon or is armed with just his fists.*
+Weapon Master — *Dwalin is a deadly warrior in any situation, whether he carries a weapon or is armed with just his fists.*
 Dwalin the Dwarf, Champion of Erebor is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting with a two-handed weapon.
-The King's Axeman 2522 â€” *None in Middle-earth can hope to rival Dwalin's skill with an axe.*
+The King's Axeman 2522 — *None in Middle-earth can hope to rival Dwalin's skill with an axe.*
 Whilst he has the Infantry keyword, at the beginning of each fight, Dwalin the Dwarf, Champion of Erebor can choose to use either an axe in each hand, in which case he fights with 4 Attacks, or use a two-handed axe.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image68.jpeg)Mv F S D A W C
@@ -2250,13 +2250,13 @@ Heavy Dwarf armour and hand-and-a-half axe.
 
 **HEROIC ACTIONS**
 
-^â€¢^ Heroic Strike
+^*^ Heroic Strike
 
 **SPECIAL RULES**
 
 Sworn Protector (Thorin Oakenshield, King Under the Mountain), Throw Stones (range 8", Strength 1).
 
-Embedded Axe-blade â€” *Although it will cause considerable pain,
+Embedded Axe-blade — *Although it will cause considerable pain,
 removing Bifur's axe-blade may allow him to speak the common tongue again.*
 
 *Having survived Smaug's wrath, Bifur now turns his fury to the legions of Orcs that march upon Erebor, the axe-blade lodged in his skull having both scarred him and rendered him unable to speak the common tongue. It is not known what would happen should the axe-blade be removed. It could leave him paralysed, or it may allow him to finally communicate with those other than his kin, a skill that would prove invaluable in the Battle of the Five Armies.*
@@ -2269,7 +2269,7 @@ turn without reducing his own Might store.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image69.jpeg)**BOFUR THE DWARF, CHAMPION OF EREBOR 65 POINTS**
 
-**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -2285,7 +2285,7 @@ Heavy Dwarf armour and hand-and-a-half hammer.
 
 **HEROIC ACTIONS**
 
-^â€¢^ Heroic Resolve
+^*^ Heroic Resolve
 
 -   Heroic Strike
 
@@ -2293,7 +2293,7 @@ Heavy Dwarf armour and hand-and-a-half hammer.
 
 Sworn Protector (Thorin Oakenshield, King Under the Mountain).
 
-Steadfast â€” *Bofur's boundless optimism allows him to press on through seemingly impossible odds with the same determination as ever.*
+Steadfast — *Bofur's boundless optimism allows him to press on through seemingly impossible odds with the same determination as ever.*
 
 *Having enjoyed the Master's feast perhaps too much, Bofur found himself left behind in Lake-town. However, it was here that he witnessed first-hand the nobility of the Elves. Watching as the Elf maiden Tauriel healed KÃ­li of his mortal wounds, Bofur was able to appreciate the differences between the two races. Now reunited with his kin, Bofur joins the charge into the Battle of the Five Armies, to fight side-by-side with both Dwarves and Elves alike.*
 
@@ -2314,18 +2314,18 @@ Heavy Dwarf armour and flail.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic Defence
+* Heroic Defence
 
 **SPECIAL RULES**
 
 Sworn Protector (Thorin Oakenshield, King Under the Mountain).
 
-Beefy â€” *Bombur's bulk makes him formidable.*
+Beefy — *Bombur's bulk makes him formidable.*
 
 When Bombur the Dwarf makes Strikes, he may choose to use the Bash
 Special Strike just as if he were using a mace.
 
-Lumbering â€” *Bombur is quite overweight, and is far from being nimble
+Lumbering — *Bombur is quite overweight, and is far from being nimble
 or agile.*
 
 When making Jump or Climb tests, Bombur the Dwarf must re-roll results
@@ -2333,7 +2333,7 @@ of 6. Additionally, he may not call Heroic Moves.
 
 *Easily the largest of the Dwarves in Thorin's Company, Bombur is much more content when he is eating rather than fighting. However, the company's encounters with Goblins, Wargs, Orcs and Trolls have managed to help this always jolly Dwarf grow into a solid, if rather unconventional, warrior. Bombur now takes these newfound skills to battle against Azog's legions.*
 
-Raising Spirits â€” *Bombur can lift flagging morale with a kindly word
+Raising Spirits — *Bombur can lift flagging morale with a kindly word
 or a proffered treat.*
 
 Once each turn, at any point in Bombur's Move phase, choose a friendly
@@ -2342,7 +2342,7 @@ model regains a point of Will spent earlier in the battle (or campaign).
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image71.jpeg)**ORI THE DWARF, CHAMPION OF EREBOR 55 POINTS**
 
-**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C M W F
 
@@ -2360,7 +2360,7 @@ Heavy Dwarf armour and hand-and-a-half axe.
 
 Sworn Protector (Thorin Oakenshield, King Under the Mountain).
 
-Chronicler â€” *Ori's hope is to document the adventures of his kinsmen
+Chronicler — *Ori's hope is to document the adventures of his kinsmen
 and compile them into a record worthy of their exploits.*
 
 *The youngest member of Thorin's Company, Ori was oft considered the weakest member of the group. But by possessing a valiant heart, Ori has been able to overcome all of the dangers in his way, proving his worth to the company and emerging stronger from each encounter. No longer needing to be looked after by his older brothers, Ori now proudly fights alongside his kinsmen, proving to be every bit the brave warrior he always believed himself to be.*
@@ -2392,14 +2392,14 @@ Heavy Dwarf armour, mace and shield.
 
 Sworn Protector (Thorin Oakenshield, King Under the Mountain).
 
-Weapon Master â€” *Nori has spent a lot of time travelling the world and*
+Weapon Master — *Nori has spent a lot of time travelling the world and*
 
 *fighting with many different 'borrowed' weapons.*
 
 Nori the Dwarf is never considered unarmed, and never suffers the usual
 -1 penalty to the Duel roll for fighting with a two-handed weapon.
 
-Weapon Synerg y â€” *Nori is finally in possession of his preferred
+Weapon Synerg y — *Nori is finally in possession of his preferred
 weapons,*
 
 *allowing him to fight with even more skill.*
@@ -2409,7 +2409,7 @@ and may re-roll one dice when making Strikes.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image73.jpeg)**DORI THE DWARF, CHAMPION OF EREBOR 75 POINTS**
 
-**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A 5" 5/4+ 4 8 3
 
@@ -2431,7 +2431,7 @@ WC MWF
 
 Sworn Protector (Thorin Oakenshield, King Under the Mountain).
 
-A Good Sort Really â€” *Dori is very kindly at heart and looks out for
+A Good Sort Really — *Dori is very kindly at heart and looks out for
 Bilbo Baggins when he is in peril.*
 
 If Bilbo Baggins, Master Burglar is within 3" of Dori the Dwarf,
@@ -2440,7 +2440,7 @@ his own.
 
 *With his brothers forging themselves into more mature and capable warriors, Dori is no longer required to keep as watchful an eye upon them. Not needing to hold back to ensure the safety of his kin, Dori can now unleash his full fury upon the legions of Orcs that threaten them, enabling him to keep his brothers safe by other means.*
 
-Weapon Master â€” *Dori's deadly skill with weaponry belies his
+Weapon Master — *Dori's deadly skill with weaponry belies his
 diminutive size and kind-hearted nature.*
 
 Dori the Dwarf, Champion of Erebor is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting
@@ -2484,7 +2484,7 @@ Heavy Dwarf armour, sword and shield.
 
 Sworn Protector (Thorin Oakenshield, King Under the Mountain).
 
-Healing Herbs â€” *Ã“in has a great mastery of herbs and poultices, and
+Healing Herbs — *Ã“in has a great mastery of herbs and poultices, and
 can cure wounds, and sometimes severe injuries, with surprising speed.*
 
 In the Move phase, instead of moving, Ã“in the Dwarf may attempt to heal
@@ -2492,7 +2492,7 @@ a friendly model with which he is in base contact. Roll a D6. On a 1-3,
 there is no effect. On a 4 or 5, the model regains a Wound lost previously in the
 game (or campaign). On a 6, the model regains all of its lost Wounds.
 
-Prognostication â€” *Ã“in gazes into the future to read the portents. Such
+Prognostication — *Ã“in gazes into the future to read the portents. Such
 an act takes a toll on him, but can be valuable to his comrades.*
 
 Once per Fight phase, Ã“in the Dwarf can expend a Will point to enable a friendly model within 3" to re-roll a single dice when making a Duel
@@ -2500,7 +2500,7 @@ roll.
 
 **GLÃ“IN THE DWARF, CHAMPION OF EREBOR 90 POINTS**
 
-**DWARF, EREBOR, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S
 
@@ -2520,12 +2520,12 @@ Heavy Dwarf armour and two-handed axe.
 
 Sworn Protector (Thorin Oakenshield, King Under the Mountain).
 
-A Warrior Born â€” *GlÃ³in is a fearsome fighter, whose blows waste no
+A Warrior Born — *GlÃ³in is a fearsome fighter, whose blows waste no
 effort.*
 
 GlÃ³in the Dwarf must re-roll scores of 1 To Wound in combat.
 
-Weapon Master â€” *GlÃ³in is a ferocious warrior, regardless of what
+Weapon Master — *GlÃ³in is a ferocious warrior, regardless of what
 weaponry he holds.*
 
 GlÃ³in the Dwarf, Champion of Erebor is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting
@@ -2535,9 +2535,9 @@ with a two-handed weapon.
 
 *Propped up on pillars atop the Long Lake lies the humble fishing town of Esgaroth, more commonly k nown as Lake-town, built upon the waters following the destruction of Dale as a safety measure against the Dragon that now lies within the Lonely Mountain. Those that dwell in Lake-town live an impoverished life, eeking out a meagre existence. For although the inhabitants of Lake-town are descended from the great city of Dale, the wealth of that once powerful kingdom has long since been lost.*
 
-*Any wealth that may exist within the boundaries of Esgaroth is swiftly collected by the Master of Lake-town, who is not above fabricating 'ancient laws' in order to increase his standing. For the Master is a greedy man who will do anything to protect his great wealth, a way of being that has led the people of Lake-town to refer to him as 'Old Moneybags'. Constantly at the Master's side is the cowardly Alfrid, councillor to the Master â€” a scheming and untrustworthy man whose counsel can only be trusted upon to serve himself, and who undoubtedly shares the Master's love of gold.*
+*Any wealth that may exist within the boundaries of Esgaroth is swiftly collected by the Master of Lake-town, who is not above fabricating 'ancient laws' in order to increase his standing. For the Master is a greedy man who will do anything to protect his great wealth, a way of being that has led the people of Lake-town to refer to him as 'Old Moneybags'. Constantly at the Master's side is the cowardly Alfrid, councillor to the Master — a scheming and untrustworthy man whose counsel can only be trusted upon to serve himself, and who undoubtedly shares the Master's love of gold.*
 
-*In such a poor area as Esgaroth, wealth commands power and as such the Lake-town Guard will readily serve the one who holds the purse-strings â€” in this case the Master â€” and they will do his
+*In such a poor area as Esgaroth, wealth commands power and as such the Lake-town Guard will readily serve the one who holds the purse-strings — in this case the Master — and they will do his
 bidding in order to receive a cut of his wealth. Braga, the Captain of the Guard, ensures that the Master stays in power and that troublemakers are dealt with in an appropriate fashion, so long as he is paid well for his services.*
 
 *Although Lake-town is not used to the ways of war, having not been involved in one for many a year, they still keep a ready guard who, whilst corrupt, will still defend their town should the need arise.
@@ -2555,7 +2555,7 @@ The profile for Bard the Bowman can be found on page 49. Bard the Bowman counts 
 The profile for Sigrid & Tilda can be found on page 50. Sigrid & Tilda count as an Independent Hero if taken as part of an Army of Lake-town army list.
 
 **ARMY BONUS**
- The Master's Purse-strings â€” The Master of Lake-town's Moneybags special rule has a range of 12" rather than 6".
+ The Master's Purse-strings — The Master of Lake-town's Moneybags special rule has a range of 12" rather than 6".
 
 The profile for Bain, Son of Bard can be found on page 51. Bain, Son of Bard counts as an Independent Hero if taken as part of an Army of Lake-town army list.
 
@@ -2567,7 +2567,7 @@ The profile for Bain, Son of Bard can be found on page 51. Bain, Son of Bard cou
 
 **MASTER OF LAKE-TOWN 50 POINTS**
 
-**MAN, LAKE-TOWN, INFANTRY, HERO â€” HERO OF VALOUR**
+**MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF VALOUR**
 
 *The Master of Lake-town is the power-driven ruler of Esgaroth. More
 concerned with the acquisition of wealth, the Master cares little for
@@ -2590,16 +2590,16 @@ The Master of Lake-town is unarmed.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic Defence
+* Heroic Defence
 
-Dragon-sickness â€” *Such is his greed, when presented with a vast sum of gold, the Master may well take his share of the wealth and
+Dragon-sickness — *Such is his greed, when presented with a vast sum of gold, the Master may well take his share of the wealth and
 flee.*
 
 At the start of the game, your opponent may select one of their Hero models to be the bearer of a large sum of gold. If the Master of Lake-town is ever in base contact with the bearer at the end of a Move phase, he must pass a Courage test or be removed as if he had just lost his last Wound.
 
 **SPECIAL RULES**
 
-Moneybags â€” *The Lake-town Guard are well aware that the Master holds the purse-strings, and they are ever eager to earn a
+Moneybags — *The Lake-town Guard are well aware that the Master holds the purse-strings, and they are ever eager to earn a
 reward.*
 
 The Master of Lake-town can choose to expend a single point of Might at the start of the Fight phase. If he does so, Braga, Captain of the Guard, any Lake-town Guard Captains or Lake-town Guard within 6" receive a bonus of +1 to their Fight value, and count as being in range of a banner, until the end of the phase.
@@ -2608,7 +2608,7 @@ The Master of Lake-town can choose to expend a single point of Might at the star
 
 **20 POINTS**
 
-**MAN, LAKE-TOWN, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -2626,7 +2626,7 @@ MWF
 
 **SPECIAL RULES**
 
-Dubious Counsel â€” *Alfrid's counsel is sometimes wise, and sometimes self-serving.*
+Dubious Counsel — *Alfrid's counsel is sometimes wise, and sometimes self-serving.*
 
 Alfrid can choose to expend any number of Will points at the start of
 the Priority phase, before any dice are rolled. For each point of Will he
@@ -2641,7 +2641,7 @@ level.
 
 **BRAGA, CAPTAIN OF THE GUARD 50 POINTS**
 
-**MAN, LAKE-TOWN, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S
 
@@ -2669,14 +2669,14 @@ Armour and sword.
 
 **SPECIAL RULES**
 
-The Master's Puppet â€” *Braga will do the Master's bidding, so long as
+The Master's Puppet — *Braga will do the Master's bidding, so long as
 he is well paid.*
 
 As long as the Master of Lake-town has Will points remaining, if Braga
 declares a Heroic Action within 6" of the Master of Lake-town, roll a D6. On a
 4+, the Heroic Action is 'free' and no points of Might are spent.
 
-Air of Self-importance â€” *Braga greatly dislikes Bard and his family, following their lead is something Braga would deem beneath him.*
+Air of Self-importance — *Braga greatly dislikes Bard and his family, following their lead is something Braga would deem beneath him.*
 
 Braga, any Lake-town Guard Captains, and any Lake-town Guard within 3"
 of him may not take part in any Heroic Actions called by Bard the Bowman;
@@ -2688,7 +2688,7 @@ C MWF
 
 3 211
 
-**MAN, LAKE-TOWN, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W 6" 4/4+ 4 5 2 2
 
@@ -2761,7 +2761,7 @@ In the films, following Smaug's destruction of Lake-town, some former members of
 
 **ARMY BONUS**
 
-"Any man who wants to give their last, follow me!" â€” Bard the Bowman's Stand Fast! will affect other Lake- town Hero models. Additionally, Bard the Bowman's Saviour of Lake-town special rule has its range increased to 12" instead of 6".
+"Any man who wants to give their last, follow me!" — Bard the Bowman's Stand Fast! will affect other Lake- town Hero models. Additionally, Bard the Bowman's Saviour of Lake-town special rule has its range increased to 12" instead of 6".
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image81.jpeg)
 
@@ -2783,7 +2783,7 @@ The Windlance is a small Siege Engine and Bard the Bowman counts as the Siege En
 
 **HEROES OF THE SURVIVORS OF LAKE-TOWN**
 
-**MAN, LAKE-TOWN, INFANTRY, HERO â€” HERO OF LEGEND**
+**MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF LEGEND**
 
 Mv F S D A W C M W F
 
@@ -2803,23 +2803,23 @@ Armour 5 points
 
 **SPECIAL RULES**
 
-Rapid Fire â€” *Few, whether Men or otherwise, possess Bard the Bowman's
+Rapid Fire — *Few, whether Men or otherwise, possess Bard the Bowman's
 skill with a bow.*
 
 If Bard the Bowman hits a target with his great bow, he may take another
 shot at a target within 3" of it (it may even be the same target). If that
-shot is also a hit, he may shoot again â€” to a maximum of three shots in total.
+shot is also a hit, he may shoot again — to a maximum of three shots in total.
 
-The Black Arrow â€” *Bard the Bowman somehow knew that one day it would be his destiny to fire this arrow and avenge his fallen ancestor.*
+The Black Arrow — *Bard the Bowman somehow knew that one day it would be his destiny to fire this arrow and avenge his fallen ancestor.*
 
 Once per game, Bard the Bowman can fire his Black Arrow instead of
 shooting the Windlance normally. If you choose to do so, declare that he is
 firing his Black Arrow before rolling To Hit. When shooting the Black Arrow, Bard the Bowman re-rolls a failed To Hit roll and any failed In The Way
 tests. Furthermore, do not roll on the Scatter table when firing the Black
-Arrow â€” a successful To Hit roll against a Battlefield target automatically counts
+Arrow — a successful To Hit roll against a Battlefield target automatically counts
 as a Dead On! result.
 
-Saviour of Lake-town â€” *By felling Smaug, Bard the Bowman earns the undying loyalty and respect of his people.*
+Saviour of Lake-town — *By felling Smaug, Bard the Bowman earns the undying loyalty and respect of his people.*
 
 Bard the Bowman's Stand Fast! rule has a range of 6". Furthermore,
 Bain, Son of Bard; Percy; Hilda Bianca; Lake-town Militia Captains and
@@ -2833,7 +2833,7 @@ Provided that he is in base contact with the Windlance and is not
 Engaged in combat, Bard the Bowman can fire the Windlance every turn. Bard the Bowman may use his Might to influence To Hit, To Wound and Scatter
 table rolls made for the Windlance.
 
-Accurate â€” When firing the Windlance at a Battlefield target, the shot
+Accurate — When firing the Windlance at a Battlefield target, the shot
 only scatters 3" rather than 6".
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image82.jpeg)
@@ -2842,7 +2842,7 @@ only scatters 3" rather than 6".
 
 **SIGRID & TILDA 30 POINTS FOR BOTH**
 
-**WOMEN, LAKE-TOWN, INFANTRY, HERO â€” INDEPENDENT HERO**
+**WOMEN, LAKE-TOWN, INFANTRY, HERO — INDEPENDENT HERO**
 
 *Sigrid and Tilda are Bard's daughters. Young and unaccustomed to
 matters of warfare, they have no place on a battlefield. As the Battle
@@ -2872,11 +2872,11 @@ Sigrid and Tilda are unarmed.
 
 **SPECIAL RULES**
 
-"Da! Down Here!" â€” *Bard and Bain will stop at nothing to protect their family.*
+"Da! Down Here!" — *Bard and Bain will stop at nothing to protect their family.*
 
 Bard the Bowman and Bain, Son of Bard receive a bonus of +1 to their Fight value if they are within 6" of either Sigrid or Tilda. If Bard the Bowman or Bain, Son of Bard are within 6" of both Sigrid and Tilda then Bard and/or Bain receive a bonus of +1 to their Fight value and may call a Heroic Combat each turn without spending Might.
 
-Something to Fight for â€” *Bard will protect his daughters above all else. Should Sigrid or Tilda fall, Bard will be driven mad
+Something to Fight for — *Bard will protect his daughters above all else. Should Sigrid or Tilda fall, Bard will be driven mad
 with grief.*
 
 If either Sigrid or Tilda are slain, Bard the Bowman will automatically pass all Courage tests. Additionally, when Bard moves, he must Charge the model that killed his daughter if possible. If this is not possible, Bard must move as close as possible to the model that killed his daughter. Once the model that killed his daughter has been slain, Bard must move as fast as possible towards the nearest visible enemy model for the rest of the game, Charging if possible.
@@ -2893,7 +2893,7 @@ Sword.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic Strike
+* Heroic Strike
 
 **SPECIAL RULES**
 
@@ -2901,7 +2901,7 @@ MWF
 
 132
 
-Family Bond â€” *Bain values his family above all else and will fight
+Family Bond — *Bain values his family above all else and will fight
 hard to protect them.*
 
 Whilst Bain, son of Bard is within 6" of Bard the Bowman, he gains a
@@ -2917,7 +2917,7 @@ bonus of +1 to his Courage value
 
 **50 POINTS**
 
-**MAN, LAKE-TOWN, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -2929,7 +2929,7 @@ Sword and bow.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic Accuracy
+* Heroic Accuracy
 
 MWF
 
@@ -2937,7 +2937,7 @@ MWF
 
 **SPECIAL RULES**
 
-"Archers, This Way!" â€” *Percy leads the archers of Lake-town to war
+"Archers, This Way!" — *Percy leads the archers of Lake-town to war
 against the onslaught of Orcs.*
 
 *The former porter of Lake-town, Percy was a humble man and an upstanding pillar of the community. During the Battle of the Five Armies, he rose to the occasion to become second-in-command under Bard. Percy proved himself to be as skilled an archer as a leader, rallying the survivors of Lake-town to stand defiant amidst the heat of battle.*
@@ -2949,7 +2949,7 @@ when making shooting attacks with a bow.
 
 **30 POINTS**
 
-**WOMAN, LAKE-TOWN, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**WOMAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A
 
@@ -2961,7 +2961,7 @@ Spear.
 
 **HEROIC ACTIONS**
 
-^â€¢^ Heroic Strength
+^*^ Heroic Strength
 
 W
 
@@ -2977,7 +2977,7 @@ MWF
 
 **SPECIAL RULES**
 
-Stand by our Men! â€” *Hilda-Bianca rallies the survivors of Lake-town
+Stand by our Men! — *Hilda-Bianca rallies the survivors of Lake-town
 into*
 
 *charging bravely into the fray.*
@@ -2994,7 +2994,7 @@ they charged that turn.
 
 **BILBO BAGGINS, MASTER BURGLAR 90 POINTS**
 
-**HOBBIT, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**HOBBIT, INFANTRY, HERO — HERO OF FORTITUDE**
 
 *A chance encounter with the creature Gollum, below Goblin-town, and his
 subsequent acquisition of The One Ring, saw Bilbo Baggins truly become
@@ -3018,11 +3018,11 @@ Mv F S D A W C
 
 The One Ring, Mithril Coat and Sting.
 
-Mithril Coat â€” *Mithril armour is as light as silk, but as hard as Dragon scale.*
+Mithril Coat — *Mithril armour is as light as silk, but as hard as Dragon scale.*
 
 Whilst wearing the Mithril Coat, a model adds +3 to their Defence (this is already included in Bilbo's profile above).
 
-Sting â€” *This is a dagger of Elven-make, a weapon forged to be the bane of evil creatures.*
+Sting — *This is a dagger of Elven-make, a weapon forged to be the bane of evil creatures.*
 
 Sting is an Elven-made dagger. Additionally, whilst carrying Sting, a model adds +1 to their Strength when making Strikes.
 
@@ -3038,7 +3038,7 @@ Sting is an Elven-made dagger. Additionally, whilst carrying Sting, a model adds
 
 Resistant to Magic; Throw Stones (range 8", Strength 1).
 
-It has not yet Awoken â€” *The One Ring has yet to return to its full malice.*
+It has not yet Awoken — *The One Ring has yet to return to its full malice.*
 
 Bilbo Baggins, Master Burglar ignores the Sauron's Will section of the One Ring's rules. Furthermore, if Bilbo is the only model left on the controlling player's side, and is wearing the Ring, he is not removed as a casualty, as would usually be the case.
 
@@ -3048,7 +3048,7 @@ Shield.
 
 **LAKE-TOWN MILITIA CAPTAIN 40 POINTS**
 
-**MAN, LAKE-TOWN, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S
 
@@ -3068,7 +3068,7 @@ Armour, pick and spear.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic March
+* Heroic March
 
 .5 points
 
@@ -3110,7 +3110,7 @@ Spear
 
 **SPECIAL RULES**
 
-Onwards, Men of Esgaroth â€” *Seeing their leaders fighting for the
+Onwards, Men of Esgaroth — *Seeing their leaders fighting for the
 defence of their city is enough to spur the survivors of Lake-town on to fight for
 their homes.*
  Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is in combat do not need to take Courage tests for being Broken.
@@ -3143,7 +3143,7 @@ This army may include: Girion, Lord of Dale; Captains of Dale and Warriors of Da
 
 **ARMY BONUS**
 
-"Girion, lord of the city, rallied his bowmen to fire upon the beast." â€” Captains of Dale and Warriors of Dale have their Shoot value improved to 3+.
+"Girion, lord of the city, rallied his bowmen to fire upon the beast." — Captains of Dale and Warriors of Dale have their Shoot value improved to 3+.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image95.jpeg)
 
@@ -3153,7 +3153,7 @@ This army may include: Girion, Lord of Dale; Captains of Dale and Warriors of Da
 
 **GIRION, LORD OF DALE 75 POINTS**
 
-**MAN, DALE, INFANTRY, HERO â€” HERO OF VALOUR**
+**MAN, DALE, INFANTRY, HERO — HERO OF VALOUR**
 
 *Girion was the Lord of Dale during the height of the city's glory.
 Under Girion's rule, the city flourished, becoming a beacon for trade in
@@ -3186,11 +3186,11 @@ Great bow 5 points
 
 **SPECIAL RULES**
 
-Windlance Trained [esse]{.smallcaps} â€” Girion, Lord of Dale's, Windlance follows all the rules for Bard the Bowman's Windlance â€” see page 49.
+Windlance Trained [esse]{.smallcaps} — Girion, Lord of Dale's, Windlance follows all the rules for Bard the Bowman's Windlance — see page 49.
 
-Rapid Fire â€” *Girion's skill and speed with a bow is unrivalled within the city of Dale.*
+Rapid Fire — *Girion's skill and speed with a bow is unrivalled within the city of Dale.*
 
-If Girion, Lord of Dale hits a target with his great bow, he may take another shot at a target within 3" of it â€” it may even be the same target. If that shot is also a hit, he may shoot again â€” to a maximum of three shots in total.
+If Girion, Lord of Dale hits a target with his great bow, he may take another shot at a target within 3" of it — it may even be the same target. If that shot is also a hit, he may shoot again — to a maximum of three shots in total.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image98.jpeg)
 
@@ -3298,7 +3298,7 @@ The profile for Bilbo Baggins can be found on page 21 of the *Armies of The Lord
 
 **ARMY BONUS**
 
-"Tangado haid, leithio i philinn!" â€” Whilst within 6" of the army's leader, friendly Rivendell models may re-roll failed To Hit rolls when making shooting attacks in a turn in which they did not move.
+"Tangado haid, leithio i philinn!" — Whilst within 6" of the army's leader, friendly Rivendell models may re-roll failed To Hit rolls when making shooting attacks in a turn in which they did not move.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image103.jpeg)
 
@@ -3308,7 +3308,7 @@ The profile for Bilbo Baggins can be found on page 21 of the *Armies of The Lord
 
 **GIL-GALAD, HIGH KING OF THE ELVES 170 POINTS**
 
-**ELF, RIVENDELL, INFANTRY, HERO â€” HERO OF LEGEND**
+**ELF, RIVENDELL, INFANTRY, HERO — HERO OF LEGEND**
 
 *Gil-galad was the high king of the Elves and the mightiest warrior of
 his Age, his bravery and leadership inspiring his followers to carry out
@@ -3316,7 +3316,7 @@ great deeds in battle. At the height of the War of the Last Alliance, Gil-galad
 confronted Sauron, throwing himself into combat with the Dark Lord for
 the freedom of Middle-earth. Though Gil-galad would never see the Dark Lord finally
 defeated, for he perished at the hands of Sauron upon the slopes of
-Orodruin, his name lived on in songs and legends â€” even those sung by Sam during the
+Orodruin, his name lived on in songs and legends — even those sung by Sam during the
 closing of the Third Age.*
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image105.jpeg)
@@ -3335,7 +3335,7 @@ If your force contains Gil-galad and either Arwen, Elladan & Elrohir, Lindir or 
 
 Heavy armour and Aiglos.
 
-Aiglos â€” Aiglos is an Elven-made spear. Additionally, Gil-galad may add +1 to all of his rolls To Wound when making Strikes with Aiglos.
+Aiglos — Aiglos is an Elven-made spear. Additionally, Gil-galad may add +1 to all of his rolls To Wound when making Strikes with Aiglos.
 
 **HEROIC ACTIONS**
 
@@ -3361,12 +3361,12 @@ If your army includes Gil-galad, High King of the Elves, then you may upgrade an
 
 Blood & Glory, Terror, Woodland Creature.
 
-High King of the Elves [eee]{.smallcaps} â€” *The discipline that
+High King of the Elves [eee]{.smallcaps} — *The discipline that
 Gil-galad commands from his troops is unwavering.*
 
 Gil-galad's Stand Fast! is 12" rather than 6". Additionally, friendly Elf Hero models may use Gil-galad's Stand Fast!
 
-Lord of the West â€” *There are few who can say that they have crossed blades with the greatest of Elven lords and live to tell the
+Lord of the West — *There are few who can say that they have crossed blades with the greatest of Elven lords and live to tell the
 tale.*
 
 A model with this special rule may re-roll a single D6 when making a Duel roll. Additionally, they may re-roll a single D6 when rolling To Wound.
@@ -3375,7 +3375,7 @@ A model with this special rule may re-roll a single D6 when making a Duel roll. 
 
 **ELROND, MASTER OF RIVENDELL 170 POINTS**
 
-**ELF, RIVENDELL, INFANTRY, HERO â€” HERO OF LEGEND**
+**ELF, RIVENDELL, INFANTRY, HERO — HERO OF LEGEND**
 
 *A mighty and renowned warrior, Elrond has been at the forefront of many
 great battles. He fought against Sauron in the War of the Last Alliance and bore witness to the Dark Lord's downfall. It was he who tried to
@@ -3407,11 +3407,11 @@ If your army contains Elrond, then Rivendell Knights do not count towards your B
 
 Hadhafang and Vilya.
 
-Hadhafang â€” *Wielded by Elrond, this Elven blade is especially potent against spirits.*
+Hadhafang — *Wielded by Elrond, this Elven blade is especially potent against spirits.*
 
 This is an Elven-made hand-and-a-half sword. Additionally, Elrond gets a bonus of +1 To Wound Spirit models when making strikes with Hadhafang.
 
-Vilya â€” *This beautiful ring is one of the three Elven Rings of power.*
+Vilya — *This beautiful ring is one of the three Elven Rings of power.*
 
 Elrond, Master of Rivendell may re-roll his dice when using Fate points.
 
@@ -3435,12 +3435,12 @@ Horse
 
 Terror, Woodland Creature.
 
-Foresight of the Eldar â€” *Elrond has been blessed with the gift of foresight, an ability that allows him to guide his allies in
+Foresight of the Eldar — *Elrond has been blessed with the gift of foresight, an ability that allows him to guide his allies in
 battle.*
 
-Before the game begins, roll a D6 and make a note of the result â€” these are Elrond's Foresight points for the battle. During the Priority phase, after the dice has been rolled, Elrond may choose to expend these Foresight points to alter the controlling player's dice roll. For each Foresight point expended, Elrond may alter the dice score by either +1 or -1, to a minimum of 1 and a maximum of 6.
+Before the game begins, roll a D6 and make a note of the result — these are Elrond's Foresight points for the battle. During the Priority phase, after the dice has been rolled, Elrond may choose to expend these Foresight points to alter the controlling player's dice roll. For each Foresight point expended, Elrond may alter the dice score by either +1 or -1, to a minimum of 1 and a maximum of 6.
 
-Lord of the West â€” see page 61.
+Lord of the West — see page 61.
 
 **MAGICAL POWERS**
 
@@ -3448,7 +3448,7 @@ Wrath of Bruinen Renew
 
 **GLORFINDEL, LORD OF THE WEST**
 
-**ELF, RIVENDELL, INFANTRY, HERO â€” HERO OF VALOUR**
+**ELF, RIVENDELL, INFANTRY, HERO — HERO OF VALOUR**
 
 **145 POINTS**
 
@@ -3480,9 +3480,9 @@ Elven-made hand-and-a-half sword.
 
 Expert Rider, Horse Lord, Terror, Woodland Creature.
 
-Lord of the West â€” see page 61.
+Lord of the West — see page 61.
 
-Unbending Resolve â€” *Glorfindel's resistance to dark magics has made him a fierce adversary. Even the Lord of the NazgÃ»l dares not face Glorfindel alone.*
+Unbending Resolve — *Glorfindel's resistance to dark magics has made him a fierce adversary. Even the Lord of the NazgÃ»l dares not face Glorfindel alone.*
 
 Glorfindel always counts as having had the Fortify Spirit Magical Power cast upon him. This is always in effect, even if his Will is reduced to 0.
 
@@ -3494,11 +3494,11 @@ Asfaloth
 
 10 points
 
-Armour of Gondolin â€” This is heavy armour.
+Armour of Gondolin — This is heavy armour.
 
 Additionally, whilst wearing the Armour of Gondolin, Monster models may not target Glorfindel with Brutal Power Attacks.
 
-Asfaloth â€” Asfaloth is a horse with a Move value of 12" rather than 10". Additionally, whilst riding Asfaloth, the rider gains the Fleetfoot special rule.
+Asfaloth — Asfaloth is a horse with a Move value of 12" rather than 10". Additionally, whilst riding Asfaloth, the rider gains the Fleetfoot special rule.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image108.jpeg)![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image109.jpeg)
 
@@ -3508,7 +3508,7 @@ Asfaloth â€” Asfaloth is a horse with a Move value of 12" rather than 10". 
 
 **ERESTOR**
 
-**ELF, RIVENDELL, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ELF, RIVENDELL, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C M W F
 
@@ -3518,7 +3518,7 @@ Mv F S D A W C M W F
 
 Heavy armour and Noldorin daggers.
 
-Noldorin Daggers â€” These are Elven-made daggers and Erestor may use these as Throwing weapons. He may re-roll failed To Wound rolls
+Noldorin Daggers — These are Elven-made daggers and Erestor may use these as Throwing weapons. He may re-roll failed To Wound rolls
 when throwing his daggers or when making Strikes with them.
 
 **HEROIC ACTIONS**
@@ -3535,7 +3535,7 @@ Terror, Woodland Creature.
 
 **ARWEN UNDÃ“MIEL 60 POINTS**
 
-**ELF, RIVENDELL, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ELF, RIVENDELL, INFANTRY, HERO — HERO OF FORTITUDE**
 
 MWF
 
@@ -3579,7 +3579,7 @@ Wrath of Bruinen - 4+
 
 **ELLADAN & ELROHIR 160 POINTS FOR BOTH**
 
-**ELF, RIVENDELL, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ELF, RIVENDELL, INFANTRY, HERO — HERO OF FORTITUDE**
 
 *The twin sons of Elrond and CelebrÃ­an, Elladan and Elrohir are every
 bit as skilled in combat as their father. The twins often rode alongside
@@ -3624,11 +3624,11 @@ Armour and two Elven-made swords.
 
 Woodland Creature.
 
-Twin Elven Blades â€” *Armed with two blades, the brothers fight with a whirl of steel gleaming in the sunlight.*
+Twin Elven Blades — *Armed with two blades, the brothers fight with a whirl of steel gleaming in the sunlight.*
 
 Whilst fighting on foot, Elladan & Elrohir may choose to fight in one of three ways. They may either fight using a single sword and fight as if it were a two-handed sword, they may elect to fight with both swords for +1 Attack, or they may elect to parry, which counts as Shielding.
 
-Unbreakable bond â€” *Such is the bond between the brothers that, should one fall, the other will be driven mad by grief, stopping
+Unbreakable bond — *Such is the bond between the brothers that, should one fall, the other will be driven mad by grief, stopping
 at nothing to avenge his brother.*
 
 Should one brother be killed, the surviving brother will immediately increase their Strength by 1 and decrease their Defence by 1. The surviving brother will automatically pass all Courage tests they are forced to make and must do everything they can to Charge the model that killed their brother as quickly as possible. Once that model is killed, the surviving brother must move as fast as possible towards the closest enemy model for the remainder of the game, charging if able. Additionally, if the model that killed the brother is a Hero model, the first time the surviving brother is in combat with his brother's killer, he must declare a Heroic Challenge, targeting that Hero, without spending Might. This may be done even if the Hero is of a lower Heroic Tier than the surviving brother.
@@ -3637,7 +3637,7 @@ Should one brother be killed, the surviving brother will immediately increase th
 
 **65 POINTS**
 
-**ELF, RIVENDELL, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ELF, RIVENDELL, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -3665,12 +3665,12 @@ Woodland Creature.
 
 *Lindir is an Elven noble and one of the stewards of the last homely house. Although he is a skilled musician and songwriter, Lindir's true value is as an advisor to Lord Elrond, who will often seek his counsel in times of need. When pushed to the task, Lindir is a fine warrior, capable of heroic deeds upon the battlefield.*
 
-Song to Elbereth â€” *The songs sung by Lindir are often more than just beautiful songs, but enchantments too.*
+Song to Elbereth — *The songs sung by Lindir are often more than just beautiful songs, but enchantments too.*
 
 All friendly Rivendell models within 6" of Lindir gain the Resistant
 to Magic special rule.
 
-Wise Council â€” *Elrond has always found Lindir to provide him with
+Wise Council — *Elrond has always found Lindir to provide him with
 wise and useful counsel.*
 
 If Lindir is within 6" of Elrond, then Elrond may expend a single point
@@ -3690,7 +3690,7 @@ MWF
 
 **CÃRDAN**
 
-**ELF, RIVENDELL, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ELF, RIVENDELL, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -3710,7 +3710,7 @@ CÃ­rdan is unarmed.
 
 Resistant to Magic, Terror, Woodland Creature.
 
-\*The Shipwright's Power â€” *In the years of old, CÃ­rdan was a
+\*The Shipwright's Power — *In the years of old, CÃ­rdan was a
 formidable*
 
 *force. Yet even though his physical power has waned, his mastery of
@@ -3732,7 +3732,7 @@ Aura of Dismay - 5+
 
 **GILDOR INGLORION 70 POINTS**
 
-**ELF, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ELF, INFANTRY, HERO — HERO OF FORTITUDE**
 
 MWF
 
@@ -3746,7 +3746,7 @@ the Rings *rules manual) in his warband as if they were part of this army list.
 These Wood Elf Warriors must be upgraded to be Noldorin Exiles at the cost of +1
 point per model. Noldorin Exiles have a Move of 8".
 
-*Whilst many of the Elves of Eriador settled in one of the many havens, Gildor Inglorion chose to make his home in the wilds of the north. As these lands are not the safe place they once were, Gildor has made it his duty to keep a watchful eye out for travellers in these lands in order to guide them to safety. In fact, Gildor's gifts are well-suited to this task â€” he and his kin are swift of foot, quick enough even to keep up with a horse over short distances.*
+*Whilst many of the Elves of Eriador settled in one of the many havens, Gildor Inglorion chose to make his home in the wilds of the north. As these lands are not the safe place they once were, Gildor has made it his duty to keep a watchful eye out for travellers in these lands in order to guide them to safety. In fact, Gildor's gifts are well-suited to this task — he and his kin are swift of foot, quick enough even to keep up with a horse over short distances.*
 
 Mv F S D A W C
 
@@ -3756,7 +3756,7 @@ Mv F S D A W C
 
 Elven-made sword and Elven cloak.
 
-**HEROIC ACTIONS **â€¢ Heroic Channelling â€¢ Heroic Resolve â€¢ Heroic March â€¢ Heroic Defence
+**HEROIC ACTIONS *** Heroic Channelling * Heroic Resolve * Heroic March * Heroic Defence
 
 **SPECIAL RULES**
 
@@ -3770,7 +3770,7 @@ Immobilise 12" 3+
 
 **75 POINTS**
 
-**ELF, RIVENDELL, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ELF, RIVENDELL, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -3784,7 +3784,7 @@ Heav y armour and Elven-made hand-and-a-half sword.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic March
+* Heroic March
 
 **OPTIONS**
 
@@ -3812,7 +3812,7 @@ MWF
 
 **HIGH ELF STORMCALLER 60 POINTS**
 
-**ELF, RIVENDELL, INFANTRY, HERO â€” MINOR HERO**
+**ELF, RIVENDELL, INFANTRY, HERO — MINOR HERO**
 
 Mv F S
 
@@ -3824,12 +3824,12 @@ Armour, Elven-made sword and staff.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic Channelling
+* Heroic Channelling
 
 **SPECIAL RULES**
 
 Woodland Creature.
- Powers of Nature â€” *At one with the elements, a Stormcaller is able to draw their power from nature before unleashing it upon their foes.*
+ Powers of Nature — *At one with the elements, a Stormcaller is able to draw their power from nature before unleashing it upon their foes.*
 
 *In the history of Middle-earth, there have been many examples of Elves utilising the elemental forces of nature, bending them to their will. The Stormcallers are but one example of this. Able to manipulate the powers of nature, the Stormcallers, whilst not the most powerful of mystics, are able to call upon great gales and gusts of wind to buffet their foes and send them sprawling to the floor, making them an easy target for the blades of the Elven warriors.*
 
@@ -3964,7 +3964,7 @@ Palace Guard; Mirkwood Elves; Mirkwood Cavalry; Mirkwood Rangers and Wood Elf Se
 
 **ARMY BONUS**
 
-"The Elves of Mirkwood are not like their kin. They are less wise, and more dangerous" â€” Mirkwood Rangers from this force do not count towards the army's Bow Limit. Additionally, whilst they are within 3" of Thranduil, all Palace Guard Captains, Mirkwood Elf Captains, Palace Guard, Mirkwood Cavalry and Mirkwood Elves will also gain +1 to their To Wound rolls when making Strikes.
+"The Elves of Mirkwood are not like their kin. They are less wise, and more dangerous" — Mirkwood Rangers from this force do not count towards the army's Bow Limit. Additionally, whilst they are within 3" of Thranduil, all Palace Guard Captains, Mirkwood Elf Captains, Palace Guard, Mirkwood Cavalry and Mirkwood Elves will also gain +1 to their To Wound rolls when making Strikes.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image124.jpeg)
 
@@ -3974,7 +3974,7 @@ Palace Guard; Mirkwood Elves; Mirkwood Cavalry; Mirkwood Rangers and Wood Elf Se
 
 **THRANDUIL, KING OF THE WOODLAND REALM 100 POINTS**
 
-**ELF, MIRKWOOD, INFANTRY, HERO â€” HERO OF LEGEND**
+**ELF, MIRKWOOD, INFANTRY, HERO — HERO OF LEGEND**
 
 *The ruler of Mirkwood, Thranduil is a wise but proud king who cares
 little for those beyond his own borders. He journeys to Erebor to
@@ -4023,7 +4023,7 @@ Horse 10 points
 
 Elf bow 5 points
 
-Additional Elven-made sword â€” *When riding to war, Thranduil will often wield multiple blades in a fight, allowing him to show off the true skill of an Elven lord.*
+Additional Elven-made sword — *When riding to war, Thranduil will often wield multiple blades in a fight, allowing him to show off the true skill of an Elven lord.*
 
 When equipped with an additional Elven-made sword, Thranduil, King of the Woodland Realm increases his Attacks to 3 and his Fight value to 7. Additionally, he gains the Bladelord special rule\* (see right).
 
@@ -4034,7 +4034,7 @@ Mv F S D A W C
 10" 4/5+ 4 5 0 2 4
  If Thranduil Charges into combat whilst riding his Elk, Thranduil's Strikes are resolved at Strength 5.
 
-Circlet of Kings â€” *An ancient heirloom of Mirkwood, this circlet is infused with a great magical power.*
+Circlet of Kings — *An ancient heirloom of Mirkwood, this circlet is infused with a great magical power.*
 
 This crown allows Thranduil, King of the Mirkwood Realm to cast the Magical Powers Aura of Dismay and Nature's Wrath once each per game. The spell is automatically cast, counting the result as a 6, and no Will points need be expended.
 
@@ -4042,7 +4042,7 @@ This crown allows Thranduil, King of the Mirkwood Realm to cast the Magical Powe
 
 Expert Rider, Fleetfoot, Woodland Creature.
 
-\*Bladelord â€” *The King of the Wood Elves is a swordsman of consummate skill.*
+\*Bladelord — *The King of the Wood Elves is a swordsman of consummate skill.*
 
 Whilst he has the Infantry keyword, Thranduil, King of the Woodland Realm receives +1 Attack. Furthermore, Thranduil, King of the Woodland Realm receives an additional Attack for each enemy model he is Engaged with after the first. This bonus is determined at the start of each Fight and lasts until all Strikes from that Fight have been resolved.
 
@@ -4050,7 +4050,7 @@ Whilst he has the Infantry keyword, Thranduil, King of the Woodland Realm receiv
 
 **LEGOLAS GREENLEAF, PRINCE OF MIRKWOOD 95 POINTS**
 
-**ELF, MIRKWOOD, INFANTRY, HERO â€” HERO OF VALOUR**
+**ELF, MIRKWOOD, INFANTRY, HERO — HERO OF VALOUR**
 
 *Legolas is the captain of the King's Guard and is tasked with hunting
 down Orc invaders that enter his father's realm. Although Legolas cannot
@@ -4071,7 +4071,7 @@ MWF
 **SPECIAL RULES**
 
 Woodland Creature.
- Deadly Shot â€” Legolas may fire his bow three times in
+ Deadly Shot — Legolas may fire his bow three times in
 
 **WARGEAR**
 
@@ -4099,7 +4099,7 @@ Orcrist (see page 9) 10 points
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image129.jpeg)**TAURIEL 85 POINTS**
 
-**ELF, MIRKWOOD, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ELF, MIRKWOOD, INFANTRY, HERO — HERO OF FORTITUDE**
 
 *One of the patrol leaders within Thranduil's halls, Tauriel is a
 tremendous fighter who is capable of facing multiple foes at once. She
@@ -4124,7 +4124,7 @@ Armour, Elven-made daggers and Elven cloak.
 
 Woodland Creature.
 
-Blade Mistress â€” *Tauriel's skill at wielding her paired daggers is incredible.*
+Blade Mistress — *Tauriel's skill at wielding her paired daggers is incredible.*
 
 **HEROIC ACTIONS**
 
@@ -4140,7 +4140,7 @@ Elf bow
 
 Tauriel receives an additional Attack for each enemy model she is Engaged with after the first. This bonus is determined at the start of each Fight, and lasts until all Strikes from that Fight have been resolved.
 
-Vengeful Fury â€” *Tauriel will descend into a grieving rage should any harm befall KÃ­li.*
+Vengeful Fury — *Tauriel will descend into a grieving rage should any harm befall KÃ­li.*
 
 If KÃ­li the Dwarf, Champion of Erebor is in your army, and is killed, Tauriel's Strength is immediately increased to 5 and her Defence is reduced to 4 for the remainder of the battle.
 
@@ -4150,7 +4150,7 @@ If KÃ­li the Dwarf, Champion of Erebor is in your army, and is killed, Tauriel
 
 **75 POINTS**
 
-**ELF, MIRKWOOD, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ELF, MIRKWOOD, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -4166,7 +4166,7 @@ Heavy armour and Elven-made hand-and-a-half sword.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic March
+* Heroic March
 
 **OPTIONS**
 
@@ -4180,7 +4180,7 @@ Shield.
 
 Bodyguard, Woodland Creature.
 
-King's Guard â€” *Defending their king, the Palace Guard fight all the harder.*
+King's Guard — *Defending their king, the Palace Guard fight all the harder.*
 
 Whilst within 3" of Thranduil, King of the Woodland Realm, this model receives a bonus of +1 to their Fight value.
 
@@ -4192,7 +4192,7 @@ Whilst within 3" of Thranduil, King of the Woodland Realm, this model receives a
 
 **HEROIC ACTIONS**
 
-^â€¢^ Heroic March
+^*^ Heroic March
 
 **SPECIAL RULES**
 
@@ -4200,7 +4200,7 @@ Woodland Creature.
 
 **MIRKWOOD CAPTAIN 75 POINTS**
 
-**ELF, MIRKWOOD, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ELF, MIRKWOOD, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C M W F
 
@@ -4210,7 +4210,7 @@ Mv F S D A W C M W F
 
 Heavy armour and Elven-made glaive.
 
-Glaive â€” *A long, elegant weapon with a curved blade at each end, the champions of Mirkwood wield these glaives to deadly effect, fluidly
+Glaive — *A long, elegant weapon with a curved blade at each end, the champions of Mirkwood wield these glaives to deadly effect, fluidly
 striking and fending off their enemy's blows in a graceful, martial dance.*
 
 A glaive can be used either as a spear or a hand-and-a-half sword.
@@ -4220,7 +4220,7 @@ Alternatively, the bearer of a glaive can use the Shielding rule.
 
 *The captains of the Mirkwood Rangers play a vital role in stemming the encroaching taint of evil. Sharp eyed, sure-footed and deadly, they lead patrols of Elven warriors deep into the darkness of Mirkwood to battle the evil beasts that dwell there.*
 
-**ELF, MIRKWOOD, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ELF, MIRKWOOD, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -4236,13 +4236,13 @@ Elf bow, Elven-made daggers and Elven cloak.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic Accuracy
+* Heroic Accuracy
 
 **SPECIAL RULES**
 
 Woodland Creature.
 
-Knife Fighters â€” *Battling beneath the boughs of Mirkwood has taught
+Knife Fighters — *Battling beneath the boughs of Mirkwood has taught
 the Mirkwood Rangers to use their knives with peerless skill.*
 
 Mirkwood Rangers receive an additional Attack for each enemy model they
@@ -4278,7 +4278,7 @@ Spear 1 point
 
 *Charged with the protection of the Elvenking's halls, the Palace Guard are a cadre of skilled Elven warriors chosen from amongst the noble families of the ancient Greenwood. Equipped with the finest weapons, they are a veritable combat elite, led by the king's own son.*
  Bodyguard, Woodland Creature.
-King's Guard â€” *Defending their king, the Palace Guard will fight all the harder.*
+King's Guard — *Defending their king, the Palace Guard will fight all the harder.*
 Whilst within 3" of Thranduil, King of the Woodland Realm, Palace Guard receive a bonus of +1 to their Fight value.
 
 **9 POINTS**
@@ -4335,7 +4335,7 @@ Shield 1 point
 **SPECIAL RULES**
 
 Expert Rider, Woodland Creature.
- King's Knights â€” *When riding alongside their liege, the knights of Mirkwood are deadlier still.*
+ King's Knights — *When riding alongside their liege, the knights of Mirkwood are deadlier still.*
 Whilst mounted, Mirkwood Cavalry models count as being in range of a banner if they are within 6" of Thranduil, King of the Woodland Realm.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image138.jpeg)
@@ -4362,7 +4362,7 @@ War horn 30 points
 
 Woodland Creature.
 
-Knife Fighters â€” See Page 75.
+Knife Fighters — See Page 75.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image139.jpeg)
 
@@ -4384,7 +4384,7 @@ Elven-made sword, Elf bow and Elven cloak.
 
 Woodland Creature.
 
-Enchanting Song â€” *The magical songs woven by the tunes of the
+Enchanting Song — *The magical songs woven by the tunes of the
 sentinels can serve*
 
 *a variety of different uses.*
@@ -4393,11 +4393,11 @@ A Sentinel may sing one song each turn, provided they are not Engaged in
 combat. These function exactly like Magical Powers except that they are
 automatically cast without spending Will, and cannot be resisted.
 
-The Hymn of Elbereth â€” Range 12" â€” This beautiful song raises the
+The Hymn of Elbereth — Range 12" — This beautiful song raises the
 spirits of the targeted model. The target friendly model will automatically pass all
 Courage tests for the remainder of the turn.
 
-Eldamar Madrigal â€” Range 12" â€” The target enemy model must
+Eldamar Madrigal — Range 12" — The target enemy model must
 immediately take a Courage test. If the test is passed, nothing happens. If the test
 is failed, the target model falls under the control of the opposing player who may then
 move it up to its maximum Move, even if it has already moved that turn. This
@@ -4405,13 +4405,13 @@ move cannot be used to enter an enemy's Control Zone, dismount, lay down, perfor
 action that would cause harm to the target (such as jumping off a cliff, etc)
 or anything that would require the model to roll a D6 (such as a Jump test). Affected
 models may move no further that turn.
- The Lay of Gondolin â€” This somber verse recalls the mighty Elf city of Gondolin â€” a name fit to freeze the hearts of Evil beings. If the Sentinel sings this song, they cause Terror until the end of the turn.
+ The Lay of Gondolin — This somber verse recalls the mighty Elf city of Gondolin — a name fit to freeze the hearts of Evil beings. If the Sentinel sings this song, they cause Terror until the end of the turn.
 
 []{#bookmark705 .anchor}**RADAGAST'S ALLIANCE**
 
 *Radagast the Brown is one of the Istari as well as a member of the White Council. However, unlike his colleagues, Radagast is an unusual fellow. Rather than concerning himself with the problems of the wider world, he has instead chosen to live a life of solitude within the southern borders of Mirkwood.*
 
-*Within his home in Rhosgobel, Radagast has developed an incredible affinity with nature, one that has provided him with many allies across Middle-earth. First of these allies is the Great Eagles of The Misty Mountains, who have even been known to allow the Brown Wizard to ride upon their back during flight â€” a great honour that is rarely bestowed upon other races in Middle-earth. Radagast's avian allies have certainly proven their worth in the latter years of the Third Age, answering the Brown Wizard's call to join the Battle of the Five*
+*Within his home in Rhosgobel, Radagast has developed an incredible affinity with nature, one that has provided him with many allies across Middle-earth. First of these allies is the Great Eagles of The Misty Mountains, who have even been known to allow the Brown Wizard to ride upon their back during flight — a great honour that is rarely bestowed upon other races in Middle-earth. Radagast's avian allies have certainly proven their worth in the latter years of the Third Age, answering the Brown Wizard's call to join the Battle of the Five*
 
 *Armies, rescuing Gandalf from the pinnacle of Orthanc and even coming to the rescue at the Battle for the Black Gate.*
 
@@ -4425,7 +4425,7 @@ The profile for Gwaihir can be found on page 83. Gwaihir counts as a Hero of Val
 
 **ARMY BONUS**
 
-"The Eagles are coming!" â€” Eagle models from this army list gain a bonus of +1 to their Strength on a turn in which they charged.
+"The Eagles are coming!" — Eagle models from this army list gain a bonus of +1 to their Strength on a turn in which they charged.
 
 The profile for Great Eagles can be found on page 83.
 
@@ -4437,8 +4437,8 @@ The profile for Great Eagles can be found on page 83.
 
 **RADAGAST THE BROWN 150 POINTS**
 
-**WIZARD, INFANTRY, HERO â€” HERO OF LEGEND**
- *One of the Istari sent to Middle-earth during the Third Age, Radagast is a Wizard of great power â€” in his own way. Preferring the company of animals to that of other races, Radagast's affinity with nature is second to none. Although he often travels atop his sleigh pulled by Rhosgobel rabbits, Radagast has also been gifted with the rare privilege of riding the Great Eagles of The Misty Mountains.*
+**WIZARD, INFANTRY, HERO — HERO OF LEGEND**
+ *One of the Istari sent to Middle-earth during the Third Age, Radagast is a Wizard of great power — in his own way. Preferring the company of animals to that of other races, Radagast's affinity with nature is second to none. Although he often travels atop his sleigh pulled by Rhosgobel rabbits, Radagast has also been gifted with the rare privilege of riding the Great Eagles of The Misty Mountains.*
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image142.jpeg)
 
@@ -4452,7 +4452,7 @@ Mv F S D A W C
 
 \*Staff of Power and dagger.
 
-**HEROIC ACTIONS **^â€¢^ Heroic Channelling â€¢ Heroic Defence
+**HEROIC ACTIONS **^*^ Heroic Channelling * Heroic Defence
 
 **OPTIONS**
 
@@ -4464,17 +4464,17 @@ Horse 10 points
 
 Sebastian 5 points
 
-Great Eagle â€” This is a mount. The Great Eagle profile is listed on page 83. Additionally, if Radagast dismounts, the Great Eagle automatically passes its Courage test to stay and fight.
+Great Eagle — This is a mount. The Great Eagle profile is listed on page 83. Additionally, if Radagast dismounts, the Great Eagle automatically passes its Courage test to stay and fight.
 
-Sebastian â€” If Radagast is accompanied by Sebastian, he may always make an additional Attack in close combat, with a Fight value and Strength of 1 (roll a separate D6 for Sebastian) which cannot be altered by Might.
+Sebastian — If Radagast is accompanied by Sebastian, he may always make an additional Attack in close combat, with a Fight value and Strength of 1 (roll a separate D6 for Sebastian) which cannot be altered by Might.
 
 **SPECIAL RULES**
 
-Master of Birds â€” *Radagast is often accompanied by a flock of birds, which will act as his eyes and ears as needed.*
+Master of Birds — *Radagast is often accompanied by a flock of birds, which will act as his eyes and ears as needed.*
 
 Radagast is always assumed to have Line of Sight to any point on the battlefield. Additionally, Eagle models within 12" of Radagast have the Resistant to Magic special rule.
 
-One with Nature â€” *Radagast's strong connection with nature allows him to effortlessly blend into his surroundings.*
+One with Nature — *Radagast's strong connection with nature allows him to effortlessly blend into his surroundings.*
 
 Whilst he has the Infantry keyword, Radagast may move through areas of difficult terrain without penalty. Additionally, he will also gain the Stalk Unseen special rule.
 
@@ -4514,9 +4514,9 @@ Whilst he has the Infantry keyword, Radagast may move through areas of difficult
 
 **BEORN 200 POINTS**
 
-**MAN, INFANTRY, HERO â€” HERO OF VALOUR**
+**MAN, INFANTRY, HERO — HERO OF VALOUR**
 
-*Beorn is a towering bear of a man â€” literally! A burly woodsman whose
+*Beorn is a towering bear of a man — literally! A burly woodsman whose
 home is on the outskirts of Mirkwood, Beorn is a skin-changer, a man
 with the power to adopt the form of the bear that he so uncannily resembles.
 Beorn is a mighty force for good, who will play an instrumental part in
@@ -4540,7 +4540,7 @@ MWF
 
 Burly, Fearless, Resistant to Magic, Woodland Creature.
 
-Skin-changer â€” *Beorn has the ability to transfigure his body into a deadly bear.*
+Skin-changer — *Beorn has the ability to transfigure his body into a deadly bear.*
 
 **HEROIC ACTIONS**
 
@@ -4573,13 +4573,13 @@ MWF
 
 *Burly, Fearless, Resistant to Magic, Terror, Woodland Creature.*
 
-*Duel, instead of striking as normal, choose a losing model â€” that model immediately suffers a Strength 10 hit. If the To Wound roll is successful, the victim suffers another Strength 10 hit, and so on, until the victim is dead or Beorn fails to*
+*Duel, instead of striking as normal, choose a losing model — that model immediately suffers a Strength 10 hit. If the To Wound roll is successful, the victim suffers another Strength 10 hit, and so on, until the victim is dead or Beorn fails to*
 
 *wound his victim.*
 
-*Berserk â€” As a bear, Beorn pushes aside the quiet wisdom he possesses asa man, instead becoming a frenzied killer.*
+*Berserk — As a bear, Beorn pushes aside the quiet wisdom he possesses asa man, instead becoming a frenzied killer.*
 
-*Skin-changer â€” Beorn has the ability to transfigure his body into a deadly bear.*
+*Skin-changer — Beorn has the ability to transfigure his body into a deadly bear.*
 
 *To change Beorn's form, the Good player may roll a D6 at the start of Beorn's Move. On the roll of a 4+ (Might may be used to modify this roll), Beorn changes shape from a man into a bear (or vice-versa). Replace the Beorn model with the Beorn the Bear model (or vice-versa). Beorn can then continue with his move as normal, including making Charges. Beorn cannot change form if there is an enemy model in base contact with him.*
 
@@ -4612,7 +4612,7 @@ other races of Middle-earth.*
 
 This army may include: Gwaihir and Great Eagles.
  **ARMY BONUS**
-"The Eagles are coming!" â€” Eagle models from this army list gain a bonus of +1 to their Strength on a turn in which they charged.
+"The Eagles are coming!" — Eagle models from this army list gain a bonus of +1 to their Strength on a turn in which they charged.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image146.jpeg)
 
@@ -4622,7 +4622,7 @@ This army may include: Gwaihir and Great Eagles.
 
 **150 POINTS**
 
-**EAGLE, MONSTER, INFANTRY, HERO â€” HERO OF LEGEND**
+**EAGLE, MONSTER, INFANTRY, HERO — HERO OF LEGEND**
 
 Mv F S D A W C
 
@@ -4650,7 +4650,7 @@ MWF
 
 *The greatest Eagle in The Misty Mountains, Gwaihir the Windlord is a noble and wise beast. From atop his lofty perch, Gwaihir sees far across the lands below. More than just an animal, Gwaihir possesses a deep understanding of the goings-on of those below his roost. Yet often he chooses to remain high above so as not to trouble himself with the 'ants' beneath his mountain kingdom.*
 
-Lord of the Eagles â€” *Though Gwaihir is a noble creature, his keen intelligence is known only to a select few.*
+Lord of the Eagles — *Though Gwaihir is a noble creature, his keen intelligence is known only to a select few.*
 
 Only Eagle and Wizard models may benefit from Gwaihir's Stand Fast! or benefit from his Heroic Actions.
 
@@ -4712,7 +4712,7 @@ Brown Wizard. Though thought of as useless by Saruman, it is actually
 Radagast that alerts Gandalf to the growing darkness within Dol Guldur. Without the somewhat scatterbrained Wizard, it is possible that the White
 Council may not have known of the danger until it was too late.*
 
-*Aside from the Istari, the council also contains the most powerful and noble Elf lords in Middle-earth. With unrivalled skill with a blade, these mighty warriors provide the council with great martial prowess. Elrond, the Master of Rivendell, is one of the council's chief members and is both a skilled fighter as well as a talented diplomat. He accompanies his colleagues to Dol Guldur to combat the Necromancer and the NazgÃ»l head on. Glorfindel is an Elf lord with a lineage that stretches back for many years. Over his long life, he has carried out many great deeds and accomplished many heroic feats, causing his name to be steeped in legend â€” enough to strike fear into the hearts of his foes.*
+*Aside from the Istari, the council also contains the most powerful and noble Elf lords in Middle-earth. With unrivalled skill with a blade, these mighty warriors provide the council with great martial prowess. Elrond, the Master of Rivendell, is one of the council's chief members and is both a skilled fighter as well as a talented diplomat. He accompanies his colleagues to Dol Guldur to combat the Necromancer and the NazgÃ»l head on. Glorfindel is an Elf lord with a lineage that stretches back for many years. Over his long life, he has carried out many great deeds and accomplished many heroic feats, causing his name to be steeped in legend — enough to strike fear into the hearts of his foes.*
 
 *Perhaps the most compelling figure within the White Council, however,
 is Lady Galadriel. An Elf of unparalleled power, Galadriel is without
@@ -4743,7 +4743,7 @@ The profile for Glorfindel, Lord of the West can be found on page 63. Glorfindel
 A White Council army may only include a single warband. Unlike the usual model limit of a Hero plus twelve Warriors, the White Council includes only Heroes, up to a maximum of ten.
 
 **ARMY BONUS**
- "Are you in need of assistance?" â€” A member of the White Council from this army list adds +1 to the dice roll when attempting to Resist magic, so long as there is another member of the White Council from this army list within 6".
+ "Are you in need of assistance?" — A member of the White Council from this army list adds +1 to the dice roll when attempting to Resist magic, so long as there is another member of the White Council from this army list within 6".
 
 **HEROES OF THE WHITE COUNCIL**
 
@@ -4751,7 +4751,7 @@ A White Council army may only include a single warband. Unlike the usual model l
 
 **SARUMAN THE WHITE 170 POINTS**
 
-**WIZARD, INFANTRY, HERO â€” HERO OF LEGEND**
+**WIZARD, INFANTRY, HERO — HERO OF LEGEND**
 
 *As head of the White Council, Saruman the White has the final say in
 sanctioning any actions its members make. Though he had previously
@@ -4783,15 +4783,15 @@ Horse 10 points
 
 **SPECIAL RULES**
 
-Voice of CurunÃ­r â€” *It is said that Saruman's greatest power is his voice.*
+Voice of CurunÃ­r — *It is said that Saruman's greatest power is his voice.*
 
 Saruman the White's Stand Fast! has a range of 12" and, unlike other Hero model's Stand Fast! rolls, can affect other Hero models.
 
-Consuming Rivalry â€” *The head of the White Council resents Gandalf, and often sees him as a nuisance.*
+Consuming Rivalry — *The head of the White Council resents Gandalf, and often sees him as a nuisance.*
 
-Saruman the White will never move as part of a Heroic Action called by Gandalf the Grey, nor will he accept Gandalf the Grey's aid in the form of the Strengthen Will spell â€” if Gandalf the Grey casts this Magical Power on Saruman the White, it has no effect.
+Saruman the White will never move as part of a Heroic Action called by Gandalf the Grey, nor will he accept Gandalf the Grey's aid in the form of the Strengthen Will spell — if Gandalf the Grey casts this Magical Power on Saruman the White, it has no effect.
 
-Lord of the Istari â€” *Saruman is the most powerful of the five Wizards sent to Middle-earth, and is the leader of their Order.*
+Lord of the Istari — *Saruman is the most powerful of the five Wizards sent to Middle-earth, and is the leader of their Order.*
 
 Saruman the White can choose to re-roll one dice when making Casting or Resist tests.
 
@@ -4813,12 +4813,12 @@ Saruman the White can choose to re-roll one dice when making Casting or Resist t
 
 **GALADRIEL, LADY OF LIGHT 130 POINTS**
 
-**ELF, LÃ“RIEN, INFANTRY, HERO â€” HERO OF VALOUR**
+**ELF, LÃ“RIEN, INFANTRY, HERO — HERO OF VALOUR**
 
 *Amongst the eldest and most powerful of her kind, Galadriel is a part
 of the White Council that ventures to Dol Guldur to save Gandalf from
 the Necromancer. Galadriel cares for Gandalf deeply, so much so that she
-will not allow harm to come to him â€” a fact that the Keeper of the
+will not allow harm to come to him — a fact that the Keeper of the
 Dungeons finds out first-hand. Able to banish the NazgÃ»l through force of will and
 bearing the Light of EÃ¤rendil, Galadriel confronts Sauron, threatening
 to destroy him if he does not return to the void from whence he came.*
@@ -4835,11 +4835,11 @@ Mv F S D A W C
 
 The Light of EÃ¤rendil and Nenya.
 
-Nenya â€” *This unobtrusive ring is one of the three Elven rings gifted to the Elves by Sauron.*
+Nenya — *This unobtrusive ring is one of the three Elven rings gifted to the Elves by Sauron.*
 
 Galadriel, Lady of Light can re-roll her dice when using Fate points.
 
-The Light of EÃ¤rendil â€” *Galadriel bears the Star-glass, a phial filled with water from her fountain and the light of the Evening Star.*
+The Light of EÃ¤rendil — *Galadriel bears the Star-glass, a phial filled with water from her fountain and the light of the Evening Star.*
 
 Shooting attacks that are directed against Galadriel, Lady of Light, or any model within 6" of her, will only hit on a To Hit roll of a 6.
 
@@ -4853,11 +4853,11 @@ Shooting attacks that are directed against Galadriel, Lady of Light, or any mode
 
 Terror, Woodland Creature.
 
-\*The Lady of LothlÃ³rien EEE â€” *Whilst LothlÃ³rien endures, Galadriel commands great power.*
+\*The Lady of LothlÃ³rien EEE — *Whilst LothlÃ³rien endures, Galadriel commands great power.*
 
 Galadriel, Lady of Light can expend a single point of Will each turn without depleting her own store.
 
-War Aspect â€” *When roused to wrath, Galadriel's fury is truly terrifying to behold.*
+War Aspect — *When roused to wrath, Galadriel's fury is truly terrifying to behold.*
 
 All enemy models within 6" of Galadriel, Lady of Light suffer a -1 penalty to their Courage. Furthermore, Galadriel, Lady of Light never counts as being unarmed.
 
@@ -4877,7 +4877,7 @@ All enemy models within 6" of Galadriel, Lady of Light suffer a -1 penalty to th
 
 **CELEBORN**
 
-**ELF, LÃ“RIEN, INFANTRY, HERO â€” HERO OF VALOUR**
+**ELF, LÃ“RIEN, INFANTRY, HERO — HERO OF VALOUR**
 
 *One of the eldest of the Elves in Middle-earth, Celeborn is wise and
 powerful almost beyond comparison. He has provided many words of wisdom
@@ -4917,11 +4917,11 @@ Terror, Woodland Creature.
 
 **WARGEAR**
 
-Lord of the West â€” see page 61.
+Lord of the West — see page 61.
 
 Celeborn is unarmed.
 
-Lord of LÃ³rien â€” *The armies of the Galadhrim will follow Celeborn's lead against seemingly insurmountable odds.*
+Lord of LÃ³rien — *The armies of the Galadhrim will follow Celeborn's lead against seemingly insurmountable odds.*
 
 +------------------------+----------+-------------+-----------+-------+
 | -   *Heroic Strike*    | *Ce      |             |           |       |
@@ -4953,7 +4953,7 @@ Lord of LÃ³rien â€” *The armies of the Galadhrim will follow Celeborn's l
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic Channelling
+* Heroic Channelling
 
 []{#bookmark812 .anchor}**WANDERERS IN THE WILD**
 
@@ -4993,7 +4993,7 @@ He is Impossible Allies with all other army lists.
 
 **THRÃIN THE BROKEN 10 POINTS**
 
-**DWARF, INFANTRY, HERO â€” INDEPENDENT HERO**
+**DWARF, INFANTRY, HERO — INDEPENDENT HERO**
 
 Mv F S D A W C
 
@@ -5001,10 +5001,10 @@ Mv F S D A W C
 
 **SPECIAL RULES**
 
-Shattered Spirit â€” *The torment ThrÃ¡in has endured has left his spirit
+Shattered Spirit — *The torment ThrÃ¡in has endured has left his spirit
 broken.*
  At the start of every Priority phase, before rolling for Priority, ThrÃ¡in must take an unmodified Courage test. If the test is passed, he acts normally. If it is passed on a double, ThrÃ¡in adds +2 to his Fight, Strength, Attacks and Courage until the end of the turn. If the Courage test is failed, then the opposing player controls ThrÃ¡in as if he was one of their models. If ThrÃ¡in is being used as a Good model, then when he fails his Courage test, the only difference between him and other Evil models is that Good models cannot target ThrÃ¡in with missile fire or Magical Powers that cause damage, and cannot make Strikes against him. ThrÃ¡in must always take this Courage test, he can never be forced to automatically pass it.
 
 **ALLIES**
- ThrÃ¡in the Broken is an interesting character in that his profile may be used for either the Good or Evil side â€” a first for the Middle-earth Strategy Battle Game.
+ ThrÃ¡in the Broken is an interesting character in that his profile may be used for either the Good or Evil side — a first for the Middle-earth Strategy Battle Game.
 ThrÃ¡in the Broken is Historical Allies with The White Council, so long as the army contains Gandalf the Grey; and Historical Allies with the Dark Powers of Dol Guldur, so long as it includes The Necromancer of Dol Guldur.

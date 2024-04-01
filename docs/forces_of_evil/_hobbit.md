@@ -17,7 +17,7 @@
 their races still etched into their brains. Desperate to spill the blood of
 their most bitter enemies, these Orcs are unleashed upon the ranks of Dwarves, Men and Elves, intent on destroying every single one of them.*
 
-*It is not just Orcs that Azog commands â€” he also has a host of fearsome warbeasts at his disposal. Huge Trolls march forth from Gundabad, armed with crude wooden clubs or sharpened gauntlets used to cleave through enemy ranks with frightening ease. Some Trolls are so large, they can be fitted with a whole catapult upon their back. It is these that Azog uses to smash through the walls of Dale, allowing his warriors to flood the city. Although not as big as Trolls, Ogres
+*It is not just Orcs that Azog commands — he also has a host of fearsome warbeasts at his disposal. Huge Trolls march forth from Gundabad, armed with crude wooden clubs or sharpened gauntlets used to cleave through enemy ranks with frightening ease. Some Trolls are so large, they can be fitted with a whole catapult upon their back. It is these that Azog uses to smash through the walls of Dale, allowing his warriors to flood the city. Although not as big as Trolls, Ogres
 are an imposing threat, smashing aside Dwarves and Men in order to bring death to Azog's enemies.*
 
 *From the north, a second army approaches. Bolg has ridden to Mount Gundabad in order to bring forth the vast legions that lie within the fortress' iron walls. Alongside the numerous Gundabad Orc Warriors run the Gundabad Berserkers, hulking Orcs wielding brutal and wicked-looking weapons. War Bats flock from the caves of the mountains. These dread creatures have been bred specifically for war and their razor-sharp talons will see to the deaths of Dwarves and Elves alike.*
@@ -36,7 +36,7 @@ Gundabad Berserkers; Gundabad Trolls; Catapult Trolls; Troll Brutes; Ogres; War 
 
 **ARMY BONUS**
 
-"Let the legions come forth!" â€” If either Azog or Bolg is the leader of your force then they gain the Master of Battle special rule.
+"Let the legions come forth!" — If either Azog or Bolg is the leader of your force then they gain the Master of Battle special rule.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image156.jpeg)
 
@@ -46,7 +46,7 @@ Gundabad Berserkers; Gundabad Trolls; Catapult Trolls; Troll Brutes; Ogres; War 
 
 **AZOG 165 POINTS**
 
-**ORC, GUNDABAD, INFANTRY, HERO â€” HERO OF LEGEND**
+**ORC, GUNDABAD, INFANTRY, HERO — HERO OF LEGEND**
 
 *The Necromancer of Dol Guldur is revealed as the Great Enemy, yet it is
 through his mighty vassal, Azog, that Sauron threatens to crush all
@@ -85,7 +85,7 @@ Stone flail 20 points
 
 Heavy armour 10 points
 
-Stone Flail â€” *This huge stone flail is capable of crushing bone and flinging enemies to the ground.*
+Stone Flail — *This huge stone flail is capable of crushing bone and flinging enemies to the ground.*
 
 The stone flail is a two-handed weapon that follows the normal rules for flails, with the following exceptions. When fighting with the stone flail, Azog's Fight value is reduced to 6/5+. Azog does not reduce his Fight value for using the Whirl Special Strike. Additionally, Wounds inflicted by the stone flail cause not 1 Wound but D3 Wounds instead (determine the number of Wounds after Fate points are used), and any model that is struck, but not slain, is knocked Prone.
 
@@ -93,18 +93,18 @@ The stone flail is a two-handed weapon that follows the normal rules for flails,
 
 Burly.
 
-General of the North â€” *By Sauron's will, Azog is the undisputed commander of the Orc hordes.*
+General of the North — *By Sauron's will, Azog is the undisputed commander of the Orc hordes.*
 
 Azog's Stand Fast! rule has a range of 12" and, unlike any other Hero model's Stand Fast! rule, can affect other Orc Hero models.
 
-I am the Master â€” *Azog is a jealous leader, and will fight any who threaten his rule.*
+I am the Master — *Azog is a jealous leader, and will fight any who threaten his rule.*
  When rolling To Wound an enemy Hero model after winning a Fight, Azog never needs to roll more than a 3+ to score a wound, regardless of their Defence.
 
 **SIGNAL TOWER**
 
 *Azog commands his legions of Orcs from atop his Signal Tower. Using the
 huge banners that make it up, Azog is able to direct his troops from a
-great distance â€” the giant horn ringing out to signal a change in the Pale
+great distance — the giant horn ringing out to signal a change in the Pale
 Orc's plans. Upon this purpose-built command position, Azog has complete
 control over the battles that rage below.*
 
@@ -114,13 +114,13 @@ MWF
 
 The Signal Tower consists of four major parts:
 
--   The Banner of Dol Guldur â€” The largest and most imposing     banner upon the tower.
+-   The Banner of Dol Guldur — The largest and most imposing     banner upon the tower.
 
--   The Banner of Gundabad â€” The two-pronged banner located to     the right of the tower.
+-   The Banner of Gundabad — The two-pronged banner located to     the right of the tower.
 
--   The Banner of Angmar â€” The central stationary banner.
+-   The Banner of Angmar — The central stationary banner.
 
--   The Horn of Gorgoroth â€” The giant horn.
+-   The Horn of Gorgoroth — The giant horn.
 
 The Signal Tower also comes with seven of Azog's Lieutenants, armed with swords, to man the tower. These Lieutenants do not count as part of Azog's warband and may not lead troops.
 
@@ -142,30 +142,30 @@ Heavy armour and sword.
 
 Ancient Enemies (Dwarf), Ancient Enemies (Elf).
 
-Signal Tower â€” The Tower is placed in position before a battle commences, allowing for Azog to command his troops effectively from the start of the battle.
+Signal Tower — The Tower is placed in position before a battle commences, allowing for Azog to command his troops effectively from the start of the battle.
 
 Before deployment, but after players have decided on their board edges, the controlling player may place the Signal Tower, plus the seven of Azog's Lieutenants, anywhere on the battlefield.
 
 The Signal Tower may not be subsequently moved. Note: the
 
-It must always be Manned â€” *The different parts of the Signal Tower must all be manned in order for them to function and
+It must always be Manned — *The different parts of the Signal Tower must all be manned in order for them to function and
 deliver Azog's commands.*
 
-Any of Azog's Lieutenants may man a part of the Signal Tower â€” to do this they must be in base contact with the part they wish to man. Whilst manned, each part of the Signal Tower has a different effect, as follows:
+Any of Azog's Lieutenants may man a part of the Signal Tower — to do this they must be in base contact with the part they wish to man. Whilst manned, each part of the Signal Tower has a different effect, as follows:
 
--   The Banner of Dol Guldur USEI â€” All friendly Gundabad     models on the battlefield count themselves as being in range of     a banner.
+-   The Banner of Dol Guldur USEI — All friendly Gundabad     models on the battlefield count themselves as being in range of     a banner.
 
--   The Banner of Gundabad â€” All friendly Gundabad     Hero models on the battlefield may declare Heroic Marches     without reducing their store of Might.
+-   The Banner of Gundabad — All friendly Gundabad     Hero models on the battlefield may declare Heroic Marches     without reducing their store of Might.
 
--   The Banner of Angmar â€” Whenever a friendly     Gundabad model on the battlefield suffers a Wound, roll a     D6. On the roll of a natural 6, the Wound is ignored exactly     as if a point of Fate had been spent. Note that this supersedes     other rules that confer similar effects, e.g., Fury.
+-   The Banner of Angmar — Whenever a friendly     Gundabad model on the battlefield suffers a Wound, roll a     D6. On the roll of a natural 6, the Wound is ignored exactly     as if a point of Fate had been spent. Note that this supersedes     other rules that confer similar effects, e.g., Fury.
 
--   The Horn of Gorgoroth â€” Counts as a War Horn.     Additionally, all enemy models on the battlefield suffer -1 to     their Courage value. Note that this is not cumulative with     other rules that confer similar penalties.
+-   The Horn of Gorgoroth — Counts as a War Horn.     Additionally, all enemy models on the battlefield suffer -1 to     their Courage value. Note that this is not cumulative with     other rules that confer similar penalties.
 
-Summoning of the Hosts â€” *Atop his signal tower, Azog is able to command masses of Orcs at once.*
+Summoning of the Hosts — *Atop his signal tower, Azog is able to command masses of Orcs at once.*
 
 If the Signal Tower is taken as an upgrade for Azog, then 24 Warriors may be included in Azog's warband rather than 18. These may deploy within 12" of Azog rather than the usual 6".
 
-Destroying the Signal Tower â€” Each part of the Tower has a Defence value of 10 with 3 Wounds, and each is considered as a separate Battlefield target. Additionally, if an enemy model spends a full turn in base contact with any part of the Signal Tower without doing anything else (i.e., not shooting, using Magical Powers or fighting in combat), then that part of the Signal Tower is disabled and its effect is lost.
+Destroying the Signal Tower — Each part of the Tower has a Defence value of 10 with 3 Wounds, and each is considered as a separate Battlefield target. Additionally, if an enemy model spends a full turn in base contact with any part of the Signal Tower without doing anything else (i.e., not shooting, using Magical Powers or fighting in combat), then that part of the Signal Tower is disabled and its effect is lost.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image161.jpeg)
 
@@ -193,15 +193,15 @@ Claws and teeth.
 
 Fell Sight, Terror.
 
-Deadly Union â€” *Azog and his fearsome mount share an iron bond as the most powerful of their kind.*
+Deadly Union — *Azog and his fearsome mount share an iron bond as the most powerful of their kind.*
 
 As long as Azog is mounted upon the White Warg, you can expend either Azog's or the White Warg's stores of Might, Will and Fate as if they shared the same profile (though you should still mark down which of the two actually expended each point).
 
-Pack Master â€” *The White Warg is a feral beast.*
+Pack Master — *The White Warg is a feral beast.*
 
 Once separated from Azog, only Warg models may use the White Warg's Stand Fast! rule or benefit from its Heroic Actions.
 
-Raging Beast â€” *The clamour of battle drives the White Warg into a relentless rage.*
+Raging Beast — *The clamour of battle drives the White Warg into a relentless rage.*
 
 When Azog dismounts, the White Warg automatically passes its Courage test to stay and fight. Additionally, it will automatically pass all Courage tests for the rest of the battle.
 
@@ -209,13 +209,13 @@ When Azog dismounts, the White Warg automatically passes its Courage test to sta
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic March
+* Heroic March
 
-â€¢ Heroic Strike
+* Heroic Strike
 
-â€¢ Heroic Strength
+* Heroic Strength
 
-â€¢ Heroic Challenge
+* Heroic Challenge
 
 MWF
 
@@ -225,7 +225,7 @@ MWF
 
 **BOLG**
 
-**ORC, GUNDABAD, INFANTRY, HERO â€” HERO OF VALOUR**
+**ORC, GUNDABAD, INFANTRY, HERO — HERO OF VALOUR**
 
 Mv F S D A W C
 
@@ -248,7 +248,7 @@ your army gain the Morgul Arrows special rule (see below).*
 
 *Ancient Enemies (Dwarf), Ancient Enemies (Elf), Burly.*
 
-*The Bringer of Death â€” Slaughter and torture are Bolg's
+*The Bringer of Death — Slaughter and torture are Bolg's
 stock-in-trade, and those who face him in battle are overawed by his murderous nature.*
 
 *Every time that Bolg slays an enemy model, take note of it. Once he has
@@ -256,7 +256,7 @@ killed two or more enemies, he causes Terror. Once he has killed five or more
 enemies, he also gains the Harbinger of Evil special rule. Once he has killed 10
 or more enemies, he gains the Mighty Hero special rule.*
 
-*Morgul Arrows â€” The poison that coats these deadly arrows is found in
+*Morgul Arrows — The poison that coats these deadly arrows is found in
 the darkest parts of Minas Morgul.*
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image165.jpeg)*Any model that suffers a Wound from a
@@ -265,7 +265,7 @@ turn. On the roll of a 1, that model suffers a Wound.*
 
 **GUNDABAD ORC CAPTAIN 50 POINTS**
 
-**ORC, GUNDABAD, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ORC, GUNDABAD, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S
 
@@ -285,7 +285,7 @@ MWF
 
 **HEROIC ACTIONS**
 
-*â€¢ Heroic March*
+** Heroic March*
 
 **OPTIONS**
 
@@ -309,15 +309,15 @@ Armour and sword.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic March
+* Heroic March
 
 **SPECIAL RULES**
 
 Cave Dwellers.
 
-**GOBLIN, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**GOBLIN, INFANTRY, HERO — HERO OF FORTITUDE**
 
-*Chittering Hordes â€” Goblins are so eager to get to grips with their
+*Chittering Hordes — Goblins are so eager to get to grips with their
 enemy that they will clamber over one another to stab at their foes.*
 
 MWF
@@ -331,7 +331,7 @@ the exception that they can only ever Support another model with the
 Chittering Hordes special rule. A Supporting model does get the benefit of having a
 two- handed weapon, if it has one.*
 
-![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image167.jpeg)*Mercenary Ambush â€” These Goblins jump
+![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image167.jpeg)*Mercenary Ambush — These Goblins jump
 out from hidden places in order to*
 
 *assault their foes.*
@@ -408,7 +408,7 @@ Two-handed pick 1 point
 **SPECIAL RULES**
 
 Ancient Enemies (Dwarf), Ancient Enemies (Elf).
- Oblivious to Pain â€” *Driven into a frenzy by the spilling of the enemy's blood, Gundabad Berserkers pay little to no attention to the pain that is inflicted upon them.*
+ Oblivious to Pain — *Driven into a frenzy by the spilling of the enemy's blood, Gundabad Berserkers pay little to no attention to the pain that is inflicted upon them.*
 
 *Sprinting ahead of the Orcs brought forth from Gundabad are the Gundabad Berserkers. Wilder and more feral than other breeds of Orc, Gundabad Berserkers are creatures of heaving muscle and snarling malice, hardened killers with a monstrous craving for flesh, making them ideal companions for Bolg.*
  ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image170.jpeg){width="5.906944444444444in" Every time a Gundabad Berserker suffers a Wound, roll a D6. On a roll of a 6 (or a 5+, if the Banner of Angmar on Azog's Signal Tower is on the battlefield and manned), the Wound is ignored exactly as if a point of Fate had been spent. This is not cumulative with other special rules that confer the same effect.
@@ -428,15 +428,15 @@ of scythe gauntlets.
 
 Ancient Enemies (Dwarf), Ancient Enemies (Elf), Terror.
 
-Crushing Club â€” *The clubs wielded by Gundabad Trolls are easily
+Crushing Club — *The clubs wielded by Gundabad Trolls are easily
 capable of squashing an enemy in one hit.*
 
 Wounds caused by Strikes from Gundabad Trolls armed with a crushing
-club cause not 1 Wound but D3 Wounds instead â€” determine the number of
+club cause not 1 Wound but D3 Wounds instead — determine the number of
 Wounds caused before Fate points are used. Any model that is targeted with
 strikes from a Crushing Club, and survives, is also knocked Prone on a roll of a 3+.
 
-Scythe Gauntlets â€” *Gundabad Trolls armed with scythe gauntlets are
+Scythe Gauntlets — *Gundabad Trolls armed with scythe gauntlets are
 capable of cleaving an enemy in half in one swift strike.*
 
 A Gundabad Troll armed with a pair of scythe gauntlets receives a +1
@@ -466,22 +466,22 @@ Catapult and metal gauntlets.
 
 Terror.
 
-Catapult â€” A Catapult Troll always follows the rules for Volley Fire, giving it a range of 12"-96". Shots fired from the Catapult are resolved at Strength 10. When firing the Catapult, follow the rules for Siege Engines in the main rules manual with the following exceptions:
+Catapult — A Catapult Troll always follows the rules for Volley Fire, giving it a range of 12"-96". Shots fired from the Catapult are resolved at Strength 10. When firing the Catapult, follow the rules for Siege Engines in the main rules manual with the following exceptions:
 
 The Catapult Troll may still fire in the same turn that it has moved in, even if this is up to its full Move value. However, if the Catapult Troll has moved, it will only hit on the roll of a 6. The Catapult may still be fired whilst the Troll is in combat. If you wish to do
-this, and a 1 is rolled when rolling To Hit, the Catapult will malfunction and the Catapult Troll will suffer a wound. A Catapult Troll does not have a crew in the same way as a conventional Siege Engine â€” however, it is classed as a large Siege Engine and the Troll itself is considered to be the Siege Veteran. However, unlike other Siege Veterans, the Troll has no points of Might, Will or Fate. Unlike other Siege Engines, the Catapult Troll cannot be destroyed if a model spends its entire turn in base contact with it.
+this, and a 1 is rolled when rolling To Hit, the Catapult will malfunction and the Catapult Troll will suffer a wound. A Catapult Troll does not have a crew in the same way as a conventional Siege Engine — however, it is classed as a large Siege Engine and the Troll itself is considered to be the Siege Veteran. However, unlike other Siege Veterans, the Troll has no points of Might, Will or Fate. Unlike other Siege Engines, the Catapult Troll cannot be destroyed if a model spends its entire turn in base contact with it.
 
-Area Effect â€” *The impact caused by the rocks crashing into the ground is enough to fling nearby warriors to the floor, showering them in
+Area Effect — *The impact caused by the rocks crashing into the ground is enough to fling nearby warriors to the floor, showering them in
 debris.*
 
 If the Catapult scores a hit against a Battlefield target, all Man- sized (or smaller) models within 2" are Knocked to the Ground. Cavalry models within 2" must take a Thrown Rider test. Additionally, any model within 2" also suffers a Strength 6 hit.
 
-Goblin Crew â€” *The Catapults are manned by a team of Goblins who, when needed, will readily join in slaughtering those
+Goblin Crew — *The Catapults are manned by a team of Goblins who, when needed, will readily join in slaughtering those
 unlucky enough to stand against them.*
 
 If the Catapult Troll wins the Fight, in addition to any Strikes that the Troll makes, the Goblin crew may also make Strikes against those in combat with the Troll. The Goblins inflict D6 Strength 3 Strikes if the Catapult Troll wins the Fight. Note that if the Catapult Troll uses a Brutal Power Attack, then the Goblins do not get these additional Strikes.
 
-Metal Gauntlets â€” *The gauntlets attached to these Trolls provide them with sufficient means to swiftly despatch those in their
+Metal Gauntlets — *The gauntlets attached to these Trolls provide them with sufficient means to swiftly despatch those in their
 path. A hit from these weapons can send even the sturdiest of warriors
 flying.*
 
@@ -507,7 +507,7 @@ Flails.
 
 Fearless, Terror.
 
-Crushing Blow â€” *As Troll Brutes move, they smash their flails into
+Crushing Blow — *As Troll Brutes move, they smash their flails into
 the ground in an attempt to crush whatever lies in their path.*
 
 Each time a Troll Brute moves into base contact with another model, it
@@ -533,7 +533,7 @@ Wooden clubs.
 
 Terror.
 
-Relentless Advance â€” *When commanded, the Ogres of Azog's armies will charge through the ranks of their own troops in order to meet their
+Relentless Advance — *When commanded, the Ogres of Azog's armies will charge through the ranks of their own troops in order to meet their
 enemies head-on.*
 
 When an Ogre charges into combat, they can pass 'through' friendly Orc, Goblin and Bat models when they move and each model that they pass
@@ -568,9 +568,9 @@ bred solely for war. Flying ahead of Bolg's army, the War Bats are the
 first of Bolg's reinforcements to reach the Battle of the Five Armies. Razor-sharp
 talons pluck warriors from the field of battle, piercing armour and
 tearing flesh as they fling their prey to the ground.*
- Piercing Talons â€” *War Bats are armed with vicious talons that are able to rip through armour with frightening ease.*
+ Piercing Talons — *War Bats are armed with vicious talons that are able to rip through armour with frightening ease.*
 When a War Bat Charges, the Defence of the charged model, and any models that subsequently counter-charge, is reduced by 2 against the War Bat's Strikes.
-Pluck â€” *As a War Bat flies over its prey, it will attempt to seize it in its vicious talons and fling it to the ground.*
+Pluck — *As a War Bat flies over its prey, it will attempt to seize it in its vicious talons and fling it to the ground.*
 
 At the end of a War Bat's Move, pick an unengaged Man-sized (or smaller) enemy model that it has moved over and roll a D6. On a 4+, that model suffers a Strength 4 hit. If it survives, roll another dice. On a 4+, that model is Knocked to the Ground.
 
@@ -601,9 +601,9 @@ Mv F S D A W C
 
 Cave Dwellers.
 
-Chittering Hordes â€” See page 97.
+Chittering Hordes — See page 97.
 
-Mercenary Ambush â€” See page 97.
+Mercenary Ambush — See page 97.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image179.jpeg)
 
@@ -613,7 +613,7 @@ Mercenary Ambush â€” See page 97.
 
 *The Pale Orc rides into battle upon his great White Warg, a huge and vicious beast that towers over Orc and Warg alike. Atop this beast,
 Azog leads his followers in the hunt for Thorin's Company. Alongside the
-Pale Orc rides his spawn, Bolg. Every bit as cruel and unrelenting as his father, it is Bolg who continues the chase for the Dwarves when Azog is summoned by the dark power that dwells in Dol Guldur â€” the true master of evil.*
+Pale Orc rides his spawn, Bolg. Every bit as cruel and unrelenting as his father, it is Bolg who continues the chase for the Dwarves when Azog is summoned by the dark power that dwells in Dol Guldur — the true master of evil.*
 
 *Azog's Hunters are made up of many packs of vile Hunter Orcs, cunning and silent killers that have become accustomed to tracking their
 targets*
@@ -635,7 +635,7 @@ The profile for Azog can be found on page 93. Azog counts as a Hero of Legend if
 
 **ARMY BONUS**
 
-"They strike in the wee small hours when everyone's asleep" â€” The Azog's Hunters army list may include 50% bows rather than 33%. Additionally, all models in the Azog's Hunters army list have their Shoot value improved by 1.
+"They strike in the wee small hours when everyone's asleep" — The Azog's Hunters army list may include 50% bows rather than 33%. Additionally, all models in the Azog's Hunters army list have their Shoot value improved by 1.
 
 The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if taken as part of an Azog's Hunters army list.
 
@@ -645,7 +645,7 @@ The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic Strike
+* Heroic Strike
 
 **SPECIAL RULES**
 
@@ -653,11 +653,11 @@ Expert Rider.
 
 MWF
 
-*Yazneg is the brutish and cruel captain of Azog's Hunter Orcs. He leads this vicious band of creatures in an effort to track down and kill Thorin's Company â€” and anything else that is unfortunate enough to get in his way.*
+*Yazneg is the brutish and cruel captain of Azog's Hunter Orcs. He leads this vicious band of creatures in an effort to track down and kill Thorin's Company — and anything else that is unfortunate enough to get in his way.*
 
 **NARZUG 50 POINTS**
 
-**ORC, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ORC, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S
 
@@ -677,7 +677,7 @@ Armour, sword and Orc bow.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic Accuracy
+* Heroic Accuracy
 
 **SPECIAL RULES**
 
@@ -691,7 +691,7 @@ Fell Warg 10 points
 
 **YAZNEG 45 POINTS**
 
-**ORC, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ORC, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -707,14 +707,14 @@ Fell Warg 10 points
 
 Lance 5 points
 
-The Price of Failure â€” *Yazneg's master is not one to tolerate failure
+The Price of Failure — *Yazneg's master is not one to tolerate failure
 lightly...*
  If your army contains both Azog and Yazneg, and the two are in base contact at the beginning of your Move phase, instead of rolling the dice to make a Courage test when your force is Broken, you can remove Yazneg from play. If you do so, Azog is considered to have automatically passed his Courage test and his Stand Fast! will affect the entire battlefield. Furthermore, if Yazneg is removed from play in this way then whilst Azog is still alive, all Hunter Orcs, Hunter Orc Captains, Fimbul the Hunter and Narzug re-roll failed Courage tests.
 
 *One of the captains of Azog's Hunter Orcs, Narzug possesses an unusually exceptional skill with a bow for an Orc, even rivaling that of some Men. His arrows are laced with a deadly toxin, and those who are pierced by one of Narzug's arrows will soon be left choking on the poison that rushes through their veins, if the initial shot didn't do the job. Like all of those that lead packs of Hunter Orcs, Narzug is a vicious fighter and well-versed in both the art of stealth and brutal hand-to-hand combat.*
 
-Morgul Arrows â€” see page 96.
- Lethal Aim â€” *Narzug's skill with a bow is unrivalled within the ranks of the Hunter Orcs.*
+Morgul Arrows — see page 96.
+ Lethal Aim — *Narzug's skill with a bow is unrivalled within the ranks of the Hunter Orcs.*
 Each turn, Narzug may spend a single point of Might without reducing his store (even if he has none remaining) to modify either a To Hit roll, an In The Way roll or a To Wound roll when shooting his Orc bow.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image184.jpeg)![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image185.jpeg)
@@ -735,7 +735,7 @@ MWF
 
 **FIMBUL THE HUNTER 50 POINTS**
 
-**ORC, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ORC, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -757,15 +757,15 @@ Fell Warg 10 points
 
 Expert Rider.
 
-Hunt Master â€” *Fimbul's ability to stalk his foes extends across all
+Hunt Master — *Fimbul's ability to stalk his foes extends across all
 types of ground.*
 
-When mounted, Fimbul ignores the penalties suffered by Cavalry models attempting to move in difficult terrain â€” this even enables him to gain
+When mounted, Fimbul ignores the penalties suffered by Cavalry models attempting to move in difficult terrain — this even enables him to gain
 the bonuses for charging!
 
 **HUNTER ORC CAPTAIN 45 POINTS**
 
-**ORC, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**ORC, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -787,7 +787,7 @@ Two-handed pick 5 points
 
 **SPECIAL RULES**
 
-Many Blades â€” *Hunter Orcs carry a variety of long knives, wicked
+Many Blades — *Hunter Orcs carry a variety of long knives, wicked
 swords and other, stranger weapons into battle.*
 
 Whilst they have the Infantry keyword, a model with this special rule receives +1 Attack.
@@ -826,7 +826,7 @@ Two-handed pick 1 point
 
 **SPECIAL RULES**
 
-Many Blades â€” see page 106.
+Many Blades — see page 106.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image187.jpeg)
 
@@ -881,7 +881,7 @@ The profile for Hunter Orcs can be found on page 107, the profile for Gundabad O
 The Necromancer, and all nine NazgÃ»l of Dol Guldur, may be deployed as one warband if you wish, so long as the warband contains no other models.
 
 **ARMY BONUS**
- "His Spirit has lost none of its potency" â€” Whenever the Necromancer of Dol Guldur attempts to cast a Magical Power, by expending one or more Will points, he automatically adds an extra free Will point to the Casting test.
+ "His Spirit has lost none of its potency" — Whenever the Necromancer of Dol Guldur attempts to cast a Magical Power, by expending one or more Will points, he automatically adds an extra free Will point to the Casting test.
 
 The profile for Mirkwood Spiders can be found on page 116.
 
@@ -893,7 +893,7 @@ The profile for Mirkwood Spiders can be found on page 116.
 
 **THE NECROMANCER OF DOL GULDUR 250 POINTS**
 
-**SPIRIT, DOL GULDUR, INFANTRY, HERO â€” HERO OF LEGEND**
+**SPIRIT, DOL GULDUR, INFANTRY, HERO — HERO OF LEGEND**
 
 *Sauron has returned, his eye now fixed upon the Lonely Mountain that
 holds the key to reclaiming the realm of Angmar in the north. Building
@@ -923,15 +923,15 @@ Mv F S D A W C
 
 Ancient Evil, Terror, Will of Evil.
 
-\*He cannot yet take Physical Form â€” *The Necromancer is unable to fully manifest, making it harder to combat him effectively.*
+\*He cannot yet take Physical Form — *The Necromancer is unable to fully manifest, making it harder to combat him effectively.*
 
 The Necromancer may use his Will points as Fate points if he wishes.
 
-Drain Soul â€” *The potency of the Necromancer's power is a deadly force to face.*
+Drain Soul — *The potency of the Necromancer's power is a deadly force to face.*
 
 Any model that suffers a wound from the Necromancer during the Fight phase is automatically slain regardless of the number of Wounds on its profile. A Hero can use Fate to avoid Wounds suffered, but if even a single Wound is not avoided then the Hero is slain and removed as a casualty.
 
-Master of the NazgÃ»l â€” *The Necromancer's powers sustain the NazgÃ»l, making them much more deadly when near their master.*
+Master of the NazgÃ»l — *The Necromancer's powers sustain the NazgÃ»l, making them much more deadly when near their master.*
 
 Any NazgÃ»l of Dol Guldur in the same army as the Necromancer of Dol Guldur gains a bonus of +1 to their rolls for their Unholy Resurrection special rule whilst he is alive and on the board.
 
@@ -961,7 +961,7 @@ Note: The Necromancer is in fact Sauron. This means you cannot have both Sauron 
 
 **THE NAZGÃ›L OF DOL GULDUR 75 POINTS**
 
-**SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO â€” HERO OF VALOUR**
+**SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO — HERO OF VALOUR**
 
 *Appearing at Dol Guldur in a very different form to that of the Black
 Riders, at this point in their existence the NazgÃ»l are much swifter
@@ -985,19 +985,19 @@ Each of the NazgÃ»l has different wargear, as described over the following pag
 
 Harbinger of Evil, Terror.
 
-One of Nine â€” *Nine rings of power were gifted by Sauron to the race of Men.*
+One of Nine — *Nine rings of power were gifted by Sauron to the race of Men.*
 
 There can only be a maximum of nine Ringwraith models, of any combination (including Ringwraiths or any of the named Wraiths), in your force. Additionally, a Hero wearing the Ring is not invisible to these models as he is to others.
 
-The Servants of Evil â€” *Whilst all of the NazgÃ»l are bound to the will of Sauron, each of them is slightly different, and as such
+The Servants of Evil — *Whilst all of the NazgÃ»l are bound to the will of Sauron, each of them is slightly different, and as such
 fights in a different way.*
 
 When choosing which NazgÃ»l to field, pick one option from the list that follows. Each NazgÃ»l may only be taken once, unless otherwise stated.
 
-Unholy Resurrection â€” *Through their dark power, the NazgÃ»l of Dol Guldur are able to return to the field of battle
+Unholy Resurrection — *Through their dark power, the NazgÃ»l of Dol Guldur are able to return to the field of battle
 repeatedly if they are defeated.*
 
-If a model with this special rule is slain, place a marker where it was removed from the board. In the next Priority phase, after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound and may be placed anywhere within 6" of the marker, so long as it is not placed in base contact with an enemy model. Any Might or Will points that were spent remain spent. Whilst the marker is in play, the NazgÃ»l counts as on the board for the purpose of working out whether your force is Broken or reduced to 25% â€” though they cannot hold objectives and will still count as slain for the purposes of any special rules that would require a model to be slain (such as a Heroic Combat). If the roll is a 1 or a 2, then the NazgÃ»l has been banished â€” remove the marker and the NazgÃ»l from play. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to the Unholy Resurrection roll. If, when the game ends, a marker is in play and the corresponding NazgÃ»l is not on the board, that NazgÃ»l will count as having been slain for the purposes of victory conditions.
+If a model with this special rule is slain, place a marker where it was removed from the board. In the next Priority phase, after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound and may be placed anywhere within 6" of the marker, so long as it is not placed in base contact with an enemy model. Any Might or Will points that were spent remain spent. Whilst the marker is in play, the NazgÃ»l counts as on the board for the purpose of working out whether your force is Broken or reduced to 25% — though they cannot hold objectives and will still count as slain for the purposes of any special rules that would require a model to be slain (such as a Heroic Combat). If the roll is a 1 or a 2, then the NazgÃ»l has been banished — remove the marker and the NazgÃ»l from play. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to the Unholy Resurrection roll. If, when the game ends, a marker is in play and the corresponding NazgÃ»l is not on the board, that NazgÃ»l will count as having been slain for the purposes of victory conditions.
 
 **THE WITCH-KING OF ANGMAR**
 
@@ -1007,7 +1007,7 @@ Armour and sword.
 
 **SPECIAL RULES**
 
-Angmar Arisen â€” *The greatest of the Nine, the Witch-king is*
+Angmar Arisen — *The greatest of the Nine, the Witch-king is*
 
 *the most deadly of all the NazgÃ»l.*
 
@@ -1021,7 +1021,7 @@ Armour and two-handed mace.
 
 **SPECIAL RULES**
 
-RhÃ»nish Fury â€” *Originating from a fierce warrior culture,*
+RhÃ»nish Fury — *Originating from a fierce warrior culture,*
 
 *KhamÃ»l is well-versed in the ways of combat.*
 
@@ -1035,7 +1035,7 @@ Armour and axe.
 
 **SPECIAL RULES**
 
-Executioner â€” *This NazgÃ»l takes great pleasure in removing the heads of his foes.*
+Executioner — *This NazgÃ»l takes great pleasure in removing the heads of his foes.*
 
 If the Dark Headsman scores a natural 6 when rolling To Wound, then the Strike causes not 1 Wound but D3 Wounds instead (determine the number of Wounds after Fate points are used).
 
@@ -1047,7 +1047,7 @@ Armour and Trident Spear.
 
 **SPECIAL RULES**
 
-Trident Spear â€” *An unusual, yet deadly weapon, this spear is capable of penetrating steel plate armour as if it were nothing but
+Trident Spear — *An unusual, yet deadly weapon, this spear is capable of penetrating steel plate armour as if it were nothing but
 cloth.*
 
 The Trident Spear is a spear. Additionally, the Forsaken must re- roll all failed rolls To Wound.
@@ -1060,7 +1060,7 @@ Armour and sword.
 
 **SPECIAL RULES**
 
-Unnatural Speed â€” *Able to dart around his enemies, the Lingering Shadow's speed is unmatched by any of the NazgÃ»l of Dol Guldur.*
+Unnatural Speed — *Able to dart around his enemies, the Lingering Shadow's speed is unmatched by any of the NazgÃ»l of Dol Guldur.*
 
 After Priority has been rolled, the controlling player may remove the Lingering Shadow from the board and place him anywhere within 3" of where he originally was. Note, the Lingering Shadow may not be placed in base contact with an enemy model. This does not count as moving.
 
@@ -1072,7 +1072,7 @@ Armour and Elven-made sword.
 
 **SPECIAL RULES**
 
-Spiritual Displacement â€” *These two NazgÃ»l that share the same name are able to effortlessly interchange with each other.*
+Spiritual Displacement — *These two NazgÃ»l that share the same name are able to effortlessly interchange with each other.*
 
 An army may include up to two Abyssal Knights. In the Priority phase, after Priority has been rolled for, the controlling player can choose to remove one of the Abyssal Knights from the board and immediately place it into base contact with the other, so long as it is not also placed in base contact with an enemy model. This does not count as moving.
 
@@ -1084,7 +1084,7 @@ Armour and two-handed mace.
 
 **SPECIAL RULES**
 
-Deadly Strength â€” *The NazgÃ»l, known only as the Slayers of Men, wield their maces with frightening skill and strength.*
+Deadly Strength — *The NazgÃ»l, known only as the Slayers of Men, wield their maces with frightening skill and strength.*
 
 An army may include up to two Slayers of Men. Additionally, a Slayer of Men never suffers the -1 penalty for wielding a two-handed weapon.
 
@@ -1116,7 +1116,7 @@ Armour, sword and two-handed pick.
 
 -   Heroic Challenge
 
-Torturer â€” *The Keeper of the Dungeons delights in the maiming of those
+Torturer — *The Keeper of the Dungeons delights in the maiming of those
 in his path. The more pain he inflicts, the more blood he thirsts for.*
 
 Every time the Keeper of the Dungeons slays a model, keep a note of it.
@@ -1143,7 +1143,7 @@ Armour and sword.
 
 Morgul blade 5 points
 
-Morgul Blade â€” Once per game, this model's controlling player may declare they are using their Morgul blade during the Fight phase before
+Morgul Blade — Once per game, this model's controlling player may declare they are using their Morgul blade during the Fight phase before
 rolling To Wound. If a model is using a Morgul blade, they must direct all of
 their Strikes against a single target. An enemy that suffers a Wound from the Morgul
 blade is automatically slain, regardless of the number of Wounds on their
@@ -1157,7 +1157,7 @@ the rider's Attacks and Strength if using the Morgul blade.
 
 Terror, Will of Evil.
 
-Automatons â€” *Castellans are beings of war; they have no knowledge of
+Automatons — *Castellans are beings of war; they have no knowledge of
 tactics or leading an army.*
 
 Castellans of Dol Guldur do not grant their Stand Fast! rule to nearby Warrior models.
@@ -1165,7 +1165,7 @@ Castellans of Dol Guldur do not grant their Stand Fast! rule to nearby Warrior m
 Castellans of Dol Guldur may use Will points as Fate points if they
 wish.
 
-Will of the Necromancer â€” *Bound to the strength of the Necromancer, Castellans can prolong their existence through unnatural means.*
+Will of the Necromancer — *Bound to the strength of the Necromancer, Castellans can prolong their existence through unnatural means.*
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image196.jpeg)
 
@@ -1200,7 +1200,7 @@ This army may include: The Spider Queen; Mirkwood Spiders; Giant Spiders; Bat Sw
 
 **ARMY BONUS**
 
-Beasts of Mirkwood â€” So long as your army includes the Spider Queen, warbands composed entirely of Warg models do not need a Hero to lead them if they number six or more models; warbands composed entirely of Spider models do not need a Hero to lead them if they number two or more models; and warbands composed of a mixture of models do not need a Hero to lead them if they number ten or more models. Instead, one Warrior within the warband takes on the role of the warband's captain for the purpose of deployment.
+Beasts of Mirkwood — So long as your army includes the Spider Queen, warbands composed entirely of Warg models do not need a Hero to lead them if they number six or more models; warbands composed entirely of Spider models do not need a Hero to lead them if they number two or more models; and warbands composed of a mixture of models do not need a Hero to lead them if they number ten or more models. Instead, one Warrior within the warband takes on the role of the warband's captain for the purpose of deployment.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image198.jpeg)
 
@@ -1210,7 +1210,7 @@ Beasts of Mirkwood â€” So long as your army includes the Spider Queen, warb
 
 **THE SPIDER QUEEN 115 POINTS**
 
-**SPIDER,MIRKWOOD, MONSTER,INFANTRY, HERO â€” HERO OFVALOUR**
+**SPIDER,MIRKWOOD, MONSTER,INFANTRY, HERO — HERO OFVALOUR**
 
 Mv F S D A W C M W F
 
@@ -1229,7 +1229,7 @@ Large venomous fangs.
 **SPECIAL RULES**
 
 Monstrous Charge, Swift Movement, Terror, Venom.
- Progeny â€” *When called upon, the children of the Spider Queen burst forth from the nests upon her back and towards those deemed as easy prey.*
+ Progeny — *When called upon, the children of the Spider Queen burst forth from the nests upon her back and towards those deemed as easy prey.*
 During any point in her Move phase, the Spider Queen may expend any number of remaining Will points to summon a Broodling. For each Will point expended in this way, place a single Broodling base anywhere within 3" of the Spider Queen but not in base contact with any enemy models. Broodlings may Move and Charge on a turn in which they were summoned. Broodlings are not counted when working out if a force is Broken.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image199.jpeg)
@@ -1252,7 +1252,7 @@ Venomous fangs.
 
 Poisoned Fangs, Swift Movement, Terror.
 
-Spider Webs â€” *Mirkwood Spiders can shoot webs to ensnare their prey.*
+Spider Webs — *Mirkwood Spiders can shoot webs to ensnare their prey.*
 
 *Mirkwood is haunted by many sinister and creeping things that have been twisted and mutated by the dark power corrupting the forest. The species of Mirkwood Spiders that nest in the high branches are perhaps chief amongst them; huge, bloated creatures with a dark intellect and a taste for blood. Many a warrior has succumbed to these creatures, trapped by the thick, sticky webbing they shoot to ensnare their prey.*
 
@@ -1302,7 +1302,7 @@ Claws and teeth.
 
 Fly.
 
-Blinding Swarm â€” *Those caught within the spiral of bats are barely
+Blinding Swarm — *Those caught within the spiral of bats are barely
 able to*
 
 *see, let alone fend off those attacking them.*
@@ -1316,7 +1316,7 @@ is halved (rounding down).
 
 []{#bookmark1102 .anchor}**GOBLIN-TOWN**
 
-*Deep within the caverns and caves of The Misty Mountains there are a multitude of Goblin kingdoms, many of which delve deep into the rock of Middle-earth. Perhaps the greatest of these kingdoms is that of Goblin-town. Whilst other kingdoms often use long-dead Dwarven cities, Goblin-town is almost entirely built by the Goblins â€” a combination of rickety wooden walkways and structures made from the bones of their prisoners.*
+*Deep within the caverns and caves of The Misty Mountains there are a multitude of Goblin kingdoms, many of which delve deep into the rock of Middle-earth. Perhaps the greatest of these kingdoms is that of Goblin-town. Whilst other kingdoms often use long-dead Dwarven cities, Goblin-town is almost entirely built by the Goblins — a combination of rickety wooden walkways and structures made from the bones of their prisoners.*
 
 *In charge of this dread kingdom is the Goblin King. A huge and vile creature, covered in boils and pustules, the Goblin King rules over
 Goblin- town with a ruthless malice. His size has in the past led to some
@@ -1326,7 +1326,7 @@ enjoys nothing more than watching his prisoners squeal in agony as their bones b
 
 *The Goblins of Goblin-town are disgusting creatures, riddled with countless diseases and each of them sporting a plethora of deformities. In fact, the greater the amount of mutations that a Goblin has, the*
 
-*higher up the ranks he is considered to be â€” this makes the captains of the Goblin hordes a hideous bunch of nightmarish creatures! These troglodyte beings carry a variety of wicked weapons, crafted from whatever materials they can get their boil-ridden hands on, whether
+*higher up the ranks he is considered to be — this makes the captains of the Goblin hordes a hideous bunch of nightmarish creatures! These troglodyte beings carry a variety of wicked weapons, crafted from whatever materials they can get their boil-ridden hands on, whether
 this is scraps of used metal or even the sharpened edges of the broken bones of their victims.*
 
 *It has been known for the Goblin King to form pacts with other evil beings, for a price. It is for this reason that the Goblin Mercenaries exist. More cunning than those that spend their days dwelling in the darkness of Goblin-town, Goblin Mercenaries plan ambushes for their unsuspecting foes, where they pounce upon them with overwhelming numbers.*
@@ -1344,7 +1344,7 @@ The profile for a Goblin Mercenary Captain can be found on page 97. Goblin Merce
 The profile for Goblin Mercenaries can be found on page 103.
 
 **ARMY BONUS**
- "Down down down in Goblin-town" â€” Each Goblin Hero model may increase their maximum warband size by six models.
+ "Down down down in Goblin-town" — Each Goblin Hero model may increase their maximum warband size by six models.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image207.jpeg)
 
@@ -1354,7 +1354,7 @@ The profile for Goblin Mercenaries can be found on page 103.
 
 **THE GOBLIN KING 130 POINTS**
 
-**GOBLIN, MONSTER, INFANTRY, HERO â€” HERO OF LEGEND**
+**GOBLIN, MONSTER, INFANTRY, HERO — HERO OF LEGEND**
 
 *The denizens of the rickety construct of Goblin-town are ruled over by
 the Goblin King. This giant and bloated creature is perhaps the greatest
@@ -1387,21 +1387,21 @@ Two-handed pick.
 
 Burly, Cave Dweller, Resistant to Magic, Terror.
 
-Relentless Advance â€” *When the Goblin King charges, any Goblins in his way are in serious danger.*
+Relentless Advance — *When the Goblin King charges, any Goblins in his way are in serious danger.*
 
 When the Goblin King Charges into combat, he can pass 'through' friendly Goblin models when he moves. Each Goblin he moves through suffers a Strength 3 hit. Any Goblin that he ends his move on is automatically slain. A model with this special rule cannot be Compelled/Commanded over friendly models if it is forced to Charge as a part of that Magical Power.
 
-Blubbery Mass â€” *The Goblin King's vile blubbery flesh absorbs blows with ease.*
+Blubbery Mass — *The Goblin King's vile blubbery flesh absorbs blows with ease.*
 
 Every time the Goblin King is wounded, roll a D6. On a 3+, the Wound is ignored. Magical Powers and Elven-made weapons ignore this ability.
 
-Goblin Projectile â€” *The Goblin King will readily hurl nearby Goblins at his foes if it suits him.*
+Goblin Projectile — *The Goblin King will readily hurl nearby Goblins at his foes if it suits him.*
 
-In the Shoot phase, if there is a friendly Goblin model in base contact with the Goblin K ing, and neither are Engaged in combat, the Goblin King may make a shooting attack with a range of 12" â€” this counts as a throwing weapon. Remove the Goblin, roll To Hit and take any In The Way tests for the shooting attack. The shot is resolved at Strength 8 and will automatically knock Prone any model it hits.
+In the Shoot phase, if there is a friendly Goblin model in base contact with the Goblin K ing, and neither are Engaged in combat, the Goblin King may make a shooting attack with a range of 12" — this counts as a throwing weapon. Remove the Goblin, roll To Hit and take any In The Way tests for the shooting attack. The shot is resolved at Strength 8 and will automatically knock Prone any model it hits.
 
 **GRINNAH 40 POINTS**
 
-**GOBLIN, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**GOBLIN, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S
 
@@ -1421,11 +1421,11 @@ MWF
 
 Dagger and scourge.
 
-Scourge â€” This is a throwing weapon with a range of 2" and a Strength of 2.
+Scourge — This is a throwing weapon with a range of 2" and a Strength of 2.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic Strike
+* Heroic Strike
 
 *Grinnah is the Goblin King's cunning lieutenant, a position that holds a relative amount of power in Goblin- town. Whilst he is a capable fighter, Grinnah's true strength lies in his ability to manipulate those around him for his own gain. Grinnah has deceived more than one Goblin in order to save his own skin.*
 
@@ -1433,9 +1433,9 @@ Scourge â€” This is a throwing weapon with a range of 2" and a Strength of 
 
 Cave Dweller.
 
-Chittering Hordes â€” See page 122.
+Chittering Hordes — See page 122.
 
-Swap with Me â€” *Grinnah has an uncanny knack of being able to get
+Swap with Me — *Grinnah has an uncanny knack of being able to get
 another Goblin in trouble in order to protect himself.*
 
 Swap with Me is a special Heroic Action that Grinnah can use at the
@@ -1448,7 +1448,7 @@ choose another, or the Heroic Action is wasted.
 
 **50 POINTS**
 
-**GOBLIN, INFANTRY, HERO â€” MINOR HERO**
+**GOBLIN, INFANTRY, HERO — MINOR HERO**
 
 Mv F S D A W C
 
@@ -1464,18 +1464,18 @@ MWF
 
 **SPECIAL RULES**
 
-Always more where they came from â€” *Goblin tunnels are teeming with more Goblins, and the Scribe knows just where to find them.*
+Always more where they came from — *Goblin tunnels are teeming with more Goblins, and the Scribe knows just where to find them.*
 
 *A withered and deformed being, the Goblin Scribe is certainly no fighter. Upon a system of pulleys and ropes, the Goblin Scribe is able to navigate the tunnels and caverns of Goblin-town in order to relay the commands of the Goblin King, and to send for reinforcements quickly, should his blubbery liege ever come under attack.*
 
 At the end of his Move phase, the Goblin Scribe may opt to take a
 Courage test. If the test is passed, you may move D3 extra Goblin Warriors onto
-the board (+1 for each point that he passed his test by) â€” from an edge
+the board (+1 for each point that he passed his test by) — from an edge
 chosen by the controlling player. If the Goblin Scribe is forced to automatically
 pass this Courage test, then D3 Goblin Warriors will enter the board as described
 above.
 
-Immobile â€” *Withered and feeble, the Goblin Scribe cannot move on his own.*
+Immobile — *Withered and feeble, the Goblin Scribe cannot move on his own.*
 
 The Goblin Scribe is automatically Trapped if he loses a Fight.
 Additionally, in the Move phase, friendly models may move him and his frame, in which
@@ -1487,14 +1487,14 @@ case he is considered to be a Heavy Object.
 
 **GOLLUM 35 POINTS**
 
-**HOBBIT, INFANTRY, HERO â€” INDEPENDENT HERO**
+**HOBBIT, INFANTRY, HERO — INDEPENDENT HERO**
 
 *Within the depths of The Misty Mountains dwells the pallid, gangrel
 creature, Gollum. In his possession lies the One Ring, a trinket of
 immeasurable power. This has tortured and warped Gollum's soul, bringing him an
 unnaturally long life and twisting him beyond all recognition. Yet his
 need for the Ring has become so great that he cannot bear to be parted from it. And
-so, in the gloom of his cave, Gollum dwells â€” quite content to spend
+so, in the gloom of his cave, Gollum dwells — quite content to spend
 the rest of his days in seclusion.*
 
 Mv F S D A W C
@@ -1509,15 +1509,15 @@ MWF
 
 101
 
-The Precious â€” Unless there is another Ringbearer (such as Bilbo, Frodo or even Sauron himself !) in play, Gollum always has the Ring. Should the Ringbearer be slain in a Fight with Gollum, then he automatically recovers the Ring â€” add it to his wargear.
+The Precious — Unless there is another Ringbearer (such as Bilbo, Frodo or even Sauron himself !) in play, Gollum always has the Ring. Should the Ringbearer be slain in a Fight with Gollum, then he automatically recovers the Ring — add it to his wargear.
 
-Strangler â€” *Gollum has become practiced in silently slaying his prey, whether this be a tasty fish or an unsuspecting foe.*
+Strangler — *Gollum has become practiced in silently slaying his prey, whether this be a tasty fish or an unsuspecting foe.*
 
 Gollum is never considered to be unarmed, ever.
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic March
+* Heroic March
 
 **SPECIAL RULES**
 
@@ -1547,7 +1547,7 @@ Armour and sword or
 
 Cave Dwellers.
 
-Chittering Hordes â€” *Goblins are so eager to get to grips with their
+Chittering Hordes — *Goblins are so eager to get to grips with their
 enemy that they will clamber over one another to stab at the foe.*
 
 Models with this special rule can Support as if they had spears, with
@@ -1579,7 +1579,7 @@ Cave Dwellers.
 
 **.4 POINTS**
 
-Chittering Hordes â€” *Goblins are so eager to get to grips with their
+Chittering Hordes — *Goblins are so eager to get to grips with their
 enemy that they will clamber over one another to stab at the foe.*
 
 Models with this special rule can Support as if they had spears, with
@@ -1599,7 +1599,7 @@ Two-handed axe 1 point
 
 *Stone Trolls often dwell in The Misty Mountains;*
 
-*hulking and vicious creatures that relish causing pain to those they encounter. Yet these creatures have one distinct weakness â€” the sun. Should a Stone Troll be caught within the sun's rays, they will quickly find themselves transmogrifying into the very substance that the mountain they herald from is made of.*
+*hulking and vicious creatures that relish causing pain to those they encounter. Yet these creatures have one distinct weakness — the sun. Should a Stone Troll be caught within the sun's rays, they will quickly find themselves transmogrifying into the very substance that the mountain they herald from is made of.*
 
 *Bill, Bert and Tom are three such creatures. Venturing down from the mountains, further than any Stone Trolls had done in an Age, the Three Trolls set up camp at the aptly named Trollshaws. Quite how long they had spent in their dwellings remains unknown, but they had managed to build up an impressive hoard of treasure, weapons (including Sting, Glamdring and Orcrist) and, of course, gold.*
 
@@ -1610,7 +1610,7 @@ giant grubby hands on.*
 encounter as they make their way towards The Misty Mountains. Rushing out to save their burglar from being scoffed by the squabbling Trolls, the Dwarves then find themselves caught and bagged up by these creatures, ready to be cooked and eaten, as well. If it wasn't for Bilbo's quick
 and clever thinking, the company would surely have perished; for the
 Hobbit's stalling tactics bought enough time for Gandalf to return to the
-company's rescue â€” smiting stone and drenching the Trolls in sunlight, and thus sealing their fate.*
+company's rescue — smiting stone and drenching the Trolls in sunlight, and thus sealing their fate.*
 
 **ARMY COMPOSITION**
 
@@ -1622,7 +1622,7 @@ The Three Trolls may be deployed as one warband if you wish.
 
 **ARMY BONUS**
 
-"Hold his toes over the fire, make him squeal" â€” You may include the Campfire in your army without having to pay the points for it. Additionally, the Three Trolls will treat the Campfire as a banner in addition to all other effects it would usually provide.
+"Hold his toes over the fire, make him squeal" — You may include the Campfire in your army without having to pay the points for it. Additionally, the Three Trolls will treat the Campfire as a banner in addition to all other effects it would usually provide.
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image219.jpeg)
 
@@ -1632,7 +1632,7 @@ The Three Trolls may be deployed as one warband if you wish.
 
 **BILL THE TROLL 150 POINTS**
 
-**TROLL, MONSTER, INFANTRY, HERO â€” HERO OF VALOUR**
+**TROLL, MONSTER, INFANTRY, HERO — HERO OF VALOUR**
 
 *Bill, or William as he is sometimes known, is the leader of the three
 Stone Trolls that ventured down from the mountains of the north and
@@ -1668,13 +1668,13 @@ Club or fork (counts as a dagger).
 
 Campfire 15 points
 
-Campfire â€” After forces are deployed, but before the first turn begins, place the Campfire anywhere on the board outside of your opponent's deployment area. Bill, Tom and Bert gain the Resistant to Magic special rule and a bonus of +1 to their Courage value whilst they are within 6" of the Campfire.
+Campfire — After forces are deployed, but before the first turn begins, place the Campfire anywhere on the board outside of your opponent's deployment area. Bill, Tom and Bert gain the Resistant to Magic special rule and a bonus of +1 to their Courage value whilst they are within 6" of the Campfire.
 
 **SPECIAL RULES**
 
 Terror, Throw Stones (range 12", Strength 8).
 
-Keep 'em for Later â€” *The Three Trolls are more than happy to stuff their foes into a bag so that they can eat them later.*
+Keep 'em for Later — *The Three Trolls are more than happy to stuff their foes into a bag so that they can eat them later.*
 
 If this Troll wins a Fight, they may choose one Man-sized (or smaller) model from the Fight and Keep 'em for Later instead of rolling for Strikes or using a Brutal Power Attack. Replace the model with a 25mm marker that represents the unfortunate victim stuffed in a bag. The model thereafter counts as being subject to the Paralyse Magical Power.
 
@@ -1684,15 +1684,15 @@ may choose to perform a Mince 'em Fine Brutal Power Attack
 
 instead of making Strikes. Choose one enemy model in the
 
-Fight â€” both Bill and the chosen model roll a D6 and add their
+Fight — both Bill and the chosen model roll a D6 and add their
 
-respective Strength values. If Bill rolls higher, the victim suffers a number of Wounds equal to the difference â€” each of which may be prevented by a Fate point in the usual way. Regardless of who rolls higher, the victim Backs Away as normal.
+respective Strength values. If Bill rolls higher, the victim suffers a number of Wounds equal to the difference — each of which may be prevented by a Fate point in the usual way. Regardless of who rolls higher, the victim Backs Away as normal.
 
 **BERT THE TROLL**
 
 **130 POINTS**
 
-**TROLL, MONSTER, INFANTRY, HERO â€” HERO OF FORTITUDE**
+**TROLL, MONSTER, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Mv F S D A W C
 
@@ -1714,7 +1714,7 @@ MWF
 
 Terror, Throw Stones (range 12", Strength 8).
 
-Keep 'em for Later â€” see page 125.
+Keep 'em for Later — see page 125.
 
 Roast 'em Slowly
 
@@ -1725,7 +1725,7 @@ Roast 'em Slowly
 choose to perform a Roast 'em Slowly Brutal Power Attack instead of
 making
 
-*Bert is the group's cook and quite a good one by Troll standards. Fiercely proud of his unique cooking skills, Bert will defend his concoctions against the criticisms of his fellow Trolls with a swift sharp thwack from his ladle. When faced with the prospect of cooking Dwarf, it was Bert's idea to roast them slowly over the fire and feast upon them the following night â€” yet it was the constant indecision on how to cook Thorin's Company that ultimately led to the Trolls' demise.*
+*Bert is the group's cook and quite a good one by Troll standards. Fiercely proud of his unique cooking skills, Bert will defend his concoctions against the criticisms of his fellow Trolls with a swift sharp thwack from his ladle. When faced with the prospect of cooking Dwarf, it was Bert's idea to roast them slowly over the fire and feast upon them the following night — yet it was the constant indecision on how to cook Thorin's Company that ultimately led to the Trolls' demise.*
 
 Strikes, as long as he is within 6" of a fire. Choose an enemy model
 involved in the Fight and place it in base contact with the fire. That model is
@@ -1737,7 +1737,7 @@ immediately Set Ablaze.
 
 **120 POINTS**
 
-**TROLL, MONSTER, INFANTRY, HERO â€” HERO OF VALOUR**
+**TROLL, MONSTER, INFANTRY, HERO — HERO OF VALOUR**
 
 Mv F S D A W C
 
@@ -1755,15 +1755,15 @@ MWF
 
 **HEROIC ACTIONS**
 
-â€¢ Heroic Defence
+* Heroic Defence
 
 **SPECIAL RULES**
 
 Terror, Throw Stones (range 12", Strength 8).
 
-Keep 'em for Later â€” see page 125.
+Keep 'em for Later — see page 125.
 
-Lingering Cold â€” *Tom has a lousy cold that he simply cannot shake; he
+Lingering Cold — *Tom has a lousy cold that he simply cannot shake; he
 is likely to sneeze over anyone who gets too close.*
 
 During a Fight that involves him, and before making a Duel roll, Tom
@@ -1790,7 +1790,7 @@ Supporting models) suffers a Strength 6 hit. Any who survive are knocked Prone.
 
 *These mighty creatures would strike fear into the hearts of any who would hear their roar, and few were those that would ever get the chance to witness one of these incredible creatures and live to tell the tale.*
 
-*However, out of all of the great Fire-drakes of the North, there was one that was more feared and more famous than any other in history â€” Smaug.*
+*However, out of all of the great Fire-drakes of the North, there was one that was more feared and more famous than any other in history — Smaug.*
 
 *It was with the destruction of the cities of Dale and Erebor that
 Smaug truly became the feared wyrm of legend. For under the rule of ThrÃ³r, the vast treasure hoard of Erebor had continued to grow, its wealth unmatched among the Dwarven kingdoms of Middle-earth. It was this great wealth that drew Smaug to Erebor, for Dragons covet gold more than anything else.*
@@ -1806,13 +1806,13 @@ had become King Under the Mountain.*
 
 This army may include: Smaug.
  **ARMY BONUS**
-The Desolator of the North army list does not get a special rule â€” having a massive fire-breathing Dragon is a deadly enough bonus as it is!
+The Desolator of the North army list does not get a special rule — having a massive fire-breathing Dragon is a deadly enough bonus as it is!
 
 ![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image227.jpeg)
 
 **SMAUG 700 POINTS**
 
-**DRAGON, MONSTER, INFANTRY, HERO â€” HERO OF LEGEND**
+**DRAGON, MONSTER, INFANTRY, HERO — HERO OF LEGEND**
 
 *Smaug is a Fire-drake hailing from the mountains far to the north, and
 it is doubtless that he is the largest and most powerful of his kind
@@ -1830,7 +1830,7 @@ to flee their ancestral homes.*
   ------------------------------------ ---------------- ---------- -----------
                                        *Transfix*       *12"*     *3+*
 
-  *\*Desolator of the North â€” Though  *Compel*         *12"*     *4+*
+  *\*Desolator of the North — Though  *Compel*         *12"*     *4+*
   Smaug is known by*                                               
 
   *many titles for his terrible deeds, *Instill Fear*   *3"*      *5+*
@@ -1866,19 +1866,19 @@ Razor-sharp teeth and massive talons.
 
 Ancient Evil, Fearless, Fly, Resistant to Magic, Terror.
 
-Breathe Fire â€” *Smaug's fiery breath has brought death and ruination to countless foes and entire cities.*
+Breathe Fire — *Smaug's fiery breath has brought death and ruination to countless foes and entire cities.*
 
 Smaug must expend a point of Will to Breathe Fire. Treat Smaug's fiery breath as a bow with a range of 18". If the shot hits, the target and all models (friendly or enemy) within 2" of the target suffer from the Set Ablaze special rule, though the immediate hit these models suffer is Strength 10 instead of Strength 9. Cavalry models suffer these hits on both the rider and the mount. Fate rolls may be taken as normal to prevent wounds, but any model that suffers a wound from Smaug's fiery breath is
 
-Immovable Object â€” *Smaug's titanic bulk is such that little can pose him any real threat.*
+Immovable Object — *Smaug's titanic bulk is such that little can pose him any real threat.*
 
-Smaug cannot be Knocked to the Ground or otherwise moved against his will, and never Backs Away if he loses a Fight â€” his opponents must Back Away, even if they win! As a result of this, Smaug can never be Trapped.
+Smaug cannot be Knocked to the Ground or otherwise moved against his will, and never Backs Away if he loses a Fight — his opponents must Back Away, even if they win! As a result of this, Smaug can never be Trapped.
 
-Missing Scale â€” *Though Girion, Lord of Dale, failed to slay Smaug, one of his arrows left its mark nonetheless.*
+Missing Scale — *Though Girion, Lord of Dale, failed to slay Smaug, one of his arrows left its mark nonetheless.*
 
 If a model rolls a natural 6 To Hit Smaug with a shooting attack, then makes a successful roll To Wound, Smaug suffers a number of wounds equal to the Strength value of the missile weapon used by the shooting model.
 
-Unstoppable Momentum â€” *Few creatures exist in Middle-earth that can stand before Smaug's draconic might.*
+Unstoppable Momentum — *Few creatures exist in Middle-earth that can stand before Smaug's draconic might.*
 
 If Smaug Charges into combat and wins the ensuing Fight, all of his opponents are Knocked to the Ground, regardless of their size (except a War Mumak of Harad, Iron Hills Chariot, or any model that can never be knocked Prone). Furthermore, should Smaug choose to make a Barge Brutal Power Attack, any models forced to Back Away also suffer a Strength 9 hit.
 
