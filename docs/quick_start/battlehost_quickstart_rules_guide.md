@@ -504,6 +504,10 @@ Two enemy forces have come across each other as they march to war, thrusting the
 
 Players use the forces provided in one of the Middle-earth Strategy Battle Game Battlehosts.
 
+**LAYOUT**
+
+The battlefield is sparse and ready for conflict. There is no terrain used in this game.
+
 **STARTING POSITIONS**
 
 The size of the playing area doesn't matter too much, but it should be large enough to allow players to deploy their forces at least 12" apart from each other. Both players roll a D6. The player who scored the highest chooses one half of the board and deploys their models within their chosen half with all their Warrior models deploying within 6^11^ of their Hero. The other player then deploys their models in their half of the board, but not within 12" of any opposing model, with all their Warrior models deploying within 6" of their Hero.
@@ -515,9 +519,5 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 **OBJECTIVES**
 
 This is a battle to the death; the first side to wipe out all their opponent's models is the winner!
-
-**LAYOUT**
-
-The battlefield is sparse and ready for conflict. There is no terrain used in this game.
 
 ![](../media/quick_start/the_forces_clash_map.jpg)
