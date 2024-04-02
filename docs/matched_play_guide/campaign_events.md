@@ -24,14 +24,14 @@ After players have been paired up, and any re-pairings sorted out, the Region th
 
 To decide on which Region all players will be fighting over, roll a D6 and consult the chart below. Once a Region has been fought over once it cannot be fought over again — its fate will already have been decided. This way, each Region will be fought over once in an event.
 
-| D6  | Result     |
+| D6| Result |
 |-----------|------------|
-| 1         | Eriador    |
-| 2         | Rohan      |
-| 3         | Rhovanion  |
-| 4         | Mordor     |
-| 5         | Haradwaith |
-| 6         | Gondor     |
+| 1 | Eriador|
+| 2 | Rohan|
+| 3 | Rhovanion|
+| 4 | Mordor |
+| 5 | Haradwaith |
+| 6 | Gondor |
 
 
 ## WINNING THE CAMPAIGN

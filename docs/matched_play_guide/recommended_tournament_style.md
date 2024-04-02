@@ -103,11 +103,11 @@ This system is used for all rounds after the first, including the final round wi
 The points value of the event, and the number of days the event will go on for, will impact the number of games a tournament will run. Below is a series of guidelines for a variety of different points values, the number of games that should be run, the time given to each round and the size of board the event should
 use.
 
-| Points Limit | Number of Games<br />(1-day event) | Number of Games<br />(2-day event) |   Round Time   | Board Size |
+| Points Limit | Number of Games<br />(1-day event) | Number of Games<br />(2-day event) | Round Time | Board Size |
 | :----------: | :--------------------------------: | :---------------------------------: | :-------------: | :--------: |
-|     500     |                 4                 |                  7                  | 1 hour 30 mins |   4'x4'   |
-|     600     |                 4                 |                  7                  | 1 hour 45 mins |   4'x4'   |
-|     700     |                 3                 |                  6                  |     2 hours     |   4'x4'   |
-|     750     |                 3                 |                  6                  | 2 hours 15 mins |   4'x4'   |
-|     800     |                 3                 |                  6                  | 2 hours 15 mins |   4'x4'   |
-|    1,000    |                 3                 |                  5                  | 2 hours 30 mins |   6'x4'   |
+| 500 | 4 |7| 1 hour 30 mins | 4'x4' |
+| 600 | 4 |7| 1 hour 45 mins | 4'x4' |
+| 700 | 3 |6| 2 hours | 4'x4' |
+| 750 | 3 |6| 2 hours 15 mins | 4'x4' |
+| 800 | 3 |6| 2 hours 15 mins | 4'x4' |
+|1,000| 3 |5| 2 hours 30 mins | 6'x4' |

@@ -14,7 +14,7 @@ To play a Matched Play game, you and your opponent will have to agree on a point
 
 In reality, most armies are actually just shy of the agreed points limit. Sometimes, it will be impossible to spend every last point — many 700 point armies end up being 698 points or 699 points. In a friendly game, most players are happy to let their opponent go over the agreed total by a few points — a few extra points are unlikely to upset the battle's course. At organised play events, it's considered good form to be exactly right on points, or a little below — but certainly not over!
 
-#### WHAT POINTS LIMIT?
+### WHAT POINTS LIMIT?
 
 What size game you and your opponent wish to play should depend on the amount of time you have available — nothing is more irritating than having to abandon an exciting game because you have run out of time.
 
@@ -34,7 +34,7 @@ Some Matched Play Scenarios require the use of Objective markers to represent va
 
 Once you have agreed on the size of your game, you will want to select your army. All **Hero** and **Warrior** models are organised into different army lists; which you will find within the pages of *The Armies of The Lord of the Rings™* and *The Armies of The Hobbit™.*
 
-Those of you that have large collections of *The Hobbit*™ models need not fear — the rules for all of these can be found either in  *The Hobbit: Motion Picture Trilogy There and Back Again*™ or within the Heroes and Villains download available at games-workshop. com. There is also another download that states what is in each of *The Hobbit*™ army lists as well as giving you the Heroic Tiers and Heroic Abilities for each character within these lists. All of this exciting content, along with much more, will be available within a new publication in the near future...
+Those of you that have large collections of *The Hobbit*™ models need not fear — the rules for all of these can be found either in *The Hobbit: Motion Picture Trilogy There and Back Again*™ or within the Heroes and Villains download available at games-workshop. com. There is also another download that states what is in each of *The Hobbit*™ army lists as well as giving you the Heroic Tiers and Heroic Abilities for each character within these lists. All of this exciting content, along with much more, will be available within a new publication in the near future...
 
 ## WARBANDS
 
@@ -42,18 +42,18 @@ Every Matched Play game comprises one or more warbands per side. Each warband re
 
 It's worth noting that there is no limit to the number of warbands that your army can include, so long as every model is part of a warband, other than the points value you have agreed.
 
-#### THE CAPTAIN
+### THE CAPTAIN
 
 To choose a warband, you must first select a **Hero** to be its captain. The captain can be given any of the options presented in their army list entry. This can include relatively commonplace items, such as armour or a shield, but can also encompass slightly more esoteric items depending on the army in question, such as a rabbit-drawn sled, or a magical ring...If an option is not included in the army list entry, the **Hero** cannot take it.
 
 Sometimes **Hero** models are bought as a pair or more, such as *Sigrid & Tilda*. Where this happens, you must choose which is the warband's captain — the other becomes one of their followers, even though this is not normally permitted.
 
-#### FOLLOWERS
+### FOLLOWERS
 
 Once your warband's captain is chosen, you can select a number of **Warrior** models from the same army to be their followers. The number of **Warrior** models that the captain can lead depends upon their Heroic Tier ([see page 132]). A captain does
 not have to take followers, although you cannot take a warband that contains only **Warrior** models and no **Hero** models (except in a couple of rare situations). Similarly, you cannot usually include more than one **Hero** per warband (the captain). Other **Hero** models must form warbands of their own, even if they don't have any followers.
 
-#### WARGEAR AND BOW LIMIT
+### WARGEAR AND BOW LIMIT
 
 As with captains, followers can select wargear from their army list entry.
 
@@ -67,11 +67,11 @@ Your army can have one third (rounding up) of its **Warrior** models equipped wi
 
 *For example: The Bow Limit of a 35-model force is 12 models with bows (35 divided by 3, rounded up).*
 
-#### SIEGE ENGINES
+### SIEGE ENGINES
 
 Some armies may contain a Siege Engine. A Siege Engine forms their own warband led by the Siege Veteran (or the Engineer Captain if they have been upgraded). They are classed as Minor Heroes, however — their warband will only ever contain the Siege Engine and all the crew members, and may not include other followers. An army, or allied contingent, may only include one Siege Engine for each **Hero** with a Heroic Tier of **Hero** of Fortitude or above.
 
-#### THE RULE OF ONE
+### THE RULE OF ONE
 
 As a final important note — there will be instances where more than one of the same named character or named wargear is available. For instance, there are two profiles for Aragorn, one for him as a Ranger and one for him as the King of Gondor. Similarly, there are characters that both have access to the same piece of wargear — both Thorin and Legolas are listed as being able to carry Orcrist, for example. In these instances, only one of each character or named wargear may be taken per army. This requires some form of common sense. No taking multiple *Stings* or multiple Gandalfs — as much as you may want to!
 
@@ -79,7 +79,7 @@ As a final important note — there will be instances where more than one of the
 
 Some heroes in Middle-earth are greater than others and as such command much greater respect and loyalty. Aragorn, for example, would inspire many more warriors to follow him than Damrod. As such all **Hero** models fit into one of five different Heroic Tiers depending on their rank and prowess upon the battlefield.
 
-#### TIER 1 — HEROES OF LEGEND
+### TIER 1 — HEROES OF LEGEND
 
 *The finest lords and kings and most formidable fighters in all of Middle-earth, Heroes of Legend command the greatest numbers of warriors to fight alongside them — even in the face of death.*
 
@@ -87,25 +87,25 @@ Heroes of Legend may lead up to 18 followers in their warband. Additionally, if 
 
 **Last Stand** — The first time a model with this special rule takes a Courage test as a result of your force being Broken, they will pass the test automatically.
 
-#### TIER 2 — HEROES OF VALOUR
+### TIER 2 — HEROES OF VALOUR
 
 *Heroes of Valour may not be destined to reach the same heights as those they serve. However, they are still mighty enough to impact the fate of Middle-earth -- for Good or for Evil.*
 
 Heroes of Valour may lead up to 15 followers in their warband.
 
-#### TIER 3 — HEROES OF FORTITUDE
+### TIER 3 — HEROES OF FORTITUDE
 
 *Commanding portions of a much larger army, these heroes are usually no more than captains or similar. However, in the midst of great battles, they are more than capable of proving their worth.*
 
 Heroes of Fortitude may lead up to 12 followers in their warband.
 
-#### TIER 4 — MINOR HEROES
+### TIER 4 — MINOR HEROES
 
 *There are some in Middle-earth who do not inspire those around them to follow them into battle — either through their lack of experience, cowardly nature or their position within the army's structure.*
 
 Minor Heroes may lead up to six followers in their warband. However, they may not be the army's leader.
 
-#### TIER 5 — INDEPENDENT HEROES
+### TIER 5 — INDEPENDENT HEROES
 
 *These are instances when a **Hero** is incapable of leading warriors into battle — either through their lack of martial prowess, inability to communicate with those around them or simply are far too deadly for a **Warrior** to risk following.*
 
@@ -125,7 +125,7 @@ Many of the most memorable moments in Middle-earth's history came about when sev
 
 There are many advantages to adding allies into your force, either to overcome a weakness within your current force or to allow you to use all of your favourite models in your collection. Allies can also make your army behave differently on the battlefield, opening up fresh tactical opportunities.
 
-#### WHO CAN ALLY?
+### WHO CAN ALLY?
 
 When playing Matched Play games, there are only really two real sides; you are either trying to defeat Sauron (Good) or help him conquer Middle-earth (Evil). Good armies may only ally with other Good armies and Evil armies may only ally with other Evil allies. One force cannot contain both Good and Evil models.
 
@@ -149,19 +149,19 @@ As mentioned earlier, there are some armies in Middle-earth that simply just did
 
 Impossible Allies lose their Army Bonus. Additionally, all models may only benefit from Heroic Actions or the Stand Fast! special rule if they were called by a **Hero** from the same army list.
 
-#### MORE THAN TWO ALLIES
+### MORE THAN TWO ALLIES
 
 There are occasions where you may wish to include models from more than two different army lists. In these situations, the lowest level of alliance from the Alliance Matrix is used for all alliances.
 
-*For example, Jay wishes to include models from the NÃºmenor, Rivendell and LÃ³thlorien army lists. Although NÃºmenor and Rivendell are Historical Allies, NÃºmenor are only Convenient Allies with LÃ³thlorien. This means that all the alliances in Jay's force are considered to be Convenient Allies.*
+*For example, Jay wishes to include models from the Númenor, Rivendell and Lóthlorien army lists. Although Númenor and Rivendell are Historical Allies, Númenor are only Convenient Allies with Lóthlorien. This means that all the alliances in Jay's force are considered to be Convenient Allies.*
 
-#### ALLIES AND BOW LIMIT
+### ALLIES AND BOW LIMIT
 
 If your army is made up of several allied contingents, Bow Limit is not calculated across the entire force, but separately across each allied contingent — so, one in three models in each allied contingent can be given bows, rather than one in three across the entire force.
 
 *For example, Adam is collecting an Evil army that contains an allied contingent from Mordor and another one from Isengard. Though his force is 75 models strong, his warbands in the Mordor contingent only have a total of 31 **Warrior** models. The bow limit on the allied contingent from the* Mordor *list is therefore 11.*
 
-#### ALLIES AND THE LEADER
+### ALLIES AND THE LEADER
 
 If your army contains several allied contingents, your leader must still be the **Hero** from the highest Heroic Tier as stated on [page 133].
 
@@ -175,7 +175,7 @@ The full Allies Matrix, complete with all of the armies present within the Middl
 
 All of the Matched Play Scenarios are designed to be fought between two armies of equal points value. However, there's nothing to stop you and your opponent having different points values for your forces. Sometimes a hopeless defence can be just as fulfilling as a battle you have an even chance of winning — it's certainly just as exciting!
 
-#### MULTI-PLAYER GAMES
+### MULTI-PLAYER GAMES
 
 These Scenarios are intended to be fought between two opposing forces, but that doesn't mean you're limited to two players! If you've several players, simply divide into two teams and work out which **Hero** should be in charge of the alliance, giving you two armies to fight the battle with.
 
@@ -201,7 +201,7 @@ This is where the Scenario tells you which side has Priority in the first turn.
 
 Points Match Scenarios calculate the winner and loser of a Scenario using Victory Points. Both sides score Victory Points based on certain achievements on the battlefield, such as killing enemies, capturing ground and so on. At the end of the game, the force with the most Victory Points wins. If one force has double or more Victory Points than the other, it not only wins but can claim a Crushing Victory! If both forces have the same number of Victory Points, the game is a draw.
 
-#### FIRST AMONGST EQUALS
+### FIRST AMONGST EQUALS
 
 If you're playing a multi-player game, it can be a good idea for players to keep track of their own Victory Points separately. At the end of the game, both sides can total the Victory Points of all their players to determine which side has won, but the player with the most Victory Points on the winning side can, naturally, claim bragging rights for having earned the most glory!
 
@@ -223,24 +223,24 @@ With your armies chosen, you're ready to begin your Matched Play game. Here you 
 
 **D6 ROLL OF 1-3**
 
-| D6 ROLL | RESULT               |
+| D6 ROLL | RESULT    |
 | ------- | -------------------- |
-| 1       | Domination           |
-| 2       | To the Death!        |
-| 3       | Seize the Prize      |
-| 4       | Storm the Camp       |
-| 5       | Reconnoitre          |
-| 6       | A Clash by Moonlight |
+| 1  | Domination   |
+| 2  | To the Death!  |
+| 3  | Seize the Prize  |
+| 4  | Storm the Camp  |
+| 5  | Reconnoitre   |
+| 6  | A Clash by Moonlight |
 
 **D6 ROLL OF 4-6**
 
-| D6 ROLL | RESULT                |
+| D6 ROLL | RESULT    |
 | ------- | --------------------- |
-| 1       | Hold Ground           |
-| 2       | Lords of Battle       |
-| 3       | Heirloom of Ages Past |
-| 4       | Capture and Control   |
-| 5       | Fog of War            |
-| 6       | Contest of Champions  |
+| 1  | Hold Ground   |
+| 2  | Lords of Battle  |
+| 3  | Heirloom of Ages Past |
+| 4  | Capture and Control |
+| 5  | Fog of War   |
+| 6  | Contest of Champions |
 
  Each Scenario contains all of the information you need to get set up and start playing. This information is broken down into the following categories: The Armies, Layout, Starting Positions, Initial Priority, Objectives and Special Rules (if there are any for that Scenario).

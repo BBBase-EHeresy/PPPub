@@ -14,7 +14,7 @@ What would have happened if *Saruman* had led his armies at the Siege of Helm's 
 
 ## SPECIAL RULES
 
-The real flavour of Narrative Play Scenarios comes from the special rules they employ. These help to give a much better feel of the scenes from the films and may represent anything from the endless hordes of Orcs at the Battle of the Last Alliance to Gandalf's destruction of the bridge of Khazad-dÃ»m.
+The real flavour of Narrative Play Scenarios comes from the special rules they employ. These help to give a much better feel of the scenes from the films and may represent anything from the endless hordes of Orcs at the Battle of the Last Alliance to Gandalf's destruction of the bridge of Khazad-dûm.
 
 It is these special rules that balance Narrative Play Scenarios, and provide players with a truly unique gaming experience that allows them to relive their favourite scenes from both the books and the films.
 

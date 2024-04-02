@@ -25,7 +25,12 @@ markdown_extensions:
       auto_append:
         - includes/tooltip_skills.md
 nav:
-  - Quick Start: 'quick_start.md'
+  - Quick Start:
+      - Battlehost Quickstart Rules Guide: 'quick_start/battlehost_quickstart_rules_guide.md'
+      - Isengard Battlehost Quickstart Guide: 'quick_start/isengard_battlehost_quickstart_guide.md'
+      - Minas Tirith Battlehost Quickstart Guide: 'quick_start/minas_tirith_battlehost_quickstart_guide.md'
+      - Mordor Battlehost Quickstart Guide: 'quick_start/mordor_battlehost_quickstart_guide.md'
+      - Rohan Battlehost Quickstart Guide: 'quick_start/rohan_battlehost_quickstart_guide.md'
   - Rules Manual: 
       - Rules Manual: 'rules_manual/index.md'
       - The Rules: 'rules_manual/the_rules.md'

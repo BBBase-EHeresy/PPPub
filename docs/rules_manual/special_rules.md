@@ -6,9 +6,9 @@ Many of the models in the Middle-earth Strategy Battle Game have special rules t
 
 A Passive special rule is one that takes effect regardless of other factors. They require no particular thought or effort to enact. For instance, a Troll is still terrifying even if it's not thinking about being scary at that moment. Passive special rules still take effect even if the model is under the influence of another ability that would render it unable to move, such as the Transfix Magical Power. Examples of Passive special rules include Terror and Ancient Evil.
 
-An Active special rule is one that requires the user to physically act, think or move. These special rules are not usable if the model in question is under the effect of another ability that renders it unable to move or act, such as the Transfix Magical Power. Examples of Active special rules include Ancient Enemies and RÃºmil's Swift Parry.
+An Active special rule is one that requires the user to physically act, think or move. These special rules are not usable if the model in question is under the effect of another ability that renders it unable to move or act, such as the Transfix Magical Power. Examples of Active special rules include Ancient Enemies and Rúmil's Swift Parry.
 
-#### ANCIENT ENEMIES (X)
+### ANCIENT ENEMIES (X)
 
 **ACTIVE**
 
@@ -36,7 +36,7 @@ This model receives +1 to their To Wound rolls when making Strikes against a Tra
 
 **ACTIVE**
 
-*Whether the venomous fangs of a Giant Spider or the vile poisons used by the HÃ¢sharin, many in Middle-earth use toxins to defeat their foes, or in some instances their prey.* 
+*Whether the venomous fangs of a Giant Spider or the vile poisons used by the Hâsharin, many in Middle-earth use toxins to defeat their foes, or in some instances their prey.* 
 
 This model must re-roll all failed To Wound rolls when making Strikes in close combat.
 
@@ -140,7 +140,7 @@ A model that has this special rule, and the Woodland Creature special rule, will
 
 **ACTIVE**
 
-*From the Great Eagles of The Misty Mountains to the Fell Beasts of the NazgÃ»l, many creatures in Middle-earth possess the ability to soar amongst the clouds — providing a serious advantage upon the battlefield.* 
+*From the Great Eagles of The Misty Mountains to the Fell Beasts of the Nazgûl, many creatures in Middle-earth possess the ability to soar amongst the clouds — providing a serious advantage upon the battlefield.* 
 
 This model may ignore all intervening models and terrain as it moves — flying over buildings, woods and so on. The model may not end its movement within woods or upon any terrain that its base will not safely balance upon (flat rocks, hills and the like are fine, but don't try to perch your model precariously upon trees, sloped roofs, and so on). When flying, a model may move up to 12". A model with this special rule may still choose to use their normal Move value if they wish, however, they will gain none of the benefits of the Fly special rule if they move in this way. If a model with the Fly special rule walks into a wood, they cannot use the Fly special rule again until they have fully left the wood. 
 
@@ -204,11 +204,11 @@ A model with this special rule may expend 1 point of Might each turn without red
 
 If a model with this special rule charges into combat, it will gain the Knock to the Ground and Extra Attack bonuses (see page 62) as if it were Cavalry, with a couple of exceptions: 
 
-This model will Knock to the Ground any model that it Charges, including Cavalry or Monster models, with a lower Strength value than it, even if the charged model has a Strength of 6 or higher. The rider of a Cavalry model will automatically suffer the Knocked Flying result for its Thrown Rider test. 
+This model will Knock to the Ground any model that it Charges, including **Cavalry** or Monster models, with a lower Strength value than it, even if the charged model has a Strength of 6 or higher. The rider of a **Cavalry** model will automatically suffer the Knocked Flying result for its Thrown Rider test. 
 
-Additionally, this model will still get the Extra Attack bonus if it Charges, or is subsequently charged by, Cavalry or another model with this special rule. 
+Additionally, this model will still get the Extra Attack bonus if it Charges, or is subsequently charged by, **Cavalry** or another model with this special rule. 
 
-If a model with this special rule is a Cavalry model, the mount will count as being In The Way of its rider, except that the rider will only be hit on a 5-6; a roll of 1-4 will hit the mount.
+If a model with this special rule is a **Cavalry** model, the mount will count as being In The Way of its rider, except that the rider will only be hit on a 5-6; a roll of 1-4 will hit the mount.
 
 ### MOUNTAIN DWELLER
 
@@ -326,6 +326,6 @@ Additionally, a **Hero** wearing The One Ring is not invisible to this model as 
 
 **ACTIVE**
 
-*Creatures, such as the Elves that dwell in Mirkwood and LothlÃ³rien, are just at home amidst the tangle of roots and trees as they are on the open plains.* 
+*Creatures, such as the Elves that dwell in Mirkwood and Lothlórien, are just at home amidst the tangle of roots and trees as they are on the open plains.* 
 
 An **Infantry** model with this special rule may move through woods and forests that are classified as difficult terrain as if they are open ground. Note that this doesn't mean they can automatically climb terrain in those areas, nor move through tree trunks or jump fallen Obstacles.

@@ -1,4 +1,4 @@
-﻿Throughout the extensive history of Middle-earth, there have been countless individuals who have left their mark upon the world, either for good or for ill. These individuals can be loosely referred to as heroes (although villains would probably suit the followers of the Dark Lord) and encompass various famous characters from Middle-earth's history. From mighty warriors and kings such as Aragorn or ThÃ©oden, to the humble Hobbits of The Shire that journeyed to Mordor to destroy The One Ring, heroes can come in all shapes and sizes.
+﻿Throughout the extensive history of Middle-earth, there have been countless individuals who have left their mark upon the world, either for good or for ill. These individuals can be loosely referred to as heroes (although villains would probably suit the followers of the Dark Lord) and encompass various famous characters from Middle-earth's history. From mighty warriors and kings such as Aragorn or Théoden, to the humble Hobbits of The Shire that journeyed to Mordor to destroy The One Ring, heroes can come in all shapes and sizes.
 
 Models that are also heroes will have the **Hero** keyword in their profile.
 
@@ -11,7 +11,7 @@ The most obvious difference between a **Hero** model and an ordinary Warrior mod
 
 Unlike other characteristics, Might, Will and Fate points are expended when they are used — so players need to watch out for the best opportunities to use them and mark them off as they are used up. When a **Hero** model runs out of Might, Will or Fate points they may spend no more during that game, unless they are somehow able to regain these points during its course.
 
-#### HEROIC PROFILES
+### HEROIC PROFILES
 
 All **Hero** models have an extra section to their characteristic profile, which shows how much Might, Will and Fate they have at their disposal.
 
@@ -25,7 +25,7 @@ Arguably the single most valuable characteristic available to a model, Might poi
 
 Might points can be used in two ways: to modify dice rolls and to perform Heroic Actions.
 
-#### MODIFYING DICE ROLLS
+### MODIFYING DICE ROLLS
 
 A **Hero** model is able to spend a point of Might to adjust a dice roll made on their behalf. For each point of Might that is expended, alter the dice score by 1. Normally, this can only be used to increase a dice roll in order to succeed in a particular situation. However, there may be certain situations when Might can be used to decrease a dice roll (such as when rolling for Maelstrom of Battle deployment), and when this is the case it will be clearly stated.
 
@@ -35,41 +35,41 @@ If two opposing **Hero** models are fighting, both may use Might in order to win
 
 Hero models can only use Might points to alter their own dice rolls, not those of other friendly or enemy models. This means that in some situations, such as Multiple Combats, it is important to roll dice separately for specific **Hero** models and ordinary Warrior models. A good system to use in this instance is to have different coloured dice for each **Hero** model and another for individual Warrior models. If you don't have enough coloured dice for that, roll each model's Attacks separately instead.
 
-**MIGHT 1**
+***MIGHT 1***
 
 ![](../media/rules_manual/might_1.jpg)
 
 *Bard takes a shot at a Hunter Orc and scores a hit. There is a wall In The Way, however, so* Bard *must pass an In The Way test in order to hit the Orc. Bard rolls his In The Way test and scores a 3. Walls require an In The Way roll of a 4+, so Bard must spend a Might point in order for the test to be successful.*
 
-**MIGHT 2**
+***MIGHT 2***
 
 ![](../media/rules_manual/might_2.jpg)
 
 *Jay and Adam are both using **Hero** models in a Fight. Adam is using Thorin (Fight 6 and 3 Might) and Jay is using Azog (Fight 7 and 3 Might). Adam rolls his dice for the Duel roll, scoring a 1, 2 and 3 whilst Jay scores a 2, 3 and 4. As Adam is currently losing, he elects to use Might, but as Thorin has the lower Fight value, he must use 2 Might points to boost his 3 to a 5 in order to win the Fight. As Jay is now losing, he elects to use a Might point to boost his 4 to a 5, and as Azog has the higher Fight value, Jay is now winning the fight. Adam now has another opportunity to use Might as he is once again losing the Fight, he elects to use his last Might point to boost his 5 to a 6 and once again win the Fight. Jay then elects to use another Might point to also boost his 5 to a 6 and win the Fight. As both players are now at a 6, no more Might can be used: Azog wins the Fight — bad news for Adam and Thorin!*
 
-**MIGHT 3**
+***MIGHT 3***
 
 ![](../media/rules_manual/might_3.jpg)
 
 *Beorn is in a Fight against* Bolg. *Looking at their Duel roll, Beorn scores a 1, 3 and 4. Bolg rolls a 2, 4 and a 6 — beating the hulking bear's score by 2. Beorn now has to decide whether he loses the Fight or if he is willing to spend 2 Might points to even draw with Bolg (and with his higher Fight value, that's a pretty sensible thing to do).*
 
-#### CAN I USE MIGHT?
+### CAN I USE MIGHT?
 
 Here is the list of situations in which Might points can be used to alter a dice roll, along with some notes on how these take effect. Unless specifically stated, Might cannot be used to alter any other rolls. Where this is the case, it will be stated in the relevant special rule.
 
-* **Taking Tests** — Might can be used to help a model succeed in tests  such as Jump, Climb or Thrown Rider tests.
+* **Taking Tests** — Might can be used to help a model succeed in tests such as Jump, Climb or Thrown Rider tests.
 
-* **Duel Rolls** — Might points can be used to boost a **Hero** model's  score during a Fight to see who wins a Duel roll.
+* **Duel Rolls** — Might points can be used to boost a **Hero** model's score during a Fight to see who wins a Duel roll.
 
-* **Shooting** — Might can help a shot hit a target, either by modifying  a To Hit roll or an In The Way roll.
+* **Shooting** — Might can help a shot hit a target, either by modifying a To Hit roll or an In The Way roll.
 
-* **Rolling To Wound** — Might can improve a To Wound roll. Note, in  cases where two rolls are required (e.g., 6/4+) spending a single Might  point will affect both rolls.
+* **Rolling To Wound** — Might can improve a To Wound roll. Note, in cases where two rolls are required (e.g., 6/4+) spending a single Might point will affect both rolls.
 
-* **Courage** — A **Hero** can use Might to improve their roll in a Courage  test.
+* **Courage** — A **Hero** can use Might to improve their roll in a Courage test.
 
-* **Using Will** — A **Hero** can use Might to modify the dice roll to  succeed when casting a Magical Power or attempting to pass a Resist test.
+* **Using Will** — A **Hero** can use Might to modify the dice roll to succeed when casting a Magical Power or attempting to pass a Resist test.
 
-* **Using Fate** — A **Hero** can use Might to  succeed in a Fate roll ([see page 75]).
+* **Using Fate** — A **Hero** can use Might to succeed in a Fate roll ([see page 75]).
 
 
 ## HEROIC ACTIONS
@@ -84,7 +84,7 @@ Once that player has declared the Heroic Action they wish to use, the opposing p
 
 Both players may continue to declare Heroic Actions in this manner until both are satisfied.
 
-Note, sometimes you might have a situation where, because of one player's choice of Heroic Action (or choice not to call a Heroic Action), the other wishes to reply with one of their own. This is perfectly acceptable. You can always declare a Heroic Action if you have the Might, and the Hero models to spare — what you cannot do, is go back and change (or cancel) one that has already been declared.
+Note, sometimes you might have a situation where, because of one player's choice of Heroic Action (or choice not to call a Heroic Action), the other wishes to reply with one of their own. This is perfectly acceptable. You can always declare a Heroic Action if you have the Might, and the **Hero** models to spare — what you cannot do, is go back and change (or cancel) one that has already been declared.
 
 Some Heroic Actions interfere with the order in which a phase is conducted. For instance, if a **Hero** is attempting a Heroic Combat, that Fight is resolved first. If two or more **Hero** models from the same side wish to perform such an action, their controlling player simply chooses the order in which the actions take place. If **Hero** models from both sides are performing such Heroic Actions, follow this system to determine the order in which they are resolved:
 
@@ -101,8 +101,6 @@ the following three Heroic Actions:
 
 ### HEROIC MOVE (MOVE PHASE)
 
-![](../media/rules_manual/heroic_moves_1.jpg)
-
 *Amidst the chaos and confusion of battle, the hero's bold voice rings out, spurring their troops to quickly surge into motion.*
 
 A Heroic Move enables a **Hero** model to move before other models — essentially defying the usual Priority system. The **Hero** can then move, jump, climb, Charge and even use their Stand Fast! ([see page 55]) in the usual manner.
@@ -111,13 +109,15 @@ This Heroic Action can prove extremely valuable, so when a Heroic Move is declar
 
 If a **Hero** declares that they will attempt a Heroic Move, but is charged before they can perform it, the Heroic Move is cancelled and the Might point spent to attempt it is lost.
 
-**HEROIC MOVES**
+***HEROIC MOVES***
+
+![](../media/rules_manual/heroic_moves_1.jpg)
 
 *The Evil side has Priority, and* Tom the Troll *is closer to Thorin's Company than they would like. Bilbo Baggins uses a Might Point to declare a Heroic Move, enabling him and all friendly models within 6" to move first, outside of the normal order of Priority.*
 
 *If Tom decided to spend a Might point to counter this Heroic Move, the player with Priority (the Evil player) would roll a D6 to see whose Heroic Action is utilised first.*
 
-#### WITH ME!
+### WITH ME!
 
 A **Hero** model performing a Heroic Move may choose to shout "With Me!" In this case, note their starting position before moving them. Any friendly models within 6" of that point may also move, so long as they end their move within 6" of the **Hero** (if they are not able to end within 6" of the **Hero** then they may not move at all this phase). Any model in range of the Heroic Move that chooses not to move as part of the Heroic Move, will forgo their movement, and cannot act any further during that Move phase. The **Hero** calling the With Me! must fully complete their move before any friendly models can start their move as part of the With Me!
 
@@ -129,7 +129,7 @@ Note that a **Hero** model can utilise their Heroic Move and call With Me! witho
 
 Heroic Shoot enables a **Hero** model to shoot before other models get a chance. A **Hero** cannot perform a Heroic Shoot if they are Engaged in combat.
 
-#### LOOSE!
+### LOOSE!
 
 A **Hero** performing a Heroic Shoot may shout "Loose!" if they wish, enabling all friendly models within 6" to shoot with them.
 
@@ -144,23 +144,23 @@ phase. This additional move can be a Charge into new enemies, if you wish, in wh
 
 If any of the models involved in the Heroic Combat Charge into new enemies, the way that the Fights are divided may be altered. Once all Heroic Combats have been resolved, rematch any Fights that must now change. The player with Priority decides how combatants are matched. 
 
-**HEROIC COMBAT**
+***HEROIC COMBAT***
 
 ![](../media/rules_manual/heroic_combat_1.jpg)
 
 *Thorin is fighting a lone Goblin, a combat he is very likely to win. Because of this, his controlling player spends a Might point to declare a Heroic Combat. If Thorin wins the Duel roll and kills the Goblin, he will be able to move straight away and even charge a new foe — in which case he will also fight again following the normal order of Fights.*
 
-#### SPECIALISED HEROIC ACTIONS
+### SPECIALISED HEROIC ACTIONS
 
 There is a selection of other Heroic Actions that can only be used by certain **Hero** models. In a **Hero** model's profile, all of the other additional Heroic Actions they can perform will be listed. These Heroic Actions are as follows:
 
-#### HEROIC RESOLVE (MOVE PHASE)
+### HEROIC RESOLVE (MOVE PHASE)
 
 *Upon the battlefield, the hardy resolve of even the bravest of warriors will be sorely tested. It is in times like these that heroes must show true leadership and strength of will, encouraging those nearby to do the same.*
 
 Unlike other Heroic Actions, when a **Hero** declares a Heroic Resolve, the effects of the Heroic Action take place immediately. Friendly models that are within 6" of a **Hero** model that declared a Heroic Resolve, including the **Hero** themselves, receive one free additional dice to any Resist tests they make for the remainder of the turn. Note that in the case of Warrior models, and **Hero** models with no Will points remaining, this allows them to make a Resist test on one dice rather than none (one for Heroic Resolve, and one for Resistant to Magic). If a model that has the Resistant to Magic special rule is subject to a Heroic Resolve, they may roll two dice for their Resist test. A **Hero** who declares a Heroic Resolve cannot move in the same turn (they are too busy trying to steel their allies against unfriendly magics), however they may still do anything else that they would usually be able to do, such as cast Magical Powers.
 
-#### HEROIC MARCH (MOVE PHASE)
+### HEROIC MARCH (MOVE PHASE)
 
 *There are times when great distances need to be covered with haste. Digging deep into their reserves of stamina, a hero can lead those around them to feats of great endurance.*
 
@@ -168,25 +168,25 @@ A Heroic March enables a **Hero** to swiftly cover a greater distance — ignori
 
 If a **Hero** declares that they will attempt a Heroic March, but is charged before they can perform it, the Heroic March is cancelled and the Might point spent to attempt it is lost.
 
-**HEROIC MARCH**
+***HEROIC MARCH***
 
 ![](../media/rules_manual/heroic_march_1.jpg)
 
 Grinnah *and his Goblins wish to catch the fleeing Dwarves as quickly as possible. Grinnah declares a Heroic March. When they move, Grinnah and the Goblins within 6" of him move 5" as per their Move characteristic, plus 3" more for the Heroic March.*
 
-#### AT THE DOUBLE!
+### AT THE DOUBLE!
 
 A **Hero** model who is conducting a Heroic March may choose to shout "At The Double!" as they move, to enable their friends to keep pace with them. In this case, note their starting position before moving any affected models. Any friendly models within 6" of that point, who have not yet moved, also add 3" to their maximum move distance if they are Infantry and 5" to their mounts' maximum Move distance if they are **Cavalry**, or they have the Fly special rule. Once the **Hero** has completed their move, those affected models may also move, so long as they end their move within 6" of the Hero. A **Hero** can utilise their Heroic March and call At the Double! without actually moving themselves; they are simply goading their friends into action. These models may not Charge as part of the At The Double! move.
 
 Any model in range of the Heroic March that does not move, cannot choose to move later on in that phase.
 
-#### HEROIC CHANNELLING (MOVE PHASE)
+### HEROIC CHANNELLING (MOVE PHASE)
 
 *Summoning power from the depths of their being, the hero unleashes the most powerful magic that they can call upon.*
 
 A **Hero** model who uses Heroic Channelling uses the Channelled versions of any Magical Powers that they cast this turn ([see page 95)].
 
-#### HEROIC ACCURACY (SHOOT PHASE)
+### HEROIC ACCURACY (SHOOT PHASE)
 
 *A commanding word from a leader can calm the nerves and steady an
 archer's hand, ready to loose an arrow into the foe with greater accuracy and skill.*
@@ -196,37 +196,37 @@ when shooting in that Shoot phase. A **Hero** cannot perform a Heroic Accuracy
 if they are Engaged in combat. A **Hero** does not need to have a missile
 weapon to declare a Heroic Accuracy.
 
-**HEROIC ACCURACY**
+***HEROIC ACCURACY***
 
 ![](../media/rules_manual/heroic_accuracy_1.jpg)
 
 Tauriel *and her* Mirkwood *Rangers are about to fire at some Hunter Orcs. Because the Orcs are protected by obstructions, Tauriel spends a point of Might to declare a Heroic Accuracy. When she, and any friendly models within 6" shoot this turn, they may re-roll any failed In The Way rolls.*
 
-#### TAKE AIM!
+### TAKE AIM!
 
 If a **Hero** performing a Heroic Accuracy wishes, they may shout "Take Aim!" to their comrades, allowing all friendly models within 6" to also re-roll failed In The Way rolls when shooting in that Shoot phase.
 
 Models benefitting from Heroic Accuracy or Take Aim! need not target the same enemy model — they may each choose targets viable to them.
 
-#### HEROIC STRIKE (FIGHT PHASE)
+### HEROIC STRIKE (FIGHT PHASE)
 
 *Outnumbered and fighting for their life, it is times like these when a hero must dig down deep in order to fight off their foes with all the skill they can muster.*
 
 A **Hero** model who declares they are using Heroic Strike adds D6 to their Fight value for the duration of the Fight phase. This is rolled for at the start of the model's Duel roll and lasts until the end of the turn. This cannot increase a **Hero** model's Fight value above 10. Note that this bonus is applied before other effects are taken into account. Thus, a **Hero** who is Engaged in a Fight with a Bat Swarm would add D6 to their Fight value (to a maximum of 10) and then halve the total due to the Bat Swarm's Blinding Swarm special rule.
 
-#### HEROIC DEFENCE (FIGHT PHASE)
+### HEROIC DEFENCE (FIGHT PHASE)
 
 *When faced with insurmountable odds, a hero can ready themselves for the force of the blows coming their way, allowing them to lessen the impact and reduce the level of damage taken.*
 
 A **Hero** model that declares a Heroic Defence will only suffer a Wound on the roll of a natural 6 in the ensuing Fight phase, regardless of any modifiers or Brutal Power Attacks. If the **Hero** would usually have been wounded on a 6/4+, 6/5+ or 6/6, then they will only be wounded if both rolls are natural rolls (see page 16). Note that a **Hero** model's mount is not affected by Heroic Defence.
 
-#### HEROIC STRENGTH (FIGHT PHASE)
+### HEROIC STRENGTH (FIGHT PHASE)
 
 *Drawing on their reserves of Strength, a hero can smite their foes with greater ferocity and power than they ever realised they were capable of.*
 
 A **Hero** model who declares they are using Heroic Strength adds D3 to their Strength characteristic for the duration of the Fight phase. This cannot increase a **Hero** model's Strength above 10. Note that this bonus is applied before other effects that affect a model's Strength, such as the Wither Magical Power.
 
-#### HEROIC CHALLENGE (FIGHT PHASE)
+### HEROIC CHALLENGE (FIGHT PHASE)
 
 *Upon the field of battle, there are times when a hero will come face-to-face with an enemy who rivals their skill with a blade, and will seek to prove themselves as the better combatant of the two.*
 
@@ -236,7 +236,7 @@ If the enemy **Hero** accepts the Heroic Challenge, all other models that are pa
 
 If the Challenge is declined, then any Heroic Actions called by the declining **Hero** will not affect other friendly models until the **Hero** who issued the Challenge is slain.
 
-#### UNIQUE HEROIC ACTIONS
+### UNIQUE HEROIC ACTIONS
 
 In rare circumstances, specific **Hero** models may have their own unique Heroic Action available to them. When this is the case it will be listed in that model's profile.
 
@@ -246,21 +246,21 @@ Many of the heroes of Middle-earth are possessed of a superhuman strength of pur
 
 **Hero** models may expend Will points in three situations:
 
-#### CAST A MAGICAL POWER
+### CAST A MAGICAL POWER
 
 To cast a Magical Power, a **Hero** expends one or more Will points — this is the number of dice the controlling player rolls in their casting attempt. Note that the player must choose how many Will points they will expend before they roll any dice. For more on casting Magical Powers, [see pages 92-101].
 
-#### RESIST A MAGICAL POWER
+### RESIST A MAGICAL POWER
 
 A **Hero** who is the victim of a Magical Power cast by an enemy model may attempt to Resist it by expending Will points. For more on resisting Magical Powers, [see page 95].
 
-#### PASS A COURAGE TEST
+### PASS A COURAGE TEST
 
 A **Hero** who has attempted, and failed, a Courage test may spend Will points to adjust the score of their test. For each Will point they expend, their Courage is raised by one for that test. A **Hero** may spend a mixture of Will points and Might points to modify their score in this manner if they wish to.
 
-**PASS A COURAGE TEST**
+***PASS A COURAGE TEST***
 
-(../media/rules_manual/pass_a_courage_test_1.jpg)
+![](../media/rules_manual/pass_a_courage_test_1.jpg)
 
 Nori *wishes to Charge* The Goblin King. *Although he is usually brave, Nori is unlucky and only scores a 4 for his Courage test (he has a Courage value of 5). His controlling player decides to spend a Will point to increase his score to 5, and therefore pass the test!*
 
@@ -284,12 +284,12 @@ Whilst a **Hero** can use Fate to prevent any manner of Wound (whether caused by
 
 **FATE 1**
 
-(../media/rules_manual/fate_1.jpg)
+![](../media/rules_manual/fate_1.jpg)
 
 *Thorin has defeated Grinnah in a fight and prepares to make his Strikes. Swinging* Orcrist *above his head, Thorin scores a 1, 5 and 6 for his To Wound rolls — causing 2 Wounds! Grinnah decides to use a Fate point against one of these wounding Strikes, rolling a 4. This prevents the Wound and stops it from doing D3 Wounds — if the Fate roll had been failed, then Grinnah would have suffered D3 Wounds as Orcrist has the Goblinbane special rule. However, Grinnah does not have another Fate point to use to prevent the second Wounding Strike, so it will do D3 Wounds. Thorin rolls a 5 and inflicts 3 Wounds, cleaving the Goblin's head clean off!*
 
 **FATE 2**
 
-(../media/rules_manual/fate_2.jpg)
+![](../media/rules_manual/fate_2.jpg)
 
 *Kili has been shot by a Hunter Orc's arrow and suffered a Wound. Kili decides to spend a Fate point in an attempt to prevent the Wound and rolls a dice. On a 4+, the Wound is ignored.* []{#bookmark139 .anchor}*Unfortunately, Kili only scores a 3. Determined to avoid injury, the controlling player spends a Might point to turn the 3 into a 4 and prevent the Wound.*
