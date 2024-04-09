@@ -35,6 +35,8 @@ Victory Points are scored for the following:
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count) or if you kill the enemy leader.
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game.
 
+![](../media/scenarios/scenario_domination.jpg)
+
 ---
 
 ## SCENARIO 2 — TO THE DEATH!
@@ -77,6 +79,10 @@ Victory Points are scored for the following:
 * You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
 * You score **2 Victory Points** if the enemy force is reduced to 25% of its starting models at the end of the game.
 
+![](../media/scenarios/scenario_to_the_death!.jpg)
+
+---
+
 ## SCENARIO 3 — HOLD GROUND
 
 *In the swirl of battle it becomes apparent that a certain, usually insignificant, area of the battlefield has become vital to the victory of both sides. Both forces surge towards this new tactical advantage, desperate to control it.*
@@ -111,20 +117,22 @@ Victory Points are scored for the following:
 
 * You score **3 Victory Points** if you have more models within 6" of the objective than your opponent. If you have twice as many models within 6" of the objective than your opponent, then you instead score **5 Victory Points**. If you have three times as many models within 6" of the objective than your opponent, or you are the only player to have models within 6" of the objective, then you instead score 7 Victory Points.
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count). If you kill the enemy leader, you instead score **2 Victory Points**.
-* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score  **3 Victory Points**.
+* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **3 Victory Points**.
 
 **SPECIAL RULES**
 
 Maelstrom of Battle: At the end of your Move phase, roll a D6 for each of your warbands not on the battlefield and consult the chart below (the warband's captain can use Might to alter the roll either up or down). Models can't charge in the turn that they arrive but otherwise act normally. Roll for each warband separately, deploy the models in the warband, if the D6 allows, then roll for the next. Warbands yet to arrive count as being on the battlefield for the purposes of determining if your force is Broken.
 
-| D6 | RESULT                                                                                                                                                                   |
+| D6 | RESULT |
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1  | The warband does not arrive.                                                                                                                                             |
-| 2  | Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 3  | Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.   |
-| 4  | You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.            |
-| 5  | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.              |
-| 6  | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point.                                   |
+| 1 | The warband does not arrive. |
+| 2 | Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 3 | Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 4 | You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 5 | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 6 | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+
+![](../media/scenarios/scenario_hold_ground.jpg)
 
 ---
 
@@ -170,6 +178,10 @@ Victory Points are scored for the following:
 
 **A Time of Heroes**: Each time your force kills an enemy **Hero** in a Fight, one of your **Hero** models in the same Fight (your choice) regains a point of Might lost earlier in the battle.
 
+![](../media/scenarios/scenario_lords_of_battle.jpg)
+
+---
+
 ## SCENARIO 5 — RECONNOITRE
 
 *Scouts have been sent out by both forces in order to gather vital information from behind enemy lines. Each force is attempting to sneak past the enemy whilst simultaneously preventing the enemy from doing the same.*
@@ -205,7 +217,7 @@ Victory Points are scored for the following:
 
 * You score **3 Victory Points** if more of your models have escaped the battlefield via your opponent's board edge than vice versa. If at least two of your models and twice as many models than your opponent have escaped the board, then you instead score **5 Victory Points**. If at least three of your models, and three times as many models than your opponent have escaped the board, then you instead score 7 Victory Points.
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader — Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score **2 Victory Points**.
-* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score  **3 Victory Points**.
+* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **3 Victory Points**.
 
 **SPECIAL RULES**
 
@@ -213,12 +225,16 @@ Victory Points are scored for the following:
 
 Roll for each warband separately, deploy the models in the warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for determining if your force is Broken. Warbands that have still not arrived by the start of the fourth turn will automatically arrive on turn 4.
 
-| D6  | RESULT                                                                                                                                                       |
+| D6 | RESULT |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1-3 | The warband does not arrive, but receives +1 to this dice roll next turn.                                                                                    |
+| 1-3 | The warband does not arrive, but receives +1 to this dice roll next turn. |
 | 4-6 | The controlling player chooses a point on their board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 
 ***Designer's Note:*** Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.
+
+![](../media/scenarios/scenario_reconnoitre.jpg)
+
+---
 
 ## SCENARIO 6 — A CLASH BY MOONLIGHT
 
@@ -254,12 +270,16 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 Victory Points are scored for the following:
 
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader. Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score **2 Victory Points**.
-* You score **3 Victory Points** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score  **5 Victory Points**.
+* You score **3 Victory Points** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **5 Victory Points**.
 * You score **1 Victory Point** if you have at least one Hero remaining at the end of the game. If you have at least one Hero left alive, and have killed more Hero models that your opponent, you instead score **3 Victory Points**. If you have at least one Hero remaining, and your opponent has none remaining, then you instead score **5 Victory Points**.
 
 **SPECIAL RULES**
 
 **The Dark of Night:** Due to the reduced visibility, models cannot be targeted by shooting, Magical Powers or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. **Siege Engine** models may still target enemy models more than 12" away — however in this situation they will only ever hit on the roll of a 6.
+
+![](../media/scenarios/scenario_a_clash_by_moonlight.jpg)
+
+---
 
 ## SCENARIO 7 — SEIZE THE PRIZE
 
@@ -295,13 +315,15 @@ Victory Points are scored for the following:
 
 * You score **3 Victory Points** if one of your models is carrying the artefact within your own board half. If one of your models is carrying the artefact within your opponent's board half, then you instead score **5 Victory Points**. If one of your models is carrying the artefact and manages to move off the board via your opponent's board edge, then you instead score 7 Victory Points.
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader. Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score **2 Victory Points**.
-* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score  **3 Victory Points**.
+* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **3 Victory Points**.
 
 **SPECIAL RULES**
 
 **The Artefact:** The artefact must be dug out of the soil before it can be carried anywhere. An **Infantry** model who is in base contact with the Artefact marker at the end of its Move may attempt to free it.
 
 Roll a D6. On a 4+, the artefact has been freed, the artefact is treated as a Light Object ([see page 109]). Might cannot be used to influence this roll. Only one model from each side may attempt to pick up the artefact each turn.
+
+![](../media/scenarios/scenario_seize_the_prize.jpg)
 
 ---
 
@@ -344,6 +366,8 @@ Victory Points are scored for the following:
 **SPECIAL RULES**
 
 The Last Stand: Each time either leader kills a Hero or a multi-Wound model, they immediately regain a point of Might spent earlier in the battle.
+
+![](../media/scenarios/scenario_contest_of_champions.jpg)
 
 ---
 
@@ -393,6 +417,10 @@ Victory Points are scored for the following:
 
 **Controlling Objectives:** At the start of the game, all of the objectives are considered to be neutral and do not belong to either side. If, during the End phase of any turn, one or more of your models are in base contact with an objective, then that objective comes under your control. If, during the End phase both sides have models in base contact with an objective, then that objective returns to being a neutral objective.
 
+![](../media/scenarios/scenario_capture_and_control.jpg)
+
+---
+
 ## SCENARIO 10 — HEIRLOOM OF AGES PAST
 
 *Buried somewhere upon the field of battle is a long-forgotten heirloom of ages past. Having narrowed down its location, the two armies now fight for possession of this relic. However, the powers that linger upon this mysterious object are easily capable of corrupting those who hold it for too long.*
@@ -425,7 +453,7 @@ Victory Points are scored for the following:
 
 * You score 6 Victory Points if your force is in possession of the relic at the end of the game. If at the end of the game you are not in possession of the relic but have more models within 3" of the relic than your opponent, then you instead score **3 Victory Points**.
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader. Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score **2 Victory Points**.
-* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score  **2 Victory Points**.
+* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **2 Victory Points**.
 * You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 **SPECIAL RULES**
@@ -436,14 +464,16 @@ Victory Points are scored for the following:
 
 **Maelstrom of Battle:** At the end of your Move phase, roll a D6 for each of your warbands not on the battlefield and consult the chart opposite (the warband's captain can use Might to alter the roll either up or down). Models can't Charge in the turn that they arrive but otherwise act normally. Roll for each warband separately, deploy the models in the warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for the purposes of determining if your force is Broken.
 
-| D6 | RESULT                                                                                                                                                                   |
+| D6 | RESULT |
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1  | The warband does not arrive.                                                                                                                                             |
-| 2  | Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 3  | Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.   |
-| 4  | You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.            |
-| 5  | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point.              |
-| 6  | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point.                                   |
+| 1 | The warband does not arrive. |
+| 2 | Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 3 | Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 4 | You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 5 | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 6 | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+
+![](../media/scenarios/scenario_heirloom_of_ages_past.jpg)
 
 ---
 
@@ -484,9 +514,13 @@ Victory Points are scored for the following:
 * At the start of the game secretly note down one of your own Hero models — this may not be your leader unless you only have one Hero. You score **1 Victory Point** if the nominated Hero is still alive at the end of the game. If the nominated Hero is still alive and has suffered no Wounds, you instead score **3 Victory Points**.
 * At the start of the game secretly note down one of your opponent's Hero models — this may not be your opponent's leader unless they only have one Hero. You score **1 Victory Point** for causing one or more Wounds on the nominated Hero. Wounds prevented by a successful Fate roll do not count. If you kill the nominated Hero, you instead score **3 Victory Points**.
 * At the start of the game secretly note down a single terrain piece in your opponent's half of the board. You score **1 Victory Point** if at the end of the game you have more models than your opponent completely within your selected terrain piece. If your opponent has no models completely within your selected terrain piece and you have at least one, you instead score **3 Victory Points**.
-* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score  **3 Victory Points**.
+* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **3 Victory Points**.
 
 ***Designer's Notes:** In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.*
+
+![](../media/scenarios/scenario_fog_of_war.jpg)
+
+---
 
 ## SCENARIO 12 — STORM THE CAMP
 
@@ -529,3 +563,5 @@ Victory Points are scored for the following:
 **The Campsite:** The campsites are the deployment areas of the two armies. A campsite is captured if during the End phase of any turn you have more models entirely within your opponent's campsite than they do. Should your models subsequently leave a captured campsite, it will no longer count as being captured. In order to keep an opponent's campsite captured, you will need to keep your models within your opponent's campsite.
 
 Models that are within their own campsite will defend it at all costs. Any model that is within its own campsite at the start of a turn will automatically pass any Courage tests it is required to make for the remainder of that turn.
+
+![](../media/scenarios/scenario_storm_the_camp.jpg)

@@ -1,5 +1,4 @@
-﻿
-## SCENARIO 1 — DOMINATION
+﻿## SCENARIO 1 — DOMINATION
 
 *This battlefield will provide a distinct tactical advantage for whoever holds it for many years to come. Victory can be achieved by forcing the enemy back and securing the key points on the battlefield. Failure will not be permitted!*
 
@@ -35,6 +34,10 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 * You score **1 Victory Point** for each Objective marker that has both friendly and enemy models, but more friendly than enemy models, within 3".
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count) or if you kill the enemy leader.
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game.
+
+![](../media/scenarios/scenario_domination_matched.jpg)
+
+---
 
 ## SCENARIO 2 — TO THE DEATH!
 
@@ -78,6 +81,10 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 * You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 * You score **2 Victory Points** if the enemy force is reduced to 25% of its starting models at the end of the game.
+
+![](../media/scenarios/scenario_to_the_death!_matched.jpg)
+
+---
 
 ## SCENARIO 3 – HOLD GROUND
 
@@ -123,13 +130,16 @@ At the end of the game, the force that has scored the most Victory Points wins t
 
 | D6 | Result |
 |----|--------|
-| 1  | The warband does not arrive. |
-| 2  | Your opponent chooses a point on either the north or south board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
-| 3  | Your opponent chooses a point on either the east or west board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
-| 4  | You choose a point on either the north or south board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
-| 5  | You choose a point on either the east or west board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
-| 6  | You choose a point on any board edge at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
+| 1 | The warband does not arrive. |
+| 2 | Your opponent chooses a point on either the north or south board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
+| 3 | Your opponent chooses a point on either the east or west board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
+| 4 | You choose a point on either the north or south board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
+| 5 | You choose a point on either the east or west board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
+| 6 | You choose a point on any board edge at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
 
+![](../media/scenarios/scenario_hold_ground_matched.jpg)
+
+---
 
 ## SCENARIO 4 – LORDS OF BATTLE
 
@@ -174,6 +184,10 @@ At the end of the game, the force that has scored the most Victory Points wins t
 **SPECIAL RULES**
 
 **A Time of Heroes:** Each time your force kills an enemy Hero in a Fight, one of your Hero models in the same Fight (your choice) regains a point of Might lost earlier in the battle.
+
+![](../media/scenarios/scenario_lords_of_battle_matched.jpg)
+
+---
 
 ## SCENARIO 5 – RECONNOITRE
 
@@ -222,12 +236,16 @@ manual).
 
 Roll for each warband separately, deploy the models in the warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for determining if your force is Broken. Warbands that have still not arrived by the start of the fourth turn will automatically arrive on turn 4.
 
-| D6   | Result |
+| D6 | Result |
 |------|--------|
-| 1-3  | The warband does not arrive, but receives +1 to this dice roll next turn. |
-| 4-6  | The controlling player chooses a point on their board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 1-3 | The warband does not arrive, but receives +1 to this dice roll next turn. |
+| 4-6 | The controlling player chooses a point on their board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
  
 ***Designer's Note:** Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
+
+![](../media/scenarios/scenario_reconnoitre_matched.jpg)
+
+---
 
 ## SCENARIO 6 – A CLASH BY MOONLIGHT
 
@@ -272,6 +290,10 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 The Dark of Night: Due to the reduced visibility, models cannot be targeted by shooting, Magical Powers or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. Siege Engine models may still target enemy models more than 12" away — however in this situation they will only ever hit on the roll of a 6.
 
+![](../media/scenarios/scenario_a_clash_by_moonlight_matched.jpg)
+
+---
+
 ## SCENARIO 7 — SEIZE THE PRIZE
 
 *Within Middle-earth, an ancient and mysterious artefact has awoken. Its power has drawn two opposing armies to claim it, hoping to use its secrets for their own ends. Both forces will stop at nothing to possess it.*
@@ -315,7 +337,11 @@ The game lasts until either a model carrying the artefact carries it off the boa
 
 **The Artefact:** The artefact must be dug out of the soil before it can be carried anywhere. An Infantry model who is in base contact with the Artefact marker at the end of its Move may attempt to free it.
 
-Roll a D6. On a 4+, the artefact has been freed, the artefact  is treated as a Light Object (see page 109 of the Middle-earth Strategy Battle Game rules manual). Might cannot be used to influence this roll. Only one model from each side may attempt to pick up the artefact each turn.
+Roll a D6. On a 4+, the artefact has been freed, the artefact is treated as a Light Object (see page 109 of the Middle-earth Strategy Battle Game rules manual). Might cannot be used to influence this roll. Only one model from each side may attempt to pick up the artefact each turn.
+
+![](../media/scenarios/scenario_seize_the_prize_matched.jpg)
+
+---
 
 ## SCENARIO 8 – CONTEST OF CHAMPIONS
 
@@ -369,6 +395,11 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 **SPECIAL RULES**
 
 **The Last Stand:** Each time either leader kills a **Hero** or a multi-Wound model, they immediately regain a point of Might spent earlier in the battle.
+
+![](../media/scenarios/scenario_contest_of_champions_matched.jpg)
+
+---
+
 ## SCENARIO 9 — CAPTURE AND CONTROL
 
 *By holding key strategic points, both armies believe they can control the field of battle and use these tactically important locations to force their enemy into defeat. Whoever controls the battlefield will have gained an important foothold for the many battles yet to come.*
@@ -420,6 +451,9 @@ At the end of the game, the force that has scored the most Victory Points wins t
 
 When this has been done, the opposing player chooses one of their warbands and rolls to place it as described above. Players alternate until all warbands have been placed.
 
+![](../media/scenarios/scenario_capture_and_control_matched.jpg)
+
+---
 
 ## SCENARIO 10 — HEIRLOOM OF AGES PAST
 
@@ -470,12 +504,16 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 | D6 | Result |
 |----|--------|
-| 1  | The warband does not arrive. |
-| 2  | Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 3  | Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 4  | You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 5  | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 6  | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 1 | The warband does not arrive. |
+| 2 | Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 3 | Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 4 | You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 5 | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 6 | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+
+![](../media/scenarios/scenario_heirloom_of_ages_past_matched.jpg)
+
+---
 
 ## SCENARIO 11 – FOG OF WAR
 
@@ -521,6 +559,10 @@ At the end of the game, the force that has scored the most Victory Points wins t
 
 ***Designer's Notes:** In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.*
 
+![](../media/scenarios/scenario_fog_of_war_matched.jpg)
+
+---
+
 ## SCENARIO 12 — STORM THE CAMP
 
 *Both armies desire the land before them for its strategic position within Middle-earth. Setting up encampments, both forces seek to outlast their opponents and claim the land for their own. However, with neither side willing to yield its stake, war befalls these two opposing sides. It is now time to decide the dominant force by seizing the other's camp and scattering its defenders.*
@@ -565,6 +607,10 @@ at the end of the game. If the enemy force is Broken and your force is unbroken,
 campsite.
 
 Models that are within their own campsite will defend it at all costs. Any model that is within its own campsite at the start of a turn will automatically pass any Courage tests it is required to make for the remainder of that turn.
+
+![](../media/scenarios/scenario_storm_the_camp_matched.jpg)
+
+---
 
 ## SCENARIO 13 — COMMAND THE BATTLEFIELD
 
@@ -612,12 +658,16 @@ Models wholly within 12" of the centre of the battlefield do not count as being 
 
 | D6 | Result |
 |----|--------|
-| 1  | The warband does not arrive yet. |
-| 2  | Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 3  | Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 4  | You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 5  | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 6  | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 1 | The warband does not arrive yet. |
+| 2 | Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 3 | Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 4 | You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 5 | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 6 | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+
+![](../media/scenarios/scenario_command_the_battlefield.jpg)
+
+---
 
 ## SCENARIO 14 — RETRIEVAL
 
@@ -657,7 +707,7 @@ At the end of the game, the force that has scored the most Victory Points wins t
 
 **SCORING VICTORY POINTS**
 
-* You score **1 Victory Point** if your opponent's relic has moved from its original position at the end of the game. If you have retrieved your opponent's relic, you instead score **3 Victory Points**. If you have retrieved your opponent's relic, and the model holding it is in your deployment zone, you instead score **5 Victory Points**. If you have retrieved your opponent's relic, and managed to move it off the board via either of the board edges in your deployment zone, you instead score  **7 Victory Points**.
+* You score **1 Victory Point** if your opponent's relic has moved from its original position at the end of the game. If you have retrieved your opponent's relic, you instead score **3 Victory Points**. If you have retrieved your opponent's relic, and the model holding it is in your deployment zone, you instead score **5 Victory Points**. If you have retrieved your opponent's relic, and managed to move it off the board via either of the board edges in your deployment zone, you instead score **7 Victory Points**.
 
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count). If you kill the enemy leader, you instead score **2 Victory Points**.
 
@@ -667,6 +717,10 @@ at the end of the game. If the enemy force is Broken, and your force is unbroken
 **SPECIAL RULES**
 
 **The Relic:** Each relic is a Light Object (see page 109 of the Middle-earth Strategy Battle Game rules manual). A relic is considered to have been retrieved if at the end of the game it is being carried by a friendly model. If a relic has been picked up by an enemy model, and is then subsequently dropped or retaken by a friendly model, then a player must try to return it to its original position as quickly as possible. Until it has been picked up by an enemy model, friendly models may not pick up their own relic.
+
+![](../media/scenarios/scenario_retrieval.jpg)
+
+---
 
 ## SCENARIO 15 — BREAKTHROUGH
 
@@ -710,6 +764,10 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count). If you kill the enemy leader, you instead score **2 Victory Points**.
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game.
+
+![](../media/scenarios/scenario_breakthrough.jpg)
+
+---
 
 ## SCENARIO 16 — DESTROY THE SUPPLIES
 
@@ -758,6 +816,10 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 **Supply Markers:** The Objective markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy supply marker, a model must be in base contact with the marker during the End phase of a turn having not cast any Magical Powers, used a missile weapon, been involved in a Fight, or been under the effects of the Paralyse, Immobilise or Transfix Magical Power during that turn. Once a supply marker has been destroyed, remove it from play.
 
+![](../media/scenarios/scenario_destroy_the_supplies.jpg)
+
+---
+
 ## SCENARIO 17 — DIVIDE & CONQUER
 
 *With battle having divided two opposing forces, each army must now fight to rejoin their allies, all whilst trying to claim key areas of the battlefield to ensure they will win the day.*
@@ -802,6 +864,10 @@ At the end of the game, the force that has scored the most Victory Points wins t
 Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count). If you kill the enemy leader, you instead score **2 Victory Points**.
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game.
+
+![](../media/scenarios/scenario_divide_and_conquer.jpg)
+
+---
 
 ## SCENARIO 18 — ASSASSINATION
 
@@ -851,9 +917,11 @@ at the end of the game. If the enemy force is Broken, and your force is unbroken
 
 **The Assassin:** At the start of the game, secretly note down one of your Hero models; this is your assassin. This may not be your leader unless you only have one Hero.
 
-# DOUBLE EVENTS
+![](../media/scenarios/scenario_assassination.jpg)
 
-## SCENARIO 1 — NO ESCAPE
+---
+
+## DOUBLE EVENT SCENARIO 1 — NO ESCAPE
 
 *Half of each army is fighting at the centre of the battlefield, with the rest of their enemies bearing down upon them.*
 
@@ -879,7 +947,7 @@ Both teams roll a D6. The team with the highest score has Priority in the first 
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the team that has scored  the most Victory Points wins the game. If both teams have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the team that has scored the most Victory Points wins the game. If both teams have the same number of Victory Points, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -891,7 +959,11 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **2 Victory Points** if you kill the leader of the Secondary Force.
 
-## SCENARIO 2 — TOTAL CONQUEST
+![](../media/scenarios/double_event_scenario_no_escape.jpg)
+
+---
+
+## DOUBLE EVENT SCENARIO 2 — TOTAL CONQUEST
 
 *Two enemy forces are embroiled in a deadlock on the battlefield. Only by their allies joining the fight and taking control of key areas can they achieve victory.*
 
@@ -919,7 +991,6 @@ Both teams roll a D6. The team with the highest score has Priority in the first 
 
 The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the team that has scored the most Victory Points wins the game. If both teams have the same number of Victory Points, the game is a draw.
 
-
 **SCORING VICTORY POINTS**
 
 * You score **2 Victory Points** for each Objective marker that has at least one of your models, and no enemy models, within 3".
@@ -937,14 +1008,18 @@ Broken.
 
 | D6 | Result |
 |----|--------|
-| 1  | The warband does not arrive yet. |
-| 2  | Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 3  | Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 4  | You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 5  | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
-| 6  | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 1 | The warband does not arrive yet. |
+| 2 | Your opponent chooses a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 3 | Your opponent chooses a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 4 | You choose a point on either the north or south board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 5 | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
+| 6 | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 
-## SCENARIO 3 — TAKE AND HOLD
+![](../media/scenarios/double_event_scenario_total_conquest.jpg)
+
+---
+
+## DOUBLE EVENT SCENARIO 3 — TAKE AND HOLD
 
 *The two rival forces are converging upon a site of great power; whomever controls it will secure victory.*
 
@@ -990,7 +1065,11 @@ magic.
 
 Models within 6" of the Objective marker gain the Resistant to Magic special rule, and may re-roll failed Fate rolls.
 
-## SCENARIO 4 — CLASH OF CHAMPIONS
+![](../media/scenarios/double_event_scenario_take_and_hold.jpg)
+
+---
+
+## DOUBLE EVENT SCENARIO 4 — CLASH OF CHAMPIONS
 
 *The two allied leaders must show their combined might against that of their enemies; whoever slays the most shall earn a great victory.*
 
@@ -1036,7 +1115,11 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 Keep a record of how many kills the leaders of both forces have killed in combat individually. For each army, whichever of the two leaders has the least kills out of the two in combat gains a bonus of +1 To Wound during a Fight. This bonus ends immediately as soon as they have drawn equal to or overtaken their
 ally.
 
-## SCENARIO 5 — CORNERED
+![](../media/scenarios/double_event_scenario_clash_of_champions.jpg)
+
+---
+
+## DOUBLE EVENT SCENARIO 5 — CORNERED
  
 *With one force surrounded, their allies must fight to save them from the combined might of their enemies.*
 
@@ -1078,7 +1161,11 @@ At the end of the game, the team that has scored the most Victory Points wins th
 
 * You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
 
-## SCENARIO 6 — DUEL OF WITS
+![](../media/scenarios/double_event_scenario_cornered.jpg)
+
+---
+
+## DOUBLE EVENT SCENARIO 6 — DUEL OF WITS
 
 *Each force has been tasked with eliminating key enemy targets, though in the heat of battle they have been unable to relay this information to their allies.*
 
@@ -1119,3 +1206,5 @@ At the start of the game, each player secretly writes down one enemy Hero model 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken, and your force is unbroken, you instead score **2 Victory Points**.
 
 * You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
+
+![](../media/scenarios/double_event_scenario_duel_of_wits.jpg)
