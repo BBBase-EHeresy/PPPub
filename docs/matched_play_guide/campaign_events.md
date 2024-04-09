@@ -72,7 +72,7 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 #### RHOVANION
 
-*The wide lands between the Misty Mountains in the west, and the River Celduin in the east. They contain many great kingdoms and settlements such as Mirkwood, LothlÃ³rien, Erebor, and Dale.*
+*The wide lands between the Misty Mountains in the west, and the River Celduin in the east. They contain many great kingdoms and settlements such as Mirkwood, Lothlórien, Erebor, and Dale.*
 
 **SPECIAL RULE**
 

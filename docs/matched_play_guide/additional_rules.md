@@ -69,7 +69,7 @@ Have your leader kill the enemy leader in combat. Your leader must cause every W
 
 **3. SENDING A MESSAGE**
 
-Kill the most expensive Hero model (include wargear in their points cost) in your opponent's force. If the most expensive Hero is part of two Hero models bought together (e.g., Elladan & Elrohir or Murin & DrÃ¡r), then you must kill both to score this Secret Objective.
+Kill the most expensive Hero model (include wargear in their points cost) in your opponent's force. If the most expensive Hero is part of two Hero models bought together (e.g., Elladan & Elrohir or Murin & Drár), then you must kill both to score this Secret Objective.
 
 **4. MINIMISE CASUALTIES**
 
