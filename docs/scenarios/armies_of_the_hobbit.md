@@ -343,6 +343,7 @@ Any Mirkwood Spiders that are slain are kept to one side. At the start of each t
 **PARTICIPANTS**
 
 **GOOD**
+
 Thorin Oakenshield with Orcrist and Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Legolas Greenleaf; Tauriel; 10 Mirkwood Rangers.
 
 **EVIL**

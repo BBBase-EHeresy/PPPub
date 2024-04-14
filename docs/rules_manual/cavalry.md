@@ -134,7 +134,35 @@ A **Cavalry** model may dismount from their steed at any point in their Move. Di
 
 ### CAVALRY STEEDS
 
-![](../media/rules_manual/cavalry_steeds.jpg)
+#### HORSE
+
+| Mv | F  | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 3/6+ | 3 | 4 | 0 | 1 | 3 |
+
+#### ARMOURED HORSE
+
+| Mv | F  | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 3/6+ | 3 | 5 | 0 | 1 | 3 |
+
+#### PONY
+
+| Mv | F  | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 8" | 2/6+ | 2 | 3 | 0 | 1 | 2 |
+
+#### WARG
+
+| Mv | F  | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 3/6+ | 4 | 4 | 1 | 1 | 2 |
+
+#### FELL WARG
+
+| Mv | F  | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 3/6+ | 4 | 4 | 1 | 1 | 2 |
 
 Various models can take a mount of some kind. The more unusual ones are listed in the rider's entry, but the more common steeds are listed here.
 

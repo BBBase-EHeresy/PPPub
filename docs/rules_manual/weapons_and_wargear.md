@@ -144,7 +144,7 @@ Before either player makes a Duel roll, they may opt to use the Special Strike a
 
 A model armed with a mace, maul or hammer may opt to Bash. If the bashing model's side wins the Duel roll, they may attempt to knock a single opponent (of their choice) Prone instead of making Strikes. Both models roll a further D6 and add their Strength value. The basher adds a further 1 to this total if the hammer, mace or maul is two-handed. If the bashing model's total is equal to or higher than their opponent's total, that opponent is immediately knocked Prone. In a multiple combat, it is often a good idea to do the Bash first, as if successful, other friendly models within the multiple combat may benefit from the enemy being knocked Prone if the Bash is successful.
 
-### FEINT OR STAB (DAGGERS AND SWORDS) 67
+### FEINT OR STAB (DAGGERS AND SWORDS)
 
 *Swords are weapons that can be truly deadly in the hands of a trained fighter. Whether the weapon is formed of three feet of sharpened steel, such as the blades forged in Gondor, a long, slender scimitar preferred by the Elves, or a thick-bladed short-sword of Dwarven make, the blade can be equally deadly in the hands of a skilled and daring fighter.*
 
