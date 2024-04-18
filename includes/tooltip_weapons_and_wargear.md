@@ -25,14 +25,24 @@
 [Siege Veteran]: ../rules_manual/siege_engines.md#siege-veterans
 [Swift Reload]: ../rules_manual/siege_engines.md#swift-reload
 [Pike]: ../rules_manual/weapons_and_wargear.md#pikes
-[Staff)]: ../rules_manual/weapons_and_wargear.md#stun-clubs-and-staffs
+[Staff]: ../rules_manual/weapons_and_wargear.md#stun-clubs-and-staffs
+[Blowpipe]: ../rules_manual/weapons_and_wargear.md#blowpipe
+[Heavy Object]: ../rules_manual/advanced_rules/#heavy-objects
+[Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour
+[Heavy Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-dwarf-armour
+[Mace]: ../rules_manual/weapons_and_wargear.md#bash-hammers-maces-and-mauls
+[Slingshot]: ../rules_manual/weapons_and_wargear.md#slingshot
+[Flail]: ../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips
+[Crossbow]: ../rules_manual/weapons_and_wargear.md#crossbows
+[War Spear]: ../rules_manual/weapons_and_wargear.md#war-spears
+[The One Ring]: ../rules_manual/weapons_and_wargear.md#the-one-ring
+[Armour]: ../rules_manual/weapons_and_wargear.md#armour
 
 [Horse]: ../rules_manual/cavalry.md#horse
 [Armoured Horse]: ../rules_manual/cavalry.md#armoured-horse
 [Pony]: ../rules_manual/cavalry.md#pony
 [Warg]: ../rules_manual/cavalry.md#warg
 [Fell Warg]: ../rules_manual/cavalry.md#fell-warg
-
 
 [Spears]: ../rules_manual/weapons_and_wargear.md#spears
 [War Spears]: ../rules_manual/weapons_and_wargear.md#war-spears
@@ -48,12 +58,11 @@
 [Missile Weapons]: ../rules_manual/weapons_and_wargear.md#missile-weapons
 
 [Crossbows]: ../rules_manual/weapons_and_wargear.md#crossbows
-[Blowpipe]: ../rules_manual/weapons_and_wargear.md#blowpipe
+
 [Slingshot]: ../rules_manual/weapons_and_wargear.md#slingshot
 
 [War Drum (X)]: ../rules_manual/weapons_and_wargear.md#war-drum-x
 [War Horns]: ../rules_manual/weapons_and_wargear.md#war-horns
-[The One Ring]: ../rules_manual/weapons_and_wargear.md#the-one-ring
-[Armour]: ../rules_manual/weapons_and_wargear.md#armour
+
 [Heavy Armour and Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour
-[Heavy Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-dwarf-armour
+

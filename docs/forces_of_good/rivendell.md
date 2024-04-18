@@ -1,26 +1,30 @@
 ﻿## ARMY COMPOSITION
 
-*This army may include: Gil-galad, High King of the Elves; Elrond, Master of Rivendell; Glorfindel, Lord of the West; Erestor; Elladan & Elrohir; Arwen Undomiel; Lindir of Rivendell; Cirdan; Gildor Inglorion; Bilbo Baggins; High Elf Captains; High Elf Stormcallers; High Elf Warriors and Rivendell Knights.*
+This army may include: Gil-galad, High King of the Elves; Elrond, Master of Rivendell; Glorfindel, Lord of the West; Erestor; Elladan & Elrohir; Arwen Undomiel; Lindir of Rivendell; Cirdan; Gildor Inglorion; Bilbo Baggins; High Elf Captains; High Elf Stormcallers; High Elf Warriors and Rivendell Knights.
 
 ## ARMY BONUS
 
-*"Tangado haid, leithio i philinn!" - Whilst within 6" of the army's leader, friendly Rivendell models may re-roll failed To Hit rolls when making shooting attacks in a turn in which they did not move.*
-
-![Rivendell Army Banner](../media/2_MESBG_-_Armies_of_LOTR_media/image126.jpeg)
+**"Tangado haid, leithio i philinn!"** - Whilst within 6" of the army's leader, friendly Rivendell models may re-roll failed To Hit rolls when making shooting attacks in a turn in which they did not move.
 
 ## HEROES OF RIVENDELL
 
+<div class="unitCard" markdown>
+
 ### GIL-GALAD, HIGH KING OF THE ELVES - 170 POINTS
 
-**ELF, RIVENDELL, INFANTRY, HERO - HERO OF LEGEND**
+*ELF, RIVENDELL, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 9/3+ | 4 | 7 | 3 | 3 | 7 |
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 9/3+ | 4 | 7 | 3 | 3 | 7 | 3 | 3 | 1 |
 
 **WARGEAR**
 
-- Heavy armour and Aiglos.
+- [Heavy armour]
+- Aiglos
+- **Aiglos (ACTIVE)**
+
+Aiglos is an *[Elven-made]* [spear]. Additionally, Gil-galad may add +1 to all of his rolls To Wound when making Strikes with Aiglos.
 
 **HEROIC ACTIONS**
 
@@ -35,67 +39,95 @@
 - [Horse]: 10 points
 - [Shield]: 5 points
 
+If your army includes Gil-galad, High King of the Elves, then you may upgrade any number of High Elf Warriors in his warband to become King’s Guard for a cost of +1 point per model. King’s Guard have a Fight value of 6/3+.
+
 **SPECIAL RULES**
 
-- Blood & Glory
-- Terror
-- Woodland Creature
-- High King of the Elves
-- Lord of the West
+- [Blood and Glory]
+- [Terror]
+- [Woodland Creature]
+- **High King of the Elves (PASSIVE)**
 
-![Gil-galad](../media/2_MESBG_-_Armies_of_LOTR_media/image127.jpeg)
+Gil-galad's Stand Fast! is 12" rather than 6". Additionally, friendly Elf Hero models may use Gil-galad's Stand Fast!
 
-### ELROND, MASTER OF RIVENDELL - 170 POINTS
+- **Lord of the West (ACTIVE)**
 
-**ELF, RIVENDELL, INFANTRY, HERO - HERO OF LEGEND**
+A model with this special rule may re-roll a single D6 when making a Duel roll. Additionally, they may re-roll a single D6 when rolling To Wound.
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 6/3+ | 4 | 5 | 3 | 3 | 7 |
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### ELROND, MASTER OF RIVENDELL [170 POINTS]
+
+*ELF, RIVENDELL, INFANTRY, HERO - HERO OF LEGEND*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 6/3+ | 4 | 5 | 3 | 3 | 7 | 3 | 3 | 3 |
 
 **WARGEAR**
 
-- Hadhafang and Vilya.
+- Hadhafang
+- Vilya
+- **Hadhafang (ACTIVE)**
 
-**OPTIONS**
+This is an *[Elven-made]* *[hand-and-a-half]* [sword]. Additionally, Elrond gets a bonus of + 1 To Wound Spirit models when making strikes with Hadhafang.
 
-- [Horse]: 10 points
+**- Vilya (ACTIVE)**
 
-**SPECIAL RULES**
-
-- Terror
-- Woodland Creature
-- Foresight of the Eldar
+Elrond, Master of Rivendell may re-roll his dice when using Fate points.
 
 **HEROIC ACTIONS**
 
 - [Heroic Resolve]
-- Heroic Channeling
+- [Heroic Channelling]
 - [Heroic Strike]
 - [Heroic Defence]
 
+**OPTIONS**
+
+- [Heavy armour]: 10 points
+- [Horse]: 10 points
+
+**SPECIAL RULES**
+
+- [Terror]
+- [Woodland Creature]
+- **Foresight of the Eldar (PASSIVE)**
+
+Before the game begins, roll a D6 and make a note of the result - these are Elrond's Foresight points for the battle. During the Priority phase, after the dice has been rolled, Elrond may chose to expend these Foresight points to alter the controlling player's dice roll. For each Foresight point expended, Elrond may alter the dice score by either +1 or -1, to a minimum of 1 and a maximum of 6.
+
+- **Lord of the West (ACTIVE)**
+
+A model with this special rule may re-roll a single D6 when making a Duel roll. Additionally, they may re-roll a single D6 when rolling To Wound.
+
 **MAGICAL POWERS**
-- Wrath of Bruinen
-- Renew
 
-![Elrond](../media/2_MESBG_-_Armies_of_LOTR_media/image128.jpeg)
+|                  | **Range** | **Casting** |
+| ---------------- | --------------- | ----------------- |
+| [Wrath of Bruinen] | -               | 4+                |
+| [Renew]            | 12"             | 3+                |
 
-### GLORFINDEL, LORD OF THE WEST - 145 POINTS
+</div>
 
-**ELF, RIVENDELL, INFANTRY, HERO - HERO OF VALOUR**
+---
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 7/3+ | 4 | 5 | 3 | 3 | 7 |
+<div class="unitCard" markdown>
+
+### GLORFINDEL, LORD OF THE WEST [145 POINTS]
+
+*ELF, RIVENDELL, INFANTRY, HERO - HERO OF VALOUR*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 7/3+ | 4 | 5 | 3 | 3 | 7 | 3 | 3 | 3 |
 
 **WARGEAR**
 
-- Elven-made hand-and-a-half sword.
-
-**OPTIONS**
-
-- Armour of Gondolin: 15 points
-- Asfaloth: 10 points
+- *[Elven-made]* *[hand-and-a-half]* [Sword]
 
 **HEROIC ACTIONS**
 
@@ -104,28 +136,53 @@
 - [Heroic Strength]
 - [Heroic Challenge]
 
+**OPTIONS**
+
+- Armour of Gondolin: 15 points
+- Asfaloth: 10 points
+- **Armour of Gondolin (PASSIVE)**
+
+This is heavy armour. Additionally, whilst wearing the armour of Gondolin, Monster models may not target Glorfindel with Brutal Power Attacks.
+
+- **Asfaloth (PASSIVE)**
+
+Asfaloth is a [horse] with a Move value of 12" rather than 10". Additionally, whilst riding Asfaloth, the rider gains the [Fleetfoot] special rule.
+
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Terror
-- Woodland Creature
-- Lord of the West
-- Unbending Resolve
+- [Expert Rider]
+- [Horse Lord]
+- [Terror]
+- [Woodland Creature]
+- **Lord of the West (ACTIVE)**
 
-![Glorfindel](../media/2_MESBG_-_Armies_of_LOTR_media/image129.jpeg)
+A model with this special rule may re-roll a single D6 when making a Duel roll. Additionally, they may re-roll a single D6 when rolling To Wound.
 
-### ERESTOR - 85 POINTS
+- **Unbending Resolve (PASSIVE)**
 
-**ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
+Glorfindel always counts as having had the [Fortify Spirit] Magical Power cast upon him. This is always in effect, even if his Will is reduced to 0.
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 6/3+ | 4 | 7 | 2 | 2 | 6 |
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### ERESTOR [85 POINTS]
+
+*ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 6/3+ | 4 | 7 | 2 | 2 | 6 | 2 | 2 | 2 |
 
 **WARGEAR**
 
-- Heavy armour and Noldorin daggers.
+- [Heavy armour]
+- Noldorin daggers
+- **Noldorin Daggers (ACTIVE)**
+
+These are *[Elven-made]* [daggers][Dagger]. Erestor may use these as [Throwing weapons]. Erestor may re-roll failed To Wound rolls when throwing his daggers or when making Strikes with them.
 
 **HEROIC ACTIONS**
 
@@ -133,63 +190,78 @@
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
-![Erestor](../media/2_MESBG_-_Armies_of_LOTR_media/image130.jpeg)
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### ARWEN UNDOMIEL - 60 POINTS
 
 **ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+| Mv |  F  | S | D | A | W | C |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/4+ | 3 | 3 | 2 | 2 | 5 |
 
 **WARGEAR**
 
-- Elven-made sword.
-
-**OPTIONS**
-
-- Asfolath: 10 points
-- [Horse]: 10 points
-- [Elven Cloak]: 5 points
+- *[Elven-made]* [Sword]
 
 **HEROIC ACTIONS**
 
 - [Heroic Resolve]
-- Heroic Channeling
+- [Heroic Channelling]
 - [Heroic Defence]
-
-**SPECIAL RULES**
-
-- Expert Rider
-- Woodland Creature
-
-**MAGICAL POWERS**
-- Wrath of Bruinen: Casting on 4+
-
-![Arwen Undomiel](../media/2_MESBG_-_Armies_of_LOTR_media/image131.jpeg)
-
-### ELLADAN & ELROHIR - 160 POINTS FOR BOTH
-
-**ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
-
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 6/3+ | 4 | 5 | 2 | 2 | 6 |
-
-**WARGEAR**
-
-- Armour and two Elven-made swords.
 
 **OPTIONS**
 
-- Horses: 20 points for both
-- Elf bows: 10 points for both
+- Asfaloth: 10 points
+- [Horse]: 10 points
+- [Elven Cloak]: 5 points
+- **Asfaloth (PASSIVE)**
+
+Asfaloth is a [horse] with a Move value of 12" rather than 10". Additionally, whilst riding Asfaloth, the rider gains the [Fleetfoot] special rule.
+
+**SPECIAL RULES**
+
+- [Expert Rider]
+- [Woodland Creature]
+
+**MAGICAL POWERS**
+
+|                  | **Range** | **Casting** |
+| ---------------- | --------------- | ----------------- |
+| [Wrath of Bruinen] | -               | 4+                |
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### ELLADAN & ELROHIR [160 POINTS FOR BOTH]
+
+*ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 6/3+ | 4 | 5 | 2 | 2 | 6 | 3 | 2 | 2 |
+
+**WARGEAR**
+
+- [Armour]
+- Two *[Elven-made]* [swords][Sword]
+
+**OPTIONS**
+
+- [Horses][Horse]: 20 points for both
+- [Elf bows][Bow]: 10 points for both
 - [Elven Cloak]s: 10 points for both
-- Heavy armour: 10 points for both
+- [Heavy armour]: 10 points for both
 
 **HEROIC ACTIONS**
 
@@ -197,109 +269,150 @@
 
 **SPECIAL RULES**
 
-- Woodland Creature
-- Twin Elven Blades
-- Unbreakable bond
+- [Woodland Creature]
+- **Twin Elven Blades (ACTIVE)**
 
-![Elladan & Elrohir](../media/2_MESBG_-_Armies_of_LOTR_media/image132.jpeg)
+Whilst fighting on foot, Elladan & Elrohir may choose to fight in one of three ways. They may either fight using a single [Sword]
+- fight as if it were a *[two-handed]* [sword], they may elect to fight with both swords for +1 Attack, or they may elect to parry, which counts as shielding.
 
-### LINDIR OF RIVENDELL - 65 POINTS
+- **Unbreakable bond (ACTIVE)**
 
-**ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
+Should one brother be killed, the surviving brother will immediately increase their Strength by 1 and decrease their Defence by 1. The surviving brother will automatically pass all Courage tests they are forced to make and must do everything they can to Charge the model that killed their brother as quickly as possible. Once that model is killed, the surviving brother must move as fast as possible towards the closest enemy model for the remainder of the game, charging if able. Additionally, if the model that killed the brother is a Hero model, the first time the surviving brother is in combat with his brother's killer, he must declare a [Heroic Challenge], targeting that Hero, without spending Might. This may be done even if the Hero is of a lower Heroic Tier than the surviving brother.
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 5/3+ | 4 | 4 | 1 | 2 | 6 |
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### LINDIR OF RIVENDELL [65 POINTS]
+
+*ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 5/3+ | 4 | 4 | 1 | 2 | 6 | 1 | 3 | 1 |
 
 **WARGEAR**
 
-- Elven-made sword.
+- *[Elven-made]* [Sword]
 
 **OPTIONS**
 
-- Heavy armour: 10 points
+- [Heavy armour]: 10 points
 - [Horse]: 10 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
-- Song to Elbereth
-- Wise Council
+- [Woodland Creature]
+- **Song to Elbereth (ACTIVE)**
 
-![Lindir of Rivendell](../media/2_MESBG_-_Armies_of_LOTR_media/image133.jpeg)
+All friendly Rivendell models within 6" of Lindir gain the [Resistant to Magic] special rule.
 
-### CIRDAN - 80 POINTS
+- **Wise Council (PASSIVE)**
 
-**ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
+If Lindir is within 6" of Elrond, then Elrond may expend a single point of Will each turn without reducing his own store, even if he has none remaining.
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 5/3+ | 4 | 4 | 1 | 2 | 6 |
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### CIRDAN [80 POINTS]
+
+*ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 5/3+ | 4 | 4 | 1 | 2 | 6 | 1 | 4* | 1 |
 
 **WARGEAR**
 
-- Cirdan is unarmed.
+- [Unarmed]
 
 **HEROIC ACTIONS**
 
-- Heroic Channeling
+- [Heroic Channelling]
 - [Heroic Resolve]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Terror
-- Woodland Creature
-- The Shipwright's Power
+- [Resistant to Magic]
+- [Terror]
+- [Woodland Creature]
+- ***The Shipwright's Power (PASSIVE)**
+
+Cirdan may spend a single point of Will each turn without reducing his own store of Will.
 
 **MAGICAL POWERS**
-- Aura of Command: Casting on 2+
-- Blinding Light: Casting on 2+
-- Enchanted Blades: Casting on 4+
-- Aura of Dismay: Casting on 5+
 
-![Cirdan](../media/2_MESBG_-_Armies_of_LOTR_media/image134.jpeg)
+|                  | **Range** | **Casting** |
+| ---------------- | --------------- | ----------------- |
+| [Aura of Command]  | -               | 2+                |
+| [Blinding Light]   | -               | 2+                |
+| [Enchanted Blades] | 6"              | 4+                |
+| [Aura of Dismay]   | -               | 5+                |
 
-### GILDOR INGLORION - 70 POINTS
+</div>
 
-**ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
+---
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 8" | 6/3+ | 4 | 4 | 2 | 2 | 6 |
+<div class="unitCard" markdown>
+
+### GILDOR INGLORION [70 POINTS]
+
+*ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 8" | 6/3+ | 4 | 4 | 2 | 2 | 6 | 1 | 4 | 1 |
 
 **WARGEAR**
 
-- Elven-made sword and Elven cloak.
+- *[Elven-made]* [sword]
+- [Elven cloak]
 
 **HEROIC ACTIONS**
 
-- Heroic Channeling
+- [Heroic Channelling]
 - [Heroic Resolve]
 - [Heroic March]
 - [Heroic Defence]
 
+**OPTIONS**
+
+If your army includes Gildor Inglorion, you may include Wood Elf Warriors from the Lothlorien army list (see page 88) in his warband as if they were part of this army list. These Wood Elf Warriors must be upgraded to be Noldorin Exiles at the cost of + 1 point per model. Noldorin Exiles have a Move of 8".
+
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 **MAGICAL POWERS**
-- Immobilise: Casting on 3+
 
-![Gildor Inglorion](../media/2_MESBG_-_Armies_of_LOTR_media/image135.jpeg)
+|            | **Range** | **Casting** |
+| ---------- | --------------- | ----------------- |
+| [Immobilise] | -               | 3+                |
 
-### HIGH ELF CAPTAIN - 75 POINTS
+</div>
 
-**ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
+---
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 6/3+ | 4 | 6 | 2 | 2 | 6 |
+<div class="unitCard" markdown>
+
+### HIGH ELF CAPTAIN [75 POINTS]
+
+*ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 6/3+ | 4 | 6 | 2 | 2 | 6 | 2 | 1 | 1 |
 
 **WARGEAR**
 
-- Heavy armour and Elven-made hand-and-a-half sword.
+- [Heavy armour]
+- *[Elven-made]* *[hand-and-a-half]* [Sword]
 
 **HEROIC ACTIONS**
 
@@ -308,178 +421,114 @@
 **OPTIONS**
 
 - [Horse]: 10 points
-- Elf bow: 5 points
-- Lance: 5 points
+- [Elf bow][Bow]: 5 points
+- [Lance]: 5 points
 - [Shield]: 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Woodland Creature
+- [Expert Rider]
+- [Woodland Creature]
 
-![High Elf Captain](../media/2_MESBG_-_Armies_of_LOTR_media/image136.jpeg)
+</div>
 
-### HIGH ELF STORMCALLER - 60 POINTS
+---
 
-**ELF, RIVENDELL, INFANTRY, HERO - MINOR HERO**
+<div class="unitCard" markdown>
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 5/3+ | 3 | 4 | 1 | 2 | 5 |
+### HIGH ELF STORMCALLER [60 POINTS]
+
+*ELF, RIVENDELL, INFANTRY, HERO - MINOR HERO*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 5/3+ | 3 | 4 | 1 | 2 | 5 | 1 | 3 | 1 |
 
 **WARGEAR**
 
-- Armour, Elven-made sword, and staff.
+- [Armour]
+- *[Elven-made]* [sword]
+- [Staff]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **SPECIAL RULES**
 
-- Woodland Creature
-- Powers of Nature
+- [Woodland Creature]
+- **Powers of Nature (ACTIVE)**
+
+If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or more dice, then the Will points spent in casting the Magical Power are returned to the Stormcaller's store of Will upon completion of the effects of the Magical Power.
 
 **MAGICAL POWERS**
-- Call Winds: Casting on 3+
-- Strengthen Will: Casting on 4+
 
-![High Elf Stormcaller](../media/2_MESBG_-_Armies_of_LOTR_media/image137.jpeg)
+|                 | **Range** | **Casting** |
+| --------------- | --------------- | ----------------- |
+| [Call Winds ]     | 12"             | 3+                |
+| [Strengthen Will] | 12"             | 4+                |
 
-### WARRIORS OF RIVENDELL
+</div>
 
-**HIGH ELF WARRIOR**
+---
+
+## WARRIORS OF RIVENDELL
+
+<div class="unitCard" markdown>
+
+### HIGH ELF WARRIOR [9 POINTS]
 
 **ELF, RIVENDELL, INFANTRY, WARRIOR**
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+| Mv |  F  | S | D | A | W | C |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
 
 **WARGEAR**
 
-- Heavy armour and Elven-made hand-and-a-half sword.
+- [Heavy armour]
+- *[Elven-made]* *[hand-and-a-half]* [Sword]
 
 **OPTIONS**
 
-- War horn: 30 points
-- Banner: 25 points
-- Elf bow: 2 points
+- [War horn]: 30 points
+- [Banner]: 25 points
+- [Elf bow][Bow]: 2 points
 - [Shield]: 1 point
-- Spear: 1 point
+- [Spear]: 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
-![Warriors of Rivendell](../media/2_MESBG_-_Armies_of_LOTR_media/image138.jpeg)
+</div>
 
-## RIVENDELL
+---
 
-Rivendell, a tranquil haven of the Elves, stands as a testament to the resilience and wisdom of this ancient race. Led by Elrond, Rivendell serves as a sanctuary for the Free Peoples and a council ground for the wise. Despite the dwindling numbers of Elves in Middle-earth, their martial prowess remains unmatched, making them formidable opponents on the battlefield.
+<div class="unitCard" markdown>
 
-### ARMY COMPOSITION
+### RIVENDELL KNIGHT [21 POINTS]
 
-This army may include: Gil-galad, Elrond, Glorfindel, Erestor, Elladan & Elrohir, Arwen Undómiel, Lindir, Círdan, Gildor Inglorion, Bilbo Baggins, High Elf Captains, High Elf Stormcallers, High Elf Warriors, and Rivendell Knights.
+*ELF, RIVENDELL, CAVALRY, WARRIOR*
 
-### ARMY BONUS
-
-"Tangado haid, leithio i philinn!" — Rivendell models within 6" of the army's leader may re-roll failed To Hit rolls for shooting attacks in a turn they did not move.
-
-### HEROES OF RIVENDELL
-
-#### GIL-GALAD, HIGH KING OF THE ELVES [170 POINTS]
-**ELF, RIVENDELL, INFANTRY, HERO — HERO OF LEGEND**
-
-| Mv | F  | S | D | A | W | C |
-|----|----|---|---|---|---|---|
-| 6" | 9/3+| 4 | 7 | 3 | 3 | 7 |
+| Mv  | F    | S | D | A | W | C |
+| --- | ---- | - | - | - | - | - |
+| 10" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
 
 **WARGEAR**
-- Heavy armour and Aiglos
 
-**HEROIC ACTIONS**
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
-- Heroic Challenge
+- [Heavy armour]
+- [Lance]
+- *[Elven-made]* *[hand-and-a-half]* [sword]
+- [Elf bow][Bow]
+- [Horse]
 
 **OPTIONS**
-- [Horse]: [Cost]
-- Shield: [Cost]
 
-#### ELROND, MASTER OF RIVENDELL [170 POINTS]
-**ELF, RIVENDELL, INFANTRY, HERO — HERO OF LEGEND**
+- [Banner]: 25 points
+- [Shield]: 1 point
 
-| Mv | F  | S | D | A | W | C |
-|----|----|---|---|---|---|---|
-| 6" | 6/3+| 4 | 5 | 3 | 3 | 7 |
+**SPECIAL RULES**
 
-**WARGEAR**
-- Hadhafang and Vilya
-
-**HEROIC ACTIONS**
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
-- Heroic Defence
-
-**OPTIONS**
-- Heavy armour: [Cost]
-- [Horse]: [Cost]
-
-#### GLORFINDEL, LORD OF THE WEST [145 POINTS]
-**ELF, RIVENDELL, INFANTRY, HERO — HERO OF VALOUR**
-
-| Mv | F  | S | D | A | W | C |
-|----|----|---|---|---|---|---|
-| 6" | 7/3+| 4 | 5 | 3 | 3 | 7 |
-
-**WARGEAR**
-- Elven-made hand-and-a-half sword
-
-**HEROIC ACTIONS**
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
-
-**OPTIONS**
-- Armour of Gondolin: 15 points
-- Asfaloth: 10 points
-
-### WARRIORS OF RIVENDELL
-
-#### HIGH ELF WARRIOR [9 POINTS EACH]
-**ELF, RIVENDELL, INFANTRY, WARRIOR**
-
-| Mv | F  | S | D | A | W | C |
-|----|----|---|---|---|---|---|
-| 6" | 5/3+| 3 | 5 | 1 | 1 | 5 |
-
-**WARGEAR**
-- Heavy armour and Elven-made hand-and-a-half sword
-
-**OPTIONS**
-- War horn: 30 points
-- Banner: 25 points
-- Elf bow: 2 points
-- Shield: 1 point
-- Spear: 1 point
-
-#### RIVENDELL KNIGHT [21 POINTS EACH]
-**ELF, RIVENDELL, CAVALRY, WARRIOR**
-
-| Mv | F  | S | D | A | W | C |
-|----|----|---|---|---|---|---|
-| 10"| 5/3+| 3 | 5 | 1 | 1 | 5 |
-
-**WARGEAR**
-- Heavy armour, lance, Elven-made hand-and-a-half sword, Elf bow, and horse
-
-**OPTIONS**
-- Banner: 25 points
-- Shield: 1 point
-
-Rivendell's forces, though not as numerous as in ages past, bring an unparalleled level of skill and grace to the battlefield, combining the art of war with centuries of experience. With their legendary heroes and elite warriors, they remain a beacon of hope and a bulwark against the darkness encroaching upon Middle-earth.
+- [Expert Rider]
+- [Woodland Creature]

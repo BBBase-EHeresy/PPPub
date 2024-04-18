@@ -209,7 +209,7 @@ Paladin's Stand Fast! only affects Hobbit models, however, his Stand Fast! is 12
 
 **WARGEAR**
 
-- Two-handed scythe ([Pick]) 
+- *[Two-handed]* scythe ([Pick]) 
 - Grip, Fang, and Wolf
 
 **SPECIAL RULES**

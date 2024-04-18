@@ -314,3 +314,5 @@ Clansmen within 6" of Angbor the Fearless count as being in range of a [banner].
 - **Dead-eye Shot (ACTIVE)**
 
 When benefitting from a [Heroic Shoot], this model may re-roll failed To Wound rolls when making shooting attacks.
+
+</div>

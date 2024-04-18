@@ -23,7 +23,7 @@ This army may include: Aragorn, King Elessar; Gandalf the White; Denethor, Stewa
 - Anduril, Flame of the West
 - **Anduril, Flame of the West (ACTIVE)** 
 
-Anduril is an *[Elven-made]* *[hand-and-a-half]* [sword]. Additionally, when making Strikes with Anduril, Aragorn never requires more than a 4 for his To Wound rolls. Note that if Aragorn elects to use Anduril as a [two-handed] weapon, he will still get the +1 bonus To Wound meaning that he will Wound on a 3+.
+Anduril is an *[Elven-made]* *[ *[hand-and-a-half]* ]* [sword]. Additionally, when making Strikes with Anduril, Aragorn never requires more than a 4 for his To Wound rolls. Note that if Aragorn elects to use Anduril as a [two-handed] weapon, he will still get the +1 bonus To Wound meaning that he will Wound on a 3+.
   
 **HEROIC ACTIONS**
 
@@ -67,7 +67,7 @@ Friendly models within 6" of Aragorn, King Elessar count as being in range of a 
 * Narya
 * **Glamdring (ACTIVE)**
 
-Glamdring is an *[Elven-made]* *[hand-and-a-half]* [Sword]. Additionally, Glamdring increases Gandalf's Strength by 1 when making Strikes with it.
+Glamdring is an *[Elven-made]* *[ *[hand-and-a-half]* ]* [Sword]. Additionally, Glamdring increases Gandalf's Strength by 1 when making Strikes with it.
 
 * **Narya (PASSIVE)**
 
@@ -98,7 +98,7 @@ Shadowfax is a mount that uses the following profile.
 **MAGICAL POWERS**
 
 |  | **Range** | **Casting** |
-|---------------------|:-:|:-:|
+|:---------------------|:-:|:-:|
 | [Blinding Light]     | -         | 2+          |
 | [Immobilise]         | 12"       | 2+          |
 | [Terrifying Aura]    | -         | 2+          |

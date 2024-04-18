@@ -23,7 +23,7 @@ This army may include: Elendil, High King of Gondor and Arnor; Isildur; Captains
 - Narsil
 - **Narsil (ACTIVE)**
 
-Narsil is a *[Master-Forged]* *[Hand-And-A-Half]* [Sword]. Additionally, Elendil may call a [Heroic Combat] each turn without expending Might.
+Narsil is a *[Master-Forged]* *[ *[hand-and-a-half]* ]* [Sword]. Additionally, Elendil may call a [Heroic Combat] each turn without expending Might.
 
 **HEROIC ACTIONS**
 
@@ -64,7 +64,7 @@ Elendil always counts as having had the [Fortify Spirit] Magical Power cast upon
 **WARGEAR**
 
 - [Heavy Armour]
-- *[Hand-And-A-Half]* [Sword]
+- *[ *[hand-and-a-half]* ]* [Sword]
 
 **HEROIC ACTIONS**
 

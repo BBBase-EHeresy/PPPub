@@ -1,68 +1,168 @@
 ﻿## ARMY COMPOSITION
 
-*This army may include: Galadriel; Celeborn; Haldir; Rumil; Galadhrim Captains; Wood Elf Captains; Galadhrim Stormcallers; Galadhrim Warriors; Galadhrim Knights; Guards of the Galadhrim Court; Wood Elf Warriors and Wood Elf Sentinels.*
+This army may include: Galadriel; Celeborn; Haldir; Rumil; Galadhrim Captains; Wood Elf Captains; Galadhrim Stormcallers; Galadhrim Warriors; Galadhrim Knights; Guards of the Galadhrim Court; Wood Elf Warriors and Wood Elf Sentinels.
 
 ## ARMY BONUS
 
-*"They say a great Sorceress lives in these woods...' - Friendly Lorien models gain the Resistant to Magic special rule.*
-
-![Lothlorien Army Banner](../media/2_MESBG_-_Armies_of_LOTR_media/image145.jpeg)
+**"They say a great Sorceress lives in these woods..."** - Friendly Lorien models gain the [Resistant to Magic] special rule.
 
 ## HEROES OF LORIEN
 
-### GALADRIEL - 130 POINTS
+<div class="unitCard" markdown>
 
-**ELF, LORIEN, INFANTRY, HERO - HERO OF LEGEND**
+### GALADRIEL [130 POINTS]
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 6/3+ | 3 | 3 | 1 | 3 | 7 |
+*ELF, LORIEN, INFANTRY, HERO - HERO OF LEGEND*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 6/3+ | 3 | 3 | 1 | 3 | 7 | 3 | 6* | 3 |
 
 **WARGEAR**
 
-- Galadriel is unarmed but wears the ring Nenya.
+- [Unarmed]
+- Nenya
+- **Nenya (PASSIVE)**
+
+Galadriel can re-roll her dice when using Fate points.
 
 **HEROIC ACTIONS**
 
 - [Heroic Resolve]
-- Heroic Channeling
+- [Heroic Channelling]
 - [Heroic Defence]
 
 **OPTIONS**
 
 - Mirror of Galadriel: 25 points
 
+If your army includes Galadriel, you may upgrade any number of Galadhrim Warriors in her warband to Galadhrim Guard at the cost of + 1 point per model. Galadhrim Guard have a Courage of 6.
+
+- **Mirror of Galadriel (PASSIVE)**
+
+The mirror is a Heavy Object with a Defence of 8 and 3 Wounds. It is deployed within 6" of Galadriel at the start of the game. For Scenarios that require both armies to move onto the board, any models within Galadriel's warband may carry the mirror onto the board. During the End phase of each turn, one friendly Hero model within 6" may restore their Fate to its starting value.
+
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
-- The Lady of Lothlorien
+- [Terror]
+- [Woodland Creature]
+- ***The Lady of Lothlorien (PASSIVE)**
+
+Galadriel may expend a single point of Will each turn without reducing her own store.
 
 **MAGICAL POWERS**
-- Blinding Light: Casting on 2+
-- Blessing of the Valar: Casting on 3+
-- Immobilise: Casting on 3+
-- Command: Casting on 4+
 
-![Galadriel](../media/2_MESBG_-_Armies_of_LOTR_media/image146.jpeg)
+|                         | **Range** | **Casting** |
+| ----------------------- | --------------- | ----------------- |
+| [Blinding Light]        | -               | 2+                |
+| [Blessing of the Valar] | 12"             | 3+                |
+| [Immobilise]            | 12"             | 3+                |
+| [Command]               | 12"             | 4+                |
 
-### CELEBORN - POINTS NOT SPECIFIED
+</div>
 
-**ELF, LORIEN, INFANTRY, HERO - HERO OF LEGEND**
+---
 
-Celeborn's details are not specified in the provided text, but he would have similar heroic actions, special rules, and options as Galadriel, considering their significant roles in Lothlorien.
+<div class="unitCard" markdown>
 
-### HALDIR - 70 POINTS
+### CELEBORN [130 POINTS]
 
-**ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE**
+*ELF, LORIEN, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 6/3+ | 4 | 4 | 2 | 2 | 6 |
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 6/3+ | 4 | 4 | 3 | 3 | 7 | 3 | 3 | 3 |
 
 **WARGEAR**
 
-- Elven-made hand-and-a-half sword.
+- [Unarmed]
+
+**HEROIC ACTIONS**
+
+- [Heroic Channeling]
+- [Heroic Strike]
+- [Heroic Defence]
+
+**OPTIONS**
+
+- [Heavy armour]: 10 points
+- *[Elven-made]* *[hand-and-a-half]* [sword]: 5 points
+- [Shield]: 5 points
+
+ If your army includes Celeborn, you may upgrade any number of Galadhrim Warriors in his warband to Galadhrim Guard at the cost of +1 point per model. Galadhrim Guard have a Courage of 6.
+
+**SPECIAL RULES**
+
+- [Terror]
+- [Woodland Creature]
+- **Lord of the West (ACTIVE)**
+
+A model with this special rule may re-roll a single D6 when making a Duel roll. Additionally, they may re-roll a single D6 when rolling To Wound.
+
+- **Lord of Lórien (ACTIVE)**
+
+Celeborn's Stand Fast! is 12" rather than 6".
+
+**MAGICAL POWERS**
+
+|                    | **Range** | **Casting** |
+| ------------------ | --------------- | ----------------- |
+| [Aura of Command]  | -               | 2+                |
+| [Enchanted Blades] | 6"              | 3+                |
+| [Immobilise]       | 12"             | 3+                |
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### RUMIL [85 POINTS]
+
+*ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 6/3+ | 4 | 7 | 2 | 2 | 6 | 3 | 1 | 1 |
+
+**WARGEAR**
+
+- [Heavy armour]
+- *[Elven-made]* [Sword]
+- [Shield]
+
+**HEROIC ACTIONS**
+
+- [Heroic Defence]
+
+**OPTIONS**
+
+- [Elven Cloak]: 5 points
+
+**SPECIAL RULES**
+
+- [Woodland Creature]
+- **Swift Parry (ACTIVE)**
+
+Rumil may force one enemy model in the same fight as him to re- roll a single D6 for the Duel roll. This must be done before any Might points are used.
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### HALDIR [70 POINTS]
+
+*ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 6/3+ | 4 | 4 | 2 | 2 | 6 | 3 | 1 | 1 |
+
+**WARGEAR**
+
+- *[Elven-made]* *[hand-and-a-half]* [Sword]
 
 **HEROIC ACTIONS**
 
@@ -72,57 +172,40 @@ Celeborn's details are not specified in the provided text, but he would have sim
 
 **OPTIONS**
 
-- Heavy armour: 10 points
-- Elf bow: 5 points
+- [Heavy armour]: 10 points
+- [Elf bow][Bow]: 5 points
 - [Elven Cloak]: 5 points
 
 **SPECIAL RULES**
 
-- Expert Shot
-- Woodland Creature
-- Allies 'til the End
-- One Final Blow
+- [Expert Shot]
+- [Woodland Creature]
+- **Allies 'til the End (PASSIVE)**
 
-![Haldir](../media/2_MESBG_-_Armies_of_LOTR_media/image147.jpeg)
+Haldir is counted as being in range of a [banner], and automatically passes all Courage tests, if he is within 12" of either Aragorn or Theoden.
 
-### RUMIL - 85 POINTS
+- **One Final Blow (ACTIVE)**
 
-**ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE**
+If Haldir is slain in close combat, he may immediately make one Strength 4 Strike on each enemy model that was Engaged with him in the fatal fight.
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 6/3+ | 4 | 7 | 2 | 2 | 6 |
+</div>
 
-**WARGEAR**
+---
 
-- Heavy armour, Elven-made sword, and shield.
+<div class="unitCard" markdown>
 
-**HEROIC ACTIONS**
+### GALADHRIM CAPTAIN [70 POINTS]
 
-- [Heroic Defence]
+*ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-**OPTIONS**
-
-- [Elven Cloak]: 5 points
-
-**SPECIAL RULES**
-
-- Woodland Creature
-- Swift Parry
-
-![Rumil](../media/2_MESBG_-_Armies_of_LOTR_media/image148.jpeg)
-
-### GALADHRIM CAPTAIN - 70 POINTS
-
-**ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE**
-
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 6/3+ | 4 | 6 | 2 | 2 | 6 |
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 6/3+ | 4 | 6 | 2 | 2 | 6 | 2 | 1 | 1 |
 
 **WARGEAR**
 
-- Heavy armour and Elven-made hand-and-a-half sword.
+- [Heavy armour]
+- *[Elven-made]* *[hand-and-a-half]* [Sword]
 
 **HEROIC ACTIONS**
 
@@ -130,29 +213,34 @@ Celeborn's details are not specified in the provided text, but he would have sim
 
 **OPTIONS**
 
-- Armoured horse: 15 points
-- Elf bow: 5 points
+- [Armoured horse]: 15 points
+- [Elf bow][Bow]: 5 points
 - [Shield]: 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Fleetfoot
-- Woodland Creature
+- [Expert Rider]
+- [Fleetfoot]
+- [Woodland Creature]
 
-![Galadhrim Captain](../media/2_MESBG_-_Armies_of_LOTR_media/image149.jpeg)
+</div>
 
-### WOOD ELF CAPTAIN - 65 POINTS
+---
 
-**ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE**
+<div class="unitCard" markdown>
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 5/3+ | 3 | 3 | 1 | 2 | 5 |
+### WOOD ELF CAPTAIN [65 POINTS]
+
+*ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 5/3+ | 3 | 3 | 1 | 2 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
 
-- Elven-made sword and Elven cloak.
+- *[Elven-made]* [Sword]
+- [Elven cloak]
 
 **HEROIC ACTIONS**
 
@@ -160,165 +248,213 @@ Celeborn's details are not specified in the provided text, but he would have sim
 
 **OPTIONS**
 
-- Elf bow: 5 points
-- Throwing daggers: 5 points
+- [Elf bow][Bow]: 5 points
+- [Throwing daggers][Throwing Weapons]: 5 points
 - Wood Elf spear: 5 points
+- **Wood Elf spear (ACTIVE)**
+
+In addition to the normal rules for spears, a model armed with a Wood Elf spear may also parry, allowing the model to use the rules for Shielding.
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
-![Wood Elf Captain](../media/2_MESBG_-_Armies_of_LOTR_media/image150.jpeg)
+</div>
 
-### GALADHRIM STORMCALLER - 60 POINTS
+---
 
-**ELF, LORIEN, INFANTRY, HERO - MINOR HERO**
+<div class="unitCard" markdown>
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 5/3+ | 3 | 4 | 1 | 2 | 5 |
+### GALADHRIM STORMCALLER [60 POINTS]
+
+*ELF, LORIEN, INFANTRY, HERO - MINOR HERO*
+
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 6" | 5/3+ | 3 | 4 | 1 | 2 | 5 | 1 | 3 | 1 |
 
 **WARGEAR**
 
-- Armour, Elven-made sword, and staff.
+- [Armour]
+- *[Elven-made]* [Sword]
+- [Staff]
 
 **HEROIC ACTIONS**
 
-- Heroic Channeling
+- [Heroic Channelling]
 
 **SPECIAL RULES**
 
-- Woodland Creature
-- Powers of Nature
+- [Woodland Creature]
+- **Powers of Nature (PASSIVE)**
+
+If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or more dice, then the Will points spent in casting the Magical Power are returned to the Stormcaller's store of Will upon completion of the effects of the Magical Power.
 
 **MAGICAL POWERS**
-- Call Winds: Casting on 3+
-- Enchanted Blades: Casting on 4+
 
-![Galadhrim Stormcaller](../media/2_MESBG_-_Armies_of_LOTR_media/image151.jpeg)
+|                    | **Range** | **Casting** |
+| ------------------ | --------------- | ----------------- |
+| [Call Winds]       | 12"             | 3+                |
+| [Enchanted Blades] | 6"              | 4+                |
+
+</div>
+
+---
 
 ## WARRIORS OF LORIEN
 
-### GALADHRIM WARRIOR - 9 POINTS
+<div class="unitCard" markdown>
 
-**ELF, LORIEN, INFANTRY, WARRIOR**
+### GALADHRIM WARRIOR [9 POINTS]
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+*ELF, LORIEN, INFANTRY, WARRIOR*
+
+| Mv |  F  | S | D | A | W | C |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
 
 **WARGEAR**
 
-- Heavy armour and Elven-made hand-and-a-half sword.
+- [Heavy armour]
+- *[Elven-made]* *[hand-and-a-half]* [Sword]
 
 **OPTIONS**
 
-- War horn: 30 points
-- Banner: 25 points
-- Elf bow: 2 points
+- [War horn]: 30 points
+- [Banner]: 25 points
+- [Elf bow][Bow]: 2 points
 - [Shield]: 1 point
-- Spear: 1 point
+- [Spear]: 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
-![Galadhrim Warrior](../media/2_MESBG_-_Armies_of_LOTR_media/image152.jpeg)
+</div>
 
-### GALADHRIM KNIGHT - 18 POINTS
+---
 
-**ELF, LORIEN, CAVALRY, WARRIOR**
+<div class="unitCard" markdown>
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+### GALADHRIM KNIGHT [18 POINTS]
+
+*ELF, LORIEN, CAVALRY, WARRIOR*
+
+| Mv |  F  | S | D | A | W | C |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 10" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
 
 **WARGEAR**
 
-- Heavy armour, Elven-made sword, shield, and armoured horse.
+- [Heavy armour]
+- *[Elven-made]* [Sword]
+- [Shield]
+- [Armoured horse]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Elf bow: 2 points
-- [Shield]: Included
+- [Banner]: 25 points
+- [Elf bow][Bow]: 2 points
+- [Shield]: 1 point
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Fleetfoot
-- Woodland Creature
+- [Expert Rider]
+- [Fleetfoot]
+- [Woodland Creature]
 
-![Galadhrim Knight](../media/2_MESBG_-_Armies_of_LOTR_media/image153.jpeg)
+</div>
 
-### GUARDS OF THE GALADHRIM COURT - 12 POINTS
+---
+
+<div class="unitCard" markdown>
+
+### GUARDS OF THE GALADHRIM COURT [12 POINTS]
 
 **ELF, LORIEN, INFANTRY, WARRIOR**
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+| Mv |  F  | S | D | A | W | C |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 6/3+ | 3 | 5 | 1 | 1 | 6 |
 
 **WARGEAR**
 
-- Heavy armour and pike.
+- [Heavy armour]
+- [Pike]
 
 **OPTIONS**
 
-- Replace pike with banner: 25 points
+- Replace pike with [banner]: 25 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
-- Caras Galadhon Fighting Style
+- [Woodland Creature]
+- **Caras Galadhon Fighting Style (ACTIVE)**
 
-![Guards of the Galadhrim Court](../media/2_MESBG_-_Armies_of_LOTR_media/image154.jpeg)
+In addition to the normal rules for pikes, the Guard of the Galadhrim Court may also use the rules for shielding. The usual restrictions for shielding still apply, chiefly that a Guard of the Galadhrim Court that is shielding cannot be supported by another model, not even by another Guard of the Galadhrim Court.
 
-### WOOD ELF WARRIOR - 8 POINTS
+</div>
 
-**ELF, LORIEN, INFANTRY, WARRIOR**
+---
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+<div class="unitCard" markdown>
+
+### WOOD ELF WARRIOR [8 POINTS]
+
+*ELF, LORIEN, INFANTRY, WARRIOR*
+
+| Mv |  F  | S | D | A | W | C |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 3 | 3 | 1 | 1 | 5 |
 
 **WARGEAR**
 
-- Elven-made hand-and-a-half sword and Elven cloak.
+- *[Elven-made]* *[hand-and-a-half]* [Sword]
+- [Elven cloak]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Elf bow: 2 points
-- Throwing daggers: 2 points
+- [Banner]: 25 points
+- [Elf bow][Bow]: 2 points
+- [Throwing daggers][Throwing Weapons]: 2 points
 - Wood Elf spear: 1 point
+- **Wood Elf spear (ACTIVE)**
+
+In addition to the normal rules for spears, a model armed with a Wood Elf spear may also parry, allowing the model to use the rules for Shielding.
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
-![Wood Elf Warrior](../media/2_MESBG_-_Armies_of_LOTR_media/image155.jpeg)
+</div>
 
-### WOOD ELF SENTINEL - 25 POINTS
+---
 
-**ELF, LORIEN, MIRKWOOD, INFANTRY, WARRIOR**
+<div class="unitCard" markdown>
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+### WOOD ELF SENTINEL [25 POINTS]
+
+*ELF, LORIEN, MIRKWOOD, INFANTRY, WARRIOR*
+
+| Mv |  F  | S | D | A | W | C |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 3 | 3 | 2 | 1 | 5 |
 
 **WARGEAR**
 
-- Elven-made sword, Elf bow, and Elven cloak.
+- *[Elven-made]* [Sword]
+- [Elf bow][Bow]
+- [Elven cloak]
 
 **SPECIAL RULES**
 
-- Woodland Creature
-- Enchanting Song
+- [Woodland Creature]
+- **Enchanting Song (ACTIVE)**
 
-**ENCHANTING SONGS**
-- The Hymn of Elbereth: Range 12"
-- Eldamar Madrigal: Range 12"
-- The Lay of Gondolin
+A Sentinel may sing one song each turn, provided they are not Engaged in combat. These function exactly like Magical Powers except that they are automatically cast without spending Will, and cannot be resisted.
 
-![Wood Elf Sentinel](../media/2_MESBG_-_Armies_of_LOTR_media/image156.jpeg)
+**The Hymn of Elbereth** - Range 12" - This beautiful song raises the spirits of the targeted model. The target friendly model will automatically pass all Courage tests for the remainder of the turn.
+
+**Eldamar Madrigal** - Range 12" - The target enemy model must immediately take a Courage test. If the test is passed, nothing happens. If the test is failed, the target model falls under the control of the opposing player who may then move it up to its maximum Move, even if it has already moved that turn. This move cannot be used to enter an enemy's Control Zone, dismount, lay down, perform an action that would cause harm to the target (such as jumping off a cliff, etc) or anything that would require the model to roll a D6 (such as a Jump test). Affected models may move no further that turn.
+
+**The Lay of Gondolin** - This somber verse recalls the mighty Elf city of Gondolin - a name fit to freeze the hearts of Evil beings. If the Sentinel sings this song, they cause Terror until the end of the turn.
