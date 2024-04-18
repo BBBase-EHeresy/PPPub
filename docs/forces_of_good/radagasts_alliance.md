@@ -6,7 +6,7 @@ The profile for Gwaihir can be found on page 83. Gwaihir counts as a Hero of Val
 
 The profile for Great Eagles can be found on page 83.
 
-### ARMY BONUS
+## ARMY BONUS
 
 "The Eagles are coming!" — Eagle models from this army list gain a bonus of +1 to their Strength on a turn in which they charged.
 

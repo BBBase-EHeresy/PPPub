@@ -30,15 +30,18 @@ This army may include:
 | 6" | 5/3+| 4 | 4 | 3 | 2 | 4 | 0 | 0 | 0 |
 
 **WARGEAR**
-- Sword
+
+- [Sword]
 - Throwing daggers
 - Smoke bombs
 
 **HEROIC ACTIONS**
-- Heroic Strike
-- Heroic Defence
+
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
+
 - Bane of Kings
 - Stalk Unseen
 - Preternatural Agility: Dalamyr cannot be trapped while standing.
@@ -51,17 +54,20 @@ This army may include:
 | 6" | 5/4+| 4 | 4 | 2 | 2 | 4 |
 
 **WARGEAR**
-- Sword
+
+- [Sword]
 - Throwing daggers
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **OPTIONS**
-- Bow: 5 points
+
+- [Bow]: 5 points
 - Crossbow: 5 points
-- Shield: 5 points
-- Two-handed axe: 5 points
+- [Shield]: 5 points
+- *[Two-handed]* axe: 5 points
 
 #### CORSAIR BO'SUN [45 POINTS]
 **MAN, CORSAIR, INFANTRY, HERO - HERO OF FORTITUDE**
@@ -71,19 +77,23 @@ This army may include:
 | 6" | 4/4+| 4 | 4 | 2 | 2 | 4 |
 
 **WARGEAR**
-- Sword
+
+- [Sword]
 - Throwing daggers
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **OPTIONS**
-- Bow: 5 points
+
+- [Bow]: 5 points
 - Crossbow: 5 points
-- Shield: 5 points
-- Two-handed axe: 5 points
+- [Shield]: 5 points
+- *[Two-handed]* axe: 5 points
 
 **SPECIAL RULES**
+
 - Commanding Bellow: Corsair models within 3" count as being in range of a banner.
 
 ### WARRIORS OF THE CORSAIRS OF UMBAR
@@ -96,13 +106,15 @@ This army may include:
 | 6" | 4/4+| 3 | 3 | 1 | 1 | 3 |
 
 **WARGEAR**
-- Sword
+
+- [Sword]
 - Throwing daggers
 
 **OPTIONS**
-- Bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
+
+- [Bow]: 1 point
+- [Shield]: 1 point
+- [Spear]: 1 point
 
 #### CORSAIR REAVER [9 POINTS]
 **MAN, CORSAIR, INFANTRY, WARRIOR**
@@ -112,9 +124,11 @@ This army may include:
 | 6" | 4/4+| 3 | 3 | 2 | 1 | 4 |
 
 **WARGEAR**
+
 - Two swords
 
 **SPECIAL RULES**
+
 - Mindless Killers: Must pass a Courage test or charge the nearest model.
 
 #### CORSAIR ARBALESTER [10 POINTS]
@@ -125,11 +139,13 @@ This army may include:
 | 6" | 4/4+| 3 | 3 | 1 | 1 | 3 |
 
 **WARGEAR**
+
 - Crossbow
-- Dagger
+- [Dagger]
 - Pavise
 
 **SPECIAL RULES**
+
 - Pavise: Adds +3 to Defence when not engaged in combat.
 
 These profiles give a comprehensive look at the Corsairs of Umbar, depicting them as ruthless seafarers renowned for their piracy and effectiveness in coastal raids. This list encourages dynamic and aggressive gameplay strategies, reflecting their lore within the Middle-earth universe.

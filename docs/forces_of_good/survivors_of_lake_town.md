@@ -19,7 +19,7 @@ In the films, following Smaug’s destruction of Lake-town, some former members 
 <div class="unitCard" markdown>
 
 ### BARD THE BOWMAN [140 POINTS]
-**MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF LEGEND**
+*MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF LEGEND*
 
 |  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -56,6 +56,7 @@ Once per game, Bard the Bowman can fire his Black Arrow instead of shooting the 
 - **Saviour of Lake-town (PASSIVE)**
 
 Bard the Bowman’s Stand Fast! rule has a range of 6". Furthermore, Bain, Son of Bard; Percy; Hilda Bianca; Lake-town Militia Captains and Lake-town Militia within 6" of Bard the Bowman receive a +1 bonus to their Fight value and count as being in range of a banner.
+
 ---
 
 **THE WINDLANCE**
@@ -71,6 +72,8 @@ The Windlance is a small Siege Engine and Bard the Bowman counts as the Siege En
 Provided that he is in base contact with the Windlance and is not Engaged in combat, Bard the Bowman can fire the Windlance every turn. Bard the Bowman may use his Might to influence To Hit, To Wound and Scatter table rolls made for the Windlance.
 
 **Accurate** – When firing the Windlance at a Battlefield target, the shot only scatters 3" rather than 6". 
+
+---
 
 </div>
 
@@ -94,14 +97,24 @@ Sigrid and Tilda are Bard’s daughters. Young and unaccustomed to matters of wa
 | 6" | 1/4+ | 2 | 2 | 1 | 1 | 3 | 0 | 1 | 2 |
 
 **Deployment Notes**:
+
 Sigrid and Tilda may only be included in your army if it also includes Bard the Bowman or Bain, Son of Bard. Sigrid and Tilda may only be in either Bard the Bowman’s or Bain, Son of Bard’s warband, and not the warband of another Hero.
 
 **WARGEAR**
-- Sigrid and Tilda are unarmed.
+
+- [Unarmed]
 
 **SPECIAL RULES**
-- **"Da! Down Here!"** — Bard and Bain will stop at nothing to protect their family. Bard the Bowman and Bain, Son of Bard receive a bonus of +1 to their Fight value if they are within 6" of either Sigrid or Tilda. If Bard the Bowman or Bain, Son of Bard are within 6" of both Sigrid and Tilda then Bard and/or Bain receive a bonus of +1 to their Fight value and may call a Heroic Combat each turn without spending Might.
-- **Something to Fight for** — Bard will protect his daughters above all else. Should Sigrid or Tilda fall, Bard will be driven mad with grief. If either Sigrid or Tilda are slain, Bard the Bowman will automatically pass all Courage tests. Additionally, when Bard moves, he must Charge the model that killed his daughter if possible. If this is not possible, Bard must move as close as possible to the model that killed his daughter. Once the model that killed his daughter has been slain, Bard must move as fast as possible towards the nearest visible enemy model for the rest of the game, Charging if possible. It is possible for two models to be the target of Bard’s rage if both Sigrid and Tilda have been slain. In this case, Bard will target the closest of these two models until it has been slain, following which he will immediately target the second model. Once both models have been slain, Bard must continue to move as fast as possible towards the nearest visible enemy model for the rest of the game, Charging if possible.
+
+- **"Da! Down Here!" (PASSIVE)** 
+
+Bard the Bowman and Bain, Son of Bard receive a bonus of +1 to their Fight value if they are within 6" of either Sigrid or Tilda. If Bard the Bowman or Bain, Son of Bard are within 6" of both Sigrid and Tilda then Bard and/or Bain receive a bonus of +1 to their Fight value and may call a Heroic Combat each turn without spending Might.
+
+- **Something to Fight for (ACTIVE)** 
+
+If either Sigrid or Tilda are slain, Bard the Bowman will automatically pass all Courage tests. Additionally, when Bard moves, he must Charge the model that killed his daughter if possible. If this is not possible, Bard must move as close as possible to the model that killed his daughter. Once the model that killed his daughter has been slain, Bard must move as fast as possible towards the nearest visible enemy model for the rest of the game, Charging if possible. 
+
+It is possible for two models to be the target of Bard’s rage if both Sigrid and Tilda have been slain. In this case, Bard will target the closest of these two models until it has been slain, following which he will immediately target the second model. Once both models have been slain, Bard must continue to move as fast as possible towards the nearest visible enemy model for the rest of the game, Charging if possible.
 
 </div>
 
@@ -161,6 +174,8 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, Hilda-Bianca and L
 </div>
 
 ---
+
+<div class="unitCard" markdown>
 
 ### BILBO BAGGINS, MASTER BURGLAR [90 POINTS]
 *HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE*

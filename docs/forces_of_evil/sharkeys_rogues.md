@@ -29,8 +29,8 @@ This army may include: Sharkey; Worm and Ruffians.
 
 **WARGEAR**
 
-- Two-handed staff
-- Dagger
+- *[Two-handed]* staff
+- [Dagger]
 
 **MAGICAL POWERS**
 
@@ -54,7 +54,7 @@ This army may include: Sharkey; Worm and Ruffians.
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 
 **SPECIAL RULES**
 
@@ -82,7 +82,7 @@ This army may include: Sharkey; Worm and Ruffians.
 
 **OPTIONS**
 
-- Bow: 1 point
+- [Bow]: 1 point
 - Whip: 1 point
 
 **SPECIAL RULES**

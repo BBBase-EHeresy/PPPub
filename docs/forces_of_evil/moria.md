@@ -27,7 +27,8 @@ The profile for Cave Trolls can be found on page 131.
 As the Dwarves of Moria delved deep in search of the riches that lay beneath the mountains, they awoke something terrible in the darkness - shadow and flame. The Balrog came forth from its slumber, slaughtering the Dwarves that had dared to rouse it. The Balrog even slew the noble Dwarf King, Durin, forever earning it the moniker of Durin's Bane. This giant beast is formed of living fire and is one of the most deadly foes that any warrior could ever be faced with. Able to conjure weapons of wicked flame, there is no mortal within Middle-earth that could ever hope to endure such a creature, and even those of an older power would be sorely tested against its might should their paths ever cross.
 
 #### WARGEAR
-- Giant flaming sword and a fiery lash
+- Giant flaming [Sword]
+- a fiery lash
 
 #### SPECIAL RULES
 - Ancient Evil, Fearless, Resistant to Magic, Terror.
@@ -45,13 +46,13 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 4/5+ | 4 | 6 | 2 | 2 | 4 |
 
 #### WARGEAR
-- Heavy armour
-- Sword
+- [Heavy armour]
+- [Sword]
 
 #### HEROIC ACTIONS
-- Heroic Resolve
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Defence]
 
 #### SPECIAL RULES
 - Cave Dweller
@@ -66,8 +67,8 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 3/5+ | 4 | 6 | 2 | 2 | 3 |
 
 #### WARGEAR
-- Armour
-- Sword
+- [Armour]
+- [Sword]
 - Mithril Crown
 
 #### SPECIAL RULES
@@ -75,8 +76,8 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 - Mithril Crown: At the start of each Fight phase, before Heroic Actions are declared, roll a D6. On a 4+, all friendly Moria Goblin models within 3" of Groblog gain +1 Fight until the End phase of the turn.
 
 #### HEROIC ACTIONS
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Defence]
 
 ### DRUZHAG THE BEASTCALLER [50 POINTS]
 **GOBLIN, MORIA, INFANTRY, HERO - HERO OF FORTITUDE**
@@ -86,16 +87,16 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 3/5+ | 3 | 4 | 2 | 2 | 4 |
 
 #### WARGEAR
-- Armour
-- Dagger
-- Staff
+- [Armour]
+- [Dagger]
+- [Staff]
 
 #### SPECIAL RULES
 - Cave Dweller
 - Master of the Dark Wild: Druzhag's mastery over beasts is unparalleled. Friendly Bat, Warg, and Spider models within 12" of Druzhag may use his Courage value instead of their own.
 
 #### HEROIC ACTIONS
-- Heroic Channelling
+- [Heroic Channelling]
 
 #### MAGICAL POWERS
 - Enrage Beast
@@ -109,15 +110,15 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 2/5+ | 3 | 4 | 1 | 2 | 4 |
 
 #### WARGEAR
-- Armour
-- Two-handed staff
+- [Armour]
+- *[Two-handed]* staff
 
 #### SPECIAL RULES
 - Cave Dweller
 - Spider-kin: Only Spider models may benefit from Ashrak's Stand Fast! or Heroic Actions. Ashrak may target only Spider models with his Shroud of Shadows Magical Power.
 
 #### HEROIC ACTIONS
-- Heroic Channelling
+- [Heroic Channelling]
 
 #### MAGICAL POWERS
 - Fury (Spider)
@@ -131,15 +132,15 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 3/5+ | 4 | 5 | 2 | 2 | 3 |
 
 #### WARGEAR
-- Armour
-- Sword
+- [Armour]
+- [Sword]
 
 #### OPTIONS
 - Orc bow: 5 points
-- Shield: 5 points
+- [Shield]: 5 points
 
 #### HEROIC ACTIONS
-- Heroic March
+- [Heroic March]
 
 #### SPECIAL RULES
 - Cave Dweller
@@ -151,11 +152,11 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 2/5+ | 3 | 4 | 1 | 2 | 3 |
 
 #### WARGEAR
-- Armour
+- [Armour]
 - Spear
 
 #### HEROIC ACTIONS
-- Heroic Channelling
+- [Heroic Channelling]
 
 #### SPECIAL RULES
 - Cave Dweller
@@ -172,11 +173,11 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 3/5+ | 4 | 6 | 2 | 2 | 4 |
 
 #### WARGEAR
-- Heavy armour
-- Two-handed sword
+- [Heavy armour]
+- *[Two-handed]* sword
 
 #### HEROIC ACTIONS
-- Heroic March
+- [Heroic March]
 
 #### SPECIAL RULES
 - Cave Dweller
@@ -190,11 +191,11 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 2/5+ | 3 | 4 | 1 | 2 | 3 |
 
 #### WARGEAR
-- Armour
-- Staff
+- [Armour]
+- [Staff]
 
 #### HEROIC ACTIONS
-- Heroic Channelling
+- [Heroic Channelling]
 
 #### SPECIAL RULES
 - Cave Dweller
@@ -214,10 +215,10 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 - Claws and Teeth
 
 #### HEROIC ACTIONS
-- Heroic Channelling
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 #### OPTIONS
 - Breathe Fire: 50 points
@@ -227,10 +228,10 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 
 #### SPECIAL RULES
 - Harbinger of Evil
-- Monstrous Charge
-- Resistant to Magic
+- [Monstrous Charge]
+- [Resistant to Magic]
 - Survival Instinct
-- Terror
+- [Terror]
 
 ### CAVE DRAKE [150 POINTS]
 **DRAKE, MONSTER, INFANTRY, HERO - MINOR HERO**
@@ -243,14 +244,14 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 - Claws and Teeth
 
 #### HEROIC ACTIONS
-- Heroic Strength
+- [Heroic Strength]
 
 #### SPECIAL RULES
-- Monstrous Charge
+- [Monstrous Charge]
 - Mountain Dweller
-- Resistant to Magic
-- Terror
-- Woodland Creature
+- [Resistant to Magic]
+- [Terror]
+- [Woodland Creature]
 ### THE WATCHER IN THE WATER [200 POINTS]
 **KRAKEN, MONSTER, INFANTRY, HERO - INDEPENDENT HERO**
 
@@ -262,12 +263,12 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 - Tentacles
 
 #### HEROIC ACTIONS
-- Heroic Strength
+- [Heroic Strength]
 
 #### SPECIAL RULES
 - Harbinger of Evil
-- Resistant to Magic
-- Terror
+- [Resistant to Magic]
+- [Terror]
 - From the Deep: The Watcher can appear on the battlefield during the Priority phase on a roll of 3+.
 - Many Tentacles: Loses one attack for each wound it suffers.
 - Water Dweller: Moves faster and is more dangerous within water features.
@@ -280,13 +281,13 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 1/5+ | 3 | 4 | 1 | 1 | 2 |
 
 #### WARGEAR
-- Armour
-- Sword
+- [Armour]
+- [Sword]
 
 #### OPTIONS
 - Orc Bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
+- [Shield]: 1 point
+- [Spear]: 1 point
 
 #### SPECIAL RULES
 - Cave Dweller
@@ -299,11 +300,12 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 2/5+ | 3 | 6 | 1 | 1 | 3 |
 
 #### WARGEAR
-- Heavy Armour
-- Sword and Shield
+- [Heavy armour]
+- [Sword]
+- [Shield]
 
 #### OPTIONS
-- Spear: 1 point
+- [Spear]: 1 point
 
 #### SPECIAL RULES
 - Cave Dweller
@@ -313,7 +315,7 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 **GOBLIN, MORIA, INFANTRY, WARRIOR**
 
 #### WARGEAR
-- Armour
+- [Armour]
 - Clubs
 
 #### SPECIAL RULES
@@ -328,7 +330,7 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 2/5+ | 3 | 5 | 1 | 1 | 3 |
 
 #### WARGEAR
-- Heavy Armour
+- [Heavy armour]
 - Clubs
 - One also carries the Drum
 
@@ -345,8 +347,8 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 5" | 3/4+ | 3 | 4 | 1 | 1 | 2 |
 
 #### WARGEAR
-- Armour
-- Two-handed axe and throwing daggers
+- [Armour]
+- *[Two-handed]* axe and throwing daggers
 
 #### SPECIAL RULES
 - Cave Dweller
@@ -363,7 +365,7 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 - Claws and teeth
 
 #### SPECIAL RULES
-- Fly
+- [Fly]
 - Blinding Swarm: Affects enemy models' fight value.
 
 ### WARG MARAUDER [30 POINTS]
@@ -374,7 +376,8 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 | 10" | 3/5+ | 4 | 4 | 1 | 1 | 2 |
 
 #### WARGEAR
-- Armour, sword (Goblins)
+- [Armour]
+- sword (Goblins)
 - Claws and teeth (Warg)
 
 #### SPECIAL RULES
@@ -392,7 +395,7 @@ As the Dwarves of Moria delved deep in search of the riches that lay beneath the
 - Claws and teeth
 
 #### SPECIAL RULES
-- Resistant to Magic
-- Terror
+- [Resistant to Magic]
+- [Terror]
 - Murderous Power: Regains wounds by slaying enemies.
 

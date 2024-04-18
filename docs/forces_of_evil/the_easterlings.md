@@ -4,7 +4,8 @@ While it is true that many Men in Middle-earth were ever of good and noble heart
 
 The armies of the Easterlings are a truly impressive sight, for they are a host possessed of incredible martial discipline. Some say that the Easterlings clutch a blade to their chest even as they are weaned, while others say that warfare and the shedding of blood is akin to a rite of worship to their culture.
 
-In battle they fight in deep phalanxes, bladed pikes presenting a wall of death behind which bronzed armour gleams in the wan sunlight. Heavy armour and shields protect them from the foe, while their faces, even their gender, remain hidden, swathed in exotic fabrics and protected behind armoured helms. To the flanks ride the Kataphrakts, cavahymen whose horses wear heavy- scaled barding, in spite of the oppressive heat of their homeland - all the while Captains and War Priests exhort the ranks onwards into battle.
+In battle they fight in deep phalanxes, bladed pikes presenting a wall of death behind which bronzed armour gleams in the wan sunlight. [Heavy armour]
+- [Shield]s protect them from the foe, while their faces, even their gender, remain hidden, swathed in exotic fabrics and protected behind armoured helms. To the flanks ride the Kataphrakts, cavahymen whose horses wear heavy- scaled barding, in spite of the oppressive heat of their homeland - all the while Captains and War Priests exhort the ranks onwards into battle.
 
 Among the Easterlings no name is better known than that of Khamul, second among the Nazgul. This fell warrior lord took one of the Nine Rings offered by the Dark Lord and though none can say for certain whether he was an Easterling then, he assuredly is now - his name spoken with reverence and fear by all within the Rhunish lands. Even the greatest warrior champions of Rhun, such as those who have risen to the heights of the knights of the Easterling warrior cults, and even the Dragon Emperor himself, bow to his irrepressible will.
 
@@ -33,7 +34,7 @@ The profile for Khamul the Easterling can be found on [page 135]. Khamul the Eas
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy armour]
 - Durtuz, the silver falchion
 
 **SPECIAL RULES**
@@ -43,16 +44,16 @@ The profile for Khamul the Easterling can be found on [page 135]. Khamul the Eas
 - Phalanx (see page 184)
 - The Gleaming Horde (see page 185)
 - Herald of Victory: All Easterling models treat Amdur as a banner. If Amdur kills the enemy Leader in combat, the range of this banner is increased to 6".
-- Durtuz is an Elven-made hand-and-a-half sword.
+- Durtuz is an *[Elven-made]* *[hand-and-a-half]* [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured horse: 15 points
+- [Armoured horse]: 15 points
 
 </div>
 
@@ -69,16 +70,16 @@ The profile for Khamul the Easterling can be found on [page 135]. Khamul the Eas
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy armour]
 - Two swords
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Armoured horse: 15 points
+- [Armoured horse]: 15 points
 
 **SPECIAL RULES**
 
@@ -86,7 +87,7 @@ The profile for Khamul the Easterling can be found on [page 135]. Khamul the Eas
 - Unyielding Combat Stance
 - Phalanx (see page 184)
 - The Gleaming Horde (see page 185)
-- Shield of Blades: Dragon Knights can use the Shielding melee whilst armed with two swords.
+- [Shield] of Blades: Dragon Knights can use the Shielding melee whilst armed with two swords.
 - Knights of the Dragon Cult: Dragon Knights may only include Easterling models with the Black Dragon upgrade within their warbands.
 
 </div>
@@ -104,18 +105,18 @@ The profile for Khamul the Easterling can be found on [page 135]. Khamul the Eas
 
 **WARGEAR**
 
-- Heavy armour
-- Easterling glaive (hand-and-a-half axe)
+- [Heavy armour]
+- Easterling glaive ( *[hand-and-a-half]*  axe)
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Easterling glaive for armoured horse and sword: 10 points
-- Bow: 5 points
-- Shield: 5 points
+- Swap Easterling glaive for [Armoured horse] and sword: 10 points
+- [Bow]: 5 points
+- [Shield]: 5 points
 
 **SPECIAL RULES**
 
@@ -141,16 +142,16 @@ The profile for Khamul the Easterling can be found on [page 135]. Khamul the Eas
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy armour]
 - Sword or dagger
 
 **OPTIONS**
 
-- Banner: 25 points
+- [Banner]: 25 points
 - Upgrade to Black Dragons: 2 points
 - Pike: 1 point
-- Shield: 1 point
-- Bow: 1 point
+- [Shield]: 1 point
+- [Bow]: 1 point
 
 **SPECIAL RULES**
 
@@ -171,14 +172,14 @@ The profile for Khamul the Easterling can be found on [page 135]. Khamul the Eas
 
 **WARGEAR**
 
-- Heavy armour
-- Shield
-- Sword
-- Armoured horse
+- [Heavy armour]
+- [Shield]
+- [Sword]
+- [Armoured horse]
 
 **OPTIONS**
 
-- Banner: 25 points
+- [Banner]: 25 points
 - War Drum (Easterling): 15 points
 - Upgrade to Black Dragons: 2 points
 

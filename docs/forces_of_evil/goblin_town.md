@@ -22,14 +22,17 @@ This army may include: The Goblin King; Grinnah; The Goblin Scribe; Gollum; Gobl
 | 6" | 6/5+ | 5 | 5 | 3 | 3 | 3 |
 
 **WARGEAR**
-- Two-handed pick
+
+- *[Two-handed]* pick
 
 **HEROIC ACTIONS**
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
+
 - Burly, Cave Dweller, Resistant to Magic, Terror
 - Relentless Advance: When charging, can move through friendly Goblins, dealing damage.
 - Blubbery Mass: Can ignore wounds on a roll of 3+.
@@ -43,12 +46,15 @@ This army may include: The Goblin King; Grinnah; The Goblin Scribe; Gollum; Gobl
 | 5" | 3/5+ | 4 | 2 | 2 | 3 | 4 |
 
 **WARGEAR**
-- Dagger and scourge
+
+- [Dagger] and scourge
 
 **HEROIC ACTIONS**
-- Heroic Strike
+
+- [Heroic Strike]
 
 **SPECIAL RULES**
+
 - Cave Dweller
 - Scourge: A throwing weapon with limited range and strength.
 - Swap with Me: Can swap places with a friendly Goblin.
@@ -61,9 +67,11 @@ This army may include: The Goblin King; Grinnah; The Goblin Scribe; Gollum; Gobl
 | 0" | 1/5+ | 2 | 2 | 1 | 1 | 3 |
 
 **WARGEAR**
+
 - Unarmed
 
 **SPECIAL RULES**
+
 - Always more where they came from: Can summon additional Goblin Warriors.
 - Immobile: Cannot move on his own and is automatically Trapped if loses a Fight.
 
@@ -75,12 +83,15 @@ This army may include: The Goblin King; Grinnah; The Goblin Scribe; Gollum; Gobl
 | 5" | 4/4+ | 4 | 4 | 2 | 2 | 4 |
 
 **WARGEAR**
+
 - Strangling fingers
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **SPECIAL RULES**
+
 - Cave Dweller
 - The Precious: Automatically has the Ring unless another Ringbearer is in play.
 - Strangler: Always considered armed.
@@ -95,13 +106,16 @@ This army may include: The Goblin King; Grinnah; The Goblin Scribe; Gollum; Gobl
 | 5" | 2/5+ | 3 | 3 | 1 | 1 | 2 |
 
 **WARGEAR**
-- Weapon choice: Sword, pick, mace, or flail
+
+- Weapon choice: [Sword] pick, mace, or flail
 
 **SPECIAL RULES**
+
 - Cave Dwellers
 - Chittering Hordes: Can support like having spears, but only for other models with this rule.
 
 **OPTIONS**
-- Two-handed axe: 1 point
+
+- *[Two-handed]* axe: 1 point
 
 These detailed profiles and special rules for each unit provide a deep dive into the strategic capabilities and thematic elements of Goblin-town, enhancing the tabletop gameplay experience.

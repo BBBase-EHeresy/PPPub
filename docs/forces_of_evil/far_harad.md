@@ -24,17 +24,20 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 | 6" | 5/3+ | 5 | 5 | 3 | 2 | 5 |
 
 **WARGEAR**
-- Armour
+
+- [Armour]
 - Club
 
 **HEROIC ACTIONS**
-- Heroic Strike
-- Heroic Strength
+
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
+
 - War camel: 10 points
 - Blowpipe with poisoned darts: 5 points
-- Shield: 5 points
+- [Shield]: 5 points
 - War spear: 5 points
 
 ### MAHUD TRIBESMASTER [50 POINTS]
@@ -45,17 +48,20 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 | 6" | 4/3+ | 5 | 5 | 2 | 2 | 3 |
 
 **WARGEAR**
-- Armour
+
+- [Armour]
 - Club
 
 **HEROIC ACTIONS**
-- Heroic March
-- Heroic Strength
+
+- [Heroic March]
+- [Heroic Strength]
 
 **OPTIONS**
+
 - War camel: 10 points
 - Blowpipe with poisoned darts: 5 points
-- Shield: 5 points
+- [Shield]: 5 points
 - War spear: 5 points
 
 ### WAR MUMAK OF FAR HARAD [300 POINTS]
@@ -63,6 +69,7 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 *Uses the profile of the War Mumak of Harad with the Mahud Beastmaster Chieftain upgrade.*
 
 **OPTIONS**
+
 - Gnarled Hide: 30 points
 - Rocks: 20 points
 - Sigils of Defiance: 20 points
@@ -80,14 +87,16 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 | 6" | 3/3+ | 4 | 5 | 1 | 1 | 2 |
 
 **WARGEAR**
-- Armour
+
+- [Armour]
 - Club
-- Shield
+- [Shield]
 
 **OPTIONS**
-- Banner: 25 points
+
+- [Banner]: 25 points
 - Blowpipe with poisoned darts: 1 point
-- Spear: 1 point
+- [Spear]: 1 point
 
 ### MAHUD RAIDER [17 POINTS]
 **MAN, MAHUD, CAVALRY, WARRIOR**
@@ -97,13 +106,15 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 | 6" | 3/3+ | 4 | 5 | 1 | 1 | 2 |
 
 **WARGEAR**
-- Armour
+
+- [Armour]
 - Club
-- Shield
+- [Shield]
 - War camel
 
 **OPTIONS**
-- Banner: 25 points
+
+- [Banner]: 25 points
 - Blowpipe with poisoned darts: 1 point
 - War spear: 1 point
 
@@ -115,11 +126,14 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 | 6" | 5/6+ | 5 | 6 | 2 | 2 | 2 |
 
 **WARGEAR**
-- Armour
+
+- [Armour]
 - Club
 
 **OPTIONS**
-- Two-handed club: 1 point
+
+- *[Two-handed]* club: 1 point
 
 **SPECIAL RULES**
-- Terror
+
+- [Terror]

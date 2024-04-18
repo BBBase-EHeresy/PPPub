@@ -23,20 +23,23 @@ Beasts of Mirkwood — Warbands consisting of Wargs or Spiders do not require a 
 **SPIDER, MIRKWOOD, MONSTER, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|----|---|---|---|---|---|---|---|---|---|
+|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | 10"| 6/6+| 6 | 4 | 2 | 3 | 4 | 3 | 3 | 0 |
 
 **WARGEAR**
+
 - Large venomous fangs.
 
 **HEROIC ACTIONS**
-- Heroic Strike
-- Heroic Defence
+
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
-- Monstrous Charge
+
+- [Monstrous Charge]
 - Swift Movement
-- Terror
+- [Terror]
 - Venom
 - Progeny: Can summon Broodlings using Will points.
 
@@ -46,45 +49,51 @@ Beasts of Mirkwood — Warbands consisting of Wargs or Spiders do not require a 
 **SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
-|----|---|---|---|---|---|---|
+|:----:|:---:|:---:|:---:|:---:|:---:|:---|
 | 10"| 2/5+| 5 | 3 | 2 | 2 | 2 |
 
 **WARGEAR**
+
 - Venomous fangs.
 
 **SPECIAL RULES**
+
 - Poisoned Fangs
 - Swift Movement
-- Terror
+- [Terror]
 - Spider Webs: Can shoot webs that paralyze like the Paralyse Magical Power.
 
 #### GIANT SPIDER [20 POINTS]
 **SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
-|----|---|---|---|---|---|---|
+|:----:|:---:|:---:|:---:|:---:|:---:|:---|
 | 10"| 4/6+| 5 | 3 | 2 | 2 | 3 |
 
 **WARGEAR**
+
 - Venomous fangs.
 
 **SPECIAL RULES**
+
 - Poisoned Fangs
 - Swift Movement
-- Terror
+- [Terror]
 
 #### BAT SWARM [35 POINTS]
 **BAT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
-|----|---|---|---|---|---|---|
+|:----:|:---:|:---:|:---:|:---:|:---:|:---|
 | 3" | 1/5+| 3 | 3 | 2 | 4 | 2 |
 
 **WARGEAR**
+
 - Claws and teeth.
 
 **SPECIAL RULES**
-- Fly
+
+- [Fly]
 - Blinding Swarm: Halves enemy Fight value when engaged.
 
 These denizens, led by the formidable Spider Queen, represent a formidable force within the darkened woods of Mirkwood, turning the forest into a deadly trap for the unwary.

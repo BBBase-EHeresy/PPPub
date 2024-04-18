@@ -39,8 +39,8 @@ The Three Trolls may be deployed as one warband if you wish.
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
@@ -48,8 +48,8 @@ The Three Trolls may be deployed as one warband if you wish.
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8).
+- [Terror]
+- [Throw Stones] (range 12", Strength 8).
 - Keep 'em for Later — *Bill may choose one Man-sized (or smaller) model from a Fight and Keep 'em for Later instead of rolling for Strikes or using a Brutal Power Attack.*
 - Mince 'em Fine — *When Bill wins a Fight, he may perform a Mince 'em Fine Brutal Power Attack instead of making Strikes.*
 
@@ -72,13 +72,13 @@ The Three Trolls may be deployed as one warband if you wish.
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8).
+- [Terror]
+- [Throw Stones] (range 12", Strength 8).
 - Keep 'em for Later — *Refer to page 125 for full rules.*
 - Roast 'em Slowly — *When Bert wins a Fight, he may perform a Roast 'em Slowly Brutal Power Attack if he is within 6" of a fire.*
 
@@ -101,12 +101,12 @@ The Three Trolls may be deployed as one warband if you wish.
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8).
+- [Terror]
+- [Throw Stones] (range 12", Strength 8).
 - Keep 'em for Later — *Refer to page 125 for full rules.*
 - Lingering Cold — *Tom may expend a point of Will to halve the Fight value of a single foe in base contact as he sneezes on his victim.*
 - Squash 'em to Jelly — *When Tom wins a Fight, he may perform a Squash 'em to Jelly Brutal Power Attack instead of making Strikes.*

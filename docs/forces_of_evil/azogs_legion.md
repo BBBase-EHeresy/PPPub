@@ -36,21 +36,26 @@ This army may include: Azog; Bolg; Gundabad Orc Captains; Goblin Mercenary Capta
 | 6" | 7/5+ | 5 | 5 | 3 | 3 | 5 | 3 | 1 | 1 |
 
 **WARGEAR**
-- Sword and mace.
+
+- [Sword]
+- mace.
 
 **HEROIC ACTIONS**
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
+
 - Signal Tower: 200 points
 - The White Warg: 50 points
 - Stone flail: 20 points
-- Heavy armour: 10 points
+- [Heavy armour]: 10 points
 
 **SPECIAL RULES**
+
 - Burly
 - General of the North: Azog's Stand Fast! rule has a range of 12" and affects other Orc Hero models.
 - I am the Master: Azog never needs to roll more than a 3+ to score a wound on an enemy Hero model.
@@ -69,11 +74,13 @@ The Signal Tower also comes with seven of Azog's Lieutenants, armed with swords,
 | 10" | 5/5+ | 5 | 5 | 2 | 2 | 4 | 3 | 1 | 1 |
 
 **WARGEAR**
+
 - Claws and teeth.
 
 **SPECIAL RULES**
+
 - Fell Sight
-- Terror
+- [Terror]
 - Deadly Union: Azog and the White Warg share a unique bond.
 - Pack Master: Only Warg models may benefit from the White Warg's Stand Fast! rule.
 - Raging Beast: The White Warg automatically passes all Courage tests.
@@ -86,12 +93,16 @@ The Signal Tower also comes with seven of Azog's Lieutenants, armed with swords,
 | 6" | 4/5+ | 4 | 5 | 1 | 1 | 4 |
 
 **WARGEAR**
-- Heavy armour and sword.
+
+- [Heavy armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **SPECIAL RULES**
+
 - Ancient Enemies (Dwarf), Ancient Enemies (Elf).
 - Signal Tower: Different parts of the Signal Tower have different effects on the battlefield.
 
@@ -105,14 +116,17 @@ This structured and detailed format aims to provide clarity and facilitate gamep
 | 6" | 7/5+ | 5 | 7 | 3 | 3 | 5 | 3 | 1 | 1 |
 
 **WARGEAR**
-- Heavy armour
-- Two-handed pick
+
+- [Heavy armour]
+- *[Two-handed]* pick
 
 **OPTIONS**
+
 - Fell Warg: 10 points
 - Orc bow: 5 points
 
 **SPECIAL RULES**
+
 - Ancient Enemies (Dwarf), Ancient Enemies (Elf)
 - The Bringer of Death: Bolg causes Terror after slaying two enemies, gains Harbinger of Evil after five, and gains Mighty Hero after ten.
 - Morgul Arrows: Inflicts wounds with shooting attacks that must be rolled for at the start of each turn.
@@ -125,16 +139,20 @@ This structured and detailed format aims to provide clarity and facilitate gamep
 | 6" | 4/5+ | 5 | 6 | 2 | 2 | 4 | 2 | 1 | 1 |
 
 **WARGEAR**
-- Heavy armour
-- Sword
+
+- [Heavy armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **OPTIONS**
-- Shield: 5 points
+
+- [Shield]: 5 points
 
 **SPECIAL RULES**
+
 - Ancient Enemies (Dwarf), Ancient Enemies (Elf)
 
 ### GOBLIN MERCENARY CAPTAIN [50 POINTS]
@@ -145,13 +163,16 @@ This structured and detailed format aims to provide clarity and facilitate gamep
 | 5" | 3/5+ | 4 | 5 | 2 | 2 | 3 | 2 | 1 | 1 |
 
 **WARGEAR**
-- Armour
-- Sword
+
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **SPECIAL RULES**
+
 - Cave Dwellers
 - Chittering Hordes: Goblin Mercenaries can support each other as if armed with spears.
 
@@ -165,15 +186,18 @@ This structured and detailed format aims to provide clarity and facilitate gamep
 | 6" | 3/5+ | 4 | 5 | 1 | 1 | 3 |
 
 **WARGEAR**
-- Heavy armour
-- Sword
+
+- [Heavy armour]
+- [Sword]
 
 **OPTIONS**
-- Banner: 25 points
-- Shield: 1 point
-- Spear: 1 point
+
+- [Banner]: 25 points
+- [Shield]: 1 point
+- [Spear]: 1 point
 
 **SPECIAL RULES**
+
 - Ancient Enemies (Dwarf), Ancient Enemies (Elf)
 
 #### GUNDABAD BERSERKER [15 POINTS]
@@ -184,13 +208,16 @@ This structured and detailed format aims to provide clarity and facilitate gamep
 | 8" | 4/5+ | 4 | 5 | 2 | 1 | 6 |
 
 **WARGEAR**
-- Armour
+
+- [Armour]
 - Sword or axe
 
 **OPTIONS**
-- Two-handed pick: 1 point
+
+- *[Two-handed]* pick: 1 point
 
 **SPECIAL RULES**
+
 - Oblivious to Pain: Ignored wounds on a roll of 6, or 5+ near the Banner of Angmar.
 - Ancient Enemies (Dwarf), Ancient Enemies (Elf)
 
@@ -202,10 +229,12 @@ This structured and detailed format aims to provide clarity and facilitate gamep
 | 12" | 3/5+ | 4 | 4 | 2 | 2 | 3 |
 
 **WARGEAR**
+
 - Razor-sharp teeth and talons
 
 **SPECIAL RULES**
-- Fly
+
+- [Fly]
 - Piercing Talons: Reduces enemy's Defence by 2 on a charge
 - Pluck: Can knock an enemy to the ground and inflict a Strength 4 hit after moving over them
 
@@ -219,9 +248,12 @@ This detailed continuation ensures each profile and unit type within "Azog's Leg
 | 5" | 2/5+ | 3 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
-- Armour and either sword or pick
+
+- [Armour]
+-  either sword or pick
 
 **SPECIAL RULES**
+
 - Cave Dwellers
 - Chittering Hordes: Goblin Mercenaries can support each other as if armed with spears.
 - Mercenary Ambush: Can deploy from reserve, appearing from hidden locations on the battlefield.
@@ -234,9 +266,11 @@ This detailed continuation ensures each profile and unit type within "Azog's Leg
 | 6" | 5/6+ | 7 | 6 | 3 | 4 | 3 |
 
 **WARGEAR**
+
 - Flails
 
 **SPECIAL RULES**
+
 - Fearless, Terror
 - Crushing Blow: When moving into contact, inflicts a Strength 10 hit, stopping movement if the target is not slain.
 
@@ -248,10 +282,12 @@ This detailed continuation ensures each profile and unit type within "Azog's Leg
 | 8" | 5/6+ | 6 | 5 | 3 | 3 | 3 |
 
 **WARGEAR**
+
 - Wooden clubs
 
 **SPECIAL RULES**
-- Terror
+
+- [Terror]
 - Relentless Advance: Charges through ranks, hitting friendly and enemy models in its path.
 
 #### CATAPULT TROLL [180 POINTS]
@@ -262,10 +298,12 @@ This detailed continuation ensures each profile and unit type within "Azog's Leg
 | 6" | 6/4+ | 7 | 7 | 3 | 5 | 3 |
 
 **WARGEAR**
+
 - Catapult and metal gauntlets
 
 **SPECIAL RULES**
-- Terror
+
+- [Terror]
 - Catapult: Can move and fire in the same turn, hitting on a 6 if moved.
 - Area Effect: Knocks down and inflicts Strength 6 hits on nearby models when scoring a hit.
 
@@ -277,9 +315,11 @@ This detailed continuation ensures each profile and unit type within "Azog's Leg
 | 6" | 7/6+ | 7 | 8 | 3 | 4 | 4 |
 
 **WARGEAR**
+
 - Choice of a massive crushing club or a pair of scythe gauntlets
 
 **SPECIAL RULES**
+
 - Ancient Enemies (Dwarf), Ancient Enemies (Elf), Terror
 - Crushing Club: Strikes cause D3 wounds and can knock targets prone.
 - Scythe Gauntlets: Receives a +1 bonus to Strikes when rolling to wound.
@@ -292,10 +332,12 @@ This detailed continuation ensures each profile and unit type within "Azog's Leg
 | 12" | 3/5+ | 4 | 4 | 2 | 2 | 3 |
 
 **WARGEAR**
+
 - Razor-sharp teeth and talons
 
 **SPECIAL RULES**
-- Fly
+
+- [Fly]
 - Piercing Talons: Reduces the Defence of charged models by 2
 - Pluck: Can pick up and knock down enemies after flying over them
 

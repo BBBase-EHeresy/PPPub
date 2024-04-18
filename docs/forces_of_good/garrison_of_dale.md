@@ -8,6 +8,8 @@ This army may include: Girion, Lord of Dale; Captains of Dale; Warriors of Dale.
 
 ## HEROES OF THE GARRISON OF DALE
 
+<div class="unitCard" markdown>
+
 ### GIRION, LORD OF DALE [75 POINTS]
 *MAN, DALE, INFANTRY, HERO — HERO OF VALOUR*
 
@@ -46,7 +48,7 @@ If Girion, Lord of Dale hits a target with his great bow, he may take another sh
 
 <div class="unitCard" markdown>
 
-### CAPTAINS OF DALE
+### CAPTAIN OF DALE [50 POINTS]
 *MAN, DALE, INFANTRY, HERO*
 
 | Mv | F  | S | D | A | W | C |

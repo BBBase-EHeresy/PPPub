@@ -22,10 +22,10 @@ The profile for The Betrayer can be found on [page 140]. The Betrayer counts as 
 
 ### HEROIC ACTIONS
 
-- Heroic Resolve
-- Heroic March
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 The general of the Serpent Horde, and arguably the greatest leader in the history of Harad, Suladan was already a fearsome warlord before coming into his own. It was upon an escapade into the ruined city of Kama that Suladan stumbled across the fabled sword of King Mardat, the ruler who had once united the many tribes of the Haradrim against the hated descendants of Numenor. With this discovery, Suladan was able to claim himself as the Serpent Lord, once more reuniting Harad's various tribes in order to lead them upon the Pelennor.
 
@@ -46,18 +46,19 @@ Many of the kings that rule over the cities and settlements within Harad have st
 
 **WARGEAR**
 
-- Armour
-- Sword
+- [Armour]
+- [Sword]
 - The Serpent Banner
 
 **OPTIONS**
 
-- Armoured horse: 15 points
+- [Armoured horse]: 15 points
 - Bow with poisoned arrows: 5 points
 
 **SPECIAL RULES**
 
 - **Poisoned Sword**
+
 - **Ascendant (PASSIVE)**: The range of Suladan's Stand Fast! is 12" rather than 6".
 
 </div>
@@ -73,13 +74,13 @@ Many of the kings that rule over the cities and settlements within Harad have st
 
 **WARGEAR**
 
-- Armour
-- Sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strength
+- [Heroic March]
+- [Heroic Strength]
 
 **OPTIONS**
 
@@ -100,7 +101,7 @@ Many of the kings that rule over the cities and settlements within Harad have st
 
 **WARGEAR**
 
-- Two-handed weapon
+- *[Two-handed]* weapon
 - The Golden Throne
 
 **SPECIAL RULES**
@@ -109,7 +110,7 @@ Many of the kings that rule over the cities and settlements within Harad have st
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 </div>
 
@@ -124,18 +125,19 @@ Many of the kings that rule over the cities and settlements within Harad have st
 
 **WARGEAR**
 
-- Daggers
+- [Dagger]s
 - Throwing daggers
 - Blowpipe
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
 - **Bane of Kings**
+
 - **Stalk Unseen**
 
 </div>
@@ -151,13 +153,13 @@ Many of the kings that rule over the cities and settlements within Harad have st
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - War spear
-- Sword
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
@@ -210,13 +212,13 @@ This format structures the Haradrim army with clarity, giving detailed insights 
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - Club
 - Whip
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
@@ -239,15 +241,15 @@ This format structures the Haradrim army with clarity, giving detailed insights 
 
 **WARGEAR**
 
-- Armour
-- Dagger
+- [Armour]
+- [Dagger]
 
 **OPTIONS**
 
-- War horn: 30 points
-- Banner: 25 points
+- [War horn]: 30 points
+- [Banner]: 25 points
 - Bow with poisoned arrows: 1 point
-- Spear: 1 point
+- [Spear]: 1 point
 
 </div>
 
@@ -264,13 +266,13 @@ This format structures the Haradrim army with clarity, giving detailed insights 
 
 **WARGEAR**
 
-- Armour
-- Dagger
+- [Armour]
+- [Dagger]
 - Horse
 
 **OPTIONS**
 
-- Banner: 25 points
+- [Banner]: 25 points
 - Bow with poisoned arrows: 1 point
 - War spear: 1 point
 
@@ -289,7 +291,7 @@ This format structures the Haradrim army with clarity, giving detailed insights 
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - Spear
 
 **SPECIAL RULES**
@@ -311,7 +313,7 @@ This format structures the Haradrim army with clarity, giving detailed insights 
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - War spear
 - Horse
 
@@ -334,7 +336,7 @@ This format structures the Haradrim army with clarity, giving detailed insights 
 
 **WARGEAR**
 
-- Sword
+- [Sword]
 
 **OPTIONS**
 
@@ -344,7 +346,9 @@ This format structures the Haradrim army with clarity, giving detailed insights 
 **SPECIAL RULES**
 
 - **Resistant to Magic**
+
 - **Hatred (Spirit)**
+
 - **Steely Nerve (PASSIVE)**: +2 to Courage tests against charges and attacks from creatures with the Terror or Blades of the Dead special rules.
 
 </div>
@@ -362,7 +366,7 @@ This format structures the Haradrim army with clarity, giving detailed insights 
 
 **WARGEAR**
 
-- Two-handed sword
+- *[Two-handed]* sword
 
 **SPECIAL RULES**
 

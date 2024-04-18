@@ -41,21 +41,25 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 5/4+ | 4 | 8 | 1 | 6 | 6 |
 
 **WARGEAR**
-- Heavy armour
-- Sword
+
+- [Heavy armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic Channelling
-- Heroic Strike
-- Heroic Challenge
+
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
+
 - Armoured Fell Beast: 70 points
 - Fell Beast: 50 points
-- Armoured Horse: 15 points
+- [Armoured horse]: 15 points
 - Horse: 10 points
 
 **SPECIAL RULES**
+
 - Harbinger of Evil, Terror, Will of Evil
 - **Essence Leech**: If Khamul makes a Strike against an enemy model which causes a Wound, he instantly regains a single point of Will spent earlier in the battle for each Wound caused (unless the Wound is saved by a point of Fate or a similar special rule). This cannot restore his Will beyond 12.
 
@@ -67,19 +71,23 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 6/4+ | 4 | 8 | 1 | 6 | 6 |
 
 **WARGEAR**
-- Heavy armour
-- Sword
+
+- [Heavy armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic Channelling
+
+- [Heroic Channelling]
 
 **OPTIONS**
+
 - Armoured Fell Beast: 70 points
 - Fell Beast: 50 points
-- Armoured Horse: 15 points
+- [Armoured horse]: 15 points
 - Horse: 10 points
 
 **SPECIAL RULES**
+
 - Harbinger of Evil, Terror, Will of Evil
 - **Rule Through Fear**: The Dark Marshal can spend a point of Will at the start of the Fight phase. If he does, all friendly Warrior models within 6" of The Dark Marshal count as being in range of a banner until the End phase of the turn.
 
@@ -91,18 +99,22 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 5/4+ | 4 | 8 | 1 | 5 | 6 |
 
 **WARGEAR**
-- Heavy armour
-- Sword
+
+- [Heavy armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic Channelling
+
+- [Heroic Channelling]
 
 **OPTIONS**
+
 - Armoured Fell Beast: 70 points
 - Fell Beast: 50 points
 - Horse: 10 points
 
 **SPECIAL RULES**
+
 - Harbinger of Evil, Terror, Will of Evil
 - **Pall of Darkness**: The Shadow Lord may spend a Will point at the start of the Move phase to activate this ability. Until the End phase, shots against The Shadow Lord, or any model within 6" of him, will only hit on a 6.
 
@@ -114,18 +126,22 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 5/4+ | 4 | 8 | 1 | 6 | 6 |
 
 **WARGEAR**
-- Heavy armour
-- Staff
+
+- [Heavy armour]
+- [Staff]
 
 **HEROIC ACTIONS**
-- Heroic Channelling
+
+- [Heroic Channelling]
 
 **OPTIONS**
+
 - Armoured Fell Beast: 70 points
 - Fell Beast: 50 points
 - Horse: 10 points
 
 **SPECIAL RULES**
+
 - Harbinger of Evil, Terror, Will of Evil
 - **Eternal Willpower**: The Undying may expend Will points in the same manner as Fate points.
 
@@ -137,18 +153,22 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 5/4+ | 4 | 8 | 1 | 6 | 6 |
 
 **WARGEAR**
+
 - Armour of the Sundered Land
-- Sword
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic Channelling
+
+- [Heroic Channelling]
 
 **OPTIONS**
+
 - Armoured Fell Beast: 70 points
 - Fell Beast: 50 points
 - Horse: 10 points
 
 **SPECIAL RULES**
+
 - Harbinger of Evil, Terror, Will of Evil
 - **Combat Mimicry**: At the start of any Fight phase, The Knight of Umbar may spend a Will point to mimic the Fight, Strength, or Attack values of his opponent for that phase.
 
@@ -160,18 +180,22 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 5/4+ | 4 | 8 | 1 | 6 | 6 |
 
 **WARGEAR**
-- Heavy armour
-- Sword
+
+- [Heavy armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic Channelling
+
+- [Heroic Channelling]
 
 **OPTIONS**
+
 - Armoured Fell Beast: 70 points
 - Fell Beast: 50 points
 - Horse: 10 points
 
 **SPECIAL RULES**
+
 - Bane of Kings, Harbinger of Evil, Terror, Will of Evil
 - **Master of Poisons**: The Betrayer can spend a Will point at the start of the Move phase. Until the End phase, friendly models with Poisoned Weapons within 6" of The Betrayer may re-roll all failed To Wound rolls.
 ### GOTHMOG, LIEUTENANT OF SAURON [130 POINTS]
@@ -182,16 +206,20 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 5/5+ | 4 | 6 | 3 | 3 | 5 |
 
 **WARGEAR**
-- Heavy armour
-- Sword
+
+- [Heavy armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic March
-- Heroic Strike
-- Heroic Defence
+
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
+
 - **Master of Battle**
+
 - **The Age of Men is Over**: Gothmog and all friendly Mordor Orc models within 3" gain the Hatred (Man) special rule.
 - **The Time of the Orc has Come**: Once per game, at the start of any Fight phase, Gothmog can declare that he is using this ability. For the remainder of the turn, all friendly Mordor Orc models within 12" of Gothmog may re-roll failed To Wound rolls.
 
@@ -203,14 +231,17 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 5/4+ | 4 | 6 | 2 | 2 | 5 |
 
 **WARGEAR**
-- Heavy armour
-- Hand-and-a-half sword
+
+- [Heavy armour]
+- *[hand-and-a-half]* sword
 
 **HEROIC ACTIONS**
-- Heroic March
-- Heroic Channelling
+
+- [Heroic March]
+- [Heroic Channelling]
 
 **SPECIAL RULES**
+
 - **Terror**: The Mouth of Sauron instills fear in his enemies.
 
 ### SHAGRAT, CAPTAIN OF CIRITH UNGOL [100 POINTS]
@@ -221,19 +252,23 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 5/4+ | 5 | 5 | 3 | 3 | 4 |
 
 **WARGEAR**
-- Armour
-- Sword
+
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
-- Shield of Cirith Ungol: 10 points
-- Heavy armour: 5 points
+
+- [Shield] of Cirith Ungol: 10 points
+- [Heavy armour]: 5 points
 
 **SPECIAL RULES**
+
 - **Blood and Glory**: Shagrat thrives in the thick of battle, inspiring his troops.
 
 ### GORBAG, ORC CAPTAIN [55 POINTS]
@@ -244,9 +279,11 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 4/5+ | 4 | 5 | 2 | 2 | 4 |
 
 **WARGEAR**
-- Armour
+
+- [Armour]
 
 **SPECIAL RULES**
+
 - **Orcish Brawler**: If Gorbag is outnumbered during a Fight, he gains a bonus of +1 to both his Fight and Attack values.
 
 ### GRISHNAKH, ORC CAPTAIN [50 POINTS]
@@ -257,12 +294,16 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 4/5+ | 4 | 5 | 2 | 2 | 3 |
 
 **WARGEAR**
-- Armour and sword
+
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic Strike
+
+- [Heroic Strike]
 
 **SPECIAL RULES**
+
 - **Backstabbers**: Grishnakh excels in treacherous tactics.
 
 ### KARDUSH THE FIRECALLER [60 POINTS]
@@ -273,12 +314,16 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 3/5+ | 3 | 4 | 1 | 2 | 3 |
 
 **WARGEAR**
-- Armour and spear
+
+- [Armour]
+-  spear
 
 **HEROIC ACTIONS**
-- Heroic Channelling
+
+- [Heroic Channelling]
 
 **SPECIAL RULES**
+
 - **Heart of Darkness**: Kardush can drain the life force of a friendly Orc model within 6" at the start of any Priority phase to regain D3 Will points.
 - **Shadow Pawn**: A Nazgul that taught Kardush his trade has set him up as a sacrifice for his own cruel means. Kardush's controlling player can remove him from the board as a casualty to allow a single friendly Ringwraith model within 6" to immediately regain D6 Will points.
 ### MORANNON ORC CAPTAIN [50 POINTS]
@@ -289,17 +334,21 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 4/5+ | 4 | 5 | 1 | 2 | 4 |
 
 **WARGEAR**
-- Heavy armour
-- Sword
+
+- [Heavy armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **OPTIONS**
-- Shield: 5 points
-- Two-handed weapon: 5 points
+
+- [Shield]: 5 points
+- *[Two-handed]* weapon: 5 points
 
 **SPECIAL RULES**
+
 - **Brutal Leader**: Morannon Orc Captain instills fear and obedience in equal measure among the ranks.
 
 ### CAPTAIN OF THE BLACK GUARD [65 POINTS]
@@ -310,12 +359,17 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 5/4+ | 5 | 7 | 2 | 2 | 4 |
 
 **WARGEAR**
-- Heavy armour, sword, and shield
+
+- [Heavy armour]
+- [Sword]
+ and shield
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **SPECIAL RULES**
+
 - **For the Dark Lord!**: While at least one friendly Ringwraith model is on the battlefield, treat the Captain of the Black Guard's Courage value as being 6.
 
 ### BLACK GUARD DRUMMER [35 POINTS]
@@ -326,9 +380,13 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 4/5+ | 5 | 5 | 1 | 1 | 4 |
 
 **WARGEAR**
-- Heavy armour, sword, and war drum (Mordor Uruk-hai)
+
+- [Heavy armour]
+- [Sword]
+ and war drum (Mordor Uruk-hai)
 
 **SPECIAL RULES**
+
 - **Rhythms of War**: The presence of the Black Guard Drummer allows nearby units to march at a relentless pace, enhancing their movement capabilities.
 
 ### MORDOR URUK-HAI CAPTAIN [55 POINTS]
@@ -339,35 +397,45 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 5/4+ | 5 | 5 | 2 | 2 | 4 |
 
 **WARGEAR**
-- Armour and sword
+
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **OPTIONS**
+
 - Orc bow: 5 points
-- Shield: 5 points
-- Two-handed weapon: 5 points
+- [Shield]: 5 points
+- *[Two-handed]* weapon: 5 points
 
 **SPECIAL RULES**
+
 - **Barbaric Strength**: Mordor Uruk-hai Captains are known for their brutal combat prowess, which instills fear in their foes.
 
 ### GREAT BEAST OF GORGOROTH [150 POINTS]
 *GREAT BEAST, MORDOR, MONSTER, WAR BEAST, HERO - HERO OF FORTITUDE*
 
 **WARGEAR**
+
 - Teeth and claws
 
 **SPECIAL RULES**
+
 - **Fly**, **Monstrous Charge**, **Terror**
+
 - **Feral**: If the Ringwraith riding a Fell Beast is slain or dismounts, the creature automatically fails its Courage test and flees the battlefield.
 
 **Unit Composition**
+
 - 1x Orc Commander (Armour, Spear)
 - 1x Great Beast
 - 9x Orc Warriors (Armour, Orc Bows)
 
 **HOWDAH**
+
 - Capacity: 9 models + commander
 - **Battle Platform**: Models within the Great Beast's Howdah do not count towards your force's Bow Limit.
 
@@ -381,9 +449,12 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 3/5+ | 4 | 4 | 2 | 1 | 3 |
 
 **WARGEAR**
-- Armour and sword
+
+- [Armour]
+- [Sword]
 
 **SPECIAL RULES**
+
 - **Stalk Unseen**: Morgul Stalkers excel in stealth, making them deadly at ambushes and surprise attacks.
 
 #### MORANNON ORC [7 POINTS]
@@ -394,14 +465,18 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 3/5+ | 4 | 5 | 1 | 1 | 2 |
 
 **WARGEAR**
-- Heavy armour and choice of sword, mace, or axe
+
+- [Heavy armour]
+- choice of [Sword] mace, or axe
 
 **OPTIONS**
-- Banner: 25 points
-- Shield: 1 point
-- Spear: 1 point
+
+- [Banner]: 25 points
+- [Shield]: 1 point
+- [Spear]: 1 point
 
 **SPECIAL RULES**
+
 - **Shock Troops**: Morannon Orcs are bred for war, possessing enhanced strength and resilience, making them formidable frontline warriors.
 
 ### BLACK GUARD OF BARAD-DUR [12 POINTS]
@@ -412,12 +487,16 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 4/4+ | 5 | 6 | 1 | 3 | 3 |
 
 **WARGEAR**
-- Heavy armour, sword and shield
+
+- [Heavy armour], [Sword]
+- [Shield]
 
 **OPTIONS**
-- Banner: 25 points
+
+- [Banner]: 25 points
 
 **SPECIAL RULES**
+
 - **Elite Guard**: The Black Guard of Barad-dur are Sauron's most elite warriors, demonstrating unparalleled ferocity and discipline on the battlefield.
 ### MORDOR URUK-HAI [8 POINTS]
 *URUK-HAI, MORDOR, INFANTRY, WARRIOR*
@@ -427,15 +506,19 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 4/4+ | 4 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
-- Armour and sword
+
+- [Armour]
+- [Sword]
 
 **OPTIONS**
-- Banner: 25 points
+
+- [Banner]: 25 points
 - Orc bow: 1 point
-- Shield: 1 point
-- Two-handed mace: 1 point
+- [Shield]: 1 point
+- *[Two-handed]* mace: 1 point
 
 **SPECIAL RULES**
+
 - **Ferocious Warriors**: Known for their brutal nature, Mordor Uruk-Hai are fearsome in close combat and more resilient than ordinary Orcs.
 
 ### FELL BEAST [COST INCLUDED WITH RINGWRAITH]
@@ -446,9 +529,11 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 3" | 5/5+ | 6 | 6 | 2 | 3 | 3 |
 
 **WARGEAR**
+
 - Teeth and claws
 
 **SPECIAL RULES**
+
 - **Fly**: Fell Beasts can soar across the battlefield, ignoring terrain.
 - **Monstrous Charge**: Charges by Fell Beasts cause fear and may disrupt enemy formations.
 - **Terror**: Their terrifying presence can unsettle enemy troops, affecting their morale.
@@ -461,15 +546,18 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 4" | 2/3+ | 3 | 3 | 1 | 1 | 2 |
 
 **WARGEAR**
-- Armour
-- Sword, Axe, or Mace
+
+- [Armour]
+- [Sword] Axe, or Mace
 
 **OPTIONS**
-- Shield: 1 point
-- Spear: 1 point
-- Bow: 1 point
+
+- [Shield]: 1 point
+- [Spear]: 1 point
+- [Bow]: 1 point
 
 **SPECIAL RULES**
+
 - **Swarming Tactics**: Orc Warriors are most effective when overwhelming enemies in large numbers.
 
 ### ORC TRACKERS [5 POINTS]
@@ -480,11 +568,13 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 2/3+ | 3 | 3 | 1 | 1 | 2 |
 
 **WARGEAR**
+
 - Light armour
-- Sword
+- [Sword]
 - Bow
 
 **SPECIAL RULES**
+
 - **Tracking Skills**: Orc Trackers are adept at moving quietly and using cover, making them perfect for ambushes.
 
 ### WARG RIDERS [9 POINTS]
@@ -495,15 +585,18 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 10" | 3/3+ | 4 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
-- Armour
-- Sword
+
+- [Armour]
+- [Sword]
 - Warg (Mount)
 
 **OPTIONS**
-- Spear: 2 points
-- Bow: 2 points
+
+- [Spear]: 2 points
+- [Bow]: 2 points
 
 **SPECIAL RULES**
+
 - **Fast Attack**: Warg Riders excel at hit-and-run tactics, swiftly moving across the battlefield to strike at vulnerable targets.
 
 ### MORGUL KNIGHTS [15 POINTS]
@@ -514,13 +607,15 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 10" | 4/3+ | 4 | 6 | 1 | 1 | 3 |
 
 **WARGEAR**
-- Heavy armour
+
+- [Heavy armour]
 - Lance
-- Sword
-- Shield
+- [Sword]
+- [Shield]
 - Horse (Mount)
 
 **SPECIAL RULES**
+
 - **Heavy Cavalry**: Morgul Knights are heavily armored shock troops that can break enemy lines with their powerful charge.
 
 ### MORDOR TROLLS [40 POINTS]
@@ -531,28 +626,34 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 | 6" | 4/4+ | 7 | 6 | 3 | 3 | 2 |
 
 **WARGEAR**
-- Heavy armour
+
+- [Heavy armour]
 - Various melee weapons (clubs, hammers)
 
 **SPECIAL RULES**
+
 - **Mighty Blow**: Each strike from a Mordor Troll can cause devastating damage, capable of crushing even the stoutest of defenses.
 
 ### MORDOR SIEGE BOWS [30 POINTS]
 *MORDOR, ARTILLERY, WARRIOR*
 
 **WARGEAR**
+
 - Siege bow
 
 **SPECIAL RULES**
+
 - **Long Range Bombardment**: Mordor Siege Bows can launch projectiles over great distances, causing chaos and destruction among enemy ranks.
 
 ### MORDOR WAR CATAPULTS [50 POINTS]
 *MORDOR, ARTILLERY, WARRIOR*
 
 **WARGEAR**
+
 - War catapult
 
 **SPECIAL RULES**
+
 - **Siege Weapon**: War catapults are designed to demolish fortifications and can be devastating when used against grouped enemy units.
 
 This detailed list should provide a comprehensive view of the available units and their capabilities within the Mordor army, suitable for gameplay in a structured tabletop setting. Let me know if there's anything else you'd like to add or modify!

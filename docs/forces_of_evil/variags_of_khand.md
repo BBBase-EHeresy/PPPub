@@ -24,20 +24,24 @@ This army may include: Khandish Kings; Khandish Chieftains; Khandish Warriors; K
 | 6" | 5/4+ | 4 | 6 | 3 | 2 | 5 |
 
 **WARGEAR**
-- Heavy armour
-- Hand-and-a-half axe
+
+- [Heavy armour]
+- *[hand-and-a-half]* axe
 - Bow
 
 **HEROIC ACTIONS**
-- Heroic Resolve
-- Heroic March
-- Heroic Strike
+
+- [Heroic Resolve]
+- [Heroic March]
+- [Heroic Strike]
 
 **OPTIONS**
+
 - Khandish Chariot: 30 points (see page 189)
 - Horse: 10 points
 
 **SPECIAL RULES**
+
 - **Commanding Presence**: A Khandish King's presence on the battlefield boosts the morale of nearby Khandish models, making them fight more fiercely.
 
 ### KHANDISH CHIEFTAIN [55 POINTS]
@@ -48,15 +52,18 @@ This army may include: Khandish Kings; Khandish Chieftains; Khandish Warriors; K
 | 6" | 5/4+ | 4 | 5 | 2 | 2 | 4 |
 
 **WARGEAR**
-- Armour
-- Hand-and-a-half axe
-- Dagger
+
+- [Armour]
+- *[hand-and-a-half]* axe
+- [Dagger]
 - Bow
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **OPTIONS**
+
 - Khandish Chariot: 30 points (see page 189)
 - Horse: 10 points
 
@@ -70,12 +77,14 @@ This army may include: Khandish Kings; Khandish Chieftains; Khandish Warriors; K
 | 6" | 4/4+ | 3 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
-- Armour
-- Hand-and-a-half axe
-- Dagger
+
+- [Armour]
+- *[hand-and-a-half]* axe
+- [Dagger]
 
 **OPTIONS**
-- Swap hand-and-a-half axe for a bow: Free
+
+- Swap *[hand-and-a-half]* axe for a bow: Free
 
 ### KHANDISH HORSEMAN [13 POINTS]
 *MAN, KHANDISH, CAVALRY, WARRIOR*
@@ -85,10 +94,11 @@ This army may include: Khandish Kings; Khandish Chieftains; Khandish Warriors; K
 | 6" | 4/4+ | 3 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
-- Armour
-- Hand-and-a-half axe
+
+- [Armour]
+- *[hand-and-a-half]* axe
 - Bow
-- Dagger
+- [Dagger]
 - Horse
 
 ### KHANDISH CHARIOTEER [30 POINTS]
@@ -99,15 +109,18 @@ This army may include: Khandish Kings; Khandish Chieftains; Khandish Warriors; K
 | 6" | 4/4+ | 3 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
-- Armour
-- Hand-and-a-half axe
-- Dagger
+
+- [Armour]
+- *[hand-and-a-half]* axe
+- [Dagger]
 - Khandish Chariot
 
 **OPTIONS**
-- Swap hand-and-a-half axe for a bow: Free
+
+- Swap *[hand-and-a-half]* axe for a bow: Free
 
 **KHANDISH CHARIOT SPECIAL RULES**
+
 - **Defensive Bulwark**: Provides additional protection to its rider, making it difficult for enemies to land a hit.
 - **Stable Platform**: Allows the charioteer to shoot a bow even after moving.
 - **Chariot Charge**: Enhances the impact of chariot charges, dealing devastating damage to enemy ranks.

@@ -40,23 +40,28 @@ Sauron is the enemy of the Free Peoples of Middle-earth and the Lord of the Ring
 | 6" | 9/4+ | 8 | 10 | 4 | 5 | 7 |
 
 **WARGEAR**
-- Heavy armour, mace and The One Ring.
+
+- [Heavy armour], mace and The One Ring.
 
 **SPECIAL RULES**
+
 - *I am the Lord of the Rings*: Sauron can spend a single point of Will each turn without reducing his own store.
 - *The One Ring*: The ultimate weapon of the enemy. The One Ring not only sustains the life of the Dark Lord, but is also the source of his power.
 - *Unstoppable!*
 
 **BRUTAL POWER ATTACK**
+
 - By swinging his mace around in a deadly arc, Sauron can wreak devastation upon his foes.
 
 **HEROIC ACTIONS**
-- Heroic Channeling
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **MAGICAL POWERS**
+
 - Drain Courage: 18", 2+
 - Transfix: 18", 2+
 - Compel: 18", 3+
@@ -75,21 +80,25 @@ The Witch-king is the greatest of the beings known as the Nazgul, and is the Dar
 | 6" | 5/4+ | 4 | 8 | 1 | 1 | 6 |
 
 **WARGEAR**
-- Heavy armour
+
+- [Heavy armour]
 - Morgul Blade
 
 **SPECIAL RULES**
+
 - Harbinger of Evil, Terror, Will of Evil.
 - *Morgul Blade*: Once per game, can declare the use of the Morgul blade. If a model is wounded by the blade and fails to save the wound with Fate, it is automatically slain.
 
 **OPTIONS**
+
 - Armoured Fell Beast: 70 points
 - Fell Beast: 50 points
 - Crown of Morgul: 25 points
-- Armoured Horse: 15 points
+- [Armoured horse]: 15 points
 - Horse: 10 points
 
 **MAGICAL POWERS**
+
 - Drain Courage: 12", 2+
 - Transfix: 12", 3+
 - Compel: 12", 4+
@@ -109,15 +118,18 @@ The Ringwraiths, also known as The Nazgul, The Nine, or The Black Riders, are th
 | 6" | 5/4+ | 4 | 8 | 1 | 1 | 6 |
 
 **WARGEAR**
-- Heavy armour
-- Sword
+
+- [Heavy armour]
+- [Sword]
 
 **OPTIONS**
+
 - Armoured Fell Beast: 70 points
 - Fell Beast: 50 points
 - Horse: 10 points
 
 **MAGICAL POWERS**
+
 - Drain Courage: 12", 2+
 - Transfix: 12", 3+
 - Compel: 12", 4+
@@ -126,6 +138,7 @@ The Ringwraiths, also known as The Nazgul, The Nine, or The Black Riders, are th
 - Sap Will: 12", 5+
 
 **SPECIAL RULES**
+
 - Harbinger of Evil, Terror, Will of Evil.
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image195.jpeg)
@@ -140,10 +153,12 @@ It is said that a dark terror lies within the pass of Cirith Ungol, traversing i
 | 10" | 7/6+ | 7 | 7 | 1 | 6 | 4 |
 
 **WARGEAR**
+
 - Large venomous fangs
 
 **SPECIAL RULES**
-- Monstrous Charge, Survival Instinct, Swift Movement, Terror, Venom.
+
+- [Monstrous Charge], Survival Instinct, Swift Movement, Terror, Venom.
 - *Caught in a Web*: Instead of striking as normal, Shelob can opt to direct a single Strike at one model in the Fight. If the model is wounded and the Wound is not saved by Fate, it is treated as being under the effect of the Paralyse Magical Power.
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image196.jpeg)
@@ -159,15 +174,18 @@ Orc Captains are chosen based on their brute strength and ability to control the
 | 6" | 4/5+ | 4 | 5 | 2 | 2 | 3 | 1 | 1 | 1 |
 
 **WARGEAR**
-- Armour
+
+- [Armour]
 - Sword or pick
 
 **OPTIONS**
+
 - Warg: 10 points
 - Orc bow: 5 points
-- Shield: 5 points
+- [Shield]: 5 points
 
 **SPECIAL RULES**
+
 - Orc captains are notorious for their ruthless tactics and are often seen leading from the front, driving their troops into the fray.
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image198.jpeg)
@@ -182,16 +200,20 @@ Orc Shamans are amongst the few within the ranks of Mordor who wield dark magics
 | 6" | 3/5+ | 3 | 5 | 1 | 2 | 3 | 1 | 2 | 1 |
 
 **WARGEAR**
-- Heavy armour
-- Dagger and spear
+
+- [Heavy armour]
+- [Dagger] and spear
 
 **HEROIC ACTIONS**
-- Heroic Channeling
+
+- [Heroic Channelling]
 
 **OPTIONS**
+
 - Warg: 10 points
 
 **MAGICAL POWERS**
+
 - Fury (Mordor Orc): 6", 3+
 - Transfix: 12", 5+
 
@@ -207,13 +229,16 @@ Taskmasters enforce discipline within the Orc ranks through fear and brutality. 
 | 6" | 4/5+ | 4 | 5 | 2 | 2 | 3 | 1 | 1 | 1 |
 
 **WARGEAR**
-- Armour
+
+- [Armour]
 - Mace and whip
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **SPECIAL RULES**
+
 - Whip of the Masters: Can encourage other heroes to perform heroic actions without spending Might on a 4+ roll.
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image200.jpeg)
@@ -228,16 +253,20 @@ Black Numenoreans are amongst the most feared of Sauron's servants, having turne
 | 6" | 5/4+ | 4 | 7 | 2 | 2 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
-- Heavy armour
-- Sword and shield
+
+- [Heavy armour]
+- [Sword]
+- [Shield]
 
 **OPTIONS**
-- Lance: 5 points
-- Armoured horse: 15 points
-- Two-handed weapon (replaces shield): 5 points
+
+- [Lance]: 5 points
+- [Armoured horse]: 15 points
+- *[Two-handed]* weapon (replaces shield): 5 points
 
 **SPECIAL RULES**
-- Terror: The mere presence of a Black Numenorean Marshal can unnerve enemy troops.
+
+- [Terror]: The mere presence of a Black Numenorean Marshal can unnerve enemy troops.
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image201.jpeg)
 
@@ -252,16 +281,19 @@ Mordor Troll Chieftains are the epitome of brute force within Sauron's armies. C
 | 6" | 7/5+ | 7 | 8 | 3 | 3 | 4 | 0 | 0 | 0 |
 
 **WARGEAR**
-- Heavy armour
-- Choice of a hand-and-a-half sword, club, or hammer
+
+- [Heavy armour]
+- Choice of a *[hand-and-a-half]* [Sword] club, or hammer
 
 **HEROIC ACTIONS**
-- Heroic Strike
-- Heroic Strength
+
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
-- Terror
-- Throw Stones (range 12", Strength 8): Mordor Troll Chieftains can hurl massive stones at the enemy, causing devastating damage.
+
+- [Terror]
+- [Throw Stones] (range 12", Strength 8): Mordor Troll Chieftains can hurl massive stones at the enemy, causing devastating damage.
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image202.jpeg)
 
@@ -275,15 +307,17 @@ Orc Warriors form the vast hordes of Sauron's military might. Though individuall
 | 6" | 3/5+ | 3 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
-- Armour
+
+- [Armour]
 - Sword or pick
 
 **OPTIONS**
-- Banner: 25 points
+
+- [Banner]: 25 points
 - Orc bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Two-handed weapon: 1 point
+- [Shield]: 1 point
+- [Spear]: 1 point
+- *[Two-handed]* weapon: 1 point
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image203.jpeg)
 
@@ -297,10 +331,12 @@ Orc Trackers are specialized Orcs trained to hunt and skirmish. They are equippe
 | 6" | 3/4+ | 3 | 3 | 1 | 1 | 2 |
 
 **WARGEAR**
-- Dagger
+
+- [Dagger]
 - Orc bow
 
 **OPTIONS**
+
 - Warg: 7 points
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image204.jpeg)
@@ -315,15 +351,17 @@ Warg Riders are fearsome cavalry units in Sauron's army, combining the ferocity 
 | 10" | 3/5+ | 3 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
-- Armour
-- Sword
+
+- [Armour]
+- [Sword]
 - Warg
 
 **OPTIONS**
-- Banner: 25 points
+
+- [Banner]: 25 points
 - Orc bow: 1 point
-- Shield: 1 point
-- Throwing spears: 1 point
+- [Shield]: 1 point
+- [Throwing spears]: 1 point
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image205.jpeg)
 
@@ -337,15 +375,19 @@ Black Numenoreans are formidable warriors, descendants of those Men who once ser
 | 6" | 4/4+ | 3 | 6 | 1 | 1 | 4 |
 
 **WARGEAR**
-- Heavy armour
-- Sword and shield
+
+- [Heavy armour]
+- [Sword]
+- [Shield]
 
 **OPTIONS**
-- War horn: 30 points
-- Banner: 25 points
+
+- [War horn]: 30 points
+- [Banner]: 25 points
 
 **SPECIAL RULES**
-- Terror
+
+- [Terror]
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image206.jpeg)
 ### MORGUL KNIGHT [18 POINTS]
@@ -358,18 +400,21 @@ Morgul Knights are the elite cavalry of Mordor, known for their chilling presenc
 | 10" | 4/4+ | 3 | 6 | 1 | 1 | 4 |
 
 **WARGEAR**
-- Heavy armour
-- Sword
+
+- [Heavy armour]
+- [Sword]
 - Lance
-- Shield
-- Armoured horse
+- [Shield]
+- [Armoured horse]
 
 **OPTIONS**
-- War horn: 30 points
-- Banner: 25 points
+
+- [War horn]: 30 points
+- [Banner]: 25 points
 
 **SPECIAL RULES**
-- Terror
+
+- [Terror]
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image207.jpeg)
 
@@ -383,15 +428,18 @@ Mordor Trolls are titanic beasts used by Sauron to break enemy lines and demolis
 | 6" | 7/5+ | 7 | 7 | 3 | 3 | 4 |
 
 **WARGEAR**
-- Armour
-- Either a hand-and-a-half sword, club, or hammer
+
+- [Armour]
+- Either a *[hand-and-a-half]* [Sword] club, or hammer
 
 **OPTIONS**
+
 - War drum (Mordor): 30 points
 
 **SPECIAL RULES**
-- Terror
-- Throw Stones (range 12", Strength 8)
+
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image208.jpeg)
 
@@ -405,15 +453,18 @@ Mordor Siege Bows are large, powerful siege engines used to launch massive bolts
 | 9                      | 10      | 3      |
 
 **CREW**
+
 - Three Orc Warriors (armour and sword)
 - One of the crew is automatically the Siege Veteran
 
 **OPTIONS**
+
 - Orc Engineer Captain: 40 points
 - Flaming Ammunition: 15 points
 - Additional Crew: 5 points each
 
 **SPECIAL RULES**
+
 - Piercing Shot: If a shot hits a Battlefield target, they suffer one Strength 9 hit and additional effects based on their Strength.
 
 ![](../media/2_MESBG_-_Armies_of_LOTR_media/image209.jpeg)
@@ -428,16 +479,19 @@ The War Catapults of Mordor are fearsome tools of war, capable of hurling huge b
 | 10                     | 10      | 4      |
 
 **CREW**
+
 - Three Orc Warriors (armour and sword)
 - A Mordor Troll, enhancing operational capability
 
 **OPTIONS**
+
 - Orc Engineer Captain: 40 points
 - Flaming Ammunition: 15 points
 - Severed heads: 5 points
 - Additional Crew: 5 points each
 
 **SPECIAL RULES**
+
 - Indirect Fire: Utilizes rules for Volley Fire with a range of 12"-96"
 - Area Effect: Causes additional damage to surrounding units on a hit
 - Wall-breaker: Enhanced damage against siege targets

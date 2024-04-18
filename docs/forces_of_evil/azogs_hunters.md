@@ -32,15 +32,18 @@ The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if
 | 6" | 4/5+ | 4 | 5 | 2 | 2 | 3 | 3 | 1 | 1 |
 
 **WARGEAR**
-- Armour
-- Two-handed axe
+
+- [Armour]
+- *[Two-handed]* axe
 
 **OPTIONS**
+
 - Fell Warg: 10 points
-- Lance: 5 points
+- [Lance]: 5 points
 
 **SPECIAL RULES**
-- Expert Rider
+
+- [Expert Rider]
 - The Price of Failure: If your army contains both Azog and Yazneg, and they are in base contact at the beginning of your Move phase, Yazneg can be removed to automatically pass Azog's Courage test. His Stand Fast! will affect the entire battlefield.
 
 ### NARZUG [50 POINTS]
@@ -51,18 +54,22 @@ The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if
 | 6" | 4/4+ | 4 | 5 | 2 | 2 | 4 | 3 | 1 | 1 |
 
 **WARGEAR**
-- Armour
-- Sword
+
+- [Armour]
+- [Sword]
 - Orc bow
 
 **OPTIONS**
+
 - Fell Warg: 10 points
 
 **HEROIC ACTIONS**
-- Heroic Accuracy
+
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
-- Expert Rider
+
+- [Expert Rider]
 - Morgul Arrows
 - Lethal Aim: Narzug may spend a point of Might to modify a To Hit, In The Way, or To Wound roll when shooting his Orc bow.
 
@@ -74,18 +81,22 @@ The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if
 | 6" | 5/5+ | 4 | 5 | 2 | 2 | 4 | 3 | 1 | 1 |
 
 **WARGEAR**
-- Armour
-- Sword
+
+- [Armour]
+- [Sword]
 - Orc bow
 
 **OPTIONS**
+
 - Fell Warg: 10 points
 
 **HEROIC ACTIONS**
-- Heroic Strike
+
+- [Heroic Strike]
 
 **SPECIAL RULES**
-- Expert Rider
+
+- [Expert Rider]
 - Hunt Master: Fimbul ignores Cavalry penalties in difficult terrain and gains bonuses for charging.
 
 ## WARRIORS OF AZOG'S HUNTERS
@@ -98,17 +109,20 @@ The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if
 | 6" | 3/5+ | 4 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
-- Armour
+
+- [Armour]
 - Two swords
 
 **OPTIONS**
-- War horn: 30 points
-- Banner: 25 points
+
+- [War horn]: 30 points
+- [Banner]: 25 points
 - Fell Warg: 8 points
 - Orc bow: 1 point
-- Two-handed pick: 1 point
+- *[Two-handed]* pick: 1 point
 
 **SPECIAL RULES**
+
 - Many Blades: Hunter Orcs receive +1 Attack while they have the Infantry keyword.
 
 ### FELL WARG [8 POINTS]
@@ -119,7 +133,9 @@ The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if
 | 10" | 3/5+ | 4 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
+
 - Claws and teeth
 
 **SPECIAL RULES**
+
 - Fell Sight: Enhanced senses allow Fell Wargs to detect hidden or obscured enemies.

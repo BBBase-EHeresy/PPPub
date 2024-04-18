@@ -37,15 +37,19 @@ former friend Gandalf the Grey and, in a stroke, sentenced thousands to die by f
 6" 5/4+ 4 5 13 7
 
 **WARGEAR**
-- Staff of Power
+
+- [Staff of power]
 
 **HEROIC ACTIONS**
-- Heroic Channelling
+
+- [Heroic Channelling]
 
 **OPTIONS**
+
 - Horse 10 points
 
 **SPECIAL RULES**
+
 - The Palantir - Although ultimately it enabled the Dark Lord to bind Saruman to his will, the Palantir of Orthanc also granted the White Wizard the ability to scry across great distances and discern things hitherto unknown to him.
 
 Once per game the controlling player can use the Palantir to automatically win a Priority roll - the use of this special rule must be declared before any dice are rolled for Priority.
@@ -59,6 +63,7 @@ Saruman's Stand Fast! has a range of 12" and, unlike other Hero models' Stand Fa
 Saruman the White can choose to re-roll one dice when making Casting or Resist tests.
 
 **MAGICAL POWERS** | **Range** | **Casting**
+
 --- | --- | ---
 Immobilise | 18" | 2+
 Terrifying Aura | - | 2+
@@ -79,12 +84,15 @@ Grima's strength lies in his ability to twist the words and thoughts of those ar
 6" 2/4+ 3 3 1 1 2
 
 **WARGEAR**
-- Dagger
+
+- [Dagger]
 
 **OPTIONS**
+
 - Horse 10 points
 
 **SPECIAL RULES**
+
 - A Traitor Within - Grima may be deployed in one of two ways, either as part of the Isengard force or as part of an enemy's warband.
 
 Grima must be deployed in Saruman's warband if deployed as part of the Isengard force.
@@ -106,15 +114,20 @@ The mightiest of Saruman's Uruk-hai, Lurtz is entrusted with leading the mission
 6" 5/3+ 5 6 3 3 5
 
 **WARGEAR**
-- Armour, sword and Uruk-hai bow.
+
+- [Armour]
+- [Sword]
+- Uruk-hai bow.
 
 **HEROIC ACTIONS**
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
+
 - Find the Halflings - Lurtz is an inexorable hunter, relentlessly driven by the orders of his master.
 
 Any warband led by Lurtz does not have to roll to determine when and where it arrives in Scenarios that require such a roll. Instead, Lurtz may choose the result.
@@ -128,14 +141,18 @@ A captain in Lurtz's raiding force, Ugluk takes command of the Uruk-hai Scouts a
 6" 5/4+ 5 5 2 2 4
 
 **WARGEAR**
-- Armour, sword.
+
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic March
-- Heroic Strike
-- Heroic Strength
+
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
+
 - Head Taker - Any who defy the orders of the White Hand will meet a grisly fate.
 
 Should Ugliik's force be broken, Ugluk can choose to kill a nearby model instead of taking a Courage test. Simply choose a friendly Warrior within 2" of Ugluk and remove it as a casualty. Furthermore, in a turn that Ugluk does this, he will automatically pass his Courage test and his Stand Fast! has a range of 12" and affects both Warrior and Hero models.
@@ -149,16 +166,20 @@ The sly Orc known as Sharku was tasked by the White Wizard of Isengard with rang
 6" 4/5+ 4 5 2 2 3
 
 **WARGEAR**
-- Armour and Riding Dagger.
+
+- [Armour]
+-  Riding Dagger.
 
 **Riding Dagger** - The curious blade Sharku carries into battle complements his gritty, vicious fighting style. Additionally, whenever an enemy Hero model in base contact resolves a Strike against Sharku and fails To Wound, immediately resolve one Strength 4 Strike against that model.
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **OPTIONS**
+
 - Warg 10 points
-- Shield 5 points
+- [Shield] 5 points
 
 #### VRASKU 65 POINTS
 **URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE**
@@ -169,14 +190,19 @@ Among the captains that lead the Uruk-hai Scouts, Vrasku is the best shot. Equip
 6" 5/3+ 5 5 2 2 4
 
 **WARGEAR**
-- Armour, sword and crossbow.
+
+- [Armour]
+- [Sword]
+- crossbow.
 
 **HEROIC ACTIONS**
-- Heroic March
-- Heroic Accuracy
+
+- [Heroic March]
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
-- Expert Shot.
+
+- [Expert Shot].
 
 #### MAUHUR 60 POINTS
 **URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE**
@@ -187,13 +213,17 @@ Ahead of the bands of scouting Uruk-hai range Mauhur's Marauders, the swiftest a
 8" 5/3+ 5 5 3 2 4
 
 **WARGEAR**
-- Armour and two swords.
+
+- [Armour]
+-  two swords.
 
 **HEROIC ACTIONS**
-- Heroic March
-- Heroic Strength
+
+- [Heroic March]
+- [Heroic Strength]
 
 **OPTIONS**
+
 - If your army includes Mauhur, any number of Uruk-hai Scouts in his warband can be upgraded to become Marauders at a cost of+1 point per model. Marauders have a Move of 8".
 
 #### THRYDAN WOLFSBANE 85 POINTS
@@ -205,13 +235,18 @@ Thrydan Wolfsbane is the war chief of Dunland, a royal-blooded outcast of a peop
 6" 5/4+ 5 5 2 2 4
 
 **WARGEAR**
-- Armour, sword and two-handed axe.
+
+- [Armour]
+- [Sword]
+- *[two-handed]* axe.
 
 **HEROIC ACTIONS**
-- Heroic Strike
-- Heroic Strength
+
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
+
 - Mighty Blow.
 - Lord of Dunland - Thrydan may lack the nobility of the kings of Numenor or even Rohan, but his bellowed orders are clear for all to hear.
 
@@ -226,15 +261,18 @@ Command of Isengard's legions falls to the many Uruk-hai Captains. Stoic and har
 6' 5/4+ 5 6 2 2
 
 **WARGEAR**
-- Heavy armour, sword.
+
+- [Heavy armour], [Sword]
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **OPTIONS**
+
 - Crossbow 5 points
-- Shield 5 points
-- Two-handed weapon 5 points
+- [Shield] 5 points
+- *[Two-handed]* weapon 5 points
 
 #### URUK-HAI SCOUT CAPTAIN 55 POINTS
 **URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE**
@@ -245,15 +283,19 @@ At the head of the Isengard scouts run the formidable Scout Captains. Under the 
 6" 5/4+ 5 5 2 2 4
 
 **WARGEAR**
-- Armour, sword.
+
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **OPTIONS**
+
 - Uruk-hai bow 5 points
-- Shield 5 points
-- Two-handed weapon 5 points
+- [Shield] 5 points
+- *[Two-handed]* weapon 5 points
 
 #### URUK-HAI SHAMAN 50 POINTS
 **URUK-HAI, ISENGARD, INFANTRY, HERO - MINOR HERO**
@@ -266,15 +308,19 @@ As the Uruk-hai march relentlessly into battle, they do so to the low thudding o
 6" 4/4~+~ 4 4 1 2 4 00Â©
 
 **WARGEAR**
+
 - Spear.
 
 **HEROIC ACTIONS**
-- Heroic Channelling
+
+- [Heroic Channelling]
 
 **OPTIONS**
+
 - Armour 5 points
 
 **MAGICAL POWERS** | **Range** | **Casting**
+
 --- | --- | ---
 Fury (Isengard Uruk-hai) | 6" | 3+
 Transfix | 12" | 5+
@@ -286,7 +332,9 @@ Transfix | 12" | 5+
 6" 4/4+ 4 5 1 1 4 Â®Â®0
 
 **WARGEAR**
-- Armour, dagger and war drum (Isengard Uruk-hai).
+
+- [Armour]
+- dagger and war drum (Isengard Uruk-hai).
 
 #### DUNLENDING CHIEFTAIN 55 POINTS
 **MAN, DUNLENDING, INFANTRY, HERO - HERO OF FORTITUDE**
@@ -297,14 +345,18 @@ Fierce, violent lifestyles are the norm in Dunland, a forsaken land where chieft
 6" 4/4+ 5 5 2 2 4
 
 **WARGEAR**
-- Armour, dagger and two-handed axe.
+
+- [Armour]
+- dagger and *[two-handed]* axe.
 
 **HEROIC ACTIONS**
-- Heroic March
+
+- [Heroic March]
 
 **OPTIONS**
+
 - Bow 5 points
-- Swap two-handed axe for axe and shield Free
+- Swap *[two-handed]* axe for axe and shield Free
 
 ### WARRIORS OF ISENGARD
 
@@ -316,12 +368,15 @@ Unleashed from the pits of Orthanc with a single mission, the Uruk-hai Scouts lo
 6* 4/4+ 4 4 1 1 3
 
 **WARGEAR**
-- Armour and sword.
+
+- [Armour]
+-  [Sword]
 
 **OPTIONS**
+
 - Banner 25 points
 - Uruk-hai bow 1 point
-- Shield 1 point
+- [Shield] 1 point
 
 #### ISENGARD TROLL
 **TROLL, ISENGARD, MONSTER, INFANTRY, WARRIOR**
@@ -331,14 +386,18 @@ Orcs were not the only creatures to be subjected to Saruman's dark experiments i
 6" 7/5+ 7 8 3 3 4
 
 **WARGEAR**
-- Heavy armour, sword and shield.
+
+- [Heavy armour], [Sword]
+- [Shield].
 
 **OPTIONS**
+
 - Swap sword for spear free
 - May swap shield for war drum (Isengard) 25 points
 
 **SPECIAL RULES**
-- Terror, Throw Stones (range 12", Strength 8).
+
+- [Terror], Throw Stones (range 12", Strength 8).
 
 #### URUK-HAI BERSERKER 15 POINTS
 **URUK-HAI, ISENGARD, INFANTRY, WARRIOR**
@@ -348,17 +407,19 @@ The most barbarous and brutal of the Uruk-hai are the Berserkers, frenzied kille
 6* 4/4+ 4 5 2 1 7
 
 **WARGEAR**
+
 - Berserker blade.
 
 **Berserker Blade** - Saruman's grand plan for his Berserkers was to have them scale ladders and hack the walls of the Hornburg clear at the siege
 of Helm's Deep with crazed sweeps of their enormous swords.
 
-A Berserker blade is a hand-and-a-half sword. If an Uruk-hai Berserker
+A Berserker blade is a *[hand-and-a-half]* [Sword] If an Uruk-hai Berserker
 wins a Duel roll while fighting with its Berserker blade as a two-handed
 weapon, it may either assign strikes as normal, or do one Strength 4 hit at +1
 To Wound on every model Engaged in the fight or supporting the Berserker and in base contact (friend and foe).
 
 **SPECIAL RULES**
+
 - Oblivious to Pain - Relentlessly cleaving through their enemy's
 defences, Uruk-hai Berserkers are unphased by the pain inflicted on them both in
 the fight or by arrows fired into their flesh.
@@ -382,9 +443,11 @@ Driven to the brink of madness by torture and cruelty, the Feral Uruk-hai are a 
 6" 4/4+ 4 4 2 1 5
 
 **WARGEAR**
+
 - Two swords.
 
 **SPECIAL RULES**
+
 - Oblivious to Pain - Driven into a frenzy by the spilling of
 the enemy's blood, Feral Uruk-hai pay little to no attention to the pain which is
 inflicted upon them by their foes.
@@ -402,13 +465,16 @@ For generations, the people of Dunland have loathed the Rohirrim, blaming the Ho
 6" 3/4+ 4 4 1 1 3
 
 **WARGEAR**
-- Armour and axe.
+
+- [Armour]
+-  axe.
 
 **OPTIONS**
+
 - Banner 25 points
-- Shield 1 point
+- [Shield] 1 point
 - Swap axe for dagger and bow 1 point
-- Two-handed axe 1 point
+- *[Two-handed]* axe 1 point
 
 #### WILD MAN OF DUNLAND
 **MAN, DUNLENDING, INFANTRY, WARRIOR**
@@ -418,12 +484,15 @@ The Wild Men are outcasts, even among their own people. They live in the most is
 6" 3/4+ 3 3 1 1 3
 
 **WARGEAR**
+
 - Sword or axe.
 
 **OPTIONS**
-- Two-handed axe 1 point
+
+- *[Two-handed]* axe 1 point
 
 **SPECIAL RULES**
+
 - Hatred (Rohan).
 
 #### URUK-HAI DEMOLITION TEAM 80 POINTS
@@ -434,12 +503,15 @@ can be detonated with devastating effect. A whispered treachery from Grima Wormt
 bombs will be most effective.
 
 **COMPOSITION**
+
 - An Uruk-hai Demolition team has two Uruk-hai Warriors with swords, one Uruk-hai Berserker with a flaming brand and Berserker blade and one demolition charge (see below),
 
 **OPTIONS**
+
 - Equip Uruk-hai Warrior with flaming brand 1 point
 
 **DEMOLITION CHARGES**
+
 - The devilry of Saruman has created weapons of monstrous power. Any caught nearby when these demolition charges are ignited are likely to be blown to smithereens.
 
 **Moving the Charge** - A demolition charge is a Heavy Object, as on page 110 of the Middle-earth Strategy Battle Game Rules Manual. It may never be carried by mounted models.
@@ -452,7 +524,7 @@ When it explodes, a demolition charge automatically strikes everything within 2"
 
 **Flaming Brands** - Touching a flaming torch to one of Saruman's bombs takes a courage beyond sanity.
 
-A model carrying a flaming brand cannot use a two-handed weapon (if it has one). If a model carrying a flaming brand is killed, the brand is extinguished and lost in the chaos of battle.
+A model carrying a flaming brand cannot use a *[two-handed]* weapon (if it has one). If a model carrying a flaming brand is killed, the brand is extinguished and lost in the chaos of battle.
 
 **Attacking the Charge** - The demolition charge can be shot at normally, and has a Defence of 7 and 3 Wounds. If the charge is wounded, roll a D6 per Wound inflicted. On a 6, the charge immediately detonates - roll on the Detonation table as normal.
 
@@ -481,17 +553,21 @@ The Uruk-hai army that besieged Helm's Deep was no mere rabble, but a well-order
 Ballista (9) 10 4
 
 **CREW**
-- An Isengard Assault Ballista is a large Siege Engine and is crewed by three Uruk-hai warrior crew wearing heavy armour. One is armed with a sword, one a dagger and the other carries an Assault Ballista bolt (pike). Any additional crew purchased will be equipped with heavy armour and a sword. One of the crew is automatically the Siege Veteran. All crew members have the Uruk-hai, Isengard, Infantry and Warrior keywords.
+
+- An Isengard Assault Ballista is a large Siege Engine and is crewed by three Uruk-hai warrior crew wearing heavy armour. One is armed with a [Sword] one a dagger and the other carries an Assault Ballista bolt (pike). Any additional crew purchased will be equipped with [Heavy armour]
+- a [Sword] One of the crew is automatically the Siege Veteran. All crew members have the Uruk-hai, Isengard, Infantry and Warrior keywords.
 
 **Mv F S D A W C**
 6" 4/4+ 4 5 1 1 3
 
 **OPTIONS**
+
 - Uruk-hai Engineer Captain 50 points
 - Additional Crew 9 points each
 - Superior Construction 15 points
 
 **SPECIAL RULES**
+
 - Piercing Shot - If a shot from an Isengard Assault Ballista hits a Battlefield target, then they will suffer one single Strength 9 hit. Additionally, if the target has Strength 5 or lower, they will be knocked Prone and flung D6" directly away from the Ballista. Any model that the target passes over will also be knocked Prone and suffer one single Strength 6 hit. If the target comes into contact with a piece of impassable terrain, or a model that is Strength 6 or higher, then it will immediately stop and be knocked Prone, and both the target and the Obstacle or model (if it has a Defence value) will suffer one Strength 6 hit.
 
 - Raise the Ladders! Part weapon, part siege device, a carefully placed shot from the Assault Ballista can raise a siege ladder in an instant, and propel an Uruk-hai straight into combat.

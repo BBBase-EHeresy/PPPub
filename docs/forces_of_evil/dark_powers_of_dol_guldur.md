@@ -34,16 +34,18 @@ The Necromancer and all nine Nazgûl of Dol Guldur may be deployed as one warban
 | 6" | 7/4+ | 6 | 8 | 1 | 1 | 6 |
 
 **HEROIC ACTIONS**
-- Heroic Channelling
-- Heroic Strength
-- Heroic Challenge
+
+- [Heroic Channelling]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
+
 - Ancient Evil, Terror, Will of Evil
 - Drain Soul: Any model that suffers a wound from the Necromancer during the Fight phase is automatically slain.
 - Master of the Nazgûl: Nazgûl of Dol Guldur gain a bonus while the Necromancer is alive.
 
-### NAZGÛL OF DOL GULDUR [75 POINTS EACH]
+### NAZGÛL OF DOL GULDUR [75 POINTS]
 *SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO - HERO OF VALOUR*
 
 | Mv | F  | S | D | A | W | C |
@@ -51,6 +53,7 @@ The Necromancer and all nine Nazgûl of Dol Guldur may be deployed as one warban
 | 6" | 5/4+ | 4 | 6 | 2 | 1 | 6 |
 
 **SPECIAL RULES**
+
 - Harbinger of Evil, Terror
 - Unholy Resurrection: They may return to battle if defeated, depending on a dice roll.
 
@@ -62,11 +65,13 @@ The Necromancer and all nine Nazgûl of Dol Guldur may be deployed as one warban
 | 6" | 5/5+ | 5 | 6 | 2 | 2 | 5 |
 
 **HEROIC ACTIONS**
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
+
 - Torturer: Re-rolls To Wound rolls after defeating opponents.
 - "You have something my Master wants!" — Bonus against bearers of the Elven rings.
 
@@ -78,7 +83,8 @@ The Necromancer and all nine Nazgûl of Dol Guldur may be deployed as one warban
 | 6" | Varies | Varies | Varies | Varies | Varies | Varies |
 
 **SPECIAL RULES**
-- Terror, Will of Evil
+
+- [Terror], Will of Evil
 - Automatons: Do not grant Stand Fast! rule to nearby models.
 - Will of the Necromancer: Can use Will points as Fate points.
 

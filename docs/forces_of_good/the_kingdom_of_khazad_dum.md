@@ -267,6 +267,10 @@ If the King's Champion is wounded, either Herald may expend their own Fate point
 
 </div>
 
+---
+
+<div class="unitCard" markdown>
+
 ### SHIELDBEARER [60 POINTS]
 *DWARF, KHAZAD-DUM, INFANTRY, HERO - MINOR HERO*
 

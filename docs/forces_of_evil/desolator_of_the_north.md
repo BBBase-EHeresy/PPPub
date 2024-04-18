@@ -24,16 +24,19 @@ The Desolator of the North army list does not have a special rule — having Sma
 | 6" | 8/2+ | 9 | 9 | 4 | 20 | 6 |
 
 **WARGEAR**
+
 - Razor-sharp teeth
 - Massive talons
 
 **HEROIC ACTIONS**
-- Heroic Channelling
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
+
 - Ancient Evil, Fearless, Fly, Resistant to Magic, Terror
 - Breathe Fire: Smaug can use his fiery breath like a bow with an 18" range.
 - Immovable Object: Smaug cannot be Knocked to the Ground or moved against his will.
@@ -41,6 +44,7 @@ The Desolator of the North army list does not have a special rule — having Sma
 - Unstoppable Momentum: If Smaug charges and wins the Fight, all opponents are Knocked to the Ground.
 
 **MAGICAL POWERS**
+
 - *Transfix*: Range 12", Casting 3+
 - *Compel*: Range 12", Casting 4+
 - *Instill Fear*: Range 3", Casting 5+
