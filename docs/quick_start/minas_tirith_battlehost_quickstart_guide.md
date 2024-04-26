@@ -1,9 +1,9 @@
-
-
 ## HEROES OF MINAS TIRITH
 
+<div class="unitCard" markdown>
+
 ### GANDALF THE WHITE
-**(WIZARD, CAVALRY, HERO)**
+*WIZARD, CAVALRY, HERO*
 
 | Mv |  F  | S  | D | A | W | C | - | M | W  | F |
 |:--:|:---:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|:-:|
@@ -24,17 +24,23 @@ Glamdring is an Elven-made hand-and-a-half sword. Additionally, Glamdring increa
 
 Gandalf may re-roll his dice when making Fate rolls.
 
-| MAGICAL POWERS   | Range | Casting |
+**MAGICAL POWERS**
+
+|    | Range | Casting |
 |------------------|:-----:|:-------:|
 | Immobilise       | 12"   | 2+      |
 | Terrifying Aura  | -     | 2+      |
 | Command          | 12"   | 3+      |
 | Sorcerous Blast  | 12"   | 4+      |
 
+</div>
+
 ---
 
+<div class="unitCard" markdown>
+
 ### PEREGRIN TOOK, GUARD OF THE CITADEL
-**(HOBBIT, GONDOR, INFANTRY, HERO)**
+*HOBBIT, GONDOR, INFANTRY, HERO*
 
 | Mv |  F  | S | D | A | W | C | - | M | W | F |
 |:--:|:---:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -49,12 +55,16 @@ Gandalf may re-roll his dice when making Fate rolls.
 
 * [Resistant to Magic](battlehost_quickstart_rules_guide.md#resistant-to-magic)
 
+</div>
+
 ---
 
 ## WARRIORS OF MINAS TIRITH
 
+<div class="unitCard" markdown>
+
 ### WARRIOR OF MINAS TIRITH
-**(MAN, GONDOR, INFANTRY, WARRIOR)**
+*MAN, GONDOR, INFANTRY, WARRIOR*
 
 | Mv |  F  | S | D | A | W | C |
 |:--:|:---:|:-:|:-:|:-:|:-:|:-:|
@@ -75,10 +85,14 @@ One of the following options:
 
 * [Shieldwall](battlehost_quickstart_rules_guide.md#shieldwall)
 
+</div>
+
 ---
 
+<div class="unitCard" markdown>
+
 ### KNIGHT OF MINAS TIRITH
-**(MAN, GONDOR, CAVALRY, WARRIOR)**
+*MAN, GONDOR, CAVALRY, WARRIOR*
 
 | Mv  |  F  | S | D | A | W | C |
 |:---:|:---:|:-:|:-:|:-:|:-:|:-:|
@@ -90,3 +104,5 @@ One of the following options:
 * Sword
 * Shield
 * Lance
+
+</div>

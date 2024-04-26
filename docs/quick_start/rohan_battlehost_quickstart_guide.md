@@ -1,7 +1,9 @@
 ## HERO OF ROHAN
 
+<div class="unitCard" markdown>
+
 ### ÉOMER, MARSHALL OF THE RIDDERMARK
-**(MAN, ROHAN, CAVALRY, HERO)**
+*MAN, ROHAN, CAVALRY, HERO*
 
 | Mv  | F  | S | D | A | W | C | - | M | W | F |
 |:---:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|:-:|
@@ -17,10 +19,16 @@ Eomer may also take the following options:
 * Shield
 * Throwing spears
 
+</div>
+
+---
+
 ## WARRIORS OF ROHAN
 
+<div class="unitCard" markdown>
+
 ### WARRIOR OF ROHAN
-**(MAN, ROHAN, INFANTRY, WARRIOR)**
+*MAN, ROHAN, INFANTRY, WARRIOR*
 
 | Mv | F  | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
@@ -37,10 +45,14 @@ One of the following options:
 * Throwing spears and shield
 * Bow
 
+</div>
+
 ---
 
+<div class="unitCard" markdown>
+
 ### RIDER OF ROHAN
-**(MAN, ROHAN, CAVALRY, WARRIOR)**
+*MAN, ROHAN, CAVALRY, WARRIOR*
 
 | Mv  | F  | S | D | A | W | C |
 |:---:|:--:|:-:|:-:|:-:|:-:|:-:|
@@ -56,3 +68,5 @@ One of the following options:
 Riders of Rohan may also take the following options:
 
 * Throwing spears
+
+</div>

@@ -1,7 +1,9 @@
 ## HEROES OF ISENGARD
 
+<div class="unitCard" markdown>
+
 ### SARUMAN
-**(WIZARD, ISENGARD, CAVALRY, HERO)**
+*WIZARD, ISENGARD, CAVALRY, HERO*
 
 | Mv  | F  | S | D | A | W | C | -|M | W | F |
 |:---:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -21,17 +23,23 @@ Once per game Saruman can use the Palantír to automatically win a Priority roll
 
 Saruman can choose to re-roll one dice when making Casting or Resist tests.
 
-| MAGICAL POWERS | Range | Casting |
+**MAGICAL POWERS**
+
+|  | Range | Casting |
 |----------------|:-----:|:-------:|
 | Immobilise     | 18"   | 2+      |
 | Terrifying Aura| -     | 2+      |
 | Command        | 18"   | 3+      |
 | Sorcerous Blast| 12"   | 4+      |
 
+</div>
+
 ---
 
+<div class="unitCard" markdown>
+
 ### GRÍMA WORMTONGUE
-**(MAN, ISENGARD, INFANTRY, HERO)**
+*MAN, ISENGARD, INFANTRY, HERO*
 
 | Mv | F  | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -47,12 +55,16 @@ Saruman can choose to re-roll one dice when making Casting or Resist tests.
 
 If an enemy **Hero** model is within 6" of Gríma, 2 Might points must be expended instead of 1 when using a Might point.
 
+</div>
+
 ---
 
 ## WARRIORS OF ISENGARD
 
+<div class="unitCard" markdown>
+
 ### URUK-HAI SCOUT
-**(URUK-HAI, ISENGARD, INFANTRY, WARRIOR)**
+*URUK-HAI, ISENGARD, INFANTRY, WARRIOR*
 
 | Mv | F  | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
@@ -68,10 +80,14 @@ One of the following options:
 * Shield
 * Uruk-hai bow
 
+</div>
+
 ---
 
+<div class="unitCard" markdown>
+
 ### URUK-HAI WARRIOR
-**(URUK-HAI, ISENGARD, INFANTRY, WARRIOR)**
+*URUK-HAI, ISENGARD, INFANTRY, WARRIOR*
 
 | Mv | F  | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
@@ -86,3 +102,5 @@ One of the following options:
 
 * Shield
 * Pike
+
+</div>

@@ -1,7 +1,9 @@
 ## HERO OF MORDOR
 
+<div class="unitCard" markdown>
+
 ### THE WITCH-KING OF ANGMAR
-**(SPIRIT, RINGWRAITH, MORDOR, CAVALRY, HERO)**
+*SPIRIT, RINGWRAITH, MORDOR, CAVALRY, HERO*
 
 | Mv  | F  | S | D | A  | W | C | - | M | W | F  |
 |:---:|:--:|:-:|:-:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -34,18 +36,24 @@ If the Witch-king has the Crown of Morgul, his Attack value is increased to 3. A
 
 Once per game, the Witch-king can declare he is using the Morgul Blade during the Fight phase before rolling To Wound. If the Witch-king uses the Morgul Blade, he must direct all of his Strikes against a single target. An enemy that suffers a Wound from the Morgul Blade is automatically slain, regardless of the number of Wounds on their profile. **Hero** models may use Fate to avoid these Wounds, but if even a single Wound is not saved, they are slain.
 
-| MAGICAL POWERS | Range | Casting |
+**MAGICAL POWERS**
+
+|  | Range | Casting |
 |----------------|:-----:|:-------:|
 | Transfix       | 12"   | 3+      |
 | Compel         | 12"   | 4+      |
 | Black Dart     | 12"   | 5+      |
 
+</div>
+
 ---
 
 ## WARRIORS OF MORDOR
 
+<div class="unitCard" markdown>
+
 ### MORDOR ORC
-**(ORC, MORDOR, INFANTRY, WARRIOR)**
+*ORC, MORDOR, INFANTRY, WARRIOR*
 
 | Mv | F  | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
@@ -63,10 +71,14 @@ One of the following options:
 * Orc bow
 * Two-handed axe
 
+</div>
+
 ---
 
+<div class="unitCard" markdown>
+
 ### WARG RIDER
-**(ORC, MORDOR, CAVALRY, WARRIOR)**
+*ORC, MORDOR, CAVALRY, WARRIOR*
 
 | Mv  | F  | S | D | A | W | C |
 |:---:|:--:|:-:|:-:|:-:|:-:|:-:|
@@ -83,3 +95,4 @@ One of the following options:
 * Throwing spears
 * Orc bow
 
+</div>
