@@ -1,4 +1,4 @@
-# Blood Bowl Base
+# Prancing Pony Pub
 
 To start on you local PC:
 * install python 
