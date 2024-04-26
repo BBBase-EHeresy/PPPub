@@ -19,7 +19,7 @@ As the Wanderers in the Wild are not an army, and not even really a fighting for
 
 #### MURIN
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 5" | 5/4+ | 4 | 8 | 2 | 2 | 5 | 3 | 1 | 1 |
 
@@ -40,7 +40,7 @@ This is a [sword]. Additionally, Miirin receives a bonus of +1 To Wound when mak
 
 #### DRAR
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 5" | 5/4+ | 4 | 7 | 2 | 2 | 5 | 3 | 1 | 1 |
 
@@ -76,7 +76,7 @@ They are Impossible Allies with all other army lists.
 ### TOM BOMBADIL [160 POINTS]
 *SPIRIT, INFANTRY, HERO - INDEPENDENT HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | ? | ? | ? | ? | ? | ? | ? | 15 | ? |
 
@@ -90,16 +90,16 @@ They are Impossible Allies with all other army lists.
 
 Tom Bombadil treats all kinds of difficult terrain as open, and also always counts as having rolled a 6 on any Jump, Leap, Climb or Swim tests he has to make. Tom cannot be directly targeted by Abilities, Magical Powers or Shooting attacks, this means that Magical Powers, including friendly ones, that would affect Tom count as being automatically Resisted and any missiles that hit Tom will automatically disappear before they hit him. No models may move into Tom's Control Zone for any reason, unless his controlling player allows it. Models that are Hurled, Barged or forced towards Tom in any other way will stop 1" away from him and he will suffer no effects. Tom may Charge enemy models as normal and his side will automatically win any Fight that Tom is involved in, however neither Tom nor any model in the same Fight may make Strikes of any kind. Tom and all friendly models within 3" of him will automatically pass Courage tests. Tom may never carry objectives in Scenarios that require objectives to be picked up.
 
-- **Hey! Come Merry Dol! (PASSIVE)** 
+- **Hey! Come Merry Dol! (PASSIVE)**
 
 Tom Bombadil must give up a point of Will at the end of each turn in which he participated in a Fight during the Fight phase. Should Tom Bombadil be reduced to 0 Will, or there are no other friendly models other than himself and Goldberry, then he will simply wander back off to his homestead. Remove the model as a casualty.
 
 **MAGICAL POWERS**
 
-|                  | **Range** | **Casting** |
+|         | **Range** | **Casting** |
 | ---------------- | --------------- | ----------------- |
-| [Refreshing Song]  | 3"               | 2+                |
-| [Banishment]   | 6"               | 3+                |
+| [Refreshing Song] | 3"        | 2+        |
+| [Banishment]  | 6"        | 3+        |
 
 **ALLIES**
 
@@ -114,7 +114,7 @@ Tom Bombadil is Convenient Allies with all Good army lists.
 ### GOLDBERRY [140 POINTS]
 *SPIRIT, INFANTRY, HERO - INDEPENDENT HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | ? | ? | ? | ? | ? | ? | ? | 10 | ? |
 
@@ -139,9 +139,9 @@ Goldberry may not be included in your force unless it also includes Tom Bombadil
 
 **MAGICAL POWERS**
 
-|                  | **Range** | **Casting** |
+|         | **Range** | **Casting** |
 | ---------------- | --------------- | ----------------- |
-| [Refreshing Song]  | 3"               | 2+                |
+| [Refreshing Song] | 3"        | 2+        |
 
 **ALLIES**
 
@@ -156,7 +156,7 @@ Goldberry is Convenient Allies with all Good army lists.
 ### THRÁIN THE BROKEN [10 POINTS]
 *DWARF, INFANTRY, HERO — INDEPENDENT HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 5" | 4/4+ | 2 | 4 | 1 | 2 | 4 | 0 | 0 | 0 |
 
@@ -166,7 +166,7 @@ Goldberry is Convenient Allies with all Good army lists.
 
 **SPECIAL RULES**
 
-- **Shattered Spirit (PASSIVE)** 
+- **Shattered Spirit (PASSIVE)**
 
 At the start of every Priority phase, before rolling for Priority, Thráin must take an unmodified Courage test. If the test is passed, he acts normally. If it is passed on a double, Thráin adds +2 to his Fight, Strength, Attacks and Courage until the end of the turn. If the Courage test is failed, then the opposing player controls Thráin as if he was one of their models. If Thráin is being used as a Good model, then when he fails his Courage test, the only difference between him and other Evil models is that Good models cannot target Thráin with missile fire or Magical Powers that cause damage, and cannot make Strikes against him. Thráin must always take this Courage test, he can never be forced to automatically pass it.
 

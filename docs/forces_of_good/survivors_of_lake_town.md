@@ -1,6 +1,6 @@
 ﻿## ARMY COMPOSITION
 
-This army may include: Bard the Bowman; Percy; Alfrid the Councillor; Bain, Son of Bard; Sigrid & Tilda; Hilda Bianca; Gandalf the Grey; Bilbo Baggins, Master Burglar; Lake-town Militia Captains and Lake-town Militia. 
+This army may include: Bard the Bowman; Percy; Alfrid the Councillor; Bain, Son of Bard; Sigrid & Tilda; Hilda Bianca; Gandalf the Grey; Bilbo Baggins, Master Burglar; Lake-town Militia Captains and Lake-town Militia.
 
 The profile for Alfrid the Councillor can be found on page 46. Alfrid the Councillor counts as an Independent Hero if taken as part of a Survivors of Lake-town army list.
 
@@ -12,7 +12,7 @@ In the films, following Smaug’s destruction of Lake-town, some former members 
 
 ## ARMY BONUS
 
-“Any man who wants to give their last, follow me!” – Bard the Bowman’s Stand Fast! will affect other Laketown Hero models. Additionally, Bard the Bowman’s Saviour of Lake-town special rule has its range increased to 12" instead of 6".
+“Any man who wants to give their last, follow me!" – Bard the Bowman’s Stand Fast! will affect other Laketown Hero models. Additionally, Bard the Bowman’s Saviour of Lake-town special rule has its range increased to 12" instead of 6".
 
 ## HEROES OF THE SURVIVORS OF LAKE-TOWN
 
@@ -21,9 +21,9 @@ In the films, following Smaug’s destruction of Lake-town, some former members 
 ### BARD THE BOWMAN [140 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF LEGEND*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 5/3+ |  4  |  4  |  3  |  3  |  6  |  3  |  3  |  3  |
+| 6" | 5/3+ | 4 | 4 | 3 | 3 | 6 | 3 | 3 | 3 |
 
 **WARGEAR**
 
@@ -63,15 +63,15 @@ Bard the Bowman’s Stand Fast! rule has a range of 6". Furthermore, Bain, Son o
 
 | Siege Engine | Strength | Defence | Wounds |
 |:--:|:--:|:-:|:--:|
-|Windlance  | (10) | 10 | 3 |
+|Windlance | (10) | 10 | 3 |
 
 The Windlance follows all of the rules for a Siege Engine with the Superior Construction upgrade, as described in the main rules manual.
 
-The Windlance is a small Siege Engine and Bard the Bowman counts as the Siege Engine’s only crew. Note that this means that he cannot move the  Windlance, though unlike normal crew, he can choose to move more than 6" away from it even if it has not yet been destroyed.
+The Windlance is a small Siege Engine and Bard the Bowman counts as the Siege Engine’s only crew. Note that this means that he cannot move the Windlance, though unlike normal crew, he can choose to move more than 6" away from it even if it has not yet been destroyed.
 
 Provided that he is in base contact with the Windlance and is not Engaged in combat, Bard the Bowman can fire the Windlance every turn. Bard the Bowman may use his Might to influence To Hit, To Wound and Scatter table rolls made for the Windlance.
 
-**Accurate** – When firing the Windlance at a Battlefield target, the shot only scatters 3" rather than 6". 
+**Accurate** – When firing the Windlance at a Battlefield target, the shot only scatters 3" rather than 6".
 
 ---
 
@@ -87,12 +87,12 @@ Provided that he is in base contact with the Windlance and is not Engaged in com
 Sigrid and Tilda are Bard’s daughters. Young and unaccustomed to matters of warfare, they have no place on a battlefield. As the Battle of the Five Armies rages on, both are placed in great peril, their presence spurring on both Bard and Bain to acts of great heroism and courage in order to protect the two young girls from harm.
 
 #### SIGRID
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 2/4+ | 2 | 2 | 1 | 1 | 4 | 0 | 1 | 2 |
 
 #### TILDA
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 1/4+ | 2 | 2 | 1 | 1 | 3 | 0 | 1 | 2 |
 
@@ -106,13 +106,13 @@ Sigrid and Tilda may only be included in your army if it also includes Bard the 
 
 **SPECIAL RULES**
 
-- **"Da! Down Here!" (PASSIVE)** 
+- **"Da! Down Here!" (PASSIVE)**
 
 Bard the Bowman and Bain, Son of Bard receive a bonus of +1 to their Fight value if they are within 6" of either Sigrid or Tilda. If Bard the Bowman or Bain, Son of Bard are within 6" of both Sigrid and Tilda then Bard and/or Bain receive a bonus of +1 to their Fight value and may call a Heroic Combat each turn without spending Might.
 
-- **Something to Fight for (ACTIVE)** 
+- **Something to Fight for (ACTIVE)**
 
-If either Sigrid or Tilda are slain, Bard the Bowman will automatically pass all Courage tests. Additionally, when Bard moves, he must Charge the model that killed his daughter if possible. If this is not possible, Bard must move as close as possible to the model that killed his daughter. Once the model that killed his daughter has been slain, Bard must move as fast as possible towards the nearest visible enemy model for the rest of the game, Charging if possible. 
+If either Sigrid or Tilda are slain, Bard the Bowman will automatically pass all Courage tests. Additionally, when Bard moves, he must Charge the model that killed his daughter if possible. If this is not possible, Bard must move as close as possible to the model that killed his daughter. Once the model that killed his daughter has been slain, Bard must move as fast as possible towards the nearest visible enemy model for the rest of the game, Charging if possible.
 
 It is possible for two models to be the target of Bard’s rage if both Sigrid and Tilda have been slain. In this case, Bard will target the closest of these two models until it has been slain, following which he will immediately target the second model. Once both models have been slain, Bard must continue to move as fast as possible towards the nearest visible enemy model for the rest of the game, Charging if possible.
 
@@ -125,9 +125,9 @@ It is possible for two models to be the target of Bard’s rage if both Sigrid a
 ### PERCY [50 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 3/3+ |  4  |  4  |  2  |  2  |  4  |  3  |  1  |  1  |
+| 6" | 3/3+ | 4 | 4 | 2 | 2 | 4 | 3 | 1 | 1 |
 
 **WARGEAR**
 
@@ -153,9 +153,9 @@ Percy, and Lake-town Militia within 6" of Percy, may re-roll 1s To Hit when maki
 ### HILDA-BIANCA [30 POINTS]
 *WOMAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 2/4+ |  3  |  3  |  1  |  2  |  5  |  1  |  1  |  1  |
+| 6" | 2/4+ | 3 | 3 | 1 | 2 | 5 | 1 | 1 | 1 |
 
 **WARGEAR**
 
@@ -180,7 +180,7 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, Hilda-Bianca and L
 ### BILBO BAGGINS, MASTER BURGLAR [90 POINTS]
 *HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F   | S | D | A | W | C | M | W | F |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:--:|:---:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 4" | 3/3+ | 2 | 6 | 1 | 2 | 6 | 3 | 3 | 3 |
 
@@ -189,11 +189,11 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, Hilda-Bianca and L
 - [The One Ring]
 - Mithril Coat
 - Sting
-- **Mithril Coat (PASSIVE)** 
+- **Mithril Coat (PASSIVE)**
 
 Whilst wearing the Mithril Coat, a model adds +3 to their Defence (this is already included in Bilbo’s profile above).
 
-- **Sting (ACTIVE)** 
+- **Sting (ACTIVE)**
 
 Sting is an *[Elven-made]* [dagger]. Additionally, whilst carrying Sting, a model adds +1 to their Strength when making Strikes.
 
@@ -207,7 +207,7 @@ Sting is an *[Elven-made]* [dagger]. Additionally, whilst carrying Sting, a mode
 
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1).
-- **It has not yet Awoken (PASSIVE)** 
+- **It has not yet Awoken (PASSIVE)**
 
 Bilbo Baggins, Master Burglar ignores the Sauron’s Will section of the One Ring’s rules. Furthermore, if Bilbo is the only model left on the controlling player's side, and is wearing the Ring, he is not removed as a casualty, as would usually be the case.
 
@@ -220,7 +220,7 @@ Bilbo Baggins, Master Burglar ignores the Sauron’s Will section of the One Rin
 ### LAKE-TOWN MILITIA CAPTAIN [40 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F   | S | D | A | W | C | M | W | F |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:--:|:---:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 3/4+ | 4 | 5 | 2 | 2 | 4 | 2 | 1 | 1 |
 
@@ -249,7 +249,7 @@ Bilbo Baggins, Master Burglar ignores the Sauron’s Will section of the One Rin
 ### LAKE-TOWN MILITIA [5 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
 | 6" | 2/4+| 3 | 4 | 1 | 1 | 3 |
 

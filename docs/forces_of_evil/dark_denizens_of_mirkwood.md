@@ -1,26 +1,19 @@
-﻿## DARK DENIZENS OF MIRKWOOD
+﻿## ARMY COMPOSITION
 
-Within the darkened woods of Mirkwood, many sinister creatures thrive under the forest's malevolent influence, once Greenwood the Great, now a place of dread and shadow. Here, the Spider Queen, a descendant of Ungoliant, has made her terrifying lair, bringing with her a brood of deadly spiders that ensnare and devour anything that strays into their midst.
+This army may include: The Spider Queen; Mirkwood Spiders; Giant Spiders; Bat Swarms and Fell Wargs.
 
-### ARMY COMPOSITION
+The profile for Fell Wargs can be found on page 107.
 
-This army may include:
-- The Spider Queen
-- Mirkwood Spiders
-- Giant Spiders
-- Bat Swarms
-- Fell Wargs
+## ARMY BONUS
 
-### ARMY BONUS
+**Beasts of Mirkwood** – So long as your army includes the Spider Queen, warbands composed entirely of Warg models do not need a Hero to lead them if they number six or more models; warbands composed entirely of Spider models do not need a Hero to lead them if they number two or more models; and warbands composed of a mixture of models do not need a Hero to lead them if they number ten or more models. Instead, one Warrior within the warband takes on the role of the warband’s captain for the purpose of deployment.
 
-Beasts of Mirkwood — Warbands consisting of Wargs or Spiders do not require a Hero to lead them if they meet size criteria due to the Spider Queen's influence.
+## HEROES OF THE DARK DENIZENS OF MIRKWOOD
 
-![](../media/3_Middle-earth_-_The_Armies_of_The_Hobbit_media/image198.jpeg)
+<div class="unitCard" markdown>
 
-### HEROES OF THE DARK DENIZENS OF MIRKWOOD
-
-#### THE SPIDER QUEEN [115 POINTS]
-**SPIDER, MIRKWOOD, MONSTER, INFANTRY, HERO - HERO OF VALOUR**
+### THE SPIDER QUEEN [115 POINTS]
+*SPIDER, MIRKWOOD, MONSTER, INFANTRY, HERO - HERO OF VALOUR*
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -28,7 +21,7 @@ Beasts of Mirkwood — Warbands consisting of Wargs or Spiders do not require a 
 
 **WARGEAR**
 
-- Large venomous fangs.
+- Large venomous fangs
 
 **HEROIC ACTIONS**
 
@@ -38,15 +31,33 @@ Beasts of Mirkwood — Warbands consisting of Wargs or Spiders do not require a 
 **SPECIAL RULES**
 
 - [Monstrous Charge]
-- Swift Movement
+- [Swift Movement]
 - [Terror]
-- Venom
-- Progeny: Can summon Broodlings using Will points.
+- [Venom]
+- **Progeny (ACTIVE)**
 
-### WARRIORS OF THE DARK DENIZENS OF MIRKWOOD
+During any point in her Move phase, the Spider Queen may expend any number of remaining Will points to summon a Broodling. For each Will point expended in this way, place a single Broodling base anywhere within 3" of the Spider Queen but not in base contact with any enemy models. Broodlings may Move and Charge on a turn in which they were summoned. Broodlings are not counted when working out if a force is Broken.
 
-#### MIRKWOOD SPIDER [20 POINTS]
-**SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
+---
+
+**BROODLING**
+
+*SPIDER, MIRKWOOD, INFANTRY, WARRIOR*
+
+| Mv  | F   | S | D | A | W | C |
+|:---:|:---:|:-:|:-:|:-:|:-:|:-:|
+| 10" | 2/6+| 3 | 3 | 1 | 1 | 2 |
+
+</div>
+
+---
+
+## WARRIORS OF THE DARK DENIZENS OF MIRKWOOD
+
+<div class="unitCard" markdown>
+
+### MIRKWOOD SPIDER [20 POINTS]
+*SPIDER, MIRKWOOD, INFANTRY, WARRIOR*
 
 | Mv | F | S | D | A | W | C |
 |:----:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -54,17 +65,25 @@ Beasts of Mirkwood — Warbands consisting of Wargs or Spiders do not require a 
 
 **WARGEAR**
 
-- Venomous fangs.
+- Venomous fangs
 
 **SPECIAL RULES**
 
-- Poisoned Fangs
-- Swift Movement
+- [Poisoned Fangs]
+- [Swift Movement]
 - [Terror]
-- Spider Webs: Can shoot webs that paralyze like the Paralyse Magical Power.
+- **Spider Webs (ACTIVE)**
 
-#### GIANT SPIDER [20 POINTS]
-**SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
+A Mirkwood Spider can shoot webs at its enemies. They are treated as a throwing weapon with a range of 8". If a Mirkwood Spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the Paralyse Magical Power. A Hero model hit by a Spider Web can choose to expend a Fate point in the same manner as if it had just suffered a Wound in order to dodge the attack. If successful, the target model is not Paralysed.
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### GIANT SPIDER [20 POINTS]
+*SPIDER, MIRKWOOD, INFANTRY, WARRIOR*
 
 | Mv | F | S | D | A | W | C |
 |:----:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -72,16 +91,22 @@ Beasts of Mirkwood — Warbands consisting of Wargs or Spiders do not require a 
 
 **WARGEAR**
 
-- Venomous fangs.
+- Venomous fangs
 
 **SPECIAL RULES**
 
-- Poisoned Fangs
-- Swift Movement
+- [Poisoned Fangs]
+- [Swift Movement]
 - [Terror]
 
-#### BAT SWARM [35 POINTS]
-**BAT, INFANTRY, WARRIOR**
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### BAT SWARM [35 POINTS]
+*BAT, INFANTRY, WARRIOR*
 
 | Mv | F | S | D | A | W | C |
 |:----:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -89,11 +114,13 @@ Beasts of Mirkwood — Warbands consisting of Wargs or Spiders do not require a 
 
 **WARGEAR**
 
-- Claws and teeth.
+- Claws and teeth
 
 **SPECIAL RULES**
 
 - [Fly]
-- Blinding Swarm: Halves enemy Fight value when engaged.
+- **Blinding Swarm (PASSIVE)**
 
-These denizens, led by the formidable Spider Queen, represent a formidable force within the darkened woods of Mirkwood, turning the forest into a deadly trap for the unwary.
+The Fight value of any enemy model Engaged in combat with a Bat Swarm is halved (rounding down).
+
+</div>

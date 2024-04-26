@@ -15,7 +15,7 @@ The profile for Aragorn - Strider can be found on [page 12]. Aragorn - Strider c
 ### ARATHORN [75 POINTS]
 *MAN, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 5/3+ | 4 | 5 | 3 | 2 | 5 | 3 | 2 | 1 |
 
@@ -41,7 +41,7 @@ If your force contains Arathorn and Aragorn - Strider, then it will automaticall
 ### HALBARAD [70 POINTS]
 *MAN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 5/3+ | 4 | 5 | 2 | 2 | 6 | 3 | 2 | 1 |
 
@@ -60,7 +60,7 @@ If your force contains Arathorn and Aragorn - Strider, then it will automaticall
 
 - Banner of Arwen Evenstar: 40 points
 - [Horse]: 10 points
-- **Banner of Arwen Evenstar (PASSIVE)** 
+- **Banner of Arwen Evenstar (PASSIVE)**
 
 This is a banner that affects all friendly models within 6" rather than 3". Friendly models within 6" gain the [Fearless] special rule. Additionally, Halbarad suffers no penalties for carrying the banner.
 
@@ -73,7 +73,7 @@ This is a banner that affects all friendly models within 6" rather than 3". Frie
 ### RANGER OF THE NORTH [30 POINTS]
 *MAN, INFANTRY, HERO - INDEPENDENT HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/3+ | 4 | 5 | 1 | 1 | 4 | 1 | 1 | 1 |
 
@@ -101,7 +101,7 @@ This is a banner that affects all friendly models within 6" rather than 3". Frie
 ### DÚNEDAIN [25 POINTS]
 *MAN, INFANTRY, HERO - INDEPENDENT HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/3+ | 4 | 4 | 1 | 1 | 4 | 1 | 1 | 1 |
 

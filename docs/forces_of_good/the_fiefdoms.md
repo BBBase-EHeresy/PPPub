@@ -6,7 +6,6 @@ This army may include: Prince Imrahil of Dol Amroth; Forlong the Fat; Angbor the
 
 **"For the White City!"** - Special rules marked with an \* affect all models from this army list, not just the ones listed.
 
-
 ## HEROES OF THE FIEFDOMS
 
 <div class="unitCard" markdown>
@@ -14,7 +13,7 @@ This army may include: Prince Imrahil of Dol Amroth; Forlong the Fat; Angbor the
 ### PRINCE IMRAHIL OF DOL AMROTH [140 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 6/4+ | 4 | 7 | 3 | 3 | 6 | 3 | 3 | 3 |
 
@@ -47,11 +46,10 @@ Captains of Dol Amroth, Knights of Dol Amroth and Men-at-arms of Dol Amroth with
 
 <div class="unitCard" markdown>
 
-
 ### FORLONG THE FAT [80 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 5 | 6 | 2 | 3 | 4 | 3 | 1 | 1 |
 
@@ -78,17 +76,16 @@ Axemen of Lossarnach within 6" of Forlong the Fat must re-roll results of 1 when
 
 <div class="unitCard" markdown>
 
-
 ### ANGBOR THE FEARLESS [65 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 5 | 2 | 2 | 5 | 2 | 3 | 1 |
 
 **WARGEAR**
 
-- [Armour] 
+- [Armour]
 - Broadsword
 - **Broadsword (ACTIVE)**
 
@@ -106,11 +103,10 @@ Clansmen of Lamedon within 6" of Angbor the Fearless gain the [Fearless] special
 
 <div class="unitCard" markdown>
 
-
 ### DUINHIR [60 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 4/3+ | 4 | 5 | 2 | 2 | 3 | 2 | 1 | 1 |
 
@@ -147,7 +143,7 @@ Blackroot Vale Archers within 6" of Duinhir, that did not move during the Move p
 ### CAPTAIN OF DOL AMROTH [65 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 7 | 2 | 2 | 4 | 2 | 1 | 1 |
 
@@ -178,7 +174,7 @@ A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth
 ### KNIGHT OF DOL AMROTH [11 POINTS]
 *MAN, GONDOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/4+ | 3 | 6 | 1 | 1 | 4 |
 
@@ -210,7 +206,7 @@ A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth
 ### MAN-AT-ARMS OF DOL AMROTH [11 POINTS]
 *MAN, GONDOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/4+ | 3 | 5 | 1 | 1 | 3 |
 
@@ -239,7 +235,7 @@ A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth
 ### AXEMAN OF LOSSARNACH [9 POINTS]
 *MAN, GONDOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/4+ | 3 | 5 | 1 | 1 | 3 |
 
@@ -265,7 +261,7 @@ An axe of Lossarnach can be used as either a [spear] or a *[two-handed]* [axe].
 ### CLANSMEN OF LAMEDON [8 POINTS]
 *MAN, GONDOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/4+ | 3 | 4 | 1 | 1 | 5 |
 
@@ -292,7 +288,7 @@ Clansmen within 6" of Angbor the Fearless count as being in range of a [banner].
 ### BLACKROOT VALE ARCHER [8 POINTS]
 *MAN, GONDOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 3/3+ | 3 | 4 | 1 | 1 | 2 |
 

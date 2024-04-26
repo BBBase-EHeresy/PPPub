@@ -13,7 +13,7 @@ This army may include: Gwaihir and Great Eagles.
 ### GWAIHIR [150 POINTS]
 *EAGLE, MONSTER, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 3" | 8/4+ | 6 | 8 | 2 | 3 | 6 | 3 | 3 | 3 |
 
@@ -47,7 +47,7 @@ Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast!] or benefit
 ### GREAT EAGLE [100 POINTS]
 *EAGLE, MONSTER, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 3" | 7/4+ | 6 | 8 | 2 | 3 | 6 |
 

@@ -13,7 +13,7 @@ This army may include: Girion, Lord of Dale; Captains of Dale; Warriors of Dale.
 ### GIRION, LORD OF DALE [75 POINTS]
 *MAN, DALE, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
 | 6" | 5/3+| 4 | 6 | 2 | 2 | 6 |
 
@@ -51,7 +51,7 @@ If Girion, Lord of Dale hits a target with his great bow, he may take another sh
 ### CAPTAIN OF DALE [50 POINTS]
 *MAN, DALE, INFANTRY, HERO*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
 | 6" | 5/4+| 4 | 5 | 2 | 2 | 3 |
 
@@ -80,7 +80,7 @@ If Girion, Lord of Dale hits a target with his great bow, he may take another sh
 ### WARRIOR OF DALE [7 POINTS]
 *MAN, DALE, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
 | 6" | 4/4+| 3 | 4 | 1 | 1 | 3 |
 

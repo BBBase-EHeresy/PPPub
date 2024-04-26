@@ -19,13 +19,13 @@ Unlike normal warbands, a Fellowship warband is comprised entirely of Hero model
 ### FRODO BAGGINS [60 POINTS]
 *HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D  | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 4' | 3/3+ | 2 | 3 | 1 | 2 | 6 | 2 | 3 | 3 |
 
 **WARGEAR**
 
-* [Dagger] 
+* [Dagger]
 * [The One Ring]
 
 **HEROIC ACTIONS**
@@ -37,7 +37,7 @@ Unlike normal warbands, a Fellowship warband is comprised entirely of Hero model
 * Mithril Coat: 15 points
 * Sting: 5 points
 * [Elven Cloak]: 5 points
-* **Mithril Coat (PASSIVE)** 
+* **Mithril Coat (PASSIVE)**
 
 Whilst wearing the Mithril Coat, a model adds +3 to their Defence.
 
@@ -59,7 +59,7 @@ Sting is an *[Elven-made]* dagger. Additionally, whilst carrying Sting, a model 
 ### SAMWISE GAMGEE [40 POINTS]
 *HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 4" | 3/3+ | 2 | 3 | 1 | 2 | 6 | 2 | 2 | 2 |
 
@@ -80,7 +80,7 @@ Sting is an *[Elven-made]* dagger. Additionally, whilst carrying Sting, a model 
 
 * [Resistant to Magic]
 * [Throw Stones] (range 8", Strength 1)
-* **Let him go or I'll have you, Longshanks! (ACTIVE)** 
+* **Let him go or I'll have you, Longshanks! (ACTIVE)**
 
 If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a [Heroic Combat] without using Might. If the Heroic Combat is successful then Sam must use the following move to join Frodo's combat. If this is not possible then Sam must move as close as possible to Frodo.
 
@@ -93,7 +93,7 @@ If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a [Heroic Com
 ### MERIADOC BRANDYBUCK [10 POINTS]
 *HOBBIT, INFANTRY, HERO - MINOR HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 4" | 3/3+ | 2 | 3 | 1 | 1 | 4 | 0 | 0 | 1 |
 
@@ -109,7 +109,7 @@ If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a [Heroic Com
 
 * [Resistant to Magic]
 * [Throw Stones] (range 8", Strength 1)
-* **"For the Shire!" (ACTIVE)** 
+* **"For the Shire!" (ACTIVE)**
 
 Whilst within 3" of Boromir of Gondor, Merry may spend Boromir's Might points as if they were his own.
 
@@ -122,7 +122,7 @@ Whilst within 3" of Boromir of Gondor, Merry may spend Boromir's Might points as
 ### PEREGRIN TOOK [10 POINTS]
 *HOBBIT, INFANTRY, HERO - MINOR HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 4" | 3/3+ | 2 | 3 | 1 | 1 | 4 | 0 | 0 | 1 |
 
@@ -138,7 +138,7 @@ Whilst within 3" of Boromir of Gondor, Merry may spend Boromir's Might points as
 
 * [Resistant to Magic]
 * [Throw Stones] (range 8", Strength 1)
-* **"For the Shire!" (ACTIVE)** 
+* **"For the Shire!" (ACTIVE)**
 
 Whilst within 3" of Boromir of Gondor, Pippin may spend Boromir's Might points as if they were his own.
 
@@ -151,7 +151,7 @@ Whilst within 3" of Boromir of Gondor, Pippin may spend Boromir's Might points a
 ### GANDALF THE GREY [170 POINTS]
 *WIZARD, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 5 | 1 | 3 | 7 | 3 | 6* | 3 |
 
@@ -185,7 +185,7 @@ Gandalf may re-roll his dice when making Fate rolls.
 
 Gandalf s cart is a mount that uses the following profile:
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 8" | 0 | 3 | 5 | 0 | 3 | 3 |
 
@@ -195,16 +195,16 @@ At the start of every friendly Shoot phase, select a single enemy model within 6
 
 **MAGICAL POWERS**
 
-|  | Range | Casting |
+| | Range | Casting |
 |:----------------|:-------:|:---------:|
-| [Blinding Light] | -     | 2+      |
-| [Terrifying Aura]| -   | 2+      |
-| [Immobilise]     | 12"   | 3+      |
-| [Command]        | 12"   | 4+      |
-| [Protection of the Valar] | - | 4+  |
-| [Strengthen Will] | 12"  | 4+      |
-| [Collapse Rocks] | 6"    | 5+      |
-| [Sorcerous Blast]| 12"   | 5+      |
+| [Blinding Light] | -   | 2+   |
+| [Terrifying Aura]| -  | 2+   |
+| [Immobilise]   | 12"  | 3+   |
+| [Command]    | 12"  | 4+   |
+| [Protection of the Valar] | - | 4+ |
+| [Strengthen Will] | 12" | 4+   |
+| [Collapse Rocks] | 6"  | 5+   |
+| [Sorcerous Blast]| 12"  | 5+   |
 
 </div>
 
@@ -215,7 +215,7 @@ At the start of every friendly Shoot phase, select a single enemy model within 6
 ### ARAGORN - STRIDER [160 POINTS]
 *MAN, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 6/3+ | 4 | 5 | 3 | 3 | 6 | 3* | 3 | 3 |
 
@@ -259,16 +259,16 @@ Andtiril is an *[Elven-made]* *[hand-and-a-half]* [Sword] Additionally, when mak
 ### BOROMIR OF GONDOR [95 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 6/4+ | 4 | 5 | 3 | 3 | 6 | 6 | 1 | 0 |
 
 **WARGEAR**
 
-* [Armour] 
+* [Armour]
 * [Sword]
 * Horn of Gondor
-* **Horn of Gondor (ACTIVE)** 
+* **Horn of Gondor (ACTIVE)**
 
 Boromir can blow the horn at the start of a Fight if he is outnumbered by two-to-one or more. The enemy combatant in the Fight with the highest Courage value must take a Courage test. If the test is failed, Boromir automatically wins the fight.
 
@@ -294,7 +294,7 @@ Boromir can blow the horn at the start of a Fight if he is outnumbered by two-to
 ### LEGOLAS GREENLEAF [100 POINTS]
 *ELF, MIRKWOOD, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 6/3+ | 4 | 4 | 2 | 2 | 6 | 3 | 2 | 3 |
 
@@ -317,7 +317,7 @@ Boromir can blow the horn at the start of a Fight if he is outnumbered by two-to
 **SPECIAL RULES**
 
 * [Woodland Creature]
-* **Deadly Shot (ACTIVE)** 
+* **Deadly Shot (ACTIVE)**
 
 Legolas may fire his bow three times in the Shoot phase rather than once. Each of these shots may be made against a different target.
 
@@ -334,7 +334,7 @@ If Legolas and Gimli are in the same army then keep a track of how many models t
 ### GIMLI SON OF GLOIN [100 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 5" | 6/4+ | 4 | 8 | 2 | 2 | 6 | 3 | 2 | 2 |
 
@@ -343,7 +343,7 @@ If Legolas and Gimli are in the same army then keep a track of how many models t
 * [Heavy Dwarf armour]
 * *[Master-Forged]* *[Two-Handed]* [Axe]
 * [Two axes][Axe]
-* [Throwing axes][Throwing Weapons]
+* [Throwing axes][Throwing weapon]
 
 **HEROIC ACTIONS**
 
@@ -356,7 +356,7 @@ If Legolas and Gimli are in the same army then keep a track of how many models t
 
 **SPECIAL RULES**
 
-* **Axes of the Dwarves! (ACTIVE)** 
+* **Axes of the Dwarves! (ACTIVE)**
 
 At the beginning of each fight, Gimli can choose to use either an axe in each hand, in which case he fights with 3 Attacks, or use his *[two-handed]* axe.
 
@@ -373,7 +373,7 @@ If Legolas and Gimli are in the same army then keep a track of how many models t
 ### BILL THE PONY [25 POINTS]
 *PONY, INFANTRY, HERO - INDEPENDENT HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 8" | 1/6+ | 3 | 4 | 1 | 2 | 3 | 0 | 1 | 1 |
 
@@ -391,7 +391,7 @@ Hobbit models treat Bill the Pony as a [banner].
 
 Each turn, a single member of the Fellowship that ends their move in base contact with Bill the Pony may attempt to regain a point of Might, Will, or Fate spent earlier in the battle. Roll a dice - on the score of a 5+, the point is restored.
 
-* **Only a Pony (PASSIVE)** 
+* **Only a Pony (PASSIVE)**
 
 Bill the Pony may never Charge an enemy model for any reason.
 
@@ -404,7 +404,7 @@ Bill the Pony may never Charge an enemy model for any reason.
 ### SMÉAGOL [30 POINTS]
 *HOBBIT, INFANTRY, HERO - INDEPENDENT HERO*
 
-| Mv | F  | S | D | A | W | C |M | W | F |
+| Mv | F | S | D | A | W | C |M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 5" | 4/4+ | 4 | 4 | 2 | 2 | 4 | 1 | 0 | 1 |
 
@@ -416,7 +416,7 @@ Bill the Pony may never Charge an enemy model for any reason.
 
 * [Cave Dweller]
 
-* **Serve the Master of the Precious (PASSIVE)** 
+* **Serve the Master of the Precious (PASSIVE)**
 
 Smeagol may only be taken if Frodo is also in the same army.
 

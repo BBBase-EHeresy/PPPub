@@ -10,7 +10,7 @@
 [Master-Forged]: ../rules_manual/weapons_and_wargear.md#master-forged-weapons
 [Two-Handed]: ../rules_manual/weapons_and_wargear.md#two-handed-weapons
 [Axe]: ../rules_manual/weapons_and_wargear.md#piercing-strike-axes-and-picks
-[Throwing Weapons]: ../rules_manual/weapons_and_wargear.md#throwing-weapons
+[Throwing Weapon]: ../rules_manual/weapons_and_wargear.md#throwing-weapons
 [Unarmed]: ../rules_manual/weapons_and_wargear.md#unarmed-models
 [Banner]: ../rules_manual/weapons_and_wargear.md#banners
 [Club]: ../rules_manual/weapons_and_wargear.md#stun-clubs-and-staffs
@@ -37,32 +37,10 @@
 [War Spear]: ../rules_manual/weapons_and_wargear.md#war-spears
 [The One Ring]: ../rules_manual/weapons_and_wargear.md#the-one-ring
 [Armour]: ../rules_manual/weapons_and_wargear.md#armour
+[War Drum]: ../rules_manual/weapons_and_wargear.md#war-drum-x
 
 [Horse]: ../rules_manual/cavalry.md#horse
 [Armoured Horse]: ../rules_manual/cavalry.md#armoured-horse
 [Pony]: ../rules_manual/cavalry.md#pony
 [Warg]: ../rules_manual/cavalry.md#warg
 [Fell Warg]: ../rules_manual/cavalry.md#fell-warg
-
-[Spears]: ../rules_manual/weapons_and_wargear.md#spears
-[War Spears]: ../rules_manual/weapons_and_wargear.md#war-spears
-[Pikes]: ../rules_manual/weapons_and_wargear.md#pikes
-[Elven-made Weapons]: ../rules_manual/weapons_and_wargear.md#elven-made-weapons
-[Lances]: ../rules_manual/weapons_and_wargear.md#lances
-[Whip]: ../rules_manual/weapons_and_wargear.md#whip
-[Bash (Hammers, Maces and Mauls)]: ../rules_manual/weapons_and_wargear.md#bash-hammers-maces-and-mauls
-[Feint or Stab (Daggers and Swords)]: ../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords
-[Piercing Strike (Axes and Picks)]: ../rules_manual/weapons_and_wargear.md#piercing-strike-axes-and-picks
-[Stun (Clubs and Staffs)]: ../rules_manual/weapons_and_wargear.md#stun-clubs-and-staffs
-[Whirl (Flails, Scourges and Whips)]: ../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips
-[Missile Weapons]: ../rules_manual/weapons_and_wargear.md#missile-weapons
-
-[Crossbows]: ../rules_manual/weapons_and_wargear.md#crossbows
-
-[Slingshot]: ../rules_manual/weapons_and_wargear.md#slingshot
-
-[War Drum (X)]: ../rules_manual/weapons_and_wargear.md#war-drum-x
-[War Horns]: ../rules_manual/weapons_and_wargear.md#war-horns
-
-[Heavy Armour and Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour
-

@@ -1,12 +1,4 @@
-﻿## FAR HARAD
-
-*To the south of Gondor, and even beyond Harad, lie the scorching deserts and barren wastes of Far Harad. The arid conditions are so harsh that even the majority of the Haradrim dare not venture too far south. Yet, the tribes of the Mahud, a savage warrior people fueled by tradition and superstition, thrive here, valuing warrior strength above all.*
-
-*Mahud warriors, eschewing plans and tactics, charge into enemy ranks howling and brandishing bone clubs, daggers, and spears. Some flank their foes to dispatch them with poisoned darts fired from blowpipes with deadly accuracy. Many Mahud mount war camels, which can endure the intense heat, and charge into foes, impaling them on sharpened Mumak tusks attached to their mounts.*
-
-*Mahud leaders, known as Tribesmasters, earn their position through acts of strength and brutality. A Tribesmaster who can unite several tribes may call himself a king, though this kingship is constantly challenged. The Mahud also have the unique ability to capture, control, and train Mumakil for war, using these massive creatures to devastating effect in battle.*
-
-## ARMY COMPOSITION
+﻿## ARMY COMPOSITION
 
 This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad; Mahud Warriors; Mahud Raiders; and Half Trolls.
 
@@ -16,17 +8,19 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 
 ## HEROES OF FAR HARAD
 
-### MAHUD KING [70 POINTS]
-**MAN, MAHUD, INFANTRY, HERO - HERO OF FORTITUDE**
+<div class="unitCard" markdown>
 
-| Mv | F  | S | D | A | W | C |
-|:--:|:--:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 5/3+ | 5 | 5 | 3 | 2 | 5 |
+### MAHUD KING [70 POINTS]
+*MAN, MAHUD, INFANTRY, HERO - HERO OF FORTITUDE*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 6" | 5/3+ | 5 | 5 | 3 | 2 | 5 | 2 | 2 | 2 |
 
 **WARGEAR**
 
 - [Armour]
-- Club
+- [Club]
 
 **HEROIC ACTIONS**
 
@@ -38,19 +32,25 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 - War camel: 10 points
 - Blowpipe with poisoned darts: 5 points
 - [Shield]: 5 points
-- War spear: 5 points
+- [War spear]: 5 points
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### MAHUD TRIBESMASTER [50 POINTS]
-**MAN, MAHUD, INFANTRY, HERO - HERO OF FORTITUDE**
+*MAN, MAHUD, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C |
-|:--:|:--:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 4/3+ | 5 | 5 | 2 | 2 | 3 |
+| Mv | F | S | D | A | W | C | M | W | F |
+|:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 6" | 4/3+ | 5 | 5 | 2 | 2 | 3 | 2 | 1 | 1 |
 
 **WARGEAR**
 
 - [Armour]
-- Club
+- [Club]
 
 **HEROIC ACTIONS**
 
@@ -62,11 +62,22 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 - War camel: 10 points
 - Blowpipe with poisoned darts: 5 points
 - [Shield]: 5 points
-- War spear: 5 points
+- [War spear]: 5 points
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### WAR MUMAK OF FAR HARAD [300 POINTS]
-**MUMAK, MONSTER, WAR BEAST, HERO - HERO OF FORTITUDE**
-*Uses the profile of the War Mumak of Harad with the Mahud Beastmaster Chieftain upgrade.*
+*MUMAK, MONSTER, WAR BEAST, HERO - HERO OF FORTITUDE*
+
+A War Mumak of Far Harad uses the same profile as the War Mumak of Harad in every way (see page 194), with the exception that it always has the Mahud Beastmaster Chieftain upgrade (see page 195). 
+
+A War Mumak of Far Harad is comprised of a Mahud Beastmaster Chieftain with armour and a club as the warband's captain and the Mumak itself.
+
+A War Mumak of Far Harad's Howdah has a capacity of 12 models. The only models that may ride within the Howdah are Mahud Warriors and Half Trolls.
 
 **OPTIONS**
 
@@ -77,19 +88,25 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 - Foul Temperament: 15 points
 - Rappelling Lines: 10 points
 
+</div>
+
+---
+
 ## WARRIORS OF FAR HARAD
 
-### MAHUD WARRIOR [8 POINTS]
-**MAN, MAHUD, INFANTRY, WARRIOR**
+<div class="unitCard" markdown>
 
-| Mv | F  | S | D | A | W | C |
+### MAHUD WARRIOR [8 POINTS]
+*MAN, MAHUD, INFANTRY, WARRIOR*
+
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 3/3+ | 4 | 5 | 1 | 1 | 2 |
 
 **WARGEAR**
 
 - [Armour]
-- Club
+- [Club]
 - [Shield]
 
 **OPTIONS**
@@ -98,42 +115,68 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 - Blowpipe with poisoned darts: 1 point
 - [Spear]: 1 point
 
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
 ### MAHUD RAIDER [17 POINTS]
 **MAN, MAHUD, CAVALRY, WARRIOR**
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 3/3+ | 4 | 5 | 1 | 1 | 2 |
 
 **WARGEAR**
 
 - [Armour]
-- Club
+- [Club]
 - [Shield]
-- War camel
+- [War camel]
 
 **OPTIONS**
 
 - [Banner]: 25 points
 - Blowpipe with poisoned darts: 1 point
-- War spear: 1 point
+- [War spear]: 1 point
+
+---
+
+**WAR CAMEL**
+
+|  Mv  |  F  |  S  |  D  |  A  |  W  |  C  |
+|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10"  |  0  |  4  |  4  |  0  |  1  |  2  |
+
+- **Impaler (ACTIVE)**
+
+Whenever a war camel charges into combat, it will inflict one Strength 4 hit upon one model it has charged (Cavalry models suffer the hits on both the mount and the rider). If after these hits the Raider is unengaged and has movement remaining, the Raider may complete its move in any way the controlling player wishes; stopping straight away, charging another target or anything in between.
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### HALF TROLL [23 POINTS]
-**MAN, MAHUD, INFANTRY, WARRIOR**
+*MAN, MAHUD, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 5/6+ | 5 | 6 | 2 | 2 | 2 |
 
 **WARGEAR**
 
 - [Armour]
-- Club
+- [Club]
 
 **OPTIONS**
 
-- *[Two-handed]* club: 1 point
+- *[Two-handed]* [club]: 1 point
 
 **SPECIAL RULES**
 
 - [Terror]
+
+</div>

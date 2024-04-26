@@ -13,9 +13,9 @@ This army may include: Thranduil, King of the Woodland Realm; Legolas Greenleaf,
 ### THRANDUIL, KING OF THE WOODLAND REALM [100 POINTS]
 *ELF, MIRKWOOD, INFANTRY, HERO — HERO OF LEGEND*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 6/2+ |  4  |  4  |  2  |  3  |  6  |  3  |  3  |  3  |
+| 6" | 6/2+ | 4 | 4 | 2 | 3 | 6 | 3 | 3 | 3 |
 
 **WARGEAR**
 
@@ -46,9 +46,9 @@ When equipped with an additional *[Elven-made]* [sword], Thranduil, King of the 
 
 **ELK**
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 10"  | 4/5+ |  4  |  5  |  0  |  2  |  4  |
+| 10" | 4/5+ | 4 | 5 | 0 | 2 | 4 |
 
 If Thranduil Charges into combat whilst riding his Elk, Thranduil’s Strikes are resolved at Strength 5.
 
@@ -76,14 +76,15 @@ Whilst he has the Infantry keyword, Thranduil, King of the Woodland Realm receiv
 ### LEGOLAS GREENLEAF, PRINCE OF MIRKWOOD [95 POINTS]
 *ELF, MIRKWOOD, INFANTRY, HERO — HERO OF VALOUR*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 6/3+ |  4  |  5  |  2  |  2  |  6  |  3  |  2  |  3  |
+| 6" | 6/3+ | 4 | 5 | 2 | 2 | 6 | 3 | 2 | 3 |
 
 **WARGEAR**
 
 - [Armour]
-- [Elf bow][Bow], *[Elven-made]* daggers
+- [Elf bow][Bow]
+- *[Elven-made]* [daggers][Dagger]
 
 **HEROIC ACTIONS**
 
@@ -115,9 +116,9 @@ Legolas may fire his bow three times in the Shoot phase rather than once. Each o
 ### TAURIEL [85 POINTS]
 *ELF, MIRKWOOD, INFANTRY, HERO — HERO OF FORTITUDE*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 6/3+ |  4  |  5  |  3  |  2  |  6  |  3  |  2  |  3  |
+| 6" | 6/3+ | 4 | 5 | 3 | 2 | 6 | 3 | 2 | 3 |
 
 **WARGEAR**
 
@@ -184,7 +185,7 @@ Whilst within 3" of Thranduil, King of the Woodland Realm, this model receives a
 **WARGEAR**
 
 - [Heavy armour]
-- *[Elven-made]* glaive
+- *[Elven-made]* [glaive]
 
 - **Glaive (ACTIVE)**
 
@@ -210,7 +211,7 @@ A glaive can be used either as a [spear] or a *[hand-and-a-half]* [sword]. Alter
 **WARGEAR**
 
 - [Elf bow][Bow]
-- [Elven-made] [daggers][Dagger]
+- *[Elven-made]* [daggers][Dagger]
 - [Elven cloak]
 
 **HEROIC ACTIONS**
@@ -235,7 +236,7 @@ Mirkwood Rangers receive an additional Attack for each enemy model they are Enga
 ### PALACE GUARD [12 POINTS]
 *ELF, MIRKWOOD, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
 | 6" | 5/3+| 3 | 5 | 1 | 1 | 5 |
 
@@ -268,7 +269,7 @@ Whilst within 3" of Thranduil, King of the Woodland Realm, Palace Guard receive 
 ### MIRKWOOD ELF [9 POINTS]
 *ELF, MIRKWOOD, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
 | 6" | 5/3+| 3 | 5 | 1 | 1 | 5 |
 
@@ -297,14 +298,14 @@ Whilst within 3" of Thranduil, King of the Woodland Realm, Palace Guard receive 
 ### MIRKWOOD CAVALRY [16 POINTS]
 *ELF, MIRKWOOD, CAVALRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
 | 10"| 5/3+| 3 | 5 | 1 | 1 | 5 |
 
 **WARGEAR**
 
 - [Heavy armour]
-- *[Elven-made]* *[hand-and-a-half]* [Sword] 
+- *[Elven-made]* *[hand-and-a-half]* [Sword]
 - [Horse]
 
 **OPTIONS**
@@ -329,14 +330,14 @@ Whilst mounted, Mirkwood Cavalry models count as being in range of a banner if t
 ### MIRKWOOD RANGER [14 POINTS]
 *ELF, MIRKWOOD, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
 | 6" | 5/3+| 3 | 3 | 1 | 1 | 5 |
 
 **WARGEAR**
 
 - [Elf bow][Bow]
-- *[Elven-made]* [daggers][Dagger] 
+- *[Elven-made]* [daggers][Dagger]
 - [Elven cloak]
 
 **OPTIONS**
@@ -358,13 +359,13 @@ Whilst mounted, Mirkwood Cavalry models count as being in range of a banner if t
 ### WOOD ELF SENTINEL [25 POINTS]
 *ELF, LÓRIEN, MIRKWOOD, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
 | 6" | 5/3+| 3 | 3 | 2 | 1 | 5 |
 
 **WARGEAR**
 
-- *[Elven-made]* [Sword] 
+- *[Elven-made]* [Sword]
 - [Elf bow][Bow]
 - [Elven cloak]
 

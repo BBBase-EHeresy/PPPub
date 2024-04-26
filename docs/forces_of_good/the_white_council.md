@@ -56,20 +56,19 @@ Saruman the White can choose to re-roll one dice when making Casting or Resist t
 
 **MAGICAL POWERS**
 
-|            | Range | Casting |
+|      | Range | Casting |
 |:-----------------:|:-------:|:---------|
-| Aura of Command | -     | 2+      |
-| Immobilise      | 18"   | 2+      |
-| Terrifying Aura | -     | 2+      |
-| Command         | 18"   | 3+      |
-| Sorcerous Blast | 12"   | 4+      |
+| Aura of Command | -   | 2+   |
+| Immobilise   | 18"  | 2+   |
+| Terrifying Aura | -   | 2+   |
+| Command     | 18"  | 3+   |
+| Sorcerous Blast | 12"  | 4+   |
 
 </div>
 
 ---
 
 <div class="unitCard" markdown>
-
 
 ### GALADRIEL, LADY OF LIGHT [130 POINTS]
 *ELF, LÓRIEN, INFANTRY, HERO — HERO OF VALOUR*
@@ -101,15 +100,15 @@ Galadriel, Lady of Light can expend a single point of Will each turn without dep
 
 - **War Aspect (PASSIVE)**
 
-- All enemy models within 6" of Galadriel, Lady of Light suffer a -1 penalty to their Courage. Furthermore, Galadriel, Lady of Light never counts as being unarmed. 
+- All enemy models within 6" of Galadriel, Lady of Light suffer a -1 penalty to their Courage. Furthermore, Galadriel, Lady of Light never counts as being unarmed.
 
 **MAGICAL POWERS**
 
-|          | Range | Casting |
+|     | Range | Casting |
 |:---------------:|:-------:|:---------|
-| Fortify Spirit | 12"   | 2+      |
-| Banishment     | 12"   | 3+      |
-| Instill Fear   | 3"    | 4+      |
+| Fortify Spirit | 12"  | 2+   |
+| Banishment   | 12"  | 3+   |
+| Instill Fear  | 3"  | 4+   |
 
 </div>
 
@@ -148,10 +147,10 @@ Celeborn’s [Stand Fast!] is 12", rather than 6".
 
 **MAGICAL POWERS**
 
-|       | Range | Casting |
+|    | Range | Casting |
 |:-------------:|:-------:|:---------|
-| Aura of Command | -     | 2+      |
-| Enchanted Blades | 6"   | 3+      |
-| Immobilise      | 12"   | 3+      |
+| Aura of Command | -   | 2+   |
+| Enchanted Blades | 6"  | 3+   |
+| Immobilise   | 12"  | 3+   |
 
 </div>

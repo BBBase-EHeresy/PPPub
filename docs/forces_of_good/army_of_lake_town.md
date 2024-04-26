@@ -13,7 +13,6 @@ The profile for Sigrid & Tilda can be found on page 50. Sigrid & Tilda count as 
 **The Master's Purse-strings** – The Master of Lake-town’s Moneybags special rule has a range of 12" rather than 6".
 
 
-
 ## HEROES OF THE ARMY OF LAKE-TOWN
 
 <div class="unitCard" markdown>
@@ -21,9 +20,9 @@ The profile for Sigrid & Tilda can be found on page 50. Sigrid & Tilda count as 
 ### MASTER OF LAKE-TOWN [50 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv  | F   | S | D | A | W | C | M | W | F |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| 6"  | 4/4+| 4 | 4 | 2 | 2 | 3 | 2 | 2 | 2 |
+| 6" | 4/4+| 4 | 4 | 2 | 2 | 3 | 2 | 2 | 2 |
 
 **WARGEAR**
 
@@ -52,9 +51,9 @@ At the start of the game, your opponent may select one of their Hero models to b
 ### ALFRID THE COUNCILLOR [20 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv  | F   | S | D | A | W | C | M | W | F |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| 6"  | 3/4+| 3 | 3 | 1 | 1 | 3 | 0 | 3 | 1 |
+| 6" | 3/4+| 3 | 3 | 1 | 1 | 3 | 0 | 3 | 1 |
 
 **WARGEAR**
 
@@ -75,9 +74,9 @@ Alfrid can choose to expend any number of Will points at the start of the Priori
 ### BRAGA, CAPTAIN OF THE GUARD [50 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv  | F   | S | D | A | W | C | M | W | F |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| 6"  | 4/4+| 4 | 5 | 2 | 2 | 3 | 3 | 1 | 1 |
+| 6" | 4/4+| 4 | 5 | 2 | 2 | 3 | 3 | 1 | 1 |
 
 **WARGEAR**
 
@@ -93,7 +92,7 @@ Alfrid can choose to expend any number of Will points at the start of the Priori
 
 - **The Master's Puppet (ACTIVE)**
 
-As long as the Master of Lake-town has Will points remaining, if Braga declares a Heroic Action within 6" of the Master of Lake-town, roll a D6. On a 4+, the Heroic Action is ‘free’ and no points of Might are spent.
+As long as the Master of Lake-town has Will points remaining, if Braga declares a Heroic Action within 6" of the Master of Lake-town, roll a D6. On a 4+, the Heroic Action is 'free’ and no points of Might are spent.
 
 - **Air of Self-importance (PASSIVE)**
 
@@ -108,9 +107,9 @@ Braga, any Lake-town Guard Captains, and any Lake-town Guard within 3" of him ma
 ### LAKE-TOWN GUARD CAPTAIN [40 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 4/4+ |  4  |  5  |  2  |  2  |  3  |  2  |  1  |  1  |
+| 6" | 4/4+ | 4 | 5 | 2 | 2 | 3 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -132,9 +131,9 @@ Braga, any Lake-town Guard Captains, and any Lake-town Guard within 3" of him ma
 ### LAKE-TOWN GUARD [5 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, WARRIOR*
 
-| Mv  | F   | S | D | A | W | C |
+| Mv | F  | S | D | A | W | C |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|:---|
-| 6"  | 3/4+| 3 | 4 | 1 | 1 | 2 |
+| 6" | 3/4+| 3 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
 

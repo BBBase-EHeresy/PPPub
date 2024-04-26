@@ -14,7 +14,7 @@ This army may include: Galadriel; Celeborn; Haldir; Rumil; Galadhrim Captains; W
 
 *ELF, LORIEN, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 6/3+ | 3 | 3 | 1 | 3 | 7 | 3 | 6* | 3 |
 
@@ -52,12 +52,12 @@ Galadriel may expend a single point of Will each turn without reducing her own s
 
 **MAGICAL POWERS**
 
-|                         | **Range** | **Casting** |
+|             | **Range** | **Casting** |
 | ----------------------- | --------------- | ----------------- |
-| [Blinding Light]        | -               | 2+                |
-| [Blessing of the Valar] | 12"             | 3+                |
-| [Immobilise]            | 12"             | 3+                |
-| [Command]               | 12"             | 4+                |
+| [Blinding Light]    | -        | 2+        |
+| [Blessing of the Valar] | 12"       | 3+        |
+| [Immobilise]      | 12"       | 3+        |
+| [Command]        | 12"       | 4+        |
 
 </div>
 
@@ -69,7 +69,7 @@ Galadriel may expend a single point of Will each turn without reducing her own s
 
 *ELF, LORIEN, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 6/3+ | 4 | 4 | 3 | 3 | 7 | 3 | 3 | 3 |
 
@@ -79,7 +79,7 @@ Galadriel may expend a single point of Will each turn without reducing her own s
 
 **HEROIC ACTIONS**
 
-- [Heroic Channeling]
+- [Heroic Channelling]
 - [Heroic Strike]
 - [Heroic Defence]
 
@@ -105,11 +105,11 @@ Celeborn's Stand Fast! is 12" rather than 6".
 
 **MAGICAL POWERS**
 
-|                    | **Range** | **Casting** |
+|          | **Range** | **Casting** |
 | ------------------ | --------------- | ----------------- |
-| [Aura of Command]  | -               | 2+                |
-| [Enchanted Blades] | 6"              | 3+                |
-| [Immobilise]       | 12"             | 3+                |
+| [Aura of Command] | -        | 2+        |
+| [Enchanted Blades] | 6"       | 3+        |
+| [Immobilise]    | 12"       | 3+        |
 
 </div>
 
@@ -121,7 +121,7 @@ Celeborn's Stand Fast! is 12" rather than 6".
 
 *ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 6/3+ | 4 | 7 | 2 | 2 | 6 | 3 | 1 | 1 |
 
@@ -156,7 +156,7 @@ Rumil may force one enemy model in the same fight as him to re- roll a single D6
 
 *ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 6/3+ | 4 | 4 | 2 | 2 | 6 | 3 | 1 | 1 |
 
@@ -198,7 +198,7 @@ If Haldir is slain in close combat, he may immediately make one Strength 4 Strik
 
 *ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 6/3+ | 4 | 6 | 2 | 2 | 6 | 2 | 1 | 1 |
 
@@ -233,7 +233,7 @@ If Haldir is slain in close combat, he may immediately make one Strength 4 Strik
 
 *ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 3 | 3 | 1 | 2 | 5 | 2 | 1 | 1 |
 
@@ -249,7 +249,7 @@ If Haldir is slain in close combat, he may immediately make one Strength 4 Strik
 **OPTIONS**
 
 - [Elf bow][Bow]: 5 points
-- [Throwing daggers][Throwing Weapons]: 5 points
+- [Throwing daggers][Throwing weapon]: 5 points
 - Wood Elf spear: 5 points
 - **Wood Elf spear (ACTIVE)**
 
@@ -269,7 +269,7 @@ In addition to the normal rules for spears, a model armed with a Wood Elf spear 
 
 *ELF, LORIEN, INFANTRY, HERO - MINOR HERO*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 3 | 4 | 1 | 2 | 5 | 1 | 3 | 1 |
 
@@ -292,10 +292,10 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 
 **MAGICAL POWERS**
 
-|                    | **Range** | **Casting** |
+|          | **Range** | **Casting** |
 | ------------------ | --------------- | ----------------- |
-| [Call Winds]       | 12"             | 3+                |
-| [Enchanted Blades] | 6"              | 4+                |
+| [Call Winds]    | 12"       | 3+        |
+| [Enchanted Blades] | 6"       | 4+        |
 
 </div>
 
@@ -309,7 +309,7 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 
 *ELF, LORIEN, INFANTRY, WARRIOR*
 
-| Mv |  F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
 
@@ -340,7 +340,7 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 
 *ELF, LORIEN, CAVALRY, WARRIOR*
 
-| Mv |  F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 10" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
 
@@ -373,7 +373,7 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 
 **ELF, LORIEN, INFANTRY, WARRIOR**
 
-| Mv |  F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 6/3+ | 3 | 5 | 1 | 1 | 6 |
 
@@ -403,7 +403,7 @@ In addition to the normal rules for pikes, the Guard of the Galadhrim Court may 
 
 *ELF, LORIEN, INFANTRY, WARRIOR*
 
-| Mv |  F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 3 | 3 | 1 | 1 | 5 |
 
@@ -416,7 +416,7 @@ In addition to the normal rules for pikes, the Guard of the Galadhrim Court may 
 
 - [Banner]: 25 points
 - [Elf bow][Bow]: 2 points
-- [Throwing daggers][Throwing Weapons]: 2 points
+- [Throwing daggers][Throwing weapon]: 2 points
 - Wood Elf spear: 1 point
 - **Wood Elf spear (ACTIVE)**
 
@@ -436,7 +436,7 @@ In addition to the normal rules for spears, a model armed with a Wood Elf spear 
 
 *ELF, LORIEN, MIRKWOOD, INFANTRY, WARRIOR*
 
-| Mv |  F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 3 | 3 | 2 | 1 | 5 |
 

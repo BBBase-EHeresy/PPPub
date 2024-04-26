@@ -13,7 +13,7 @@ This army may include: Treebeard and Ents.
 ### TREEBEARD [190 POINTS]
 *ENT, MONSTER, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 8/4+ | 8 | 8 | 3 | 3 | 7 | 3 | 6 | 3 |
 
@@ -57,7 +57,7 @@ Select another model in the Fight for the Ent to hit with the bludgeon. Both the
 ### ENT [120 POINTS]
 *ENT, MONSTER, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 7/4+ | 8 | 8 | 3 | 3 | 6 |
 

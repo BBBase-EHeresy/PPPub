@@ -1,48 +1,23 @@
-﻿## ANGMAR
+﻿## ARMY COMPOSITION
 
-### OVERVIEW
-There are many barren and forsaken lands within Middle-earth, ruled by evil and plagued by ill fortune and foul creatures. The greatest of these is the kingdom of Angmar in the north, for this cruel realm is the stronghold of the Witch-king, Sauron's chief servant and the lord of the Nazgul.
+This army may include: The Witch-king of Angmar; The Tainted; The Dwimmerlaik; Gulavhar, the Terror of Arnor; Buhrdur, Troll Chieftain; Shades; Barrow-wights; Angmar Orc Captains; Angmar Orc Shamans; Wild Warg Chieftains; Angmar Orc Warriors; Angmar Warg Riders; Cave Trolls, Wild Wargs and Dead Marsh Spectres.
 
-It was from the realm of Angmar that the Witch-king unleashed his fury upon the northern kingdoms of Middle-earth. The Witch-king was able to use his dark powers to bind tortured spirits to his will, unleashing creatures of nightmare upon his foes, leading to the fall of the once-great kingdom of Arnor. Hordes of Orcs and ghostly spirits marched upon the capital, Fornost, bringing destruction and death.
-
-Although he was eventually defeated and routed from his holds in the north, the Witch-king endured. At the end of the Third Age, there are still packs of Orcs and Wargs, bands of Trolls, and whispers of unnatural beings lingering within the shadows of Angmar.
-
-Within the ruins of Angmar, spectres tempt travelers to their doom, tortured spirits are still bound to the will of the Witch-king, and Barrow-wights hold court within the ruins. Hidden within Angmar lies Gulavhar, a demon of the ancient world, drawn to the dark power of the Witch-king.
+The profile for The Witch-king of Angmar can be found on page 114. The Witch-king of Angmar counts as a Hero of Legend if taken as part of an Angmar army list.
 
 ## ARMY BONUS
 
 **"If that fell Kingdom should rise again, Rivendell, Lorien, The Shire, even Gondor itself shall fall"** - Friendly Angmar Orc models within 3" of a friendly Spirit Hero model gain the Terror special rule.
 
-## ARMY COMPOSITION
-
-This army may include:
-- The Witch-king of Angmar
-- The Tainted
-- The Dwimmerlaik
-- Gulavhar, the Terror of Arnor
-- Buhrdur, Troll Chieftain
-- Shades
-- Barrow-wights
-- Angmar Orc Captains
-- Angmar Orc Shamans
-- Wild Warg Chieftains
-- Angmar Orc Warriors
-- Angmar Warg Riders
-- Cave Trolls
-- Wild Wargs
-- Dead Marsh Spectres
-
-The profile for The Witch-king of Angmar can be found on page 114. The Witch-king of Angmar counts as a Hero of Legend if taken as part of an Angmar army list.
-
 ## HEROES OF ANGMAR
 
+<div class="unitCard" markdown>
+
 ### THE TAINTED [120 POINTS]
-**SPIRIT, RINGWRAITH, MORDOR, ANGMAR, INFANTRY, HERO - HERO OF VALOUR**
+*SPIRIT, RINGWRAITH, MORDOR, ANGMAR, INFANTRY, HERO - HERO OF VALOUR*
 
-Even when he was mortal, The Tainted always had a strange sense about him, repelling living things and falling deeper into darkness. Now his mere presence is poison to the world.
-
-**STATS**
-Mv 6" | F 5/4+ | S 4 | D 8 | A 1 | W 1 | C 6
+|  Mv |  F   |  S  |  D  |  A  |  W  |  C  | M | W | F |
+|:---:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
+|  6" | 5/4+ |  4  |  8  |  1  |  1  |  6  | 2 | 14 | 2 |
 
 **WARGEAR**
 
@@ -58,38 +33,49 @@ Mv 6" | F 5/4+ | S 4 | D 8 | A 1 | W 1 | C 6
 - Armoured Fell Beast: 70 points
 - Fell Beast: 50 points
 - [Armoured horse]: 15 points
-- Horse: 10 points
+- [Horse]: 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
+- [Harbinger of Evil]
 - [Terror]
-- Will of Evil
-- Seeping Decay: At the start of the Fight phase, roll a D6 for each non-Spirit model in base contact with The Tainted. On a 6, they suffer a Wound.
+- [Will of Evil]
+- **Miasmatic Presence (PASSIVE)**
+
+At the start of the Move phase, before Heroic Actions are declared, The Tainted may elect to spend a point of Will. If he does this, until the end of the turn, all Warrior models within 6" of The Tainted may not benefit from the Stand Fast! rule, nor take part in Heroic Actions.
+
+- **Seeping Decay (PASSIVE)**
+
+At the start of the Fight phase, roll a D6 for each non-Spirit model (friendly or enemy) in base contact with The Tainted - if the model is a Cavalry model, roll for both the mount and the rider. On the roll of a 6, they suffer a Wound.
 
 **MAGICAL POWERS**
 
-- Drain Courage: Range 12", Casting 2+
-- Transfix: Range 12", Casting 3+
-- Compel: Range 12", Casting 4+
-- Black Dart: Range 12", Casting 5+
-- Instill Fear: Range 3", Casting 5+
-- Sap Will: Range 12", Casting 5+
+|   | Range | Casting |
+|----------------|-------|---------|
+| [Drain Courage]  |  12"  |   2+    |
+| [Transfix]       |  12"  |   3+    |
+| [Compel]         |  12"  |   4+    |
+| [Black Dart]     |  12"  |   5+    |
+| [Instill Fear]   |   3"  |   5+    |
+| [Sap Will]       |  12"  |   5+    |
 
-**Miasmatic Presence**: At the start of the Move phase, The Tainted may spend a point of Will. Until the end of the turn, all Warrior models within 6" may not benefit from Stand Fast! or take part in Heroic Actions.
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### THE DWIMMERLAIK [120 POINTS]
-**SPIRIT, RINGWRAITH, MORDOR, ANGMAR, INFANTRY, HERO - HERO OF VALOUR**
+*SPIRIT, RINGWRAITH, MORDOR, ANGMAR, INFANTRY, HERO - HERO OF VALOUR*
 
-Little is known about The Dwimmerlaik's past, only that he was part of the Witch-king's dread court in Angmar. His presence heralds doom, draining hope and valor from those who witness him.
-
-**STATS**
-Mv 6" | F 5/4+ | S 4 | D 8 | A 1 | W 1 | C 6
+|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+|:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  6" | 5/4+ |  4  |  8  |  1  |  1  |  6  |  0 |  16 |  2 |
 
 **WARGEAR**
 
 - [Heavy armour]
-- *[Two-handed]* sword
+- *[Two-handed]* [sword]
 
 **HEROIC ACTIONS**
 
@@ -100,31 +86,40 @@ Mv 6" | F 5/4+ | S 4 | D 8 | A 1 | W 1 | C 6
 - Armoured Fell Beast: 70 points
 - Fell Beast: 50 points
 - [Armoured horse]: 15 points
-- Horse: 10 points
+- [Horse]: 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
+- [Harbinger of Evil]
 - [Terror]
-- Will of Evil
-- Sap Fortitude: Every time a Hero model within 6" spends a point of Might, Will, or Fate, The Dwimmerlaik may spend a point of Will to potentially cancel the deed.
+- [Will of Evil]
+- **Sap Fortitude (PASSIVE)**
+
+Every time a Hero model within 6" of The Dwimmerlaik spends a point of Might, Will or Fate, The Dwimmerlaik may elect to spend a point of Will. If he does, roll a D6. On a 4+, the enemy Hero model must spend an additional point (of the same type) or the deed will be cancelled and any Might, Will or Fate already committed will be lost. Note that a Hero model that wishes to expend multiple points of Might, Will or Fate, may wait to see how The Dwimmerlaik's roll affects their first point of Might, Will or Fate, before committing to spending any more. The Dwimmerlaik will have to spend a point of Will for every point he wishes to affect, though he may wait to see how his first point of Will affected his opponent before deciding to spend another point of Will.
 
 **MAGICAL POWERS**
 
-- Drain Courage: Range 12", Casting 2+
-- Transfix: Range 12", Casting 3+
-- Compel: Range 12", Casting 4+
-- Black Dart: Range 12", Casting 5+
-- Instill Fear: Range 3", Casting 5+
-- Sap Will: Range 12", Casting 5+
+|   | Range | Casting |
+|----------------|-------|---------|
+| [Drain Courage]  |  12"  |   2+    |
+| [Transfix]       |  12"  |   3+    |
+| [Compel]         |  12"  |   4+    |
+| [Black Dart]     |  12"  |   5+    |
+| [Instill Fear]   |   3"  |   5+    |
+| [Sap Will]       |  12"  |   5+    |
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### GULAVHAR, THE TERROR OF ARNOR [200 POINTS]
-**SPIRIT, ANGMAR, MONSTER, INFANTRY, HERO - HERO OF VALOUR**
+*SPIRIT, ANGMAR, MONSTER, INFANTRY, HERO - HERO OF VALOUR*
 
-Gulavhar, a demon from an ancient world, roams the lands of Angmar, drawn to the dark power of the Witch-king. His presence is a curse, feasting upon the blood of others to sustain his strength.
-
-**STATS**
-Mv 6" | F 7/4+ | S 8 | D 5 | A 4 | W 4 | C 0
+|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+|:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6"  | 7/4+ |  8  |  5  |  *  |  4  |  *  |  3  |  3  |  0  |
 
 **WARGEAR**
 
@@ -138,23 +133,35 @@ Mv 6" | F 7/4+ | S 8 | D 5 | A 4 | W 4 | C 0
 **SPECIAL RULES**
 
 - [Fly]
-- Harbinger of Evil
+- [Harbinger of Evil]
 - [Monstrous Charge]
 - [Resistant to Magic]
 - [Terror]
-- Immortal Hunger: Gulavhar regains a Wound for each model he slays in combat, using Rend.
+- **Immortal Hunger (ACTIVE)**
+
+Gulavhar regains a single Wound for each model he slays in combat. Rend is the only Brutal Power Attack that allows Gulavhar to regain Wounds in this manner. This can never take his Wounds beyond 4.
+
+- **Strength of Body, Strength of Will (PASSIVE)**
+
+Gulavhar's Attacks and Courage are always equal to his remaining Wounds.
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### BUHRDUR, TROLL CHIEFTAIN [110 POINTS]
-**TROLL, ANGMAR, MONSTER, INFANTRY, HERO - HERO OF VALOUR**
+*TROLL, ANGMAR, MONSTER, INFANTRY, HERO - HERO OF VALOUR*
 
-Buhrdur is a cunning Troll Chieftain who ransacks settlements in Eriador. His presence on the battlefield inspires Orcs and Trolls alike, leading to greater havoc.
+|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+|:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  6" | 6/4+ |  6  |  6  |  3  |  3  |  4  |   3  |  1   |   1  |
 
-**STATS**
-Mv 6" | F 6/4+ | S 6 | D 6 | A 3 | W 3 | C 4
 
 **WARGEAR**
 
-- Pick
+- [Pick]
 
 **HEROIC ACTIONS**
 
@@ -165,34 +172,50 @@ Mv 6" | F 6/4+ | S 6 | D 6 | A 3 | W 3 | C 4
 **SPECIAL RULES**
 
 - [Terror]
-- Throw Stones: range 12", Strength 8
-- Lead by Example: If Buhrdur slays an enemy Hero or Monster, nearby friendly models act as if under a banner.
+- [Throw Stones] (range 12", Strength 8)
+- Lead by Example (ACTIVE)
+
+In a turn in which Buhrdur slays an enemy Hero or Monster model in combat, all friendly Angmar Orc models and Troll models within 6" of him count as being in range of a [banner].
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### SHADE [100 POINTS]
-**SPIRIT, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE**
+*SPIRIT, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-A Shade is a grotesque amalgam of tortured spirits, bound to the Witch-king's will, embodying terror and despair.
-
-**STATS**
-Mv 6" | F 1/4+ | S 1 | D 8 | A 1 | W 3 | C 1
+|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+|:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  6" | 1/4+ |  1  |  8  |  1  |  3  |  1  |  0   |  8   |   0  |
 
 **WARGEAR**
 
-- Ethereal form
+Whilst a Shade has no specific weapons, it is a twisted mass of undead beings constantly lashing out at the enemies of the Witch-king. A Shade never counts as unarmed.
+
 
 **SPECIAL RULES**
 
-- Blades of the Dead
+- [Blades of the Dead]
 - [Terror]
-- Chill Aura: Before Heroic Actions, a Shade can sap the courage of enemies within 6", affecting their ability to fight effectively.
+- Chill Aura (PASSIVE)
+
+At the start of the Fight phase, before Heroic Actions are declared, a Shade may expend a Will point to activate this ability. Any enemy model within 6“ of one or more Shades suffers a -1 penalty on its Duel roll. This is cumulative with other such penalties, such as for wielding a two-handed weapon.
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### BARROW-WIGHT [50 POINTS]
-**SPIRIT, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE**
+*SPIRIT, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-Barrow-wights are spirits of long-dead rulers, now malevolent beings that serve the Witch-king, using their sorceries to paralyze their victims.
+|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  6"  | 3/4+ |  3  |  7  |  1  |  2  |  6  |  0   |  5   |   0  |
 
-**STATS**
-Mv 6" | F 2/4+ | S 3 | D 5 | A 1 | W 1 | C 6
 
 **WARGEAR**
 
@@ -201,25 +224,34 @@ Mv 6" | F 2/4+ | S 3 | D 5 | A 1 | W 1 | C 6
 
 **SPECIAL RULES**
 
-- Blades of the Dead
+- [Blades of the Dead]
 - [Terror]
 
 **MAGICAL POWERS**
 
-- Paralyse: Range 6", Casting 4+
+|  | Range | Casting |
+|---------------|-------|---------|
+| [Paralyse]      |  6"   |   4+    |
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### ANGMAR ORC CAPTAIN [40 POINTS]
-**ORC, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE**
+*ORC, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-Angmar Orc Captains lead the armies of Angmar, utilizing spirits and magic to instill fear in their enemies.
+|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+|:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  6" | 4/5+ |  4  |  5  |  2  |  2  |  3  |  2   |  1   |  1   |
 
-**STATS**
-Mv 6" | F 4/5+ | S 4 | D 5 | A 2 | W 2 | C 3
 
 **WARGEAR**
 
 - [Armour]
-- Sword or pick
+- [Sword] or [pick]
 
 **HEROIC ACTIONS**
 
@@ -227,22 +259,28 @@ Mv 6" | F 4/5+ | S 4 | D 5 | A 2 | W 2 | C 3
 
 **OPTIONS**
 
-- Orc bow: 5 points
+- [Warg]: 10 points
+- [Orc bow][Bow]: 5 points
 - [Shield]: 5 points
 
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
 ### ANGMAR ORC SHAMAN [50 POINTS]
-**ORC, ANGMAR, INFANTRY, HERO - MINOR HERO**
+*ORC, ANGMAR, INFANTRY, HERO - MINOR HERO*
 
-Angmar Orc Shamans wield dark sorceries learned from the spirits of Angmar, conjuring visions of terror to weaken their enemies.
-
-**STATS**
-Mv 6" | F 4/5+ | S 3 | D 4 | A 1 | W 1 | C 3
+|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+|:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  6" | 3/5+ |  3  |  5  |  1  |  2  |  3  |  1   |  3   |  1   |
 
 **WARGEAR**
 
 - [Heavy armour]
 - [Dagger]
-- Spear
+- [Spear]
 
 **HEROIC ACTIONS**
 
@@ -250,20 +288,27 @@ Mv 6" | F 4/5+ | S 3 | D 4 | A 1 | W 1 | C 3
 
 **OPTIONS**
 
-- Warg: 10 points
+- [Warg]: 10 points
 
 **MAGICAL POWERS**
 
-- Wither: Range 12", Casting 3+
-- Instil Fear: Range 3", Casting 5+
+|  | Range | Casting |
+|---------------|-------|---------|
+| Wither        |  12"  |   3+    |
+| Instil Fear   |   3"  |   5+    |
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### WILD WARG CHIEFTAIN [80 POINTS]
-**WARG, INFANTRY, HERO - HERO OF FORTITUDE**
+*WARG, INFANTRY, HERO - HERO OF FORTITUDE*
 
-Wild Warg Chieftains lead packs of Wargs, their ferocity unmatched. Only the strongest maintain leadership through constant challenges.
-
-**STATS**
-Mv 10" | F 5/5+ | S 6 | D 5 | A 3 | W 3 | C 4
+|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10"  | 5/5+ |  6  |  5  |  3  |  3   |  4   |  2   |  2   |  1   |
 
 **WARGEAR**
 
@@ -277,80 +322,108 @@ Mv 10" | F 5/5+ | S 6 | D 5 | A 3 | W 3 | C 4
 **SPECIAL RULES**
 
 - [Terror]
-- Packlord: Only friendly Warg models benefit from this chieftain's Heroic Actions and Stand Fast!.
+- Packlord (ACTIVE)
+
+Only friendly Warg models may benefit from a Wild Warg Chieftain's Stand Fast! and Heroic Actions.
+
+</div>
+
+---
+
+## WARRIORS OF ANGMAR
+
+<div class="unitCard" markdown>
 
 ### ANGMAR ORC WARRIOR [5 POINTS]
-**ORC, ANGMAR, INFANTRY, WARRIOR**
+*ORC, ANGMAR, INFANTRY, WARRIOR*
 
-Orcs of Angmar march under the black banners of the Witch-king, driven by a thirst for chaos and bloodshed.
-
-**STATS**
-Mv 6" | F 3/5+ | S 3 | D 4 | A 1 | W 1 | C 2
+|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+|  6"  | 3/5+ |  3  |  4  |  1  |  1  |  2  |
 
 **WARGEAR**
 
 - [Armour]
-- Sword or pick
+- [Sword] or [pick]
 
 **OPTIONS**
 
 - [Banner]: 25 points
-- Orc bow: 1 point
+- [Orc bow][Bow]: 1 point
 - [Shield]: 1 point
 - [Spear]: 1 point
 - *[Two-handed]* weapon: 1 point
 
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
 ### ANGMAR WARG RIDERS [11 POINTS]
-**ORC, ANGMAR, CAVALRY, WARRIOR**
+*ORC, ANGMAR, CAVALRY, WARRIOR*
 
-Angmar Warg Riders utilize devastating charges to break enemy lines, their coordination and ferocity a testament to the Witch-king's influence.
-
-**STATS**
-Mv 6" | F 3/5+ | S 3 | D 4 | A 1 | W 1 | C 2
+|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+|  6"  | 3/5+ |  3  |  4  |  1  |  1  |  2  |
 
 **WARGEAR**
 
 - [Armour]
 - [Sword]
-- Warg
+- [Warg]
 
 **OPTIONS**
 
 - [Banner]: 25 points
-- Orc bow: 1 point
+- [Orc bow][Bow]: 1 point
 - [Shield]: 1 point
 - [Throwing spears]: 1 point
 
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
 ### CAVE TROLL [75 POINTS]
-**TROLL, MONSTER, INFANTRY, WARRIOR**
+*TROLL, MONSTER, INFANTRY, WARRIOR*
 
-Cave Trolls from the depths of Angmar join the orcish ranks under dark skies, their massive forms a bulwark against the enemies of the Witch-king.
-
-**STATS**
-Mv 6" | F 6/5+ | S 6 | D 6 | A 3 | W 3 | C 3
+|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+|  6"  | 6/5+ |  6  |  6  |  3  |  3  |  3  |
 
 **WARGEAR**
 
-- Spear
+- [Spear]
 
 **OPTIONS**
 
 - Troll Chain: 5 points
-- May swap spear for *[hand-and-a-half]* hammer: 5 points
+- May swap spear for *[hand-and-a-half]* [hammer]: 5 points
+- **Troll Chain (ACTIVE)**
+
+This is a throwing weapon with a range of 3" and a Strength of 5.
+
 
 **SPECIAL RULES**
 
-- Burly
+- [Burly]
 - [Terror]
-- Throw Stones: range 12", Strength 8
+- [Throw Stones] (range 12", Strength 8)
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### DEAD MARSH SPECTRE [15 POINTS]
-**SPIRIT, ANGMAR, INFANTRY, WARRIOR**
+*SPIRIT, ANGMAR, INFANTRY, WARRIOR*
 
-Born from the dark sorcery of the Witch-king, Dead Marsh Spectres lead unsuspecting travelers to their doom with their unnatural glow.
-
-**STATS**
-Mv 6" | F 2/4+ | S 3 | D 5 | A 1 | W 1 | C 6
+|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+|  6"  | 2/4+ |  3  |  5  |  1  |  1  |  6  |
 
 **WARGEAR**
 
@@ -359,22 +432,27 @@ Mv 6" | F 2/4+ | S 3 | D 5 | A 1 | W 1 | C 6
 
 **SPECIAL RULES**
 
-- Blades of the Dead
+- [Blades of the Dead]
 - [Terror]
-- A Fell Light is in Them: Can control the movement of an enemy model within 12" if it fails a Courage test.
+- **A Fell Light is in Them (ACTIVE)**
+
+At any point during its move, a Spectre can choose a single enemy model anywhere within 12" and Line of Sight. This model must pass a Courage test or make a full move under the control of the Spectre's controlling player - even if it has already moved. This move cannot be used to enter an enemy model's Control Zone, or perform actions that would cause direct harm to the target (such as jumping down a cliff). It may also not be used to have the target dismount or lie down. Affected models may move no further that turn, and may not use Active abilities for the remainder of the Move phase.
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
 
 ### WILD WARG [7 POINTS]
-**WARG, INFANTRY, WARRIOR**
+*WARG, INFANTRY, WARRIOR*
 
-Wild Wargs of the north hunt in packs, their powerful jaws capable of crushing bones, a sound of doom for those wandering after dark.
-
-**STATS**
-Mv 10" | F 3/5+ | S 4 | D 4 | A 1 | W 1 | C 2
+|  Mv   |  F   |  S  |  D  |  A  |  W  |  C  |
+|:-----:|:----:|:---:|:---:|:---:|:---:|:---:|
+|  10"  | 3/5+ |  4  |  4  |  1  |  1  |  2  |
 
 **WARGEAR**
 
 - Claws and Teeth
 
-**SPECIAL RULES**
-
-- Packs: Wild Wargs are more effective when in proximity to other Wargs, increasing their combat effectiveness.
+</div>

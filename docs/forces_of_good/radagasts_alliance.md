@@ -17,13 +17,13 @@ The profile for Great Eagles can be found on page 83.
 ### RADAGAST THE BROWN [150 POINTS]
 *WIZARD, INFANTRY, HERO — HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
 | 6" | 5/4+| 4 | 5 | 1 | 3 | 7 |
 
 **WARGEAR**
 
-- [Staff of power] 
+- [Staff of power]
 - [Dagger]
 
 **HEROIC ACTIONS**
@@ -38,22 +38,22 @@ The profile for Great Eagles can be found on page 83.
 - [Horse]: 10 points
 - Sebastian: 5 points
 
-- **Great Eagle** – This is a mount. The Great Eagle profile is listed on page 83. Additionally, if Radagast dismounts, the Great Eagle automatically passes its Courage test to stay and fight. 
+- **Great Eagle** – This is a mount. The Great Eagle profile is listed on page 83. Additionally, if Radagast dismounts, the Great Eagle automatically passes its Courage test to stay and fight.
 
 ---
 **SLEIGH**
 
 This is a mount with the following profile and the [Woodland Creature] special rule.
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 10"  | 3/6+ |  2  |  3  |  4  |  4  |  2  |
+| 10" | 3/6+ | 2 | 3 | 4 | 4 | 2 |
 
 If Radagast is slain or dismounts, remove the sleigh from play.
 
 ---
 
-- **Sebastian (PASSIVE)** 
+- **Sebastian (PASSIVE)**
 
 If Radagast is accompanied by Sebastian, he may always make an additional Attack in close combat, with a Fight value and Strength of 1 (roll a separate D6 for Sebastian) which cannot be altered by Might.
 
@@ -69,15 +69,14 @@ Whilst he has the Infantry keyword, Radagast may move through areas of difficult
 
 **MAGICAL POWERS**
 
-|   | Range | Casting |
+|  | Range | Casting |
 |-----------------|-------|---------|
-| Panic Steed     |  12"  |   2+    |
-| Terrifying Aura |   -   |   2+    |
-| Immobilise      |  12"  |   3+    |
-| Renew           |  12"  |   3+    |
-| Nature’s Wrath  |   6"  |   4+    |
-| Aura of Dismay  |   -   |   5+    |
-
+| Panic Steed   | 12" |  2+  |
+| Terrifying Aura |  -  |  2+  |
+| Immobilise   | 12" |  3+  |
+| Renew      | 12" |  3+  |
+| Nature’s Wrath |  6" |  4+  |
+| Aura of Dismay |  -  |  5+  |
 
 </div>
 
@@ -88,9 +87,9 @@ Whilst he has the Infantry keyword, Radagast may move through areas of difficult
 ### BEORN [200 POINTS]
 *MAN, INFANTRY, HERO — HERO OF VALOUR*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 6/4+ |  5  |  5  |  3  |  3  |  6  |  3  |  3  |  3  |
+| 6" | 6/4+ | 5 | 5 | 3 | 3 | 6 | 3 | 3 | 3 |
 
 **WARGEAR**
 
@@ -117,8 +116,7 @@ To change Beorn’s form, the controlling player may roll a D6 at the start of B
 ## BEORN THE BEAR
 *BEAR, MONSTER, INFANTRY, HERO*
 
-**PROFILE**
-| Mv | F   | S | D | A | W | C | M | W | F |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |----|-----|---|---|---|---|---|---|---|---|
 | 8" | 8/4+| 8 | 8 | 3 | 3 | 6 | * | * | * |
 
@@ -129,11 +127,11 @@ To change Beorn’s form, the controlling player may roll a D6 at the start of B
 - [Resistant to Magic]
 - [Terror]
 - [Woodland Creature]
-- **Crushing Strength (BRUTAL POWER ATTACK)** 
+- **Crushing Strength (BRUTAL POWER ATTACK)**
 
 If Beorn wins a Duel, instead of striking as normal, choose a losing model – that model immediately suffers a Strength 10 hit. If the To Wound roll is successful, the victim suffers another Strength 10 hit, and so on, until the victim is dead or Beorn fails to wound his victim.
 
-- **Berserk (PASSIVE)** 
+- **Berserk (PASSIVE)**
 
 Beorn the Bear must always Charge an enemy if he is able to. Additionally, Beorn may not use the Stand Fast! or Heroic Actions of other models, and other models may not use his, whilst he is in bear form.
 

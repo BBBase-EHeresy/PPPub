@@ -18,7 +18,7 @@ A Thorin's Company warband is always a single warband made up entirely of Heroes
 
 *DWARF, INFANTRY, HERO — HERO OF LEGEND*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 6/4+ | 4 | 7 | 3 | 3 | 6 | 3 | 3 | 3 |
 
@@ -55,7 +55,7 @@ The Oakenshield is a [shield]. Additionally, should Thorin opt to use it for Shi
 ### KÍLI THE DWARF [50 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/3+ | 4 | 5 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -89,7 +89,7 @@ If they are in base contact, Fíli the Dwarf and Kíli the Dwarf may choose to s
 ### FÍLI THE DWARF [50 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/3+ | 4 | 5 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -97,7 +97,7 @@ If they are in base contact, Fíli the Dwarf and Kíli the Dwarf may choose to s
 
 - [Armour]
 - [Sword]
-- [Throwing axes][Throwing Weapons]
+- [Throwing axes][Throwing weapon]
 
 **HEROIC ACTIONS**
 
@@ -123,7 +123,7 @@ If they are in base contact, Fíli the Dwarf and Kíli the Dwarf may choose to s
 ### BALIN THE DWARF [55 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 3 | 5 | 1 | 2 | 6 | 1 | 3 | 2 |
 
@@ -147,7 +147,7 @@ This weapon may use the Feint or Bash Special Strikes.
 
 **SPECIAL RULES**
 
-- **Longbeard (ACTIVE)** 
+- **Longbeard (ACTIVE)**
 
 In the Priority phase, Balin may spend a Will point to enable his side to re-roll their D6 in the Priority roll.
 
@@ -160,7 +160,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 ### DWALIN THE DWARF [95 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 6/4+ | 5 | 6 | 3 | 2 | 6 | 2 | 2 | 2 |
 
@@ -197,7 +197,7 @@ Dwalin the Dwarf is never considered to be unarmed, and never suffers the usual 
 ### BIFUR THE DWARF [45 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/3+ | 4 | 5 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -235,7 +235,7 @@ If Bifur the Dwarf wins a fight, he may choose to headbutt his enemy with the ax
 ### BOFUR THE DWARF [45 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 5 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -270,7 +270,7 @@ Whenever Bofur is targeted by a Magical Power or special rule, he may try to ign
 ### BOMBUR THE DWARF [40 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/3+ | 4 | 4 | 2 | 3 | 5 | 2 | 1 | ?1 |
 
@@ -310,7 +310,7 @@ Once each turn, at any point in Bombur's Move phase, choose a friendly model in 
 
 *DWARF, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 3/3+ | 3 | 4 | 1 | 2 | 5 | 1 | 3 | 1 |
 
@@ -346,7 +346,7 @@ If Ori scores a 6 when rolling To Hit, do not take any In The Way tests, and do 
 ### NORI THE DWARF [50 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/4+ | 4 | 5 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -379,7 +379,7 @@ Nori the Dwarf is never considered unarmed, and never suffers the usual -1 penal
 ### DORI THE DWARF [55 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/4+ | 4 | 5 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -412,7 +412,7 @@ If Bilbo Baggins is within 3" of Dori the Dwarf, he may spend Dori's Might, Will
 ### ÓIN THE DWARF [45 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 4 | 1 | 2 | 6 | 1 | 4 | 1 |
 
@@ -447,7 +447,7 @@ Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendl
 ### GLÓIN THE DWARF [85 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 6/4+ | 4 | 7 | 3 | 2 | 7 | ? | ? | ? |
 
@@ -455,7 +455,7 @@ Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendl
 
 - [Dwarf armour]
 - Two [axes][axe]
-- [Throwing axes][Throwing Weapons]
+- [Throwing axes][Throwing weapon]
 
 **HEROIC ACTIONS**
 
@@ -482,7 +482,7 @@ Glóin the Dwarf must re-roll scores of 1 To Wound in combat.
 
 *WIZARD, INFANTRY, HERO — HERO OF LEGEND*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 4" | 3/3+ | 2 | 3 | 1 | 2 | 6 | 3 | 6* | 3 |
 
@@ -511,16 +511,16 @@ Gandalf may re-roll his dice when making Fate rolls.
 
 **SPECIAL RULES**
 
-|  | Range | Casting |
+| | Range | Casting |
 |:----------------|:-------:|:---------:|
-| [Blinding Light] | -     | 2+      |
-| [Terrifying Aura]| -   | 2+      |
-| [Immobilise]     | 12"   | 3+      |
-| [Command]        | 12"   | 4+      |
-| [Protection of the Valar] | - | 4+  |
-| [Strengthen Will] | 12"  | 4+      |
-| [Collapse Rocks] | 6"    | 5+      |
-| [Sorcerous Blast]| 12"   | 5+      |
+| [Blinding Light] | -   | 2+   |
+| [Terrifying Aura]| -  | 2+   |
+| [Immobilise]   | 12"  | 3+   |
+| [Command]    | 12"  | 4+   |
+| [Protection of the Valar] | - | 4+ |
+| [Strengthen Will] | 12" | 4+   |
+| [Collapse Rocks] | 6"  | 5+   |
+| [Sorcerous Blast]| 12"  | 5+   |
 
 </div>
 
@@ -531,7 +531,7 @@ Gandalf may re-roll his dice when making Fate rolls.
 ### BILBO BAGGINS [60 POINTS]
 *HOBBIT, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 4" | 3/3+ | 2 | 3 | 1 | 2 | 6 | 2 | 3 | 3 |
 
@@ -555,12 +555,11 @@ Gandalf may re-roll his dice when making Fate rolls.
 
 Sting is an *[Elven-made]* [dagger]. Additionally, whilst carrying Sting, Bilbo adds +1 to his Strength when making Strikes.
 
-
 **SPECIAL RULES**
 
 - [Resistant to Magic]
 - [Thrown Stones] (range 8", Strength 1)
-- **It has not yet Awoken (PASSIVE)** 
+- **It has not yet Awoken (PASSIVE)**
 
 Bilbo Baggins ignores the Sauron's Will section of the One Ring's rules. Furthermore, if Bilbo is the only model left on the controlling player's side, and is wearing the Ring, he is not removed as a casualty, as would usually be the case.
 

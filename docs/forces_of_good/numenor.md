@@ -13,7 +13,7 @@ This army may include: Elendil, High King of Gondor and Arnor; Isildur; Captains
 ### ELENDIL, HIGH KING OF GONDOR AND ARNOR [185 POINTS]
 *MAN, NUMENOR, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 7/4+ | 5 | 7 | 3 | 3 | 6 | 3 | 3 | 1 |
 
@@ -53,11 +53,10 @@ Elendil always counts as having had the [Fortify Spirit] Magical Power cast upon
 
 <div class="unitCard" markdown>
 
-
 ### ISILDUR [120 POINTS]
 *MAN, NUMENOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 6/4+ | 5 | 7 | 3 | 3 | 6 | 3 | 2 | 2 |
 
@@ -75,8 +74,8 @@ Elendil always counts as having had the [Fortify Spirit] Magical Power cast upon
 
 - [Horse]: 10 points
 - [Shield]: 5 points
-- The Ring: Free 
-- **The Ring** 
+- The Ring: Free
+- **The Ring**
 
 As long as your force does not contain either Elendil or Andrion, then Isildur may carry The Ring.
 
@@ -92,17 +91,16 @@ A model with this special rule gains the [Resistant to Magic] special rule whils
 
 <div class="unitCard" markdown>
 
-
 ### CAPTAIN OF NUMENOR [50 POINTS]
 *MAN, NUMENOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 5 | 2 | 2 | 4 | 2 | 1 | 1 |
 
 **WARGEAR**
 
-- [Armour] 
+- [Armour]
 - [Sword]
 
 **HEROIC ACTIONS**
@@ -134,13 +132,13 @@ A model with this special rule gains the [Resistant to Magic] special rule whils
 ### WARRIOR OF NUMENOR [8 POINTS]
 *MAN, NUMENOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 6' | 4/4+ | 4 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
 
-- [Armour] 
+- [Armour]
 - [Sword]
 
 **OPTIONS**

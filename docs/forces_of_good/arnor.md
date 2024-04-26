@@ -16,7 +16,7 @@ The profile for Hobbit Archers can be found on page 22.
 
 *MAN, ARNOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 6 | 3 | 2 | 5 | 3 | 2 | 1 |
 
@@ -48,9 +48,9 @@ Arvedui's [Stand Fast!] is 12" rather than 6".
 
 *MAN, ARNOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-| 6"  | 3/4+  | 3 | 4 | 1 | 2 | 5 | 1 | 2 | 1 |
+| 6" | 3/4+ | 3 | 4 | 1 | 2 | 5 | 1 | 2 | 1 |
 
 **WARGEAR**
 
@@ -76,7 +76,7 @@ Every time a friendly Arnor model within 6" of Malbeth suffers a Wound, roll a D
 
 *MAN, ARNOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 7 | 2 | 2 | 3 | 2 | 1 | 1 |
 
@@ -109,9 +109,9 @@ Every time a friendly Arnor model within 6" of Malbeth suffers a Wound, roll a D
 ### WARRIOR OF ARNOR [8 POINTS]
 *MAN, ARNOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6"  | 4/4+ | 3 | 6 | 1 | 1 | 2 |
+| 6" | 4/4+ | 3 | 6 | 1 | 1 | 2 |
 
 **WARGEAR**
 
@@ -137,9 +137,9 @@ Every time a friendly Arnor model within 6" of Malbeth suffers a Wound, roll a D
 ### RANGER OF ARNOR [8 POINTS]
 *MAN, ARNOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6"  | 4/3+ | 3 | 4 | 1 | 1 | 3 |
+| 6" | 4/3+ | 3 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
 

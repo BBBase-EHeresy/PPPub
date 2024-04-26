@@ -17,7 +17,7 @@ A Dead of Dunharrow army list is automatically Impossible Allies with any force 
 ### THE KING OF THE DEAD [100 POINTS]
 *SPIRIT, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 8 | 2 | 2 | 7 | 1 | 6 | 3 |
 
@@ -58,7 +58,7 @@ A model with this special rule may move over water features as if they were open
 ### WARRIOR OF THE DEAD [14 POINTS]
 *SPIRIT, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 3/4+ | 3 | 7 | 1 | 1 | 6 |
 
@@ -90,7 +90,7 @@ A model with this special rule may move over water features as if they were open
 ## **RIDERS OF THE DEAD [24 POINTS]
 *SPIRIT, CAVALRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 3/4+ | 3 | 8 | 1 | 1 | 6 |
 

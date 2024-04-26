@@ -1,12 +1,12 @@
 ﻿## ARMY COMPOSITION
 
-This army may include: Thorin Oakenshield, King Under the Mountain; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor; Dáin Ironfoot, Lord of the Iron Hills; Iron Hills Captains; Iron Hills Dwarves and Iron Hills Goat Riders. 
+This army may include: Thorin Oakenshield, King Under the Mountain; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor; Dáin Ironfoot, Lord of the Iron Hills; Iron Hills Captains; Iron Hills Dwarves and Iron Hills Goat Riders.
 
-The profile for Dáin Ironfoot, Lord of the Iron Hills can be found on page 27. Dáin Ironfoot, Lord of the Iron Hills counts as a Hero of Valour if taken as part of an Erebor Reclaimed army list. 
+The profile for Dáin Ironfoot, Lord of the Iron Hills can be found on page 27. Dáin Ironfoot, Lord of the Iron Hills counts as a Hero of Valour if taken as part of an Erebor Reclaimed army list.
 
-The profile for Iron Hills Captains can be found on page 29. Iron Hills Captains count as a Hero of Fortitude if taken as part of an Erebor Reclaimed army list. 
+The profile for Iron Hills Captains can be found on page 29. Iron Hills Captains count as a Hero of Fortitude if taken as part of an Erebor Reclaimed army list.
 
-The profile for Iron Hills Dwarves can be found on page 29. 
+The profile for Iron Hills Dwarves can be found on page 29.
 
 The profile for Iron Hills Goat Riders can be found on page 30.
 
@@ -25,9 +25,9 @@ Thorin, and all twelve Champions of Erebor, may be deployed as one warband if yo
 ### THORIN OAKENSHIELD, KING UNDER THE MOUNTAIN [115 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 6/4+ |  4  |  8  |  3  |  3  |  6  |  3  |  3  |  1  |
+| 5" | 6/4+ | 4 | 8 | 3 | 3 | 6 | 3 | 3 | 1 |
 
 **WARGEAR**
 
@@ -52,7 +52,7 @@ Thorin, and all twelve Champions of Erebor, may be deployed as one warband if yo
 
 Thorin Oakenshield, King Under the Mountain re-rolls all failed rolls To Wound when making Strikes against Azog.
 
-- **Ancestral Fury (ACTIVE)** 
+- **Ancestral Fury (ACTIVE)**
 
 Thorin Oakenshield, King Under the Mountain may call a Heroic Combat every Fight phase without expending Might.
 
@@ -65,9 +65,9 @@ Thorin Oakenshield, King Under the Mountain may call a Heroic Combat every Fight
 ### KÍLI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 5/3+ |  4  |  8  |  2  |  2  |  5  |  3  |  1  |  1  |
+| 5" | 5/3+ | 4 | 8 | 2 | 2 | 5 | 3 | 1 | 1 |
 
 **WARGEAR**
 
@@ -104,9 +104,9 @@ A model with this special rule counts as being in range of a banner if they are 
 ### FÍLI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 5/3+ |  4  |  8  |  2  |  2  |  5  |  3  |  1  |  1  |
+| 5" | 5/3+ | 4 | 8 | 2 | 2 | 5 | 3 | 1 | 1 |
 
 **WARGEAR**
 
@@ -143,9 +143,9 @@ A model with this special rule counts as being in range of a banner if they are 
 ### BALIN THE DWARF, CHAMPION OF EREBOR [60 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 4/4+ |  3  |  8  |  2  |  2  |  6  |  1  |  3  |  2  |
+| 5" | 4/4+ | 3 | 8 | 2 | 2 | 6 | 1 | 3 | 2 |
 
 **WARGEAR**
 
@@ -173,9 +173,9 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 ### DWALIN THE DWARF, CHAMPION OF EREBOR [115 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 6/4+ |  5  |  8  |  3  |  2  |  6  |  3  |  2  |  2  |
+| 5" | 6/4+ | 5 | 8 | 3 | 2 | 6 | 3 | 2 | 2 |
 
 **WARGEAR**
 
@@ -194,10 +194,10 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 
 **SPECIAL RULES**
 
-- [Burly] 
-- [Fearless] 
+- [Burly]
+- [Fearless]
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **Weapon Master (ACTIVE)** 
+- **Weapon Master (ACTIVE)**
 
 Dwalin the Dwarf, Champion of Erebor is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting with a two-handed weapon.
 
@@ -214,9 +214,9 @@ Whilst he has the Infantry keyword, at the beginning of each fight, Dwalin the D
 ### BIFUR THE DWARF, CHAMPION OF EREBOR [POINTS NOT SPECIFIED]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 4/3+ |  4  |  8  |  2  |  2  |  5  |  2  |  1  |  1  |
+| 5" | 4/3+ | 4 | 8 | 2 | 2 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -231,7 +231,7 @@ Whilst he has the Infantry keyword, at the beginning of each fight, Dwalin the D
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 - [Throw Stones] (range 8", Strength 1)
-- **Embedded Axe-blade (ACTIVE)** 
+- **Embedded Axe-blade (ACTIVE)**
 
 If Bifur the Dwarf, Champion of Erebor wins a fight, he may choose to headbutt his enemy with the axe-blade embedded in his skull. Instead of striking normally, he may make a single Strike against his opponent. If Bifur manages to successfully wound his opponent, then the axe has been removed from his skull. Once the axe-blade is removed, Bifur may call a Heroic Move each turn without reducing his own Might store.
 
@@ -244,9 +244,9 @@ If Bifur the Dwarf, Champion of Erebor wins a fight, he may choose to headbutt h
 ### BOFUR THE DWARF, CHAMPION OF EREBOR [65 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 4/4+ |  4  |  8  |  2  |  2  |  5  |  2  |  1  |  1  |
+| 5" | 4/4+ | 4 | 8 | 2 | 2 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -274,9 +274,9 @@ Whenever Bofur is targeted by a Magical Power or special rule, he may try to ign
 ### BOMBUR THE DWARF, CHAMPION OF EREBOR [POINTS NOT SPECIFIED]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 4/4+ |  4  |  7  |  2  |  3  |  5  |  2  |  1  |  1  |
+| 5" | 4/4+ | 4 | 7 | 2 | 3 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -290,11 +290,11 @@ Whenever Bofur is targeted by a Magical Power or special rule, he may try to ign
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **Beefy (ACTIVE)** 
+- **Beefy (ACTIVE)**
 
 When Bombur the Dwarf makes Strikes, he may choose to use the Bash Special Strike just as if he were using a mace.
 
-- **Lumbering (PASSIVE)** 
+- **Lumbering (PASSIVE)**
 
 When making Jump or Climb tests, Bombur the Dwarf must re-roll results of 6. Additionally, he may not call Heroic Moves.
 
@@ -311,9 +311,9 @@ Once each turn, at any point in Bombur's Move phase, choose a friendly model in 
 ### ORI THE DWARF, CHAMPION OF EREBOR [55 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 4/3+ |  3  |  7  |  2  |  2  |  5  |  1  |  3  |  1  |
+| 5" | 4/3+ | 3 | 7 | 2 | 2 | 5 | 1 | 3 | 1 |
 
 **WARGEAR**
 
@@ -327,7 +327,7 @@ Once each turn, at any point in Bombur's Move phase, choose a friendly model in 
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **Chronicler (ACTIVE)** 
+- **Chronicler (ACTIVE)**
 
 Any time that Thorin Oakenshield, King Under the Mountain, or a Champion of Erebor slays an enemy Hero or Monster model within 3" of Ori the Dwarf, that model immediately regains a point of Might, Will or Fate (your choice) that has previously been spent in that game (or campaign).
 
@@ -340,9 +340,9 @@ Any time that Thorin Oakenshield, King Under the Mountain, or a Champion of Ereb
 ### NORI THE DWARF, CHAMPION OF EREBOR [POINTS NOT SPECIFIED]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  5" | 5/4+ |  4  |  8  |  3  |  2  |  5  |  2  |  1  |  1  |
+| 5" | 5/4+ | 4 | 8 | 3 | 2 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -357,7 +357,7 @@ Any time that Thorin Oakenshield, King Under the Mountain, or a Champion of Ereb
 
 **SPECIAL RULES**
 
-- [Sworn Protector]  (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 - **Weapon Master (ACTIVE)**
 
 Nori the Dwarf is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting with a two-handed weapon.
@@ -375,9 +375,9 @@ Nori the Dwarf, Champion of Erebor may re-roll one dice to win a Duel and may re
 ### DORI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  5" | 5/4+ |  4  |  8  |  3  |  2  |  5  |  2  |  1  |  1  |
+| 5" | 5/4+ | 4 | 8 | 3 | 2 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -409,14 +409,14 @@ Dori the Dwarf, Champion of Erebor is never considered unarmed, and never suffer
 ### ÓIN THE DWARF, CHAMPION OF EREBOR [65 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  5" | 4/4+ |  4  |  8  |  1  |  2  |  6  |  1  |  4  |  1  |
+| 5" | 4/4+ | 4 | 8 | 1 | 2 | 6 | 1 | 4 | 1 |
 
 **WARGEAR**
 
 - [Heavy Dwarf armour]
-- [Sword] 
+- [Sword]
 - [Shield]
 
 **HEROIC ACTIONS**
@@ -443,9 +443,9 @@ Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendl
 ### GLÓIN THE DWARF, CHAMPION OF EREBOR [90 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  5" | 6/4+ |  4  |  8  |  3  |  2  |  6  |  3  |  1  |  1  |
+| 5" | 6/4+ | 4 | 8 | 3 | 2 | 6 | 3 | 1 | 1 |
 
 **WARGEAR**
 

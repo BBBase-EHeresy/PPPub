@@ -13,7 +13,7 @@ This army may include: Durin, King of Khazad-dum; Mardin; Balin the Dwarf, King 
 ### DURIN, KING OF KHAZAD-DUM [160 POINTS]
 *DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 5" | 6/4+ | 4 | 9 | 3 | 3 | 6 | 3 | 3 | 1 |
 
@@ -64,7 +64,7 @@ rule.
 ### MARDIN [75 POINTS]
 *DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 5" | 5/4+ | 4 | 7 | 2 | 2 | 5 | 3 | 1 | 1 |
 
@@ -94,7 +94,7 @@ This is a Foe [Spear] with the [Trollbane] special rule. Additionally, Mardin ad
 ### FLOI STONEHAND - 75 POINTS
 *DWARF, MORIA, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 5" | 4/4+ | 4 | 6 | 2 | 2 | 5 | 1 | 3 | 1 |
 
@@ -122,7 +122,7 @@ Each time a friendly Moria Dwarf model slays an enemy Hero or Monster model, Flo
 ### BALIN THE DWARF, KING OF MORIA [110 POINTS]
 *DWARF, MORIA, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 5" | 6/4+ | 4 | 8 | 2 | 2 | 6 | 3 | 3 | 1 |
 
@@ -162,7 +162,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 ### DWARF KING [75 POINTS]
 *DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 5" | 6/4+ | 4 | 8 | 2 | 2 | 6 | 2 | 2 | 1 |
 
@@ -178,7 +178,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 
 **OPTIONS**
 
-- [Throwing axes][Throwing Weapons]: 5 points
+- [Throwing axes][Throwing weapon]: 5 points
 - *[Two-handed]* [axe]: 5 points
 
 </div>
@@ -190,7 +190,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 ### DWARF CAPTAIN [60 POINTS]
 *DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 5" | 5/4+ | 4 | 7 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -206,7 +206,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 **OPTIONS**
 
 - [Shield]: 5 points
-- [Throwing axes][Throwing Weapons]: 5 points
+- [Throwing axes][Throwing weapon]: 5 points
 - *[Two-handed]* [axe]: 5 points
 
 </div>
@@ -220,7 +220,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 
 #### KING'S CHAMPION
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 5" | 6/4+ | 5 | 7 | 3 | 2 | 5 | 2 | 1 | 1 |
 
@@ -244,7 +244,7 @@ When two Heralds, or the King's Champion and a Herald, are in base contact, they
 
 #### HERALD
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 5" | 4/4+ | 4 | 7 | 1 | 1 | 4 | 0 | 1 | 2 |
 
@@ -274,7 +274,7 @@ If the King's Champion is wounded, either Herald may expend their own Fate point
 ### SHIELDBEARER [60 POINTS]
 *DWARF, KHAZAD-DUM, INFANTRY, HERO - MINOR HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 5" | 5/4+ | 4 | 8 | 2 | 2 | 6 | 1 | 0 | 0 |
 
@@ -290,7 +290,7 @@ If the King's Champion is wounded, either Herald may expend their own Fate point
 
 At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier for the Shieldbearer to protect. If the nominated Hero model is Engaged in a Fight within 3" of the Shieldbearer, then the Shieldbearer may call a Heroic Combat without using Might. If the Heroic Combat is successful, then they must use the following move to join their nominated Hero model's combat, if this is not possible then the Shieldbearer must move as close as possible to that Hero model. If you have more than one Shieldbearer, they may both protect different Hero models - just remember to make it clear to your opponent which Shieldbearer is protecting which Hero model!
 
-- **Lead by Example (PASSIVE)** 
+- **Lead by Example (PASSIVE)**
 
 Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage tests.
 
@@ -305,7 +305,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 ### DWARF WARRIOR [8 POINTS]
 *DWARF, KHAZAD-DUM, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 5" | 4/4+ | 3 | 6 | 1 | 1 | 4 |
 
@@ -331,7 +331,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 ### KHAZAD GUARD [15 POINTS]
 *DWARF, KHAZAD-DUM, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 5" | 4/4+ | 4 | 7 | 1 | 1 | 4 |
 
@@ -354,7 +354,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 ### IRON GUARD [15 POINTS]
 *DWARF, KHAZAD-DUM, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 5" | 4/4+ | 4 | 6 | 2 | 1 | 4 |
 
@@ -362,7 +362,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 
 - [Dwarf armour]
 - [Sword]
-- [Throwing axes][Throwing Weapons]
+- [Throwing axes][Throwing weapon]
 
 </div>
 
@@ -373,7 +373,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 ### DWARF RANGER [8 POINTS]
 *DWARF, KHAZAD-DUM, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 5" | 4/3+ | 3 | 5 | 1 | 1 | 4 |
 
@@ -385,7 +385,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 **OPTIONS**
 
 - [Dwarf long bow][Bow]: 1 point
-- [Throwing axes][Throwing Weapons]: 1 point
+- [Throwing axes][Throwing weapon]: 1 point
 - *[Two-handed]* [axe]: 1 point
 
 **SPECIAL RULES**
@@ -403,7 +403,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 
 #### IRON SHIELD
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 5" | 4/4+ | 4 | 9 | 1 | 1 | 4 |
 
@@ -424,15 +424,15 @@ Unless supported by a model with a foe spear, a model with an Iron Shield applie
 
 #### FOE SPEAR
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 5" | 4/4+ | 4 | 6 | 1 | 1 | 4 |
 
 **WARGEAR**
 
-- [Dwarf armour] 
+- [Dwarf armour]
 - Foe spear
-- **Foe Spear (ACTIVE)** 
+- **Foe Spear (ACTIVE)**
 
 This is a spear that when supporting a model with an Iron Shield receives a bonus of + 1 when rolling To Wound Monsters.
 
@@ -453,7 +453,7 @@ This is a spear that when supporting a model with an Iron Shield receives a bonu
 
 A Dwarf Ballista is a small Siege Engine and is crewed by two Dwarf Warriors with heavy armour and axe. One of the crew is automatically the [Siege Veteran]. All crew members have the *Dwarf, Khazad-dum, Infantry and Warrior* keywords.
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 5" | 4/4+ | 3 | 6 | 1 | 1 | 3 |
 
@@ -474,7 +474,7 @@ A Dwarf Ballista is a small Siege Engine and is crewed by two Dwarf Warriors wit
 
 If a shot from a Dwarf Ballista hits a Battlefield target, then they will suffer one Strength 9 hit. Additionally, if the target has a Strength of 5 or lower, they will be knocked Prone and flung D6" directly away from the Ballista. Any model that the target passes over will also be knocked Prone and suffer one Strength 6 hit. If the target comes into contact with a piece of impassable terrain, or a model that is Strength 6 or higher, then it will immediately stop and be knocked Prone. Both the target and the Obstacle or model (if it has a Defence value) will suffer a Strength 6 hit.
 
-- **Accurate** 
+- **Accurate**
 
 A Dwarf Ballista will only scatter 3" rather than 6".
 

@@ -8,7 +8,6 @@ This army may include: Dáin Ironfoot, Lord of the Iron Hills; Iron Hills Captai
 
 Additionally, Dáin Ironfoot, Lord of the Iron Hills receives the [Master of Battle] 4+ special rule.
 
-
 ## HEROES OF THE IRON HILLS
 
 <div class="unitCard" markdown>
@@ -16,10 +15,9 @@ Additionally, Dáin Ironfoot, Lord of the Iron Hills receives the [Master of Bat
 ### DÁIN IRONFOOT, LORD OF THE IRON HILLS [140 POINTS]
 *DWARF, IRON HILLS, INFANTRY, HERO — HERO OF LEGEND*
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 6/4+ |  5  |  8  |  3  |  3  |  7  |  3  |  3  |  3  |
-
+| 5" | 6/4+ | 5 | 8 | 3 | 3 | 7 | 3 | 3 | 3 |
 
 **WARGEAR:**
 
@@ -42,9 +40,9 @@ Additionally, Dáin Ironfoot, Lord of the Iron Hills receives the [Master of Bat
 
 **WAR BOAR**
 
-| Mv  | F    | S   | D   | A   | W   | C   |
+| Mv | F  | S  | D  | A  | W  | C  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
-| 8"  | 4/5+ |  4  |  6  |  0  |  2  |  3  |
+| 8" | 4/5+ | 4 | 6 | 0 | 2 | 3 |
 
 ---
 
@@ -62,7 +60,7 @@ As soon as Dáin Ironfoot, Lord of the Iron Hills kills an enemy model, for the 
 
 - **Fearsome Charge (PASSIVE)**
 
-In a turn that Dáin Ironfoot, Lord of the Iron Hills Charges into combat, he causes Terror until the end of the turn. 
+In a turn that Dáin Ironfoot, Lord of the Iron Hills Charges into combat, he causes Terror until the end of the turn.
 
 - **Headbutt (ACTIVE)**
 
@@ -79,14 +77,14 @@ If Dáin Ironfoot, Lord of the Iron Hills wins a Duel roll but fails to slay his
 
 **MÚRIN**
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 5/4+ |  4  |  8  |  2  |  2  |  5  |  3  |  1  |  1  |
+| 5" | 5/4+ | 4 | 8 | 2 | 2 | 5 | 3 | 1 | 1 |
 
 **WARGEAR**
 
 - [Dwarf armour]
-- [Shield] 
+- [Shield]
 - Kalazâl
 - **Kalazâl (ACTIVE)**
 
@@ -98,13 +96,13 @@ This is a [sword]. Additionally, Múrin receives a bonus of +1 To Wound when mak
 
 **DRÁR**
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 5/4+ |  4  |  7  |  2  |  2  |  5  |  3  |  1  |  1  |
+| 5" | 5/4+ | 4 | 7 | 2 | 2 | 5 | 3 | 1 | 1 |
 
 **WARGEAR**
 
-- [Dwarf armour] 
+- [Dwarf armour]
 - [Dwarf bow][Bow]
 
 **SPECIAL RULES**
@@ -124,9 +122,9 @@ This is a [sword]. Additionally, Múrin receives a bonus of +1 To Wound when mak
 ### IRON HILLS CAPTAIN [80 POINTS]
 *DWARF, IRON HILLS, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv  | F    | S   | D   | A   | W   | C   | M   | W   | F   |
+| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 5/4+ |  4  |  8  |  2  |  2  |  5  |  2  |  1  |  1  |
+| 5" | 5/4+ | 4 | 8 | 2 | 2 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -164,9 +162,9 @@ A mattock is a *[two-handed]* weapon that can either use the [Bash][Hammer] or [
 ### IRON HILLS DWARF [11 POINTS]
 *DWARF, IRON HILLS, INFANTRY, WARRIOR*
 
-| Mv  | F    | S   | D   | A   | W   | C   |
+| Mv | F  | S  | D  | A  | W  | C  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 4/4+ |  4  |  7  |  1  |  1  |  4  |
+| 5" | 4/4+ | 4 | 7 | 1 | 1 | 4 |
 
 **WARGEAR**
 
@@ -198,14 +196,14 @@ A mattock is a *[two-handed]* weapon that can either use the [Bash][Hammer] or [
 ### IRON HILLS GOAT RIDER [20 POINTS]
 *DWARF, IRON HILLS, CAVALRY, WARRIOR*
 
-| Mv  | F    | S   | D   | A   | W   | C   |
+| Mv | F  | S  | D  | A  | W  | C  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 4/4+ |  4  |  7  |  1  |  1  |  4  |
+| 5" | 4/4+ | 4 | 7 | 1 | 1 | 4 |
 
 **WARGEAR**
 
 - [Heavy armour]
-- [Sword] 
+- [Sword]
 - [War spear]
 - War goat
 
@@ -222,9 +220,9 @@ A mattock is a *[two-handed]* weapon that can either use the [Bash][Hammer] or [
 
 **WAR GOAT (GOAT, IRON HILLS)**
 
-| Mv  | F    | S   | D   | A   | W   | C   |
+| Mv | F  | S  | D  | A  | W  | C  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
-| 8"  | 2/6+ |  4  |  5  |  0  |  1  |  3  |
+| 8" | 2/6+ | 4 | 5 | 0 | 1 | 3 |
 
 **SPECIAL RULES**
 
@@ -253,9 +251,9 @@ When this model Charges into combat against one or more Man-sized (or smaller) m
 
 An Iron Hills Ballista is a large Siege Engine and is crewed by four Iron Hills Dwarves with heavy armour and swords. One of these is automatically the [Siege Veteran] (we recommend the Dwarf who is pointing). All crew members have the *Dwarf, Iron Hills, Infantry and Warrior* keywords.
 
-| Mv  | F    | S   | D   | A   | W   | C   |
+| Mv | F  | S  | D  | A  | W  | C  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 4/4+ |  4  |  6  |  1  |  1  |  4  |
+| 5" | 4/4+ | 4 | 6 | 1 | 1 | 4 |
 
 **OPTIONS**
 
@@ -288,17 +286,17 @@ If an Iron Hills Ballista scores a hit against a Battlefield Target, all Man-siz
 
 **IRON HILLS CHARIOT CREW**
 
-| Mv  | F    | S   | D   | A   | W   | C   |
+| Mv | F  | S  | D  | A  | W  | C  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
-| 5"  | 4/4+ |  4  |  6  |  1  |  1  |  4  |
+| 5" | 4/4+ | 4 | 6 | 1 | 1 | 4 |
 
 **IRON HILLS CHARIOT**
 
-| Mv  | F    | S   | D   | A   | W   | C   |
+| Mv | F  | S  | D  | A  | W  | C  |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
-| 8"  | 4/4+ |  4  |  8  |  2  |  5  |  3  |
+| 8" | 4/4+ | 4 | 8 | 2 | 5 | 3 |
 
-**WARGEAR** 
+**WARGEAR**
 - [Heavy armour]
 - [Sword]
 
@@ -350,23 +348,23 @@ If beaten, any model wishing to Strike the crew must roll to see if they hit the
 
 If the Chariot loses the Fight, it does not Back Away. It also never counts as Trapped. If the Chariot is slain, then the crew inside are lost – remove the model as a casualty.
 
-- **Large War Machine (ACTIVE)** 
+- **Large War Machine (ACTIVE)**
 
 On a turn in which the Iron Hills Chariot Charges, it gains the Extra Attack and Knock to the Ground bonuses as if it was a Cavalry model. The Iron Hills Chariot still gets these bonuses even if it charges a Cavalry model. When the Chariot is hit by a shooting attack, the shooter must take an In The Way test to determine if the Chariot or the crew are hit. On a 1-4, the Chariot has been hit and on a 5-6, it hits the Dwarf closest to the shooter. The Chariot may not make Jump, Climb, Leap or Swim tests, and may not lie down or defend barriers. It may not enter difficult terrain other than shallow water features (including swamps, rivers, etc.), which it is completely unimpeded by. The Chariot cannot be Barged, Hurled or knocked Prone for any reason.
 
-- **The Chariot and Magic (ACTIVE)** 
+- **The Chariot and Magic (ACTIVE)**
 
 Models with Magical Powers can use them on the Chariot, selecting either the Chariot itself or one of the crew members as the target. Magical Powers that affect multiple targets will automatically affect both the Chariot and its crew, if in range of the model. Only by affecting the Driver will a Magical Power such as Transfix or Compel impede the Chariot’s movement (thereby causing it to remain stationary or take a move as described by the Magical Power). Finally, Magical Powers such as Sorcerous Blast, Nature’s Wrath and Call Winds will not move the Chariot or knock it Prone, although they will still inflict any damage as detailed in the Magical Power’s description.
 
-- **Iron Hills Captain (ACTIVE)** 
+- **Iron Hills Captain (ACTIVE)**
 
 If this upgrade is taken for the Chariot, then an Iron Hills Captain will replace the driver. The Iron Hills Captain will have all of the usual wargear and special rules that an Iron Hills Captain would normally possess whilst riding the Chariot (see page 29). The Chariot counts as a Hero for the Iron Hills army list and may be the army leader. If the Iron Hills Captain is taken, replace the Warrior keyword with Hero whilst the Captain remains alive.
 
 #### CHAMPIONS OF EREBOR AS CREW: DESIGNER’S NOTE
 
-* **Champions of Erebor (ACTIVE)** 
+* **Champions of Erebor (ACTIVE)**
 
-If this upgrade is taken for the Chariot, then instead of being crewed by four Iron Hills Dwarves, it is crewed by Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Kili the Dwarf, Champion of Erebor and Fili the Dwarf, Champion of Erebor. If the Champions of Erebor are taken, replace the Warrior keyword with Hero. 
+If this upgrade is taken for the Chariot, then instead of being crewed by four Iron Hills Dwarves, it is crewed by Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Kili the Dwarf, Champion of Erebor and Fili the Dwarf, Champion of Erebor. If the Champions of Erebor are taken, replace the Warrior keyword with Hero.
 
 The Chariot is also subject to the following exceptions:
 
@@ -383,7 +381,7 @@ The Chariot is also subject to the following exceptions:
 • In combat, the Chariot is very unusual in that a Duel can effectively have multiple models on both sides of the Fight. When making a Duel roll, make sure to roll each Dwarf’s attacks separately for the purpose of using Might points. Additionally, each Dwarf may decide to use Special Strikes. If Kili or Fili use the Feint Special Strike, then the Fight values of all of the crew and the Chariot itself will be reduced by D3. If Kili or Fili use the Stab Special Strike, then only they will be affected. If Dwalin uses the Piercing Strike Special Strike then only his Strength and Defence will be affected.
 
 • This version of the Chariot counts as four models for the purpose of working out Break points.
- 
+
 • The Chariot counts as a Hero for the Erebor Reclaimed army list and may be the army leader. It may not, however, lead a warband. If the Chariot is chosen as the leader of your army, then Balin is the leader for all intents and purposes.
 
 #### IRON HILLS CHARIOT - MOVEMENT AND SHOOTING TEMPLATE

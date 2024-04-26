@@ -17,7 +17,7 @@ Riders of Rohan within this army list do not count towards your force's Bow Limi
 ### THEODEN, KING OF ROHAN [75 POINTS]
 *MAN, ROHAN, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 5 | 2 | 2 | 5 | 3 | 3 | 1 |
 
@@ -63,7 +63,7 @@ Theoden's [Stand Fast!] is 12" rather than 6".
 ### THEODRED, HEIR OF ROHAN [80 POINTS]
 *MAN, ROHAN, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 5/4+ | 4 | 6 | 3 | 2 | 5 |
 
@@ -100,7 +100,7 @@ Theodred must Charge an enemy model if he is able to do so. Additionally, on a t
 ### EOMER, MARSHAL OF THE RIDDERMARK [100 POINTS]
 *MAN, ROHAN, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 6 | 3 | 3 | 5 | 3 | 3 | 3 |
 
@@ -138,7 +138,7 @@ If Theoden or Eowyn are in the same force as Eomer, and either (or both) are sla
 ### EOWYN, SHIELD MAIDEN OF ROHAN - 40 POINTS
 *WOMAN, ROHAN, INFANTRY, HERO - MINOR HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 3 | 3 | 2 | 2 | 5 | 2 | 2 | 2 |
 
@@ -176,7 +176,7 @@ If Theoden is in your force and is slain, place a 25mm marker where he fell. Eow
 ### MERIADOC BRANDYBUCK, KNIGHT OF THE MARK [25 POINTS]
 *HOBBIT, ROHAN, INFANTRY, HERO - INDEPENDENT HERO*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 4" | 3/3+ | 2 | 4 | 1 | 1 | 4 |
 
@@ -209,7 +209,7 @@ If Theoden is in your force and is slain, place a 25mm marker where he fell. Eow
 ### ERKENBRAND, CAPTAIN OF ROHAN [75 POINTS]
 *MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 7 | 2 | 2 | 4 | 3 | 1 | 1 |
 
@@ -250,7 +250,7 @@ If your army includes Erkenbrand, you can upgrade any number of Riders of Rohan 
 
 **MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE**
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 4/4+ | 4 | 6 | 2 | 2 | 4 | 3 | 1 | 1 |
 
@@ -287,7 +287,7 @@ This precious heirloom is a [banner]. Additionally, any Rohan Hero models that a
 ### HAMA, CAPTAIN OF ROHAN [55 POINTS]
 *MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 4/4+ | 4 | 6 | 2 | 2 | 4 | 3 | 1 | 1 |
 
@@ -320,7 +320,7 @@ This precious heirloom is a [banner]. Additionally, any Rohan Hero models that a
 ### GRIMBOLD OF GRIMSLADE [60 POINTS]
 *MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 5 | 2 | 2 | 4 | 3 | 1 | 1 |
 
@@ -347,10 +347,10 @@ If your army includes Grimbold, you may upgrade any number of Warriors of Rohan 
 
 <div class="unitCard" markdown>
 
-### EORL THE YOUNG  [115 POINTS]
+### EORL THE YOUNG [115 POINTS]
 *MAN, ROHAN, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 7 | 3 | 3 | 5 | 3* | 2 | 2 |
 
@@ -365,7 +365,7 @@ Also, if your army includes Eorl, then every alliance will be Impossible Allies.
 - [Shield]
 - [Throwing spears]
 - Felarof
-- **Felarof** 
+- **Felarof**
 
 Eorl's noble steed is an [armoured horse] with a Move of 12"
 
@@ -380,7 +380,7 @@ Eorl's noble steed is an [armoured horse] with a Move of 12"
 
 - [Expert Rider]
 - [Horse Lord]
-- **Legendary Hero (PASSIVE)** 
+- **Legendary Hero (PASSIVE)**
 
 The first time each turn that Eorl the Young expends a point of Might, roll a D6. On a 4+, the point of Might is free and does not reduce Eorl's store of Might.
 
@@ -393,7 +393,7 @@ The first time each turn that Eorl the Young expends a point of Might, roll a D6
 ### KING'S HUNTSMAN [50 POINTS]
 *MAN, ROHAN, INFANTRY, HERO - MINOR HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 3/3+ | 4 | 5 | 1 | 2 | 4 | 2 | 1 | 1 |
 
@@ -422,7 +422,7 @@ King's Huntsmen only fail In The Way rolls on the roll of a 1. Additionally, eac
 ### CAPTAIN OF ROHAN [45 POINTS]
 *MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
 | 6" | 4/4+ | 4 | 5 | 2 | 2 | 4 | 2 | 1 | 1 |
 
@@ -463,7 +463,7 @@ Charge.
 ### WARRIOR OF ROHAN [6 POINTS]
 *MAN, ROHAN, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 3/4+ | 3 | 4 | 1 | 1 | 3 |
 
@@ -489,7 +489,7 @@ Charge.
 ### RIDER OF ROHAN [14 POINTS]
 *MAN, ROHAN, CAVALRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
 
@@ -524,7 +524,7 @@ Charge.
 ### ROHAN ROYAL GUARD [10 POINTS]
 *MAN, ROHAN, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 4/4+ | 3 | 6 | 1 | 1 | 3 |
 
@@ -557,7 +557,7 @@ Charge.
 ### ROHAN OUTRIDER [8 POINTS]
 *MAN, ROHAN, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 3/3+ | 3 | 4 | 1 | 1 | 3 |
 
@@ -587,7 +587,7 @@ Outriders may use a friendly Hero model's [Stand Fast!] regardless of range.
 ### SON OF EORL [20 POINTS]
 *MAN, ROHAN, CAVALRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 4/4+ | 4 | 6 | 1 | 1 | 4 |
 

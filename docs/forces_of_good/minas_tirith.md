@@ -13,7 +13,7 @@ This army may include: Aragorn, King Elessar; Gandalf the White; Denethor, Stewa
 ### ARAGORN, KING ELESSAR [225 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 6/3+ | 4 | 7 | 3 | 3 | 6 | 3* | 3 | 3 |
 
@@ -21,10 +21,10 @@ This army may include: Aragorn, King Elessar; Gandalf the White; Denethor, Stewa
 
 - [Heavy Armour]
 - Anduril, Flame of the West
-- **Anduril, Flame of the West (ACTIVE)** 
+- **Anduril, Flame of the West (ACTIVE)**
 
 Anduril is an *[Elven-made]* *[ *[hand-and-a-half]* ]* [sword]. Additionally, when making Strikes with Anduril, Aragorn never requires more than a 4 for his To Wound rolls. Note that if Aragorn elects to use Anduril as a [two-handed] weapon, he will still get the +1 bonus To Wound meaning that he will Wound on a 3+.
-  
+
 **HEROIC ACTIONS**
 
 - [Heroic Resolve]
@@ -42,10 +42,9 @@ Anduril is an *[Elven-made]* *[ *[hand-and-a-half]* ]* [sword]. Additionally, wh
 
 - [Horse Lord]
 - [Mighty Hero]*
-- **Stand Men of the West! (PASSIVE)** 
+- **Stand Men of the West! (PASSIVE)**
 
 Friendly models within 6" of Aragorn, King Elessar count as being in range of a [banner].
-
 
 </div>
 
@@ -56,7 +55,7 @@ Friendly models within 6" of Aragorn, King Elessar count as being in range of a 
 ### GANDALF THE WHITE [220 POINTS]
 *WIZARD, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 6 | 2 | 3 | 7 | 3 | 2 | 1 |
 
@@ -89,25 +88,25 @@ Gandalf may re-roll his dice when making Fate rolls.
 
 Shadowfax is a mount that uses the following profile.
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 12"   | 0     | 4     | 5     | 0     | 1     | 5     | 0     | 2     | 1     |       |
+| 12"  | 0   | 4   | 5   | 0   | 1   | 5   | 0   | 2   | 1   |    |
 
 ---
 
 **MAGICAL POWERS**
 
-|  | **Range** | **Casting** |
+| | **Range** | **Casting** |
 |:---------------------|:-:|:-:|
-| [Blinding Light]     | -         | 2+          |
-| [Immobilise]         | 12"       | 2+          |
-| [Terrifying Aura]    | -         | 2+          |
-| [Command]            | 12"       | 3+          |
-| [Fortify Spirit]     | 12"       | 3+          |
-| [Strengthen Will]    | 12"       | 3+          |
-| [Banishment]         | 12"       | 4+          |
-| [Sorcerous Blast]    | 12"       | 4+          |
-| [Your Staff is Broken] | 12"     | 4+          |
+| [Blinding Light]   | -     | 2+     |
+| [Immobilise]     | 12"    | 2+     |
+| [Terrifying Aura]  | -     | 2+     |
+| [Command]      | 12"    | 3+     |
+| [Fortify Spirit]   | 12"    | 3+     |
+| [Strengthen Will]  | 12"    | 3+     |
+| [Banishment]     | 12"    | 4+     |
+| [Sorcerous Blast]  | 12"    | 4+     |
+| [Your Staff is Broken] | 12"   | 4+     |
 
 </div>
 
@@ -118,13 +117,13 @@ Shadowfax is a mount that uses the following profile.
 ### DENETHOR, STEWARD OF GONDOR [35 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 5 | 2 | 2 | 5 | 0 | 3 | 0 |
 
 **WARGEAR**
 
-- [Armour] 
+- [Armour]
 - [Sword]
 
 **SPECIAL RULES**
@@ -135,7 +134,7 @@ At the start of every turn, before Priority is rolled, the controlling player mu
 
 If Boromir is part of the same army as Denethor, then Denethor will automatically pass these Courage tests so long as Boromir is alive. Should Boromir be slain, then Denethor will automatically fail the next Courage test he must take for this special rule.
 
-- **"The rule of Gondor is mine, and no other's!" (PASSIVE)** 
+- **"The rule of Gondor is mine, and no other's!" (PASSIVE)**
 
 If your force contains Denethor then he must be your leader, unless your force also contains Aragorn, King Elessar.
 
@@ -148,13 +147,13 @@ If your force contains Denethor then he must be your leader, unless your force a
 ### PEREGRIN TOOK, GUARD OF THE CITADEL [25 POINTS]
 *HOBBIT, GONDOR, INFANTRY, HERO - INDEPENDENT HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 4" | 3/3+ | 2 | 4 | 1 | 1 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
 
-- [Armour] 
+- [Armour]
 - [Dagger]
 
 **HEROIC ACTIONS**
@@ -165,7 +164,7 @@ If your force contains Denethor then he must be your leader, unless your force a
 
 - [Elven Cloak]: 5 points
 
-**SPECIAL RULES** 
+**SPECIAL RULES**
 
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1)
@@ -179,14 +178,14 @@ If your force contains Denethor then he must be your leader, unless your force a
 ### BOROMIR, CAPTAIN OF THE WHITE TOWER [160 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 6/4+ | 4 | 6 | 3 | 3 | 6 | 6 | 3 | 3 |
 
 **WARGEAR**
 
 - [Heavy armour]
-- [Sword] 
+- [Sword]
 - Horn of Gondor
 - **Horn of Gondor (ACTIVE)**
 
@@ -218,7 +217,7 @@ The Banner of Minas Tirith is a [banner] with a range of 6". Additionally, Borom
 ### FARAMIR, CAPTAIN OF GONDOR [80 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 5/3+ | 4 | 5 | 2 | 2 | 6 | 3 | 3 | 2 |
 
@@ -258,14 +257,14 @@ If Denethor is part of the same army as Faramir, then Faramir will automatically
 ### BEREGROND, GUARD OF THE CITADEL [30 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - MINOR HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/3+ | 4 | 6 | 1 | 1 | 4 | 1 | 1 | 1 |
 
 **WARGEAR**
 
 - [Heavy armour]
-- [Sword] 
+- [Sword]
 - [Longbow][Bow]
 
 **HEROIC ACTIONS**
@@ -289,7 +288,7 @@ If Denethor is part of the same army as Faramir, then Faramir will automatically
 ### MADRIL, CAPTAIN OF ITHILIEN [55 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/3+ | 4 | 5 | 1 | 1 | 4 | 3 | 1 | 1 |
 
@@ -320,7 +319,7 @@ In Scenarios where you roll for additional forces to arrive (such as those that 
 ### DAMROD, RANGER OF ITHILIEN [25 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - MINOR HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/3+ | 3 | 4 | 1 | 1 | 3 | 1 | 1 | 1 |
 
@@ -347,7 +346,7 @@ In Scenarios where you roll for additional forces to arrive (such as those that 
 ### CIRION, LIEUTENANT OF AMON BARAD [55 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/3+ | 4 | 6 | 2 | 2 | 4 | 3 | 1 | 1 |
 
@@ -377,7 +376,7 @@ When charging an enemy that causes Terror, Cirion receives a +2 bonus to his Cou
 ### KNIGHT OF THE WHITE TOWER [60 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 6 | 2 | 2 | 4 | 2 | 1 | 1 |
 
@@ -409,13 +408,13 @@ If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he d
 ### KING OF MEN [60 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 5/4+ | 4 | 5 | 2 | 2 | 5 | 2 | 2 | 1 |
 
 **WARGEAR**
 
-- [Armour] 
+- [Armour]
 - [Sword]
 
 **HEROIC ACTIONS**
@@ -440,7 +439,7 @@ If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he d
 ### CAPTAIN OF MINAS TIRITH [50 POINTS]
 *MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/4+ | 4 | 6 | 2 | 2 | 4 | 2 | 1 | 1 |
 
@@ -475,7 +474,7 @@ If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he d
 ### WARRIOR OF MINAS TIRITH [7 POINTS]
 *MAN, GONDOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 6" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
 
@@ -504,7 +503,7 @@ If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he d
 ### KNIGHT OF MINAS TIRITH [13 POINTS]
 *MAN, GONDOR, CAVALRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 10" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
 
@@ -533,7 +532,7 @@ If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he d
 ### RANGER OF GONDOR [8 POINTS]
 **MAN, GONDOR, INFANTRY, WARRIOR**
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 6" | 4/3+ | 3 | 4 | 1 | 1 | 3 |
 
@@ -556,7 +555,7 @@ If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he d
 ### CITADEL GUARD [9 POINTS]
 *MAN, GONDOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 6" | 4/4+ | 3 | 5 | 1 | 1 | 3 |
 
@@ -584,7 +583,7 @@ If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he d
 ### GUARD OF THE FOUNTAIN COURT [10 POINTS]
 *MAN, GONDOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 6" | 4/4+ | 3 | 6 | 1 | 1 | 3 |
 
@@ -612,7 +611,7 @@ If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he d
 ### OSGILIATH VETERAN [8 POINTS]
 *MAN, GONDOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 6" | 3/4+ | 3 | 5 | 1 | 1 | 4 |
 
@@ -650,7 +649,7 @@ If this model is within 6" of either Boromir or Faramir, then this model will re
 
 A Battlecry Trebuchet is a large Siege Engine and crewed by three Warriors of Minas Tirith with no additional wargear. One of the crew is automatically the [Siege Veteran]. All crew members have the *Man, Gondor, Infantry and Warrior* keywords.
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 6" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
 
@@ -662,15 +661,15 @@ A Battlecry Trebuchet is a large Siege Engine and crewed by three Warriors of Mi
 
 **SPECIAL RULES**
 
-- **Indirect Fire** 
+- **Indirect Fire**
 
 A Trebuchet always fires using the rules for Volley Fire, with a range of 12"-96".
 
-- **Area Effect** 
+- **Area Effect**
 
 If a Trebuchet scores a hit against a Battlefield target, all models within 2" of the target suffer one Strength 5 hit and are knocked Prone (this additional hit does not kill a target outright).
 
-- **Wall-breaker** 
+- **Wall-breaker**
 
 When a Trebuchet rolls To Wound against a Siege target, the controlling player may roll two dice and pick the highest.
 
@@ -685,13 +684,13 @@ When a Trebuchet rolls To Wound against a Siege target, the controlling player m
 
 | Siege Engine | Strength | Defence | Wounds |
 |:--:|:--:|:-:|:--:|
-|Avenger Bolt Thrower  | (7) | 10 | 3 |
+|Avenger Bolt Thrower | (7) | 10 | 3 |
 
 **CREW**
 
 An Avenger Bolt Thrower is a small Siege Engine and is crewed by two Warriors of Minas Tirith with [heavy armour] and [sword]. One of the crew is automatically the [Siege Veteran]. All crew members have the *Man, Gondor, Infantry and Warrior* keywords.
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 6" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
 
@@ -707,7 +706,7 @@ An Avenger Bolt Thrower is a small Siege Engine and is crewed by two Warriors of
 
 An Avenger Bolt Thrower only fires 24" rather than 48".
 
-- **Rapid Fire** 
+- **Rapid Fire**
 
 An Avenger Bolt Thrower fire D6 shots each turn rather than one. Each shot is resolved in the same way as a shooting attack rather than a Siege Engine. This means that no scatter is rolled for an Avenger Bolt Thrower - it will either hit or miss. Resolve each shot individually, rolling To Hit and To Wound, before moving onto the next shot. Shots fired from an Avenger Bolt Thrower do not kill targets outright nor do they knock them to the ground.
 

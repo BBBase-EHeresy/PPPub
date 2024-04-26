@@ -5,16 +5,18 @@ This army may include: Thrór; Thráin; Young Thorin Oakenshield; Young Balin th
 ## ARMY BONUS
 
 **"Thrór ruled with utter surety, never doubting his house would endure"** – Friendly Erebor Dwarf models count as being in range of a banner if Thrór is within 6".
+
 ## HEROES OF THE ARMY OF THRÓR
 
 <div class="unitCard" markdown>
 
 ### THRÓR [120 POINTS]
+
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| 5" | 6/4+| 4 | 9 | 3 | 3 | 6 | 3 | 3 | 1 |
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 5" | 6/4+ | 4 | 9 | 3 | 3 | 6 | 3 | 3 | 1 |
 
 **WARGEAR**
 
@@ -22,7 +24,6 @@ This army may include: Thrór; Thráin; Young Thorin Oakenshield; Young Balin th
 - [Sword]
 - [Shield]
 - Arkenstone
-
 - **Arkenstone (PASSIVE)**
 
 The bearer of the Arkenstone passes Fate rolls on a 3+. In addition, when taking a Fate roll, if the roll is a 4 or better, there is no need to expend the Fate point at all; it is free.
@@ -39,7 +40,7 @@ If your army includes Thrór, you may upgrade any number of Grim Hammers in his 
 
 If your army does not include Durin, King of Khazad-dûm, then Thrór carries the Ring of Durin.
 
-- **The Ring of Durin (PASSIVE)** 
+- **The Ring of Durin (PASSIVE)**
 
 Once per game, the bearer of the Ring of Durin may re-roll a single Priority roll.
 
@@ -50,15 +51,16 @@ Once per game, the bearer of the Ring of Durin may re-roll a single Priority rol
 <div class="unitCard" markdown>
 
 ### THRÁIN [120 POINTS]
+
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| 5" | 6/4+| 4 | 8 | 3 | 3 | 6 | 3 | 3 | 3 |
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 5" | 6/4+ | 4 | 8 | 3 | 3 | 6 | 3 | 3 | 3 |
 
 **WARGEAR**
 
-- [Heavy Dwarf armour] 
+- [Heavy Dwarf armour]
 - *[Master-Forged]* *[two-handed]* [hammer]
 
 **HEROIC ACTIONS**
@@ -91,11 +93,12 @@ Thráin re-rolls all failed To Wound rolls when making Strikes against Azog, and
 <div class="unitCard" markdown>
 
 ### YOUNG THORIN OAKENSHIELD [100 POINTS]
+
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---|:---:|:---:|:---:|
-| 5" | 6/4+| 4 | 7 | 3 | 3 | 6 | 3 | 3 | 3 |
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 5" | 6/4+ | 4 | 7 | 3 | 3 | 6 | 3 | 3 | 3 |
 
 **WARGEAR**
 
@@ -112,14 +115,13 @@ Thráin re-rolls all failed To Wound rolls when making Strikes against Azog, and
 **OPTIONS**
 
 - The Oakenshield: 5 points
-
 - **The Oakenshield (ACTIVE)**
 
 The Oakenshield is a shield. Additionally, should Thorin opt to use it for Shielding during a Fight and he wins, he may make a single Strike at his Strength (receiving no bonuses from any weapons).
 
 **SPECIAL RULES**
 
-- **To Arms! (ACTIVE)** 
+- **To Arms! (ACTIVE)**
 
 Once per game, when moving Young Thorin Oakenshield, the controlling player may declare "To Arms!". At the start of the following Fight phase, all friendly Erebor Dwarf models within 3" increase their Strength by 1 for that phase.
 
@@ -130,15 +132,16 @@ Once per game, when moving Young Thorin Oakenshield, the controlling player may 
 <div class="unitCard" markdown>
 
 ### YOUNG BALIN THE DWARF [55 POINTS]
+
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 5 | 2 | 2 | 6 | 1 | 3 | 2 |
 
 **WARGEAR**
 
-- [Dwarf armour] 
+- [Dwarf armour]
 - Sword-mace
 - **Sword-mace (ACTIVE)**
 
@@ -161,15 +164,16 @@ In the Priority phase, Young Balin may spend a Will point to enable his side to 
 <div class="unitCard" markdown>
 
 ### YOUNG DWALIN THE DWARF [85 POINTS]
+
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/4+ | 5 | 6 | 3 | 2 | 6 | 2 | 2 | 2 |
 
 **WARGEAR**
 
-- [Dwarf armour] 
+- [Dwarf armour]
 - Two [axes][Axe]
 
 **HEROIC ACTIONS**
@@ -195,12 +199,13 @@ Before making a Duel roll, Young Dwalin the Dwarf may choose to reduce his Fight
 <div class="unitCard" markdown>
 
 ### YOUNG BALIN THE DWARF [55 POINTS]
+
 **DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE**
 
 Wherever Dwalin travelled, his older brother, Balin, was sure to be found. Wise, even in his youth, Balin was the kind of Dwarf that others sought out for sage counsel, although he was in no way lacking for skill-at-arms. At the Battle of Azanulbizar, Balin joined Thorin in rallying the wavering Dwarven hosts, charging to victory up the corpse-strewn slopes beside his beloved kinsmen.
 
-| Mv | F  | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 5 | 2 | 2 | 6 | 1 | 3 | 2 |
 
 **WARGEAR**
@@ -223,19 +228,19 @@ Wherever Dwalin travelled, his older brother, Balin, was sure to be found. Wise,
 <div class="unitCard" markdown>
 
 ### GRIM HAMMER CAPTAIN [70 POINTS]
+
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/4+ | 4 | 8 | 2 | 2 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
 
 - [Heavy Dwarf armour]
 - Pick-hammer
-- [Throwing axes][Throwing Weapons]
-
-- **Pick-hammer (ACTIVE)** 
+- [Throwing axes][Throwing weapon]
+- **Pick-hammer (ACTIVE)**
 
 These are *[hand-and-a-half]* weapons, which may use either the [Bash][Hammer] or [Piercing Strike][Pick] Special Strikes.
 
@@ -250,10 +255,11 @@ These are *[hand-and-a-half]* weapons, which may use either the [Bash][Hammer] o
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF EREBOR [60 POINTS]
+
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Mv |  F  | S | D | A | W | C | M | W | F |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/4+ | 4 | 7 | 2 | 2 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
@@ -278,19 +284,19 @@ These are *[hand-and-a-half]* weapons, which may use either the [Bash][Hammer] o
 <div class="unitCard" markdown>
 
 ### GRIM HAMMER [11 POINTS]
+
 *DWARF, EREBOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---|
-| 5" | 4/4+| 3 | 7 | 1 | 1 | 4 |
+| Mv |  F  | S | D | A | W | C |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: |
+| 5" | 4/4+ | 3 | 7 | 1 | 1 | 4 |
 
 **WARGEAR**
 
 - [Heavy Dwarf armour]
 - Pick-hammer
-- [Throwing axes][Throwing Weapons]
-
-- **Pick-hammer (ACTIVE)** 
+- [Throwing axes][Throwing weapon]
+- **Pick-hammer (ACTIVE)**
 
 These are *[hand-and-a-half]* weapons, which may use either the [Bash][Hammer] or [Piercing Strike][Pick] Special Strikes.
 
@@ -306,11 +312,12 @@ These are *[hand-and-a-half]* weapons, which may use either the [Bash][Hammer] o
 <div class="unitCard" markdown>
 
 ### WARRIOR OF EREBOR [8 POINTS]
+
 *DWARF, EREBOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---|
-| 5" | 4/4+| 3 | 6 | 1 | 1 | 4 |
+| Mv |  F  | S | D | A | W | C |
+| :-: | :--: | :-: | :-: | :-: | :-: | :-: |
+| 5" | 4/4+ | 3 | 6 | 1 | 1 | 4 |
 
 **WARGEAR**
 

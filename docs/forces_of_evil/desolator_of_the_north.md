@@ -1,10 +1,4 @@
-﻿## DESOLATOR OF THE NORTH
-
-*In the ages gone by, somewhere within the mountains to the north of Middle-earth, dwelt the great Fire-drakes, striking fear into the hearts of any who heard their roar. Among these, Smaug was the most feared and famous Fire-drake.*
-
-*With the destruction of the cities of Dale and Erebor, Smaug became a legendary wyrm. Under Thrór, the treasure of Erebor grew, drawing Smaug to its riches. He first set the city of Dale ablaze, defeating its defenders and killing Girion, the lord of the city. Then, Smaug claimed The Lonely Mountain and its treasures, forcing Thrór and his kin to flee and establishing himself as King Under the Mountain.*
-
-## ARMY COMPOSITION
+﻿## ARMY COMPOSITION
 
 This army may include: Smaug.
 
@@ -14,14 +8,15 @@ The Desolator of the North army list does not have a special rule — having Sma
 
 ## HEROES OF THE DESOLATOR OF THE NORTH
 
+
+<div class="unitCard" markdown>
+
 ### SMAUG [700 POINTS]
-**DRAGON, MONSTER, INFANTRY, HERO — HERO OF LEGEND**
+*DRAGON, MONSTER, INFANTRY, HERO — HERO OF LEGEND*
 
-*Smaug, a Fire-drake from the mountains to the north, covets the great wealth of Erebor, leading to the ruin of Erebor and Dale, forcing survivors to flee their ancestral homes.*
-
-| Mv | F  | S | D | A | W | C |
-|:--:|:--:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 8/2+ | 9 | 9 | 4 | 20 | 6 |
+| Mv | F | S | D | A | W | C | M | W | F |
+|:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 6" | 8/2+ | 9 | 9 | 4 | 20 | 6 | 3 | 6* | 0 |
 
 **WARGEAR**
 
@@ -37,17 +32,39 @@ The Desolator of the North army list does not have a special rule — having Sma
 
 **SPECIAL RULES**
 
-- Ancient Evil, Fearless, Fly, Resistant to Magic, Terror
-- Breathe Fire: Smaug can use his fiery breath like a bow with an 18" range.
-- Immovable Object: Smaug cannot be Knocked to the Ground or moved against his will.
-- Missing Scale: A vulnerability from a past injury that can be exploited with a successful shooting attack.
-- Unstoppable Momentum: If Smaug charges and wins the Fight, all opponents are Knocked to the Ground.
+- [Ancient Evil]
+- [Fearless]
+- [Fly]
+- [Resistant to Magic]
+- [Terror]
+- **Breathe Fire (ACTIVE)**
+
+Smaug must expend a point of Will to Breathe Fire. Treat Smaug’s fiery breath as a bow with a range of 18". If the shot hits, the target and all models (friendly or enemy) within 2" of the target suffer from the Set Ablaze special rule, though the immediate hit these models suffer is Strength 10 instead of Strength 9. Cavalry models suffer these hits on both the rider and the mount. Fate rolls may be taken as normal to prevent wounds, but any model that suffers a wound from Smaug’s fiery breath is
+automatically slain.
+
+- ***Desolator of the North (PASSIVE)**
+
+Smaug may expend a single point of Will each turn without depleting his own store. Furthermore, Smaug re-rolls To Wound rolls of 1 when making Strikes against Dwarf models.
+
+- **Immovable Object (PASSIVE)**
+
+Smaug cannot be Knocked to the Ground or otherwise moved against his will, and never Backs Away if he loses a Fight – his opponents must Back Away, even if they win! As a result of this, Smaug can never be Trapped.
+
+- **Missing Scale (PASSIVE)**
+
+If a model rolls a natural 6 To Hit Smaug with a shooting attack, then makes a successful roll To Wound, Smaug suffers a number of wounds equal to the Strength value of the missile weapon used by the shooting model.
+
+- **Unstoppable Momentum (ACTIVE)**
+
+If Smaug Charges into combat and wins the ensuing Fight, all of his opponents are Knocked to the Ground, regardless of their size (except a War Mumak of Harad, Iron Hills Chariot, or any model that can never be knocked Prone). Furthermore, should Smaug choose to make a Barge Brutal Power Attack, any models forced to Back Away also suffer a Strength 9 hit.
 
 **MAGICAL POWERS**
 
-- *Transfix*: Range 12", Casting 3+
-- *Compel*: Range 12", Casting 4+
-- *Instill Fear*: Range 3", Casting 5+
-- *Sap Will*: Range 12", Casting 5+
+|  | **Range** | **Casting** |
+|---------------------|:---------:|:-----------:|
+|      [Transfix]       |    12"    |     3+      |
+|       [Compel]        |    12"    |     4+      |
+|    [Instill Fear]     |    3"     |     5+      |
+|      [Sap Will]       |    12"    |     5+      |
 
-Smaug may expend a single point of Will each turn without depleting his own store. Furthermore, he re-rolls To Wound rolls of 1 when making Strikes against Dwarf models.
+</div>

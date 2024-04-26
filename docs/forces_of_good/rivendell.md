@@ -14,7 +14,7 @@ This army may include: Gil-galad, High King of the Elves; Elrond, Master of Rive
 
 *ELF, RIVENDELL, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 9/3+ | 4 | 7 | 3 | 3 | 7 | 3 | 3 | 1 |
 
@@ -64,7 +64,7 @@ A model with this special rule may re-roll a single D6 when making a Duel roll. 
 
 *ELF, RIVENDELL, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 6/3+ | 4 | 5 | 3 | 3 | 7 | 3 | 3 | 3 |
 
@@ -106,10 +106,10 @@ A model with this special rule may re-roll a single D6 when making a Duel roll. 
 
 **MAGICAL POWERS**
 
-|                  | **Range** | **Casting** |
+|         | **Range** | **Casting** |
 | ---------------- | --------------- | ----------------- |
-| [Wrath of Bruinen] | -               | 4+                |
-| [Renew]            | 12"             | 3+                |
+| [Wrath of Bruinen] | -        | 4+        |
+| [Renew]      | 12"       | 3+        |
 
 </div>
 
@@ -121,7 +121,7 @@ A model with this special rule may re-roll a single D6 when making a Duel roll. 
 
 *ELF, RIVENDELL, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 7/3+ | 4 | 5 | 3 | 3 | 7 | 3 | 3 | 3 |
 
@@ -172,7 +172,7 @@ Glorfindel always counts as having had the [Fortify Spirit] Magical Power cast u
 
 *ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 6/3+ | 4 | 7 | 2 | 2 | 6 | 2 | 2 | 2 |
 
@@ -182,7 +182,7 @@ Glorfindel always counts as having had the [Fortify Spirit] Magical Power cast u
 - Noldorin daggers
 - **Noldorin Daggers (ACTIVE)**
 
-These are *[Elven-made]* [daggers][Dagger]. Erestor may use these as [Throwing weapons]. Erestor may re-roll failed To Wound rolls when throwing his daggers or when making Strikes with them.
+These are *[Elven-made]* [daggers][Dagger]. Erestor may use these as [Throwing weapon]. Erestor may re-roll failed To Wound rolls when throwing his daggers or when making Strikes with them.
 
 **HEROIC ACTIONS**
 
@@ -203,7 +203,7 @@ These are *[Elven-made]* [daggers][Dagger]. Erestor may use these as [Throwing w
 
 **ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
 
-| Mv |  F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/4+ | 3 | 3 | 2 | 2 | 5 |
 
@@ -233,9 +233,9 @@ Asfaloth is a [horse] with a Move value of 12" rather than 10". Additionally, wh
 
 **MAGICAL POWERS**
 
-|                  | **Range** | **Casting** |
+|         | **Range** | **Casting** |
 | ---------------- | --------------- | ----------------- |
-| [Wrath of Bruinen] | -               | 4+                |
+| [Wrath of Bruinen] | -        | 4+        |
 
 </div>
 
@@ -247,7 +247,7 @@ Asfaloth is a [horse] with a Move value of 12" rather than 10". Additionally, wh
 
 *ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 6/3+ | 4 | 5 | 2 | 2 | 6 | 3 | 2 | 2 |
 
@@ -289,7 +289,7 @@ Should one brother be killed, the surviving brother will immediately increase th
 
 *ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 4 | 4 | 1 | 2 | 6 | 1 | 3 | 1 |
 
@@ -323,7 +323,7 @@ If Lindir is within 6" of Elrond, then Elrond may expend a single point of Will 
 
 *ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 4 | 4 | 1 | 2 | 6 | 1 | 4* | 1 |
 
@@ -347,12 +347,12 @@ Cirdan may spend a single point of Will each turn without reducing his own store
 
 **MAGICAL POWERS**
 
-|                  | **Range** | **Casting** |
+|         | **Range** | **Casting** |
 | ---------------- | --------------- | ----------------- |
-| [Aura of Command]  | -               | 2+                |
-| [Blinding Light]   | -               | 2+                |
-| [Enchanted Blades] | 6"              | 4+                |
-| [Aura of Dismay]   | -               | 5+                |
+| [Aura of Command] | -        | 2+        |
+| [Blinding Light]  | -        | 2+        |
+| [Enchanted Blades] | 6"       | 4+        |
+| [Aura of Dismay]  | -        | 5+        |
 
 </div>
 
@@ -364,7 +364,7 @@ Cirdan may spend a single point of Will each turn without reducing his own store
 
 *ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 8" | 6/3+ | 4 | 4 | 2 | 2 | 6 | 1 | 4 | 1 |
 
@@ -391,9 +391,9 @@ If your army includes Gildor Inglorion, you may include Wood Elf Warriors from t
 
 **MAGICAL POWERS**
 
-|            | **Range** | **Casting** |
+|      | **Range** | **Casting** |
 | ---------- | --------------- | ----------------- |
-| [Immobilise] | -               | 3+                |
+| [Immobilise] | -        | 3+        |
 
 </div>
 
@@ -405,7 +405,7 @@ If your army includes Gildor Inglorion, you may include Wood Elf Warriors from t
 
 *ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 6/3+ | 4 | 6 | 2 | 2 | 6 | 2 | 1 | 1 |
 
@@ -440,7 +440,7 @@ If your army includes Gildor Inglorion, you may include Wood Elf Warriors from t
 
 *ELF, RIVENDELL, INFANTRY, HERO - MINOR HERO*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 3 | 4 | 1 | 2 | 5 | 1 | 3 | 1 |
 
@@ -463,10 +463,10 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 
 **MAGICAL POWERS**
 
-|                 | **Range** | **Casting** |
+|         | **Range** | **Casting** |
 | --------------- | --------------- | ----------------- |
-| [Call Winds ]     | 12"             | 3+                |
-| [Strengthen Will] | 12"             | 4+                |
+| [Call Winds ]   | 12"       | 3+        |
+| [Strengthen Will] | 12"       | 4+        |
 
 </div>
 
@@ -480,7 +480,7 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 
 **ELF, RIVENDELL, INFANTRY, WARRIOR**
 
-| Mv |  F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 6" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
 
@@ -511,7 +511,7 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 
 *ELF, RIVENDELL, CAVALRY, WARRIOR*
 
-| Mv  | F    | S | D | A | W | C |
+| Mv | F  | S | D | A | W | C |
 | --- | ---- | - | - | - | - | - |
 | 10" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
 
