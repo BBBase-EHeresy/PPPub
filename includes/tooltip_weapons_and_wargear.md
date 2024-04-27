@@ -38,6 +38,7 @@
 [The One Ring]: ../rules_manual/weapons_and_wargear.md#the-one-ring
 [Armour]: ../rules_manual/weapons_and_wargear.md#armour
 [War Drum]: ../rules_manual/weapons_and_wargear.md#war-drum-x
+[Whip]: ../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips
 
 [Horse]: ../rules_manual/cavalry.md#horse
 [Armoured Horse]: ../rules_manual/cavalry.md#armoured-horse

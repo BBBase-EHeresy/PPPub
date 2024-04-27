@@ -41,7 +41,7 @@ Once per game the controlling player can use the Palantir to automatically win a
 
 - **Voice of Curunir (ACTIVE)**
 
-Saruman's Stand Fast! has a range of 12" and, unlike other Hero models' Stand Fast! rolls, can affect other Hero models.
+Saruman's [Stand Fast!] has a range of 12" and, unlike other Hero models' [Stand Fast!] rolls, can affect other Hero models.
 
 - **Lord of the Istari (PASSIVE)**
 
@@ -154,7 +154,7 @@ Any warband led by Lurtz does not have to roll to determine when and where it ar
 
 - **Head Taker (ACTIVE)**
 
-Should Ugliik's force be broken, Ugluk can choose to kill a nearby model instead of taking a Courage test. Simply choose a friendly Warrior within 2" of Ugluk and remove it as a casualty. Furthermore, in a turn that Ugluk does this, he will automatically pass his Courage test and his Stand Fast! has a range of 12" and affects both Warrior and Hero models.
+Should Ugliik's force be broken, Ugluk can choose to kill a nearby model instead of taking a Courage test. Simply choose a friendly Warrior within 2" of Ugluk and remove it as a casualty. Furthermore, in a turn that Ugluk does this, he will automatically pass his Courage test and his [Stand Fast!] has a range of 12" and affects both Warrior and Hero models.
 
 </div>
 
@@ -259,7 +259,7 @@ The curious blade Sharku carries into battle complements his gritty, vicious fig
 
 - [Armour]
 - [Sword]
-- *[Two-handed]* [axe]
+- *[Two-handed]* [Axe]
 
 **HEROIC ACTIONS**
 
@@ -271,7 +271,7 @@ The curious blade Sharku carries into battle complements his gritty, vicious fig
 - [Mighty Blow]
 - **Lord of Dunland (ACTIVE)**
 
-The range of Thrydan's Stand Fast! is 12".
+The range of Thrydan's [Stand Fast!] is 12".
 
 </div>
 
@@ -398,7 +398,7 @@ The range of Thrydan's Stand Fast! is 12".
 
 - [Armour]
 - [Dagger]
-- *[Two-handed]* [axe]
+- *[Two-handed]* [Axe]
 
 **HEROIC ACTIONS**
 
@@ -407,7 +407,7 @@ The range of Thrydan's Stand Fast! is 12".
 **OPTIONS**
 
 - [Bow]: 5 points
-- Swap two-handed axe for [axe] and [shield]: Free
+- Swap two-handed axe for [Axe] and [shield]: Free
 
 </div>
 
@@ -539,8 +539,8 @@ Every time a Feral Uruk-hai suffers a Wound, roll a D6. On a 6, the Wound is ign
 
 - [Banner]: 25 points
 - [Shield]: 1 point
-- Swap axe for [dagger] and [bow]: 1 point
-- *[Two-handed]* [axe]: 1 point
+- Swap axe for [Dagger] and [bow]: 1 point
+- *[Two-handed]* [Axe]: 1 point
 
 </div>
 
@@ -557,11 +557,11 @@ Every time a Feral Uruk-hai suffers a Wound, roll a D6. On a 6, the Wound is ign
 
 **WARGEAR**
 
-- [Sword] or [axe]
+- [Sword] or [Axe]
 
 **OPTIONS**
 
-- *[Two-handed]* [axe]: 1 point
+- *[Two-handed]* [Axe]: 1 point
 
 **SPECIAL RULES**
 

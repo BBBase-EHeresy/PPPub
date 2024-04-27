@@ -42,7 +42,7 @@ The profile for The Witch-king of Angmar can be found on page 114. The Witch-kin
 - [Will of Evil]
 - **Miasmatic Presence (PASSIVE)**
 
-At the start of the Move phase, before Heroic Actions are declared, The Tainted may elect to spend a point of Will. If he does this, until the end of the turn, all Warrior models within 6" of The Tainted may not benefit from the Stand Fast! rule, nor take part in Heroic Actions.
+At the start of the Move phase, before Heroic Actions are declared, The Tainted may elect to spend a point of Will. If he does this, until the end of the turn, all Warrior models within 6" of The Tainted may not benefit from the [Stand Fast!] rule, nor take part in Heroic Actions.
 
 - **Seeping Decay (PASSIVE)**
 
@@ -251,7 +251,7 @@ At the start of the Fight phase, before Heroic Actions are declared, a Shade may
 **WARGEAR**
 
 - [Armour]
-- [Sword] or [pick]
+- [Sword] or [Pick]
 
 **HEROIC ACTIONS**
 
@@ -324,7 +324,7 @@ At the start of the Fight phase, before Heroic Actions are declared, a Shade may
 - [Terror]
 - Packlord (ACTIVE)
 
-Only friendly Warg models may benefit from a Wild Warg Chieftain's Stand Fast! and Heroic Actions.
+Only friendly Warg models may benefit from a Wild Warg Chieftain's [Stand Fast!] and Heroic Actions.
 
 </div>
 
@@ -344,7 +344,7 @@ Only friendly Warg models may benefit from a Wild Warg Chieftain's Stand Fast! a
 **WARGEAR**
 
 - [Armour]
-- [Sword] or [pick]
+- [Sword] or [Pick]
 
 **OPTIONS**
 

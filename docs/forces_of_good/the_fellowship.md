@@ -43,7 +43,7 @@ Whilst wearing the Mithril Coat, a model adds +3 to their Defence.
 
 * **Sting (ACTIVE)**
 
-Sting is an *[Elven-made]* dagger. Additionally, whilst carrying Sting, a model adds +1 to their Strength when making Strikes.
+Sting is an *[Elven-made]* [Dagger]. Additionally, whilst carrying Sting, a model adds +1 to their Strength when making Strikes.
 
 **SPECIAL RULES**
 
@@ -162,7 +162,7 @@ Whilst within 3" of Boromir of Gondor, Pippin may spend Boromir's Might points a
 * Narya
 * **Glamdring (ACTIVE)**
 
-Glamdring is an *[Elven-made]* *[ *[hand-and-a-half]* ]* [Sword]. Additionally, Glamdring increases Gandalf's Strength by 1 when making Strikes with it.
+Glamdring is an *[Elven-made]* *[hand-and-a-half]* [Sword]. Additionally, Glamdring increases Gandalf's Strength by 1 when making Strikes with it.
 
 * **Narya (PASSIVE)**
 
@@ -243,7 +243,7 @@ At the start of every friendly Shoot phase, select a single enemy model within 6
 
 * **Andúril, Flame of the West (ACTIVE)**
 
-Andtiril is an *[Elven-made]* *[hand-and-a-half]* [Sword] Additionally, when making Strikes with Anduril, Aragorn never requires more than a 4 for his To Wound rolls. Note that if Aragorn elects to use Anduril as a *[two-handed]* weapon, he will still get the +1 To Wound bonus, meaning that he will essentially wound on a 3+.
+Andtiril is an *[Elven-made]* *[hand-and-a-half]* [Sword] Additionally, when making Strikes with Anduril, Aragorn never requires more than a 4 for his To Wound rolls. Note that if Aragorn elects to use Anduril as a *[Two-handed]* weapon, he will still get the +1 To Wound bonus, meaning that he will essentially wound on a 3+.
 
 **SPECIAL RULES**
 
@@ -358,7 +358,7 @@ If Legolas and Gimli are in the same army then keep a track of how many models t
 
 * **Axes of the Dwarves! (ACTIVE)**
 
-At the beginning of each fight, Gimli can choose to use either an axe in each hand, in which case he fights with 3 Attacks, or use his *[two-handed]* axe.
+At the beginning of each fight, Gimli can choose to use either an axe in each hand, in which case he fights with 3 Attacks, or use his *[Two-handed]* axe.
 
 * **I myself am sitting pretty on 43 (ACTIVE)**
 

@@ -209,7 +209,7 @@ Dwalin the Dwarf is never considered to be unarmed, and never suffers the usual 
 
 - **Boar spear (ACTIVE)**
 
-A boar spear can be used as either a [spear] or a *[two-handed]* [axe].
+A boar spear can be used as either a [spear] or a *[Two-handed]* [Axe].
 
 **HEROIC ACTIONS**
 
@@ -245,7 +245,7 @@ If Bifur the Dwarf wins a fight, he may choose to headbutt his enemy with the ax
 - Mattock
 - **Mattock (ACTIVE)**
 
-This is a *[two-handed]* weapon, which can use either the [Bash][Hammer] or [Piercing Strike][Spear] Special Strikes.
+This is a *[Two-handed]* weapon, which can use either the [Bash][Hammer] or [Piercing Strike][Spear] Special Strikes.
 
 **HEROIC ACTIONS**
 
@@ -454,7 +454,7 @@ Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendl
 **WARGEAR**
 
 - [Dwarf armour]
-- Two [axes][axe]
+- Two [axes][Axe]
 - [Throwing axes][Throwing weapon]
 
 **HEROIC ACTIONS**
@@ -553,7 +553,7 @@ Gandalf may re-roll his dice when making Fate rolls.
 
 - **Sting (ACTIVE)**
 
-Sting is an *[Elven-made]* [dagger]. Additionally, whilst carrying Sting, Bilbo adds +1 to his Strength when making Strikes.
+Sting is an *[Elven-made]* [Dagger]. Additionally, whilst carrying Sting, Bilbo adds +1 to his Strength when making Strikes.
 
 **SPECIAL RULES**
 

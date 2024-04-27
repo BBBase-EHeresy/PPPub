@@ -180,7 +180,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 **WARGEAR**
 
 - [Heavy Dwarf armour]
-- *[Two-handed]* [axe]
+- *[Two-handed]* [Axe]
 - Two [axes][Axe]
 
 **HEROIC ACTIONS**
@@ -221,7 +221,7 @@ Whilst he has the Infantry keyword, at the beginning of each fight, Dwalin the D
 **WARGEAR**
 
 - [Heavy Dwarf armour]
-- *[Hand-and-a-half]* [axe]
+- *[Hand-and-a-half]* [Axe]
 
 **HEROIC ACTIONS**
 
@@ -318,7 +318,7 @@ Once each turn, at any point in Bombur's Move phase, choose a friendly model in 
 **WARGEAR**
 
 - [Heavy Dwarf armour]
-- *[Hand-and-a-half]* [axe]
+- *[Hand-and-a-half]* [Axe]
 
 **HEROIC ACTIONS**
 
@@ -450,7 +450,7 @@ Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendl
 **WARGEAR**
 
 - [Heavy Dwarf armour]
-- *[Two-handed]* [axe]
+- *[Two-handed]* [Axe]
 
 **HEROIC ACTIONS**
 

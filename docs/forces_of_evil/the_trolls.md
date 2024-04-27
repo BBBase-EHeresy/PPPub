@@ -23,7 +23,7 @@ The Three Trolls may be deployed as one warband if you wish.
 
 **WARGEAR**
 
-- [Club] or fork (counts as a [dagger])
+- [Club] or fork (counts as a [Dagger])
 
 **HEROIC ACTIONS**
 
@@ -65,7 +65,7 @@ When Bill wins a Fight, he may choose to perform a Mince 'em Fine Brutal Power A
 
 **WARGEAR**
 
-- [Club] or knife (counts as a [dagger])
+- [Club] or knife (counts as a [Dagger])
 
 **HEROIC ACTIONS**
 
@@ -97,7 +97,7 @@ When Bert wins a Fight, he may choose to perform a Roast 'em Slowly Brutal Power
 
 **WARGEAR**
 
-- [Club] or spoon (counts as a [dagger])
+- [Club] or spoon (counts as a [Dagger])
 
 **HEROIC ACTIONS**
 

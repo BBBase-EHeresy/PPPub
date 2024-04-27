@@ -327,7 +327,7 @@ This precious heirloom is a [banner]. Additionally, any Rohan Hero models that a
 **WARGEAR**
 
 - [Armour]
-- *[Two-handed]* [axe]
+- *[Two-handed]* [Axe]
 
 **HEROIC ACTIONS**
 
@@ -429,7 +429,7 @@ King's Huntsmen only fail In The Way rolls on the roll of a 1. Additionally, eac
 **WARGEAR**
 
 - [Armour]
-- [Sword] or [axe]
+- [Sword] or [Axe]
 
 **HEROIC ACTIONS**
 
@@ -470,7 +470,7 @@ Charge.
 **WARGEAR**
 
 - [Armour]
-- [Sword] or [axe]
+- [Sword] or [Axe]
 
 **OPTIONS**
 
@@ -496,7 +496,7 @@ Charge.
 **WARGEAR**
 
 - [Armour]
-- [Sword] or [axe]
+- [Sword] or [Axe]
 - [Shield]
 - [Bow]
 - [Horse]

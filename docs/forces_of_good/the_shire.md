@@ -191,7 +191,7 @@ Pippin may re-roll any failed To Wound rolls when making Strikes against Monster
 - [Throw Stones] (range 8", Strength 1).
 - **To me Shire-folk! (ACTIVE)**
 
-Paladin's Stand Fast! only affects Hobbit models, however, his Stand Fast! is 12" rather than 6".
+Paladin's [Stand Fast!] only affects Hobbit models, however, his [Stand Fast!] is 12" rather than 6".
 
 </div>
 
@@ -258,7 +258,7 @@ Grip, Fang and Wolf are automatically the first three members of Farmer Maggot's
 - [Throw Stones] (range 8", Strength 1).
 - **Furious Tirade (ACTIVE)**
 
-No Warrior model, from either player's force, may benefit from a Hero model's Stand Fast! whilst within 6" of Lobelia.
+No Warrior model, from either player's force, may benefit from a Hero model's [Stand Fast!] whilst within 6" of Lobelia.
 
 - **The Umbrella is not Mightier than the Sword (PASSIVE)**
 

@@ -23,7 +23,7 @@ This army may include: Aragorn, King Elessar; Gandalf the White; Denethor, Stewa
 - Anduril, Flame of the West
 - **Anduril, Flame of the West (ACTIVE)**
 
-Anduril is an *[Elven-made]* *[ *[hand-and-a-half]* ]* [sword]. Additionally, when making Strikes with Anduril, Aragorn never requires more than a 4 for his To Wound rolls. Note that if Aragorn elects to use Anduril as a [two-handed] weapon, he will still get the +1 bonus To Wound meaning that he will Wound on a 3+.
+Anduril is an *[Elven-made]* *[hand-and-a-half]* [sword]. Additionally, when making Strikes with Anduril, Aragorn never requires more than a 4 for his To Wound rolls. Note that if Aragorn elects to use Anduril as a *[Two-handed]* weapon, he will still get the +1 bonus To Wound meaning that he will Wound on a 3+.
 
 **HEROIC ACTIONS**
 
@@ -66,7 +66,7 @@ Friendly models within 6" of Aragorn, King Elessar count as being in range of a 
 * Narya
 * **Glamdring (ACTIVE)**
 
-Glamdring is an *[Elven-made]* *[ *[hand-and-a-half]* ]* [Sword]. Additionally, Glamdring increases Gandalf's Strength by 1 when making Strikes with it.
+Glamdring is an *[Elven-made]* *[hand-and-a-half]* [Sword]. Additionally, Glamdring increases Gandalf's Strength by 1 when making Strikes with it.
 
 * **Narya (PASSIVE)**
 
@@ -387,7 +387,7 @@ When charging an enemy that causes Terror, Cirion receives a +2 bonus to his Cou
 - White Sword of Gondor
 - **White Sword of Gondor (ACTIVE)**
 
-A White Sword of Gondor is a *[two-handed]* [sword]. Additionally, Strikes made with this weapon have the [Mighty Blow] special rule.
+A White Sword of Gondor is a *[Two-handed]* [sword]. Additionally, Strikes made with this weapon have the [Mighty Blow] special rule.
 
 **HEROIC ACTIONS**
 
@@ -397,7 +397,7 @@ A White Sword of Gondor is a *[two-handed]* [sword]. Additionally, Strikes made 
 
 - **The Bladelord's Skill (ACTIVE)**
 
-If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he does not apply the penalty for using a [two-handed] weapon.
+If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he does not apply the penalty for using a *[Two-handed]* weapon.
 
 </div>
 

@@ -20,7 +20,7 @@ This army may include: Khandish Kings; Khandish Chieftains; Khandish Warriors; K
 **WARGEAR**
 
 - [Heavy armour]
-- *[Hand-and-a-half]* [axe]
+- *[Hand-and-a-half]* [Axe]
 - [Bow]
 
 **HEROIC ACTIONS**
@@ -56,7 +56,7 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 **WARGEAR**
 
 - [Armour]
-- *[hand-and-a-half]* [axe]
+- *[hand-and-a-half]* [Axe]
 - [Dagger]
 - [Bow]
 
@@ -87,7 +87,7 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 **WARGEAR**
 
 - [Armour]
-- *[hand-and-a-half]* [axe]
+- *[hand-and-a-half]* [Axe]
 - [Dagger]
 
 **OPTIONS**
@@ -110,7 +110,7 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 **WARGEAR**
 
 - [Armour]
-- *[hand-and-a-half]* [axe]
+- *[hand-and-a-half]* [Axe]
 - [Bow]
 - [Dagger]
 - [Horse]

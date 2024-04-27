@@ -101,7 +101,7 @@ A model with this special rule may re-roll a single D6 when making a Duel roll. 
 
 - **Lord of Lórien (ACTIVE)**
 
-Celeborn's Stand Fast! is 12" rather than 6".
+Celeborn's [Stand Fast!] is 12" rather than 6".
 
 **MAGICAL POWERS**
 

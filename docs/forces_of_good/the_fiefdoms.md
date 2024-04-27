@@ -89,7 +89,7 @@ Axemen of Lossarnach within 6" of Forlong the Fat must re-roll results of 1 when
 - Broadsword
 - **Broadsword (ACTIVE)**
 
-This is a *[two-handed]* [sword]. Additionally, if a model that is fighting with a broadsword scores a natural roll of a 6 in a Duel roll, they do not apply the penalty for using a two-handed
+This is a *[Two-handed]* [sword]. Additionally, if a model that is fighting with a broadsword scores a natural roll of a 6 in a Duel roll, they do not apply the penalty for using a two-handed
 
 **SPECIAL RULES**
 
@@ -246,7 +246,7 @@ A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth
 - [Dagger]
 - **Axe of Lossarnach (ACTIVE)**
 
-An axe of Lossarnach can be used as either a [spear] or a *[two-handed]* [axe].
+An axe of Lossarnach can be used as either a [spear] or a *[Two-handed]* [Axe].
 
 **OPTIONS**
 
@@ -271,7 +271,7 @@ An axe of Lossarnach can be used as either a [spear] or a *[two-handed]* [axe].
 - Broadsword
 - **Broadsword (ACTIVE)**
 
-This is a *[two-handed]* [sword]. Additionally, if a model that is fighting with a broadsword scores a natural roll of a 6 in a Duel roll, they do not apply the penalty for using a two-handed
+This is a *[Two-handed]* [sword]. Additionally, if a model that is fighting with a broadsword scores a natural roll of a 6 in a Duel roll, they do not apply the penalty for using a two-handed
 
 **SPECIAL RULES**
 

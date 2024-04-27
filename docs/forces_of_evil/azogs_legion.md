@@ -45,7 +45,7 @@ The stone flail is a two-handed weapon that follows the normal rules for flails,
 - [Burly]
 - **General of the North (ACTIVE)**
 
-Azog’s Stand Fast! rule has a range of 12" and, unlike any other Hero model’s Stand Fast! rule, can affect other Orc Hero models.
+Azog’s [Stand Fast!] rule has a range of 12" and, unlike any other Hero model’s [Stand Fast!] rule, can affect other Orc Hero models.
 
 - **I am the Master (ACTIVE)**
 
@@ -136,7 +136,7 @@ As long as Azog is mounted upon the White Warg, you can expend either Azog’s o
 
 - **Pack Master (PASSIVE)**
 
-Once separated from Azog, only Warg models may use the White Warg’s Stand Fast! rule or benefit from its Heroic Actions.
+Once separated from Azog, only Warg models may use the White Warg’s [Stand Fast!] rule or benefit from its Heroic Actions.
 
 - **Raging Beast (PASSIVE)**
 
@@ -158,7 +158,7 @@ When Azog dismounts, the White Warg automatically passes its Courage test to sta
 **WARGEAR**
 
 - [Heavy armour]
-- *[Two-handed]* [pick]
+- *[Two-handed]* [Pick]
 
 **HEROIC ACTIONS**
 
@@ -169,7 +169,7 @@ When Azog dismounts, the White Warg automatically passes its Courage test to sta
 
 **OPTIONS**
 
-- Fell Warg: 10 points
+- [Fell Warg]: 10 points
 - [Orc bow][Bow]: 5 points
 
 If your army includes Bolg, all Hunter Orcs and Hunter Orc Captains in your army gain the Morgul Arrows special rule (see below).
@@ -303,11 +303,11 @@ Once they have arrived, the controlling player places the warband fully within a
 **WARGEAR**
 
 - [Armour]
-- [Sword] or [axe]
+- [Sword] or [Axe]
 
 **OPTIONS**
 
-- *[Two-handed]* [pick]: 1 point
+- *[Two-handed]* [Pick]: 1 point
 
 **SPECIAL RULES**
 
@@ -375,7 +375,7 @@ A Gundabad Troll armed with a pair of scythe gauntlets receives a +1 bonus to it
 
 A Catapult Troll always follows the rules for Volley Fire, giving it a range of 12"-96". Shots fired from the Catapult are resolved at Strength 10. When firing the Catapult, follow the rules for Siege Engines in the main rules manual with the following exceptions:
 
-The Catapult Troll may still fire in the same turn that it has moved in, even if this is up to its full Move value. However, if the Catapult Troll has moved, it will only hit on the roll of a 6. The Catapult may still be fired whilst the Troll is in combat. If you wish to do this, and a 1 is rolled when rolling To Hit, the Catapult will malfunction and the Catapult Troll will suffer a wound. A Catapult Troll does not have a crew in the same way as a conventional Siege Engine – however, it is classed as a large Siege Engine and the Troll itself is considered to be the Siege Veteran. However, unlike other Siege Veterans, the Troll has no points of Might, Will or Fate. Unlike other Siege Engines, the Catapult Troll cannot be destroyed if a model spends its entire turn in base contact with it.
+The Catapult Troll may still fire in the same turn that it has moved in, even if this is up to its full Move value. However, if the Catapult Troll has moved, it will only hit on the roll of a 6. The Catapult may still be fired whilst the Troll is in combat. If you wish to do this, and a 1 is rolled when rolling To Hit, the Catapult will malfunction and the Catapult Troll will suffer a wound. A Catapult Troll does not have a crew in the same way as a conventional Siege Engine – however, it is classed as a large Siege Engine and the Troll itself is considered to be the [Siege Veteran]. However, unlike other Siege Veterans, the Troll has no points of Might, Will or Fate. Unlike other Siege Engines, the Catapult Troll cannot be destroyed if a model spends its entire turn in base contact with it.
 
 - **Area Effect**
 
@@ -483,7 +483,7 @@ At the end of a War Bat’s Move, pick an unengaged Man-sized (or smaller) enemy
 **WARGEAR**
 
 - [Armour]
-- [Sword] or [pick]
+- [Sword] or [Pick]
 
 **SPECIAL RULES**
 

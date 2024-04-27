@@ -6,7 +6,7 @@ The profile for Aragorn - Strider can be found on [page 12]. Aragorn - Strider c
 
 ## ARMY BONUS
 
-**"They're dangerous folk, wandering the wilds"** - All models from this army list gain the Woodland Creature special rule, and the Rangers of the North and Dúnedain may benefit from the Stand Fast! of Arathorn, Halbarad, and Aragorn - Strider. Additionally, the Rangers of the North and the Dúnedain increase their Attacks value to 2, while they have the Infantry keyword.
+**"They're dangerous folk, wandering the wilds"** - All models from this army list gain the Woodland Creature special rule, and the Rangers of the North and Dúnedain may benefit from the [Stand Fast!] of Arathorn, Halbarad, and Aragorn - Strider. Additionally, the Rangers of the North and the Dúnedain increase their Attacks value to 2, while they have the Infantry keyword.
 
 ## HEROES OF THE RANGERS
 

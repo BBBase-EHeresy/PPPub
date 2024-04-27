@@ -42,7 +42,7 @@ The profile for The Betrayer can be found on [page 140]. The Betrayer counts as 
 - [Poisoned Sword]
 - **Ascendant (PASSIVE)**
 
-The range of Suladan's Stand Fast! is 12" rather than 6".
+The range of Suladan's [Stand Fast!] is 12" rather than 6".
 
 </div>
 
@@ -221,7 +221,7 @@ The Mumak has Defence 8 rather than 7.
 
 The Mahud Beastmaster Chieftain replaces the Haradrim Commander in all respects, including having the same Heroic Actions, except that the Mahud Beastmaster always stands on the forked wooden platform on the front of the Howdah. As he is crouched low upon the edges of the Howdah, the Mahud Beastmaster Chieftain counts as being in the Howdah for the purpose of In The Way rolls and any other effects that would affect models in the Howdah.
 
-A Mahud Beastmaster Chieftain wears [armour], and is equipped with a [dagger] and has the following profile:
+A Mahud Beastmaster Chieftain wears [armour], and is equipped with a [Dagger] and has the following profile:
 
 |  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

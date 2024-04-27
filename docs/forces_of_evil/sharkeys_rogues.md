@@ -4,7 +4,7 @@ This army may include: Sharkey; Worm and Ruffians.
 
 ## ARMY BONUS
 
-**"You do what Sharkey says."** - Sharkey's Stand Fast! affects the entire battlefield. Additionally, a force (or allied contingent) that contains models solely from the Sharkey's Rogues list may include warbands of 10-12 Ruffians without the need for a Hero to lead them. In these warbands, nominate a single Warrior model within the warband as the captain for the purposes of deployment, etc.
+**"You do what Sharkey says."** - Sharkey's [Stand Fast!] affects the entire battlefield. Additionally, a force (or allied contingent) that contains models solely from the Sharkey's Rogues list may include warbands of 10-12 Ruffians without the need for a Hero to lead them. In these warbands, nominate a single Warrior model within the warband as the captain for the purposes of deployment, etc.
 
 ## HEROES OF SHARKEY'S ROGUES
 

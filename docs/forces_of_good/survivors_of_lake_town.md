@@ -12,7 +12,7 @@ In the films, following Smaug’s destruction of Lake-town, some former members 
 
 ## ARMY BONUS
 
-“Any man who wants to give their last, follow me!" – Bard the Bowman’s Stand Fast! will affect other Laketown Hero models. Additionally, Bard the Bowman’s Saviour of Lake-town special rule has its range increased to 12" instead of 6".
+“Any man who wants to give their last, follow me!" – Bard the Bowman’s [Stand Fast!] will affect other Laketown Hero models. Additionally, Bard the Bowman’s Saviour of Lake-town special rule has its range increased to 12" instead of 6".
 
 ## HEROES OF THE SURVIVORS OF LAKE-TOWN
 
@@ -55,7 +55,7 @@ Once per game, Bard the Bowman can fire his Black Arrow instead of shooting the 
 
 - **Saviour of Lake-town (PASSIVE)**
 
-Bard the Bowman’s Stand Fast! rule has a range of 6". Furthermore, Bain, Son of Bard; Percy; Hilda Bianca; Lake-town Militia Captains and Lake-town Militia within 6" of Bard the Bowman receive a +1 bonus to their Fight value and count as being in range of a banner.
+Bard the Bowman’s [Stand Fast!] rule has a range of 6". Furthermore, Bain, Son of Bard; Percy; Hilda Bianca; Lake-town Militia Captains and Lake-town Militia within 6" of Bard the Bowman receive a +1 bonus to their Fight value and count as being in range of a banner.
 
 ---
 
@@ -195,7 +195,7 @@ Whilst wearing the Mithril Coat, a model adds +3 to their Defence (this is alrea
 
 - **Sting (ACTIVE)**
 
-Sting is an *[Elven-made]* [dagger]. Additionally, whilst carrying Sting, a model adds +1 to their Strength when making Strikes.
+Sting is an *[Elven-made]* [Dagger]. Additionally, whilst carrying Sting, a model adds +1 to their Strength when making Strikes.
 
 **HEROIC ACTIONS**
 
@@ -256,7 +256,7 @@ Bilbo Baggins, Master Burglar ignores the Sauron’s Will section of the One Rin
 **WARGEAR**
 
 - [Armour]
-- [Sword] or [axe]
+- [Sword] or [Axe]
 
 **OPTIONS**
 

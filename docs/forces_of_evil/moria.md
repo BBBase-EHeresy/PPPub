@@ -69,7 +69,7 @@ The Balrog may call a Heroic Combat each turn without the need to expend a point
 - [Cave Dweller]
 - **Iron Fist (ACTIVE)**
 
-Durburz's Stand Fast! has a range of 12".
+Durburz's [Stand Fast!] has a range of 12".
 
 </div>
 
@@ -174,7 +174,7 @@ Ashrak may include Giant Spiders in his warband as if they were part of the same
 
 - **Spider-kin (PASSIVE)**
 
-Only Spider models may benefit from Ashrak's Stand Fast! or Heroic Actions. Additionally, Ashrak may only target Spider models with his Shroud of Shadows Magical Power.
+Only Spider models may benefit from Ashrak's [Stand Fast!] or Heroic Actions. Additionally, Ashrak may only target Spider models with his Shroud of Shadows Magical Power.
 
 
 **MAGICAL POWERS**
@@ -621,7 +621,7 @@ If either the Drummer or the Drum Bearer is slain, they may pass on their wargea
 **WARGEAR**
 
 - [Armour]
-- *[Two-handed]* [axe]
+- *[Two-handed]* [Axe]
 - [Throwing daggers][Throwing weapon]
 
 **SPECIAL RULES**

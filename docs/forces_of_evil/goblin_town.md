@@ -23,7 +23,7 @@ The profile for Goblin Mercenaries can be found on page 103.
 
 **WARGEAR**
 
-- *[Two-handed]* [pick]
+- *[Two-handed]* [Pick]
 
 **HEROIC ACTIONS**
 
@@ -189,11 +189,11 @@ Models with this special rule can Support as if they had spears, with the except
 
 **WARGEAR**
 
-- [Sword], [pick], [mace], or [flail]
+- [Sword], [Pick], [mace], or [flail]
 
 **OPTIONS**
 
-- *[Two-handed]* [axe]: 1 point
+- *[Two-handed]* [Axe]: 1 point
 
 **SPECIAL RULES**
 

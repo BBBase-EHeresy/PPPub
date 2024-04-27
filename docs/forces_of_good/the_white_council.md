@@ -44,7 +44,7 @@ A White Council army may only include a single warband. Unlike the usual model l
 
 - **Voice of Curunír (ACTIVE)**
 
-Saruman the White's Stand Fast! has a range of 12" and, unlike other Hero model's Stand Fast! rolls, can affect other Hero models.
+Saruman the White's [Stand Fast!] has a range of 12" and, unlike other Hero model's [Stand Fast!] rolls, can affect other Hero models.
 
 - **Consuming Rivalry (PASSIVE)**
 

@@ -24,7 +24,7 @@ The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if
 **WARGEAR**
 
 - [Armour]
-- *[Two-handed]* [axe]
+- *[Two-handed]* [Axe]
 
 **HEROIC ACTIONS**
 
@@ -32,7 +32,7 @@ The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if
 
 **OPTIONS**
 
-- Fell Warg: 10 points
+- [Fell Warg]: 10 points
 - [Lance]: 5 points
 
 **SPECIAL RULES**
@@ -40,7 +40,7 @@ The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if
 - [Expert Rider]
 - **The Price of Failure (PASSIVE)**
 
-If your army contains both Azog and Yazneg, and the two are in base contact at the beginning of your Move phase, instead of rolling the dice to make a Courage test when your force is Broken, you can remove Yazneg from play. If you do so, Azog is considered to have automatically passed his Courage test and his Stand Fast! will affect the entire battlefield. Furthermore, if Yazneg is removed from play in this way then whilst Azog is still alive, all Hunter Orcs, Hunter Orc Captains, Fimbul the Hunter and Narzug re-roll failed Courage tests.
+If your army contains both Azog and Yazneg, and the two are in base contact at the beginning of your Move phase, instead of rolling the dice to make a Courage test when your force is Broken, you can remove Yazneg from play. If you do so, Azog is considered to have automatically passed his Courage test and his [Stand Fast!] will affect the entire battlefield. Furthermore, if Yazneg is removed from play in this way then whilst Azog is still alive, all Hunter Orcs, Hunter Orc Captains, Fimbul the Hunter and Narzug re-roll failed Courage tests.
 
 </div>
 
@@ -67,7 +67,7 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 
 **OPTIONS**
 
-- Fell Warg: 10 points
+- [Fell Warg]: 10 points
 
 **SPECIAL RULES**
 
@@ -102,7 +102,7 @@ Each turn, Narzug may spend a single point of Might without reducing his store (
 
 **OPTIONS**
 
-- Fell Warg: 10 points
+- [Fell Warg]: 10 points
 
 **SPECIAL RULES**
 
@@ -135,9 +135,9 @@ When mounted, Fimbul ignores the penalties suffered by Cavalry models attempting
 
 **OPTIONS**
 
-- Fell Warg: 10 points
+- [Fell Warg]: 10 points
 - [Orc bow][Bow]: 5 points
-- *[Two-handed]* [pick]: 5 points
+- *[Two-handed]* [Pick]: 5 points
 
 **SPECIAL RULES**
 
@@ -169,9 +169,9 @@ Whilst they have the Infantry keyword, a model with this special rule receives +
 
 - [War horn]: 30 points
 - [Banner]: 25 points
-- Fell Warg: 8 points
+- [Fell Warg]: 8 points
 - [Orc bow][Bow]: 1 point
-- *[Two-handed]* [pick]: 1 point
+- *[Two-handed]* [Pick]: 1 point
 
 **SPECIAL RULES**
 
@@ -199,3 +199,5 @@ Whilst they have the Infantry keyword, a model with this special rule receives +
 **SPECIAL RULES**
 
 - [Fell Sight]
+
+</div>

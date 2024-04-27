@@ -144,7 +144,7 @@ This is a [sword]. Additionally, Múrin receives a bonus of +1 To Wound when mak
 
 - **Mattock (ACTIVE)**
 
-A mattock is a *[two-handed]* weapon that can either use the [Bash][Hammer] or [Piercing Strike][Spear] Special Strikes.
+A mattock is a *[Two-handed]* weapon that can either use the [Bash][Hammer] or [Piercing Strike][Spear] Special Strikes.
 
 **SPECIAL RULES**
 
@@ -185,7 +185,7 @@ A mattock is a *[two-handed]* weapon that can either use the [Bash][Hammer] or [
 
 - **Mattock (ACTIVE)**
 
-A mattock is a *[two-handed]* weapon that can either use the [Bash][Hammer] or [Piercing Strike][Spear] Special Strikes.
+A mattock is a *[Two-handed]* weapon that can either use the [Bash][Hammer] or [Piercing Strike][Spear] Special Strikes.
 
 </div>
 
@@ -214,7 +214,7 @@ A mattock is a *[two-handed]* weapon that can either use the [Bash][Hammer] or [
 
 - **Mattock (ACTIVE)**
 
-A mattock is a *[two-handed]* weapon that can either use the [Bash][Hammer] or [Piercing Strike][Spear] Special Strikes.
+A mattock is a *[Two-handed]* weapon that can either use the [Bash][Hammer] or [Piercing Strike][Spear] Special Strikes.
 
 ---
 

@@ -26,7 +26,7 @@ This army may include: Durin, King of Khazad-dum; Mardin; Balin the Dwarf, King 
 - The Horn of Zirakzigil
 - **Durin's Axe (ACTIVE)**
 
-This is a [Master-forged] [two-handed] [axe]. Additionally, the wielder may re-roll a single dice when making Duel rolls.
+This is a *[Master-forged]* *[Two-handed]* [Axe]. Additionally, the wielder may re-roll a single dice when making Duel rolls.
 
 - **The Ring of Durin (PASSIVE)**
 
@@ -38,7 +38,7 @@ If Durin suffers a wound, roll a D6. On a 6, the Wound is ignored, exactly as if
 
 - **The Horn of Zirakzigil (ACTIVE)**
 
-This is a [war horn]. Additionally, it also gives Durin the [Terror] special rule.
+This is a [War horn]. Additionally, it also gives Durin the [Terror] special rule.
 
 **HEROIC ACTIONS**
 
@@ -138,7 +138,7 @@ Also, if your army includes Balin, then every alliance will be Impossible Allies
 - Durin's axe
 - **Durin's Axe (ACTIVE)**
 
-This is a [Master-forged] [two-handed] [axe]. Additionally, the wielder may re-roll a single dice when making Duel rolls.
+This is a *[Master-forged]* *[Two-handed]* [Axe]. Additionally, the wielder may re-roll a single dice when making Duel rolls.
 
 **HEROIC ACTIONS**
 
@@ -179,7 +179,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 **OPTIONS**
 
 - [Throwing axes][Throwing weapon]: 5 points
-- *[Two-handed]* [axe]: 5 points
+- *[Two-handed]* [Axe]: 5 points
 
 </div>
 
@@ -207,7 +207,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 
 - [Shield]: 5 points
 - [Throwing axes][Throwing weapon]: 5 points
-- *[Two-handed]* [axe]: 5 points
+- *[Two-handed]* [Axe]: 5 points
 
 </div>
 
@@ -218,7 +218,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 ### KING'S CHAMPION [140 POINTS] (FOR 1 KING'S CHAMPION AND 2 HERALDS)
 *DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF FORTITUDE*
 
-#### KING'S CHAMPION
+**KING'S CHAMPION**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -242,7 +242,9 @@ The King's Champion will always be the warband leader, and a Herald counts as an
 
 When two Heralds, or the King's Champion and a Herald, are in base contact, they receive a +1 bonus to their Defence. If both Heralds and the King's Champion are in base contact with each other, they all receive a +2 bonus to their Defence.
 
-#### HERALD
+---
+
+**HERALD**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -320,7 +322,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 - [Banner]: 25 points
 - [Dwarf bow][Bow]: 1 point
 - [Shield]: 1 point
-- Swap axe for *[two-handed]* [axe] + [dagger]: 1 point
+- Swap axe for *[Two-handed]* [Axe] + [Dagger]: 1 point
 
 </div>
 
@@ -338,7 +340,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 **WARGEAR**
 
 - [Heavy Dwarf armour]
-- *[Two-handed]* [axe]
+- *[Two-handed]* [Axe]
 - [Axe]
 
 **SPECIAL RULES**
@@ -386,7 +388,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 
 - [Dwarf long bow][Bow]: 1 point
 - [Throwing axes][Throwing weapon]: 1 point
-- *[Two-handed]* [axe]: 1 point
+- *[Two-handed]* [Axe]: 1 point
 
 **SPECIAL RULES**
 
@@ -401,7 +403,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 ### VAULT WARDEN TEAM [25 POINTS] (FOR 1 IRON SHIELD AND 1 FOE SPEAR)
 *DWARF, KHAZAD-DUM, INFANTRY, WARRIOR*
 
-#### IRON SHIELD
+***IRON SHIELD**
 
 | Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
@@ -422,7 +424,9 @@ A model armed with an Iron Shield cannot be barged or Hurled and is unaffected b
 
 Unless supported by a model with a foe spear, a model with an Iron Shield applies a -1 penalty to their Duel rolls, even when Shielding.
 
-#### FOE SPEAR
+---
+
+**FOE SPEAR**
 
 | Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|

@@ -263,7 +263,7 @@ Once per game, this model’s controlling player may declare they are using thei
 - [Will of Evil]
 - **Automatons (PASSIVE)**: 
 
-Castellans of Dol Guldur do not grant their Stand Fast! rule to nearby Warrior models.
+Castellans of Dol Guldur do not grant their [Stand Fast!] rule to nearby Warrior models.
 
 - **Will of the Necromancer (PASSIVE)**
 

@@ -48,7 +48,7 @@ If your army includes Gil-galad, High King of the Elves, then you may upgrade an
 - [Woodland Creature]
 - **High King of the Elves (PASSIVE)**
 
-Gil-galad's Stand Fast! is 12" rather than 6". Additionally, friendly Elf Hero models may use Gil-galad's Stand Fast!
+Gil-galad's [Stand Fast!] is 12" rather than 6". Additionally, friendly Elf Hero models may use Gil-galad's Stand Fast!
 
 - **Lord of the West (ACTIVE)**
 
@@ -273,7 +273,7 @@ Asfaloth is a [horse] with a Move value of 12" rather than 10". Additionally, wh
 - **Twin Elven Blades (ACTIVE)**
 
 Whilst fighting on foot, Elladan & Elrohir may choose to fight in one of three ways. They may either fight using a single [Sword]
-- fight as if it were a *[two-handed]* [sword], they may elect to fight with both swords for +1 Attack, or they may elect to parry, which counts as shielding.
+- fight as if it were a *[Two-handed]* [sword], they may elect to fight with both swords for +1 Attack, or they may elect to parry, which counts as shielding.
 
 - **Unbreakable bond (ACTIVE)**
 

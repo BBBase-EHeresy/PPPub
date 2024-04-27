@@ -75,7 +75,7 @@ Dalamyr can never be Trapped whilst still standing.
 - [Bow]: 5 points
 - [Crossbow]: 5 points
 - [Shield]: 5 points
-- *[Two-handed]* [axe]: 5 points
+- *[Two-handed]* [Axe]: 5 points
 
 </div>
 

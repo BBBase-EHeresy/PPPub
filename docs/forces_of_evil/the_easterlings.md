@@ -106,7 +106,7 @@ Dragon Knights may only include Easterling models with the Black Dragon upgrade 
 **WARGEAR**
 
 - [Heavy armour]
-- Easterling glaive ( *[hand-and-a-half]* [axe])
+- Easterling glaive ( *[hand-and-a-half]* [Axe])
 
 **HEROIC ACTIONS**
 
@@ -139,7 +139,7 @@ Dragon Knights may only include Easterling models with the Black Dragon upgrade 
 **WARGEAR**
 
 - [Heavy armour]
-- Easterling battle stave (can be used as a [spear] or *[two-handed]* [axe])
+- Easterling battle stave (can be used as a [spear] or *[Two-handed]* [Axe])
 
 **HEROIC ACTIONS**
 
@@ -174,7 +174,7 @@ Dragon Knights may only include Easterling models with the Black Dragon upgrade 
 **WARGEAR**
 
 - [Heavy armour]
-- [Sword] or [dagger]
+- [Sword] or [Dagger]
 
 **OPTIONS**
 

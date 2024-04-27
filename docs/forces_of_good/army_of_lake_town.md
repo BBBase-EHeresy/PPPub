@@ -57,7 +57,7 @@ At the start of the game, your opponent may select one of their Hero models to b
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 

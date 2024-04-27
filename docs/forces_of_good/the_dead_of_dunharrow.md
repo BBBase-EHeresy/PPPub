@@ -65,7 +65,7 @@ A model with this special rule may move over water features as if they were open
 **WARGEAR**
 
 * [Armour]
-* Either [sword] or [axe]
+* Either [sword] or [Axe]
 
 **OPTIONS**
 

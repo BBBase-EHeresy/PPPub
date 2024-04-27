@@ -61,7 +61,7 @@ Once per game, the bearer of the Ring of Durin may re-roll a single Priority rol
 **WARGEAR**
 
 - [Heavy Dwarf armour]
-- *[Master-Forged]* *[two-handed]* [hammer]
+- *[Master-Forged]* *[Two-handed]* [hammer]
 
 **HEROIC ACTIONS**
 
@@ -80,7 +80,7 @@ Once per game, the bearer of the Ring of Durin may re-roll a single Priority rol
 
 - **Durin’s Heir (PASSIVE)**
 
-Thráin’s [Stand Fast!] is unusual. In addition to all of the normal rules for Stand Fast!, when Thráin passes a Stand Fast! roll, every friendly Dwarf model on the battlefield is automatically affected, including other Dwarf Hero models.
+Thráin’s [Stand Fast!] is unusual. In addition to all of the normal rules for Stand Fast!, when Thráin passes a [Stand Fast!] roll, every friendly Dwarf model on the battlefield is automatically affected, including other Dwarf Hero models.
 
 - **Blood Feud (ACTIVE)**
 

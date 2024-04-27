@@ -717,7 +717,7 @@ Models within the Great Beasts' Howdah do not count towards your force's Bow Lim
 **WARGEAR**
 
 - [Heavy armour]
-- [Sword], [mace] or [axe]
+- [Sword], [mace] or [Axe]
 
 **OPTIONS**
 

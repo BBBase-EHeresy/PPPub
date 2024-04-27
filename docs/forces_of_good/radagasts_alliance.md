@@ -93,7 +93,7 @@ Whilst he has the Infantry keyword, Radagast may move through areas of difficult
 
 **WARGEAR**
 
-- *[Two-handed]* [axe]
+- *[Two-handed]* [Axe]
 
 **HEROIC ACTIONS**
 
@@ -133,7 +133,7 @@ If Beorn wins a Duel, instead of striking as normal, choose a losing model – t
 
 - **Berserk (PASSIVE)**
 
-Beorn the Bear must always Charge an enemy if he is able to. Additionally, Beorn may not use the Stand Fast! or Heroic Actions of other models, and other models may not use his, whilst he is in bear form.
+Beorn the Bear must always Charge an enemy if he is able to. Additionally, Beorn may not use the [Stand Fast!] or Heroic Actions of other models, and other models may not use his, whilst he is in bear form.
 
 - **Skin-changer (ACTIVE)**
 

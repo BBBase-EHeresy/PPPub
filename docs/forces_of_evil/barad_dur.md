@@ -237,7 +237,7 @@ Shelob hunts alone, those that are foolish enough to get in her way will end up 
 **WARGEAR**
 
 - [Armour]
-- [Sword] or [pick]
+- [Sword] or [Pick]
 
 **OPTIONS**
 
@@ -402,7 +402,7 @@ Each time a friendly Hero model within 6" of the Taskmaster from the same army l
 **WARGEAR**
 
 - [Armour]
-- [Sword] or [pick]
+- [Sword] or [Pick]
 
 **OPTIONS**
 
