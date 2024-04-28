@@ -90,7 +90,7 @@ Shadowfax is a mount that uses the following profile.
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 12"  | 0   | 4   | 5   | 0   | 1   | 5   | 0   | 2   | 1   |    |
+| 12" | 0  | 4  | 5  | 0  | 1  | 5  | 0  | 2  | 1  |  |
 
 ---
 
@@ -98,15 +98,15 @@ Shadowfax is a mount that uses the following profile.
 
 | | **Range** | **Casting** |
 |:---------------------|:-:|:-:|
-| [Blinding Light]   | -     | 2+     |
-| [Immobilise]     | 12"    | 2+     |
-| [Terrifying Aura]  | -     | 2+     |
-| [Command]      | 12"    | 3+     |
-| [Fortify Spirit]   | 12"    | 3+     |
-| [Strengthen Will]  | 12"    | 3+     |
-| [Banishment]     | 12"    | 4+     |
-| [Sorcerous Blast]  | 12"    | 4+     |
-| [Your Staff is Broken] | 12"   | 4+     |
+| [Blinding Light]  | -   | 2+   |
+| [Immobilise]   | 12"  | 2+   |
+| [Terrifying Aura] | -   | 2+   |
+| [Command]   | 12"  | 3+   |
+| [Fortify Spirit]  | 12"  | 3+   |
+| [Strengthen Will] | 12"  | 3+   |
+| [Banishment]   | 12"  | 4+   |
+| [Sorcerous Blast] | 12"  | 4+   |
+| [Your Staff is Broken] | 12"  | 4+   |
 
 </div>
 

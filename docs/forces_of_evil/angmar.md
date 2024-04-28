@@ -15,9 +15,9 @@ The profile for The Witch-king of Angmar can be found on page 114. The Witch-kin
 ### THE TAINTED [120 POINTS]
 *SPIRIT, RINGWRAITH, MORDOR, ANGMAR, INFANTRY, HERO - HERO OF VALOUR*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  | M | W | F |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-|  6" | 5/4+ |  4  |  8  |  1  |  1  |  6  | 2 | 14 | 2 |
+| 6" | 5/4+ | 4 | 8 | 1 | 1 | 6 | 2 | 14 | 2 |
 
 **WARGEAR**
 
@@ -50,14 +50,14 @@ At the start of the Fight phase, roll a D6 for each non-Spirit model (friendly o
 
 **MAGICAL POWERS**
 
-|   | Range | Casting |
+|  | Range | Casting |
 |----------------|-------|---------|
-| [Drain Courage]  |  12"  |   2+    |
-| [Transfix]       |  12"  |   3+    |
-| [Compel]         |  12"  |   4+    |
-| [Black Dart]     |  12"  |   5+    |
-| [Instill Fear]   |   3"  |   5+    |
-| [Sap Will]       |  12"  |   5+    |
+| [Drain Courage] | 12" |  2+  |
+| [Transfix]    | 12" |  3+  |
+| [Compel]     | 12" |  4+  |
+| [Black Dart]   | 12" |  5+  |
+| [Instill Fear]  |  3" |  5+  |
+| [Sap Will]    | 12" |  5+  |
 
 </div>
 
@@ -68,9 +68,9 @@ At the start of the Fight phase, roll a D6 for each non-Spirit model (friendly o
 ### THE DWIMMERLAIK [120 POINTS]
 *SPIRIT, RINGWRAITH, MORDOR, ANGMAR, INFANTRY, HERO - HERO OF VALOUR*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 5/4+ |  4  |  8  |  1  |  1  |  6  |  0 |  16 |  2 |
+| 6" | 5/4+ | 4 | 8 | 1 | 1 | 6 | 0 | 16 | 2 |
 
 **WARGEAR**
 
@@ -99,14 +99,14 @@ Every time a Hero model within 6" of The Dwimmerlaik spends a point of Might, Wi
 
 **MAGICAL POWERS**
 
-|   | Range | Casting |
+|  | Range | Casting |
 |----------------|-------|---------|
-| [Drain Courage]  |  12"  |   2+    |
-| [Transfix]       |  12"  |   3+    |
-| [Compel]         |  12"  |   4+    |
-| [Black Dart]     |  12"  |   5+    |
-| [Instill Fear]   |   3"  |   5+    |
-| [Sap Will]       |  12"  |   5+    |
+| [Drain Courage] | 12" |  2+  |
+| [Transfix]    | 12" |  3+  |
+| [Compel]     | 12" |  4+  |
+| [Black Dart]   | 12" |  5+  |
+| [Instill Fear]  |  3" |  5+  |
+| [Sap Will]    | 12" |  5+  |
 
 </div>
 
@@ -117,9 +117,9 @@ Every time a Hero model within 6" of The Dwimmerlaik spends a point of Might, Wi
 ### GULAVHAR, THE TERROR OF ARNOR [200 POINTS]
 *SPIRIT, ANGMAR, MONSTER, INFANTRY, HERO - HERO OF VALOUR*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6"  | 7/4+ |  8  |  5  |  *  |  4  |  *  |  3  |  3  |  0  |
+| 6" | 7/4+ | 8 | 5 | * | 4 | * | 3 | 3 | 0 |
 
 **WARGEAR**
 
@@ -154,9 +154,9 @@ Gulavhar's Attacks and Courage are always equal to his remaining Wounds.
 ### BUHRDUR, TROLL CHIEFTAIN [110 POINTS]
 *TROLL, ANGMAR, MONSTER, INFANTRY, HERO - HERO OF VALOUR*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 6/4+ |  6  |  6  |  3  |  3  |  4  |   3  |  1   |   1  |
+| 6" | 6/4+ | 6 | 6 | 3 | 3 | 4 |  3 | 1  |  1 |
 
 
 **WARGEAR**
@@ -186,9 +186,9 @@ In a turn in which Buhrdur slays an enemy Hero or Monster model in combat, all f
 ### SHADE [100 POINTS]
 *SPIRIT, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 1/4+ |  1  |  8  |  1  |  3  |  1  |  0   |  8   |   0  |
+| 6" | 1/4+ | 1 | 8 | 1 | 3 | 1 | 0  | 8  |  0 |
 
 **WARGEAR**
 
@@ -212,9 +212,9 @@ At the start of the Fight phase, before Heroic Actions are declared, a Shade may
 ### BARROW-WIGHT [50 POINTS]
 *SPIRIT, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 3/4+ |  3  |  7  |  1  |  2  |  6  |  0   |  5   |   0  |
+| 6" | 3/4+ | 3 | 7 | 1 | 2 | 6 | 0  | 5  |  0 |
 
 
 **WARGEAR**
@@ -229,9 +229,9 @@ At the start of the Fight phase, before Heroic Actions are declared, a Shade may
 
 **MAGICAL POWERS**
 
-|  | Range | Casting |
+| | Range | Casting |
 |---------------|-------|---------|
-| [Paralyse]      |  6"   |   4+    |
+| [Paralyse]   | 6"  |  4+  |
 
 
 </div>
@@ -243,9 +243,9 @@ At the start of the Fight phase, before Heroic Actions are declared, a Shade may
 ### ANGMAR ORC CAPTAIN [40 POINTS]
 *ORC, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 4/5+ |  4  |  5  |  2  |  2  |  3  |  2   |  1   |  1   |
+| 6" | 4/5+ | 4 | 5 | 2 | 2 | 3 | 2  | 1  | 1  |
 
 
 **WARGEAR**
@@ -272,9 +272,9 @@ At the start of the Fight phase, before Heroic Actions are declared, a Shade may
 ### ANGMAR ORC SHAMAN [50 POINTS]
 *ORC, ANGMAR, INFANTRY, HERO - MINOR HERO*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 3/5+ |  3  |  5  |  1  |  2  |  3  |  1   |  3   |  1   |
+| 6" | 3/5+ | 3 | 5 | 1 | 2 | 3 | 1  | 3  | 1  |
 
 **WARGEAR**
 
@@ -292,10 +292,10 @@ At the start of the Fight phase, before Heroic Actions are declared, a Shade may
 
 **MAGICAL POWERS**
 
-|  | Range | Casting |
+| | Range | Casting |
 |---------------|-------|---------|
-| Wither        |  12"  |   3+    |
-| Instil Fear   |   3"  |   5+    |
+| Wither    | 12" |  3+  |
+| Instil Fear  |  3" |  5+  |
 
 </div>
 
@@ -306,9 +306,9 @@ At the start of the Fight phase, before Heroic Actions are declared, a Shade may
 ### WILD WARG CHIEFTAIN [80 POINTS]
 *WARG, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10"  | 5/5+ |  6  |  5  |  3  |  3   |  4   |  2   |  2   |  1   |
+| 10" | 5/5+ | 6 | 5 | 3 | 3  | 4  | 2  | 2  | 1  |
 
 **WARGEAR**
 
@@ -337,9 +337,9 @@ Only friendly Warg models may benefit from a Wild Warg Chieftain's [Stand Fast!]
 ### ANGMAR ORC WARRIOR [5 POINTS]
 *ORC, ANGMAR, INFANTRY, WARRIOR*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 3/5+ |  3  |  4  |  1  |  1  |  2  |
+| 6" | 3/5+ | 3 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
 
@@ -363,9 +363,9 @@ Only friendly Warg models may benefit from a Wild Warg Chieftain's [Stand Fast!]
 ### ANGMAR WARG RIDERS [11 POINTS]
 *ORC, ANGMAR, CAVALRY, WARRIOR*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 3/5+ |  3  |  4  |  1  |  1  |  2  |
+| 6" | 3/5+ | 3 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
 
@@ -389,9 +389,9 @@ Only friendly Warg models may benefit from a Wild Warg Chieftain's [Stand Fast!]
 ### CAVE TROLL [75 POINTS]
 *TROLL, MONSTER, INFANTRY, WARRIOR*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 6/5+ |  6  |  6  |  3  |  3  |  3  |
+| 6" | 6/5+ | 6 | 6 | 3 | 3 | 3 |
 
 **WARGEAR**
 
@@ -421,9 +421,9 @@ This is a throwing weapon with a range of 3" and a Strength of 5.
 ### DEAD MARSH SPECTRE [15 POINTS]
 *SPIRIT, ANGMAR, INFANTRY, WARRIOR*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 2/4+ |  3  |  5  |  1  |  1  |  6  |
+| 6" | 2/4+ | 3 | 5 | 1 | 1 | 6 |
 
 **WARGEAR**
 
@@ -447,9 +447,9 @@ At any point during its move, a Spectre can choose a single enemy model anywhere
 ### WILD WARG [7 POINTS]
 *WARG, INFANTRY, WARRIOR*
 
-|  Mv   |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv  | F  | S | D | A | W | C |
 |:-----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  10"  | 3/5+ |  4  |  4  |  1  |  1  |  2  |
+| 10" | 3/5+ | 4 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
 

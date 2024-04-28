@@ -20,7 +20,7 @@ The profile for Sigrid & Tilda can be found on page 50. Sigrid & Tilda count as 
 ### MASTER OF LAKE-TOWN [50 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | 6" | 4/4+| 4 | 4 | 2 | 2 | 3 | 2 | 2 | 2 |
 
@@ -51,7 +51,7 @@ At the start of the game, your opponent may select one of their Hero models to b
 ### ALFRID THE COUNCILLOR [20 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | 6" | 3/4+| 3 | 3 | 1 | 1 | 3 | 0 | 3 | 1 |
 
@@ -74,7 +74,7 @@ Alfrid can choose to expend any number of Will points at the start of the Priori
 ### BRAGA, CAPTAIN OF THE GUARD [50 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | 6" | 4/4+| 4 | 5 | 2 | 2 | 3 | 3 | 1 | 1 |
 
@@ -107,7 +107,7 @@ Braga, any Lake-town Guard Captains, and any Lake-town Guard within 3" of him ma
 ### LAKE-TOWN GUARD CAPTAIN [40 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 4/4+ | 4 | 5 | 2 | 2 | 3 | 2 | 1 | 1 |
 
@@ -131,7 +131,7 @@ Braga, any Lake-town Guard Captains, and any Lake-town Guard within 3" of him ma
 ### LAKE-TOWN GUARD [5 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|:---|
 | 6" | 3/4+| 3 | 4 | 1 | 1 | 2 |
 

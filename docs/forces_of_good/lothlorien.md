@@ -52,12 +52,12 @@ Galadriel may expend a single point of Will each turn without reducing her own s
 
 **MAGICAL POWERS**
 
-|             | **Range** | **Casting** |
+|       | **Range** | **Casting** |
 | ----------------------- | --------------- | ----------------- |
-| [Blinding Light]    | -        | 2+        |
-| [Blessing of the Valar] | 12"       | 3+        |
-| [Immobilise]      | 12"       | 3+        |
-| [Command]        | 12"       | 4+        |
+| [Blinding Light]  | -    | 2+    |
+| [Blessing of the Valar] | 12"    | 3+    |
+| [Immobilise]   | 12"    | 3+    |
+| [Command]    | 12"    | 4+    |
 
 </div>
 
@@ -105,11 +105,11 @@ Celeborn's [Stand Fast!] is 12" rather than 6".
 
 **MAGICAL POWERS**
 
-|          | **Range** | **Casting** |
+|     | **Range** | **Casting** |
 | ------------------ | --------------- | ----------------- |
-| [Aura of Command] | -        | 2+        |
-| [Enchanted Blades] | 6"       | 3+        |
-| [Immobilise]    | 12"       | 3+        |
+| [Aura of Command] | -    | 2+    |
+| [Enchanted Blades] | 6"    | 3+    |
+| [Immobilise]  | 12"    | 3+    |
 
 </div>
 
@@ -292,10 +292,10 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 
 **MAGICAL POWERS**
 
-|          | **Range** | **Casting** |
+|     | **Range** | **Casting** |
 | ------------------ | --------------- | ----------------- |
-| [Call Winds]    | 12"       | 3+        |
-| [Enchanted Blades] | 6"       | 4+        |
+| [Call Winds]  | 12"    | 3+    |
+| [Enchanted Blades] | 6"    | 4+    |
 
 </div>
 

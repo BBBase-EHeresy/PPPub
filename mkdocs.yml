@@ -65,7 +65,7 @@ nav:
       - Campaign Events: 'matched_play_guide/campaign_events.md'
       - Additional Rules: 'matched_play_guide/additional_rules.md'
   - Battle Companies: 
-      - Introduction: 'battle_companies/introduction.md'
+      - Battle Companies: 'battle_companies/index.md'
       - Mustering Your Warband: 'battle_companies/mustering_your_warband.md'
       - War's Aftermath: 'battle_companies/wars_aftermath.md'
       - Injuries: 'battle_companies/injuries.md'
@@ -79,7 +79,6 @@ nav:
       - Map-Based Campaigns: 'battle_companies/map_based_campaigns.md'
       - Additional Rules: 'battle_companies/additional_rules.md'
       - Using Your Company in Larger Games: 'battle_companies/using_your_company_in_larger_games.md'
-      - Gallery of Battle Companies: 'battle_companies/gallery_of_battle_companies.md'
       - Battle Companies Roster: 'battle_companies/battle_companies_roster.md'
   - Forces of Good: 
       - Forces of Good: 'forces_of_good/index.md'
@@ -174,6 +173,7 @@ nav:
       - Matched Play Guide: 'scenarios/matched_play_guide.md'
       - Armies of Lord of the Rings: 'scenarios/armies_of_lord_of_the_rings.md'
       - Armies of the Hobbit: 'scenarios/armies_of_the_hobbit.md'
+      - Battle Companies: 'scenarios/battle_companies.md'
       - Gondor at War: 'scenarios/gondor_at_war.md'
       - Scouring of the Shire: 'scenarios/scouring_of_the_shire.md'
       - War in Rohan: 'scenarios/war_in_rohan.md'

@@ -126,41 +126,41 @@ A **Cavalry** model may dismount from their steed at any point in their Move. Di
 
 ### THROWN RIDER TABLE
 
-| D6 | RESULT                                                         |
+| D6 | RESULT                             |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | **KNOCKED FLYING** The rider hits the dirt and immediately suffers one Strength 3 hit. If they survive, the model is Prone and can do nothing else for that turn. If the mount survives, place the rider in base contact with the mount. If Engaged in combat, they fight as a Prone model. |
-| 2‑5  | **RISES FROM THE DUST** The rider disentangles themselves from their mount but can do nothing else for that turn.                               |
-| 6   | **LEAPS INTO ACTION** The rider bounds from the saddle ready to face their enemy. The **Cavalry** model is replaced by an Infantry model and suffers no further penalty.                  |
+| 1  | **KNOCKED FLYING** The rider hits the dirt and immediately suffers one Strength 3 hit. If they survive, the model is Prone and can do nothing else for that turn. If the mount survives, place the rider in base contact with the mount. If Engaged in combat, they fight as a Prone model. |
+| 2‑5 | **RISES FROM THE DUST** The rider disentangles themselves from their mount but can do nothing else for that turn.                |
+| 6  | **LEAPS INTO ACTION** The rider bounds from the saddle ready to face their enemy. The **Cavalry** model is replaced by an Infantry model and suffers no further penalty.         |
 
 ### CAVALRY STEEDS
 
 #### HORSE
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 10" | 3/6+ | 3 | 4 | 0 | 1 | 3 |
 
 #### ARMOURED HORSE
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 10" | 3/6+ | 3 | 5 | 0 | 1 | 3 |
 
 #### PONY
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8" | 2/6+ | 2 | 3 | 0 | 1 | 2 |
 
 #### WARG
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 10" | 3/6+ | 4 | 4 | 1 | 1 | 2 |
 
 #### FELL WARG
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 10" | 3/6+ | 4 | 4 | 1 | 1 | 2 |
 

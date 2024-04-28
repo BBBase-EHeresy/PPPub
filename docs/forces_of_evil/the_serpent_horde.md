@@ -181,9 +181,9 @@ A War Mumak of Harad is comprised of a Haradrim Commander with armour and a war 
 
 **HARADRIM COMMANDER (MAN, HARADRIM, INFANTRY, HERO)**
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 4/4+ |  4  |  5  |  2  |  2  |  4  |   2  |  1   |  1   |
+| 6" | 4/4+ | 4 | 5 | 2 | 2 | 4 |  2 | 1  | 1  |
 
 **HEROIC ACTIONS**
 
@@ -191,15 +191,15 @@ A War Mumak of Harad is comprised of a Haradrim Commander with armour and a war 
 
 **MUMAK**
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  8"  | 4/5+ |  9  |  7  |  3  | 10  |  2  |
+| 8" | 4/5+ | 9 | 7 | 3 | 10 | 2 |
 
 **HOWDAH**
 
-|  Mv  |  F  |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:----:|:---:|:---:|:---:|:---:|:---:|:---:|
-|   -  |  -  |  -  |  9  |  -  |  5  |  -  |
+|  - | - | - | 9 | - | 5 | - |
 
 A War Mumak of Harad's Howdah has a capacity of 12 models, in addition to the commander. The only models that may ride within the Howdah are Haradrim Warriors, Serpent Guard and Watchers of Kama.
 
@@ -223,9 +223,9 @@ The Mahud Beastmaster Chieftain replaces the Haradrim Commander in all respects,
 
 A Mahud Beastmaster Chieftain wears [armour], and is equipped with a [Dagger] and has the following profile:
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 4/3+ |  5  |  5  |  2  |  2  |  5  |  3   |  2   |  2  |
+| 6" | 4/3+ | 5 | 5 | 2 | 2 | 5 | 3  | 2  | 2 |
 
 
 - **Foul Temperament**

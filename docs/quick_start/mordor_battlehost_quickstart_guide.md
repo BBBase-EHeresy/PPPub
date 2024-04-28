@@ -5,7 +5,7 @@
 ### THE WITCH-KING OF ANGMAR
 *SPIRIT, RINGWRAITH, MORDOR, CAVALRY, HERO*
 
-| Mv  | F  | S | D | A  | W | C | - | M | W | F  |
+| Mv | F | S | D | A | W | C | - | M | W | F |
 |:---:|:--:|:-:|:-:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 10" | 5/4+ | 4 | 8 | 116 | - | - | - | 3 | 15 | 3 |
 
@@ -38,11 +38,11 @@ Once per game, the Witch-king can declare he is using the Morgul Blade during th
 
 **MAGICAL POWERS**
 
-|  | Range | Casting |
+| | Range | Casting |
 |----------------|:-----:|:-------:|
-| Transfix       | 12"   | 3+      |
-| Compel         | 12"   | 4+      |
-| Black Dart     | 12"   | 5+      |
+| Transfix    | 12"  | 3+   |
+| Compel     | 12"  | 4+   |
+| Black Dart   | 12"  | 5+   |
 
 </div>
 
@@ -55,7 +55,7 @@ Once per game, the Witch-king can declare he is using the Morgul Blade during th
 ### MORDOR ORC
 *ORC, MORDOR, INFANTRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 3/5+ | 3 | 4 | 1 | 1 | 2 |
 
@@ -80,7 +80,7 @@ One of the following options:
 ### WARG RIDER
 *ORC, MORDOR, CAVALRY, WARRIOR*
 
-| Mv  | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:---:|:--:|:-:|:-:|:-:|:-:|:-:|
 | 10" | 3/5+ | 4 | 4 | 1 | 1 | 2 |
 

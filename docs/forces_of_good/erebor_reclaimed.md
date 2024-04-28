@@ -25,7 +25,7 @@ Thorin, and all twelve Champions of Erebor, may be deployed as one warband if yo
 ### THORIN OAKENSHIELD, KING UNDER THE MOUNTAIN [115 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 6/4+ | 4 | 8 | 3 | 3 | 6 | 3 | 3 | 1 |
 
@@ -65,7 +65,7 @@ Thorin Oakenshield, King Under the Mountain may call a Heroic Combat every Fight
 ### KÍLI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/3+ | 4 | 8 | 2 | 2 | 5 | 3 | 1 | 1 |
 
@@ -104,7 +104,7 @@ A model with this special rule counts as being in range of a banner if they are 
 ### FÍLI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/3+ | 4 | 8 | 2 | 2 | 5 | 3 | 1 | 1 |
 
@@ -143,7 +143,7 @@ A model with this special rule counts as being in range of a banner if they are 
 ### BALIN THE DWARF, CHAMPION OF EREBOR [60 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 3 | 8 | 2 | 2 | 6 | 1 | 3 | 2 |
 
@@ -173,7 +173,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 ### DWALIN THE DWARF, CHAMPION OF EREBOR [115 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 6/4+ | 5 | 8 | 3 | 2 | 6 | 3 | 2 | 2 |
 
@@ -214,7 +214,7 @@ Whilst he has the Infantry keyword, at the beginning of each fight, Dwalin the D
 ### BIFUR THE DWARF, CHAMPION OF EREBOR [POINTS NOT SPECIFIED]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR*
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/3+ | 4 | 8 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -244,7 +244,7 @@ If Bifur the Dwarf, Champion of Erebor wins a fight, he may choose to headbutt h
 ### BOFUR THE DWARF, CHAMPION OF EREBOR [65 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 8 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -274,7 +274,7 @@ Whenever Bofur is targeted by a Magical Power or special rule, he may try to ign
 ### BOMBUR THE DWARF, CHAMPION OF EREBOR [POINTS NOT SPECIFIED]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 7 | 2 | 3 | 5 | 2 | 1 | 1 |
 
@@ -311,7 +311,7 @@ Once each turn, at any point in Bombur's Move phase, choose a friendly model in 
 ### ORI THE DWARF, CHAMPION OF EREBOR [55 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/3+ | 3 | 7 | 2 | 2 | 5 | 1 | 3 | 1 |
 
@@ -340,7 +340,7 @@ Any time that Thorin Oakenshield, King Under the Mountain, or a Champion of Ereb
 ### NORI THE DWARF, CHAMPION OF EREBOR [POINTS NOT SPECIFIED]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 5" | 5/4+ | 4 | 8 | 3 | 2 | 5 | 2 | 1 | 1 |
 
@@ -375,7 +375,7 @@ Nori the Dwarf, Champion of Erebor may re-roll one dice to win a Duel and may re
 ### DORI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 5" | 5/4+ | 4 | 8 | 3 | 2 | 5 | 2 | 1 | 1 |
 
@@ -409,7 +409,7 @@ Dori the Dwarf, Champion of Erebor is never considered unarmed, and never suffer
 ### ÓIN THE DWARF, CHAMPION OF EREBOR [65 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 5" | 4/4+ | 4 | 8 | 1 | 2 | 6 | 1 | 4 | 1 |
 
@@ -443,7 +443,7 @@ Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendl
 ### GLÓIN THE DWARF, CHAMPION OF EREBOR [90 POINTS]
 *DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 5" | 6/4+ | 4 | 8 | 3 | 2 | 6 | 3 | 1 | 1 |
 

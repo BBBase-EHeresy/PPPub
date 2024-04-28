@@ -23,7 +23,7 @@ The Necromancer, and all nine Nazgûl of Dol Guldur, may be deployed as one warb
 ## THE NECROMANCER OF DOL GULDUR [250 POINTS]
 *SPIRIT, DOL GULDUR, INFANTRY, HERO - HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 7/4+ | 6 | 8 | 1 | 1 | 6 | 3 | 25 | * |
 
@@ -56,16 +56,16 @@ Note: The Necromancer is in fact Sauron. This means you cannot have both Sauron 
 
 **MAGICAL POWERS**
 
-|             | Range | Casting |
+|       | Range | Casting |
 |------------------|-------|---------|
-| [Drain Courage]    | 12"   | 2+      |
-| [Transfix]         | 12"   | 2+      |
-| [Compel]           | 12"   | 4+      |
-| [Instill Fear]     | 3"    | 4+      |
-| [Shroud of Shadows]| 12"   | 4+      |
-| [Your Staff is Broken] | 12"   | 4+      |
-| [Chill Soul]       | 12"   | 5+      |
-| [Sap Will]         | 12"   | 5+      |
+| [Drain Courage]  | 12"  | 2+   |
+| [Transfix]     | 12"  | 2+   |
+| [Compel]      | 12"  | 4+   |
+| [Instill Fear]   | 3"  | 4+   |
+| [Shroud of Shadows]| 12"  | 4+   |
+| [Your Staff is Broken] | 12"  | 4+   |
+| [Chill Soul]    | 12"  | 5+   |
+| [Sap Will]     | 12"  | 5+   |
 
 </div>
 
@@ -121,7 +121,7 @@ The Witch-king has 3 Might instead of 2.
 
 **SPECIAL RULES**
 
-- **Rhûnish Fury  (PASSIVE)**
+- **Rhûnish Fury (PASSIVE)**
 
 Khamûl the Easterling has 3 Attacks instead of 2.
 
@@ -240,7 +240,7 @@ The Keeper of the Dungeons gets a bonus of +1 To Wound against any model that be
 ### CASTELLAN OF DOL GULDUR [40 POINTS]
 *SPIRIT, DOL GULDUR, INFANTRY, HERO - MINOR HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 5/4+ | 5 | 6 | 2 | 1 | 6 | 0 | 12 | 0 |
 
@@ -251,7 +251,7 @@ The Keeper of the Dungeons gets a bonus of +1 To Wound against any model that be
 
 **OPTIONS**
 
-- Morgul Blade: 5 points  
+- Morgul Blade: 5 points 
 
 - **Morgul Blade (ACTIVE)**
 

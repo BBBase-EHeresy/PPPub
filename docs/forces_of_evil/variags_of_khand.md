@@ -147,9 +147,9 @@ If a Khandish Horseman is dismounted, they immediately drop either their bow or 
 
 **KHANDISH CHARIOT**
 
-|  Mv  |  F  |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:----:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  10" |  0  |  3  |  7  |  0  |  3  |  3  |
+| 10" | 0 | 3 | 7 | 0 | 3 | 3 |
 
 
 - **Defensive Bulwark (ACTIVE)**

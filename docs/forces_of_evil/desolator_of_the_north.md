@@ -60,11 +60,11 @@ If Smaug Charges into combat and wins the ensuing Fight, all of his opponents ar
 
 **MAGICAL POWERS**
 
-|  | **Range** | **Casting** |
+| | **Range** | **Casting** |
 |---------------------|:---------:|:-----------:|
-|      [Transfix]       |    12"    |     3+      |
-|       [Compel]        |    12"    |     4+      |
-|    [Instill Fear]     |    3"     |     5+      |
-|      [Sap Will]       |    12"    |     5+      |
+|   [Transfix]    |  12"  |   3+   |
+|    [Compel]    |  12"  |   4+   |
+|  [Instill Fear]   |  3"   |   5+   |
+|   [Sap Will]    |  12"  |   5+   |
 
 </div>

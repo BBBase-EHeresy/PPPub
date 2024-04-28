@@ -15,9 +15,9 @@ The profile for Cave Trolls can be found on page 131.
 ### THE BALROG [350 POINTS]
 *SPIRIT, MONSTER, INFANTRY, HERO - HERO OF LEGEND*
 
-|  Mv |   F   |  S  |  D  |  A  |  W  |  C  | M | W | F |
+| Mv |  F  | S | D | A | W | C | M | W | F |
 |:---:|:-----:|:---:|:---:|:---:|:---:|:---:| :-: | :-: | :-: |
-|  6" | 10/3+ |  9  |  9  |  4  | 10  |  7  | 0 | 10 | 0 |
+| 6" | 10/3+ | 9 | 9 | 4 | 10 | 7 | 0 | 10 | 0 |
 
 **WARGEAR**
 
@@ -134,10 +134,10 @@ Druzhag may include Wild Wargs, Fell Wargs, Giant Spiders and Bat Swarms in his 
 
 **MAGICAL POWERS**
 
-|  | Range | Casting |
+| | Range | Casting |
 |----------------|-------|---------|
-| [Enrage Beast]   |  12"  |   3+    |
-| [Fury] (*)       |  -  |   3+    |
+| [Enrage Beast]  | 12" |  3+  |
+| [Fury] (*)    | - |  3+  |
 
 </div>
 
@@ -179,10 +179,10 @@ Only Spider models may benefit from Ashrak's [Stand Fast!] or Heroic Actions. Ad
 
 **MAGICAL POWERS**
 
-|   | Range | Casting |
+|  | Range | Casting |
 |-----------------|-------|---------|
-| [Fury] (Spider)   |  -  |   3+    |
-| [Shroud of Shadows] |  12"  |   4+    |
+| [Fury] (Spider)  | - |  3+  |
+| [Shroud of Shadows] | 12" |  4+  |
 
 </div>
 
@@ -243,10 +243,10 @@ Only Spider models may benefit from Ashrak's [Stand Fast!] or Heroic Actions. Ad
 
 **MAGICAL POWERS**
 
-|    | Range | Casting |
+|  | Range | Casting |
 |------------------|-------|---------|
-| [Fury] (Moria Goblin) |   -   |   3+    |
-| [Transfix]         |  12"  |   5+    |
+| [Fury] (Moria Goblin) |  -  |  3+  |
+| [Transfix]     | 12" |  5+  |
 
 </div>
 
@@ -303,10 +303,10 @@ Only Spider models may benefit from Ashrak's [Stand Fast!] or Heroic Actions. Ad
 
 **MAGICAL POWERS**
 
-|  | Range | Casting |
+| | Range | Casting |
 |----------------|-------|---------|
-| [Shatter]        |  12"  |   3+    |
-| [Tremor]         |   6"  |   5+    |
+| [Shatter]    | 12" |  3+  |
+| [Tremor]     |  6" |  5+  |
 
 
 </div>
@@ -356,10 +356,10 @@ The Dragon increases its Wounds and Defence to 9, rather than 7.
 
 A Dragon with this ability can spend a single Will point each turn without reducing its own store of Will, so long as the Will point is used to cast one of the following Magical Powers. The controlling player may still spend extra Will points to increase the number of dice in the usual way:
 
-|  | Range | Casting |
+| | Range | Casting |
 |----------------|-------|---------|
-| Transfix       |  12"  |   3+    |
-| Compel         |  12"  |   4+    |
+| Transfix    | 12" |  3+  |
+| Compel     | 12" |  4+  |
 
 
 **SPECIAL RULES**
@@ -526,15 +526,15 @@ Instead of striking normally, if the Watcher in the Water is within a water feat
 
 **MORIA GOBLIN DRUMMERS**
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  5" | 2/5+ |  3  |  4  |  1  |  1  |  2  |
+| 5" | 2/5+ | 3 | 4 | 1 | 1 | 2 |
 
 **MORIA GOBLIN DRUM**
 
-|  Mv |  F  |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  -  | -/- |  -  |  10 |  -  |  3  |  -  |
+| - | -/- | - | 10 | - | 3 | - |
 
 
 **WARGEAR**
@@ -676,9 +676,9 @@ The Fight Value of any enemy model Engaged in combat with a Bat Swarm is halved 
 
 **WARG (WARG, INFANTRY, WARRIOR)**
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 10"  | 3/5+ |  4  |  4  |  1  |  1  |  2  |
+| 10" | 3/5+ | 4 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
 

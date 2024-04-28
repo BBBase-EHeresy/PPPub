@@ -197,14 +197,14 @@ At the start of every friendly Shoot phase, select a single enemy model within 6
 
 | | Range | Casting |
 |:----------------|:-------:|:---------:|
-| [Blinding Light] | -   | 2+   |
-| [Terrifying Aura]| -  | 2+   |
-| [Immobilise]   | 12"  | 3+   |
-| [Command]    | 12"  | 4+   |
+| [Blinding Light] | -  | 2+  |
+| [Terrifying Aura]| - | 2+  |
+| [Immobilise]  | 12" | 3+  |
+| [Command]  | 12" | 4+  |
 | [Protection of the Valar] | - | 4+ |
-| [Strengthen Will] | 12" | 4+   |
-| [Collapse Rocks] | 6"  | 5+   |
-| [Sorcerous Blast]| 12"  | 5+   |
+| [Strengthen Will] | 12" | 4+  |
+| [Collapse Rocks] | 6" | 5+  |
+| [Sorcerous Blast]| 12" | 5+  |
 
 </div>
 

@@ -145,9 +145,9 @@ A War Mumak of Far Harad's Howdah has a capacity of 12 models. The only models t
 
 **WAR CAMEL**
 
-|  Mv  |  F  |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:----:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10"  |  0  |  4  |  4  |  0  |  1  |  2  |
+| 10" | 0 | 4 | 4 | 0 | 1 | 2 |
 
 - **Impaler (ACTIVE)**
 

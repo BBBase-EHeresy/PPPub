@@ -14,7 +14,7 @@ This army may include: Thrór; Thráin; Young Thorin Oakenshield; Young Balin th
 
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF LEGEND*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 6/4+ | 4 | 9 | 3 | 3 | 6 | 3 | 3 | 1 |
 
@@ -54,7 +54,7 @@ Once per game, the bearer of the Ring of Durin may re-roll a single Priority rol
 
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 6/4+ | 4 | 8 | 3 | 3 | 6 | 3 | 3 | 3 |
 
@@ -96,7 +96,7 @@ Thráin re-rolls all failed To Wound rolls when making Strikes against Azog, and
 
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 6/4+ | 4 | 7 | 3 | 3 | 6 | 3 | 3 | 3 |
 
@@ -135,7 +135,7 @@ Once per game, when moving Young Thorin Oakenshield, the controlling player may 
 
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 5 | 2 | 2 | 6 | 1 | 3 | 2 |
 
@@ -167,7 +167,7 @@ In the Priority phase, Young Balin may spend a Will point to enable his side to 
 
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/4+ | 5 | 6 | 3 | 2 | 6 | 2 | 2 | 2 |
 
@@ -204,7 +204,7 @@ Before making a Duel roll, Young Dwalin the Dwarf may choose to reduce his Fight
 
 Wherever Dwalin travelled, his older brother, Balin, was sure to be found. Wise, even in his youth, Balin was the kind of Dwarf that others sought out for sage counsel, although he was in no way lacking for skill-at-arms. At the Battle of Azanulbizar, Balin joined Thorin in rallying the wavering Dwarven hosts, charging to victory up the corpse-strewn slopes beside his beloved kinsmen.
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 5 | 2 | 2 | 6 | 1 | 3 | 2 |
 
@@ -231,7 +231,7 @@ Wherever Dwalin travelled, his older brother, Balin, was sure to be found. Wise,
 
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/4+ | 4 | 8 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -258,7 +258,7 @@ These are *[hand-and-a-half]* weapons, which may use either the [Bash][Hammer] o
 
 *DWARF, EREBOR, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv |  F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/4+ | 4 | 7 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -287,7 +287,7 @@ These are *[hand-and-a-half]* weapons, which may use either the [Bash][Hammer] o
 
 *DWARF, EREBOR, INFANTRY, WARRIOR*
 
-| Mv |  F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 3 | 7 | 1 | 1 | 4 |
 
@@ -315,7 +315,7 @@ These are *[hand-and-a-half]* weapons, which may use either the [Bash][Hammer] o
 
 *DWARF, EREBOR, INFANTRY, WARRIOR*
 
-| Mv |  F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 3 | 6 | 1 | 1 | 4 |
 

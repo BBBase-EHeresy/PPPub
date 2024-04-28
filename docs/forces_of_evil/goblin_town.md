@@ -152,7 +152,7 @@ Gollum is never considered to be unarmed, ever.
 ## GOBLIN CAPTAIN [35 POINTS]
 *GOBLIN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 5" | 3/5+ | 4 | 4 | 2 | 2 | 3 | 2 | 1 | 1 |
 

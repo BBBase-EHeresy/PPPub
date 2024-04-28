@@ -17,9 +17,9 @@ The profile for Orc Warriors and Warg Riders can be found on pages 119-120.
 ### SARUMAN [180 POINTS]
 *WIZARD, ISENGARD, INFANTRY, HERO - HERO OF LEGEND*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  | M | W | F |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-: | :-: | :-: |
-|  6"  | 5/4+ |  4  |  5  | 1  |  3  |  7   | 3 | 6* | 3 |
+| 6" | 5/4+ | 4 | 5 | 1 | 3 | 7  | 3 | 6* | 3 |
 
 **WARGEAR**
 
@@ -49,13 +49,13 @@ Saruman the White can choose to re-roll one dice when making Casting or Resist t
 
 **MAGICAL POWERS**
 
-|  | **Range** | **Casting** |
+| | **Range** | **Casting** |
 |--------------------|-----------|-------------|
-| [Immobilise]         |    18"    |     2+      |
-| [Terrifying Aura]    |     -     |     2+      |
-| [Command]            |    18"    |     3+      |
-| [Sorcerous Blast]    |    12"    |     4+      |
-| [Flameburst]         |     6"    |     5+      |
+| [Immobilise]     |  18"  |   2+   |
+| [Terrifying Aura]  |   -   |   2+   |
+| [Command]      |  18"  |   3+   |
+| [Sorcerous Blast]  |  12"  |   4+   |
+| [Flameburst]     |   6"  |   5+   |
 
 </div>
 
@@ -66,9 +66,9 @@ Saruman the White can choose to re-roll one dice when making Casting or Resist t
 ### GRIMA WORMTONGUE [25 POINTS]
 *MAN, ISENGARD, INFANTRY, HERO - INDEPENDENT HERO*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  | M | W | F |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-: | :-: | :-: |
-|  6"  | 2/4+ |  3  |  3  |  1  |  1  |  2  | 0 | 0 | 0 |
+| 6" | 2/4+ | 3 | 3 | 1 | 1 | 2 | 0 | 0 | 0 |
 
 **WARGEAR**
 
@@ -103,9 +103,9 @@ If an enemy Hero model is within 6" of Grima, 2 Might points must be expended to
 ### LURTZ [90 POINTS]
 *URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF VALOUR*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 5/3+ |  5  |  6  |  3  |  3  |  5  |  3   |  1   |  1   |
+| 6" | 5/3+ | 5 | 6 | 3 | 3 | 5 | 3  | 1  | 1  |
 
 **WARGEAR**
 
@@ -135,9 +135,9 @@ Any warband led by Lurtz does not have to roll to determine when and where it ar
 ### UGLUK [65 POINTS]
 *URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 5/4+ |  5  |  5  |  2  |  2  |  4  |  3   |  1   |  1   |
+| 6" | 5/4+ | 5 | 5 | 2 | 2 | 4 | 3  | 1  | 1  |
 
 **WARGEAR**
 
@@ -165,9 +165,9 @@ Should Ugliik's force be broken, Ugluk can choose to kill a nearby model instead
 ### SHARKU [50 POINTS]
 *ORC, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 4/5+ |  4  |  5  |  2  |  2  |  3  |  3  |  1  |  1  |
+| 6" | 4/5+ | 4 | 5 | 2 | 2 | 3 | 3 | 1 | 1 |
 
 **WARGEAR**
 
@@ -196,9 +196,9 @@ The curious blade Sharku carries into battle complements his gritty, vicious fig
 ### VRASKU 65 POINTS
 *URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 5/3+ |  5  |  5  |  2  |  2  |  4  |  3  |  1  |  1  |
+| 6" | 5/3+ | 5 | 5 | 2 | 2 | 4 | 3 | 1 | 1 |
 
 **WARGEAR**
 
@@ -224,9 +224,9 @@ The curious blade Sharku carries into battle complements his gritty, vicious fig
 ### MAUHUR [60 POINTS]
 *URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 5/3+ |  5  |  5  |  2  |  2  |  4  |   2  |  1   |  1   |
+| 6" | 5/3+ | 5 | 5 | 2 | 2 | 4 |  2 | 1  | 1  |
 
 **WARGEAR**
 
@@ -251,9 +251,9 @@ The curious blade Sharku carries into battle complements his gritty, vicious fig
 ### THRYDAN WOLFSBANE [85 POINTS]
 *MAN, DUNLENDING, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 5/4+ |  5  |  5  |  2  |  2  |  4  |   3  |  2   |  2   |
+| 6" | 5/4+ | 5 | 5 | 2 | 2 | 4 |  3 | 2  | 2  |
 
 **WARGEAR**
 
@@ -282,9 +282,9 @@ The range of Thrydan's [Stand Fast!] is 12".
 ### URUK-HAI CAPTAIN [60 POINTS]
 *URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6'  | 5/4+ |  5  |  6  |  2  |  2  |   4  |  2   |   1  |    1 |
+| 6' | 5/4+ | 5 | 6 | 2 | 2 |  4 | 2  |  1 |  1 |
 
 **WARGEAR**
 
@@ -310,9 +310,9 @@ The range of Thrydan's [Stand Fast!] is 12".
 ### URUK-HAI SCOUT CAPTAIN [55 POINTS]
 *URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 5/4+ |  5  |  5  |  2  |  2  |  4  |  2   |  1   |   1  |
+| 6" | 5/4+ | 5 | 5 | 2 | 2 | 4 | 2  | 1  |  1 |
 
 **WARGEAR**
 
@@ -338,9 +338,9 @@ The range of Thrydan's [Stand Fast!] is 12".
 ### URUK-HAI SHAMAN [50 POINTS]
 *URUK-HAI, ISENGARD, INFANTRY, HERO - MINOR HERO*
 
-|  Mv  |   F    |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv |  F  | S | D | A | W | C | M | W | F |
 |:----:|:------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 4/4+ |  4  |  4  |  1  |  2  |  4  | 1 |   3  |   1  |
+| 6" | 4/4+ | 4 | 4 | 1 | 2 | 4 | 1 |  3 |  1 |
 
 **WARGEAR**
 
@@ -356,10 +356,10 @@ The range of Thrydan's [Stand Fast!] is 12".
 
 **MAGICAL POWERS**
 
-|          | **Range** | **Casting** |
+|     | **Range** | **Casting** |
 |----------------------------|-----------|-------------|
-| [Fury] (Isengard Uruk-hai)  |    6"     |     3+      |
-|           [Transfix]         |    12"    |     5+      |
+| [Fury] (Isengard Uruk-hai) |  6"   |   3+   |
+|      [Transfix]     |  12"  |   5+   |
 
 
 </div>
@@ -371,9 +371,9 @@ The range of Thrydan's [Stand Fast!] is 12".
 ### URUK-HAI DRUMMER [35 POINTS]
 *URUK-HAI, ISENGARD, INFANTRY, HERO - INDEPENDENT HERO*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 4/4+ |  4  |  5  |  1  |  1  |  4  | 0|  0  |   1  |
+| 6" | 4/4+ | 4 | 5 | 1 | 1 | 4 | 0| 0 |  1 |
 
 **WARGEAR**
 
@@ -390,9 +390,9 @@ The range of Thrydan's [Stand Fast!] is 12".
 ### DUNLENDING CHIEFTAIN [55 POINTS]
 *MAN, DUNLENDING, INFANTRY, HERO - HERO OF FORTITUDE*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 4/4+ |  5  |  5  |  2  |  2  |  4  |   2  |  2   |  1   |
+| 6" | 4/4+ | 5 | 5 | 2 | 2 | 4 |  2 | 2  | 1  |
 
 **WARGEAR**
 
@@ -420,9 +420,9 @@ The range of Thrydan's [Stand Fast!] is 12".
 ### URUK-HAI SCOUT [8 POINTS]
 *URUK-HAI, ISENGARD, INFANTRY, WARRIOR*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6*  | 4/4+ |  4  |  4  |  1  |  1  |  3  |
+| 6* | 4/4+ | 4 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
 
@@ -444,9 +444,9 @@ The range of Thrydan's [Stand Fast!] is 12".
 ### ISENGARD TROLL [9 POINTS]
 *TROLL, ISENGARD, MONSTER, INFANTRY, WARRIOR*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 7/5+ |  7  |  8  |  3  |  3  |  4  |
+| 6" | 7/5+ | 7 | 8 | 3 | 3 | 4 |
 
 **WARGEAR**
 
@@ -473,9 +473,9 @@ The range of Thrydan's [Stand Fast!] is 12".
 ### URUK-HAI BERSERKER [15 POINTS]
 *URUK-HAI, ISENGARD, INFANTRY, WARRIOR*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6*  | 4/4+ |  4  |  5  |  2  |  1  |  7  |
+| 6* | 4/4+ | 4 | 5 | 2 | 1 | 7 |
 
 **WARGEAR**
 
@@ -503,9 +503,9 @@ Uruk-hai Berserkers count their Defence characteristic as 6 when an enemy model 
 ### FERAL URUK-HAI [13 POINTS]
 *URUK-HAI, ISENGARD, INFANTRY, WARRIOR*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 4/4+ |  4  |  4  |  2  |  1  |  5  |
+| 6" | 4/4+ | 4 | 4 | 2 | 1 | 5 |
 
 **WARGEAR**
 
@@ -526,9 +526,9 @@ Every time a Feral Uruk-hai suffers a Wound, roll a D6. On a 6, the Wound is ign
 ### DUNLENDING WARRIOR [7 POINTS]
 *MAN, DUNLENDING, INFANTRY, WARRIOR*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 3/4+ |  4  |  4  |  1  |  1  |  3  |
+| 6" | 3/4+ | 4 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
 
@@ -551,9 +551,9 @@ Every time a Feral Uruk-hai suffers a Wound, roll a D6. On a 6, the Wound is ign
 ### WILD MAN OF DUNLAND [5 POINTS]
 *MAN, DUNLENDING, INFANTRY, WARRIOR*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 3/4+ |  3  |  3  |  1  |  1  |  3  |
+| 6" | 3/4+ | 3 | 3 | 1 | 1 | 3 |
 
 **WARGEAR**
 
@@ -618,11 +618,11 @@ An enemy model that spends a Fight phase in base contact with a demolition charg
 
 **DETONATION TABLE**
 
-| D6 | RESULT                                                                                                      |
+| D6 | RESULT                                                   |
 |----|-------------------------------------------------------------------------------------------------------------|
-| 1  | Dud. The charge has been damaged in some way and will not detonate; remove it from play.                   |
+| 1 | Dud. The charge has been damaged in some way and will not detonate; remove it from play.          |
 | 2-5| Instant Reaction. The charge catches instantly, exploding in a roar of smoke and flame, as described previously. |
-| 6  | Titanic Explosion. The powder in the charge detonates with colossal fury as described previously, but inflicts 2D6 Wounds rather than D6. |
+| 6 | Titanic Explosion. The powder in the charge detonates with colossal fury as described previously, but inflicts 2D6 Wounds rather than D6. |
 
 </div>
 
@@ -635,15 +635,15 @@ An enemy model that spends a Fight phase in base contact with a demolition charg
 
 | Siege Engine | Strength | Defence | Wounds |
 |--------------|----------|---------|--------|
-| Ballista  |    (9)    |    10    |    4   |
+| Ballista |  (9)  |  10  |  4  |
 
 **CREW**
 
 An Isengard Assault Ballista is a large Siege Engine and is crewed by three Uruk-hai warrior crew wearing heavy armour. One is armed with a [Sword], one a dagger and the other carries an Assault Ballista bolt (pike). Any additional crew purchased will be equipped with [Heavy armour] a [Sword]. One of the crew is automatically the [Siege Veteran]. All crew members have the *Uruk-hai, Isengard, Infantry and Warrior* keywords.
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 4/4+ |  4  |  5  |  1  |  1  |  3  |
+| 6" | 4/4+ | 4 | 5 | 1 | 1 | 3 |
 
 **OPTIONS**
 

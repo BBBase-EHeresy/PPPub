@@ -132,7 +132,7 @@ Dragon Knights may only include Easterling models with the Black Dragon upgrade 
 ### EASTERLING WAR PRIEST [60 POINTS]
 *MAN, EASTERLING, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 3/4+ | 3 | 5 | 1 | 2 | 4 | 1 | 3 | 1 |
 
@@ -151,10 +151,10 @@ Dragon Knights may only include Easterling models with the Black Dragon upgrade 
 
 **MAGICAL POWERS**
 
-|          | Casting | Range |
+|     | Casting | Range |
 |---------------|:-------:|:-----:|
-| [Bladewrath]    | 2+      | 6”    |
-| [Fury] (Easterling) | 3+  | 6"    |
+| [Bladewrath]  | 2+   | 6”  |
+| [Fury] (Easterling) | 3+ | 6"  |
 
 ---
 

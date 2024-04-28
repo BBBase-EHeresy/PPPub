@@ -30,10 +30,10 @@ This army may include: Sharkey; Worm and Ruffians.
 
 **MAGICAL POWERS**
 
-|      | **Range** | **Casting** |
+|   | **Range** | **Casting** |
 |------------------------|:---------:|:-----------:|
-|       [Immobilise]       |    12"    |     2+      |
-|    [Terrifying Aura]     |    -    |     2+      |
+|    [Immobilise]    |  12"  |   2+   |
+|  [Terrifying Aura]   |  -  |   2+   |
 
 
 - **The Chief (PASSIVE)** 

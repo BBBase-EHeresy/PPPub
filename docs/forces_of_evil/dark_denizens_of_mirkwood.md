@@ -44,7 +44,7 @@ During any point in her Move phase, the Spider Queen may expend any number of re
 
 *SPIDER, MIRKWOOD, INFANTRY, WARRIOR*
 
-| Mv  | F   | S | D | A | W | C |
+| Mv | F  | S | D | A | W | C |
 |:---:|:---:|:-:|:-:|:-:|:-:|:-:|
 | 10" | 2/6+| 3 | 3 | 1 | 1 | 2 |
 

@@ -120,7 +120,7 @@ When mounted, Fimbul ignores the penalties suffered by Cavalry models attempting
 ### HUNTER ORC CAPTAIN [45 POINTS]
 *ORC, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 4/5+ | 4 | 5 | 2 | 2 | 3 | 2 | 1 | 1 |
 

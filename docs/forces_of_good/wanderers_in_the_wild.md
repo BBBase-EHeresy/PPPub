@@ -96,10 +96,10 @@ Tom Bombadil must give up a point of Will at the end of each turn in which he pa
 
 **MAGICAL POWERS**
 
-|         | **Range** | **Casting** |
+|     | **Range** | **Casting** |
 | ---------------- | --------------- | ----------------- |
-| [Refreshing Song] | 3"        | 2+        |
-| [Banishment]  | 6"        | 3+        |
+| [Refreshing Song] | 3"    | 2+    |
+| [Banishment] | 6"    | 3+    |
 
 **ALLIES**
 
@@ -139,9 +139,9 @@ Goldberry may not be included in your force unless it also includes Tom Bombadil
 
 **MAGICAL POWERS**
 
-|         | **Range** | **Casting** |
+|     | **Range** | **Casting** |
 | ---------------- | --------------- | ----------------- |
-| [Refreshing Song] | 3"        | 2+        |
+| [Refreshing Song] | 3"    | 2+    |
 
 **ALLIES**
 

@@ -60,14 +60,14 @@ Additionally, Khamul may expend a single point of Will at the start of the Fight
 
 **MAGICAL POWERS**
 
-|   | Range | Casting |
+|  | Range | Casting |
 |-----------------|-------|---------|
-| [Drain Courage]   |  12"  |   3+    |
-| [Transfix]        |  12"  |   4+    |
-| [Compel]          |  12"  |   5+    |
-| [Instill Fear]    |   3"  |   5+    |
-| [Sap Will]        |  12"  |   5+    |
-| [Black Dart]      |  12"  |   6+    |
+| [Drain Courage]  | 12" |  3+  |
+| [Transfix]    | 12" |  4+  |
+| [Compel]     | 12" |  5+  |
+| [Instill Fear]  |  3" |  5+  |
+| [Sap Will]    | 12" |  5+  |
+| [Black Dart]   | 12" |  6+  |
 
 </div>
 
@@ -109,14 +109,14 @@ At the start of the Fight phase, before Heroic Actions are declared, The Dark Ma
 
 **MAGICAL POWERS**
 
-|   | Range | Casting |
+|  | Range | Casting |
 |-----------------|-------|---------|
-| [Drain Courage]   |  12"  |   2+    |
-| [Transfix]        |  12"  |   3+    |
-| [Compel]          |  12"  |   4+    |
-| [Instill Fear]    |   3"  |   4+    |
-| [Black Dart]      |  12"  |   5+    |
-| [Sap will]        |  12"  |   5+    |
+| [Drain Courage]  | 12" |  2+  |
+| [Transfix]    | 12" |  3+  |
+| [Compel]     | 12" |  4+  |
+| [Instill Fear]  |  3" |  4+  |
+| [Black Dart]   | 12" |  5+  |
+| [Sap will]    | 12" |  5+  |
 
 </div>
 
@@ -157,14 +157,14 @@ At the start of the Move phase, before Heroic Actions are declared, The Shadow L
 
 **MAGICAL POWERS**
 
-|   | Range | Casting |
+|  | Range | Casting |
 |-----------------|-------|---------|
-| [Drain Courage]   |  12"  |   2+    |
-| [Transfix]        |  12"  |   3+    |
-| [Compel]          |  12"  |   4+    |
-| [Black Dart]      |   6"  |   5+    |
-| [Instill Fear]    |   3"  |   5+    |
-| [Sap will]        |  12"  |   5+    |
+| [Drain Courage]  | 12" |  2+  |
+| [Transfix]    | 12" |  3+  |
+| [Compel]     | 12" |  4+  |
+| [Black Dart]   |  6" |  5+  |
+| [Instill Fear]  |  3" |  5+  |
+| [Sap will]    | 12" |  5+  |
 
 
 </div>
@@ -210,14 +210,14 @@ The Undying may expend Will points in the same manner as Fate points.
 
 **MAGICAL POWERS**
 
-|   | Range | Casting |
+|  | Range | Casting |
 |-----------------|-------|---------|
-| [Drain Courage]   |  12"  |   2+    |
-| [Transfix]        |  12"  |   3+    |
-| [Compel]          |  12"  |   4+    |
-| [Black Dart]      |   6"  |   5+    |
-| [Instill Fear]    |   3"  |   5+    |
-| [Sap will]        |  12"  |   5+    |
+| [Drain Courage]  | 12" |  2+  |
+| [Transfix]    | 12" |  3+  |
+| [Compel]     | 12" |  4+  |
+| [Black Dart]   |  6" |  5+  |
+| [Instill Fear]  |  3" |  5+  |
+| [Sap will]    | 12" |  5+  |
 
 </div>
 
@@ -262,14 +262,14 @@ At the start of any Fight phase, before Heroic Actions are declared, The Knight 
 
 **MAGICAL POWERS**
 
-|   | Range | Casting |
+|  | Range | Casting |
 |-----------------|-------|---------|
-| [Drain Courage]   |  12"  |   3+    |
-| [Transfix]        |  12"  |   4+    |
-| [Compel]          |  12"  |   5+    |
-| [Instill Fear]    |   3"  |   5+    |
-| [Sap Will]        |  12"  |   5+    |
-| [Black Dart]      |  12"  |   6+    |
+| [Drain Courage]  | 12" |  3+  |
+| [Transfix]    | 12" |  4+  |
+| [Compel]     | 12" |  5+  |
+| [Instill Fear]  |  3" |  5+  |
+| [Sap Will]    | 12" |  5+  |
+| [Black Dart]   | 12" |  6+  |
 
 </div>
 
@@ -311,14 +311,14 @@ At the start of the Move phase, before Heroic Actions are declared, The Betrayer
 
 **MAGICAL POWERS**
 
-|   | Range | Casting |
+|  | Range | Casting |
 |-----------------|-------|---------|
-| [Drain Courage]   |  12"  |   3+    |
-| [Transfix]        |  12"  |   4+    |
-| [Compel]          |  12"  |   5+    |
-| [Instill Fear]    |   3"  |   5+    |
-| [Sap Will]        |  12"  |   5+    |
-| [Black Dart]      |  12"  |   6+    |
+| [Drain Courage]  | 12" |  3+  |
+| [Transfix]    | 12" |  4+  |
+| [Compel]     | 12" |  5+  |
+| [Instill Fear]  |  3" |  5+  |
+| [Sap Will]    | 12" |  5+  |
+| [Black Dart]   | 12" |  6+  |
 
 
 ### GOTHMOG, LIEUTENANT OF SAURON [130 POINTS]
@@ -388,11 +388,11 @@ Once per game, at the start of any Fight phase, Gothmog can declare that he is u
 
 **MAGICAL POWERS**
 
-|   | Range | Casting |
+|  | Range | Casting |
 |-----------------|-------|---------|
-| [Drain Courage]   |  12"  |   2+    |
-| [Transfix]        |  12"  |   3+    |
-| [Instill Fear]    |   3"  |   5+    |
+| [Drain Courage]  | 12" |  2+  |
+| [Transfix]    | 12" |  3+  |
+| [Instill Fear]  |  3" |  5+  |
 
 </div>
 
@@ -526,10 +526,10 @@ At the start of any Priority phase, before any dice are rolled, Kardush's contro
 
 **MAGICAL POWERS**
 
-|  | Range | Casting |
+| | Range | Casting |
 |----------------|-------|---------|
-| [Flameburst]     |  6"   |   3+    |
-| [Fury] (Mordor Orc) |  6"   |   3+    |
+| [Flameburst]   | 6"  |  3+  |
+| [Fury] (Mordor Orc) | 6"  |  3+  |
 
 
 ### MORANNON ORC CAPTAIN [50 POINTS]
@@ -648,21 +648,21 @@ A Great Beast of Gorgoroth comprises an Orc Commander with armour and a spear as
 
 *ORC, MORDOR, INFANTRY, HERO*
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6" | 4/5+ |  4  |  5  |  2  |  2  |  4  |     |     |     |
+| 6" | 4/5+ | 4 | 5 | 2 | 2 | 4 |   |   |   |
 
 **GREAT BEAST**
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  8" | 4/4+ |  6  |  7  |  3  |  5  |  2  |
+| 8" | 4/4+ | 6 | 7 | 3 | 5 | 2 |
 
 **HOWDAH**
 
-|  Mv |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F  | S | D | A | W | C |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  - | - |  -  |  8  |  -  |  4  |  -  |
+| - | - | - | 8 | - | 4 | - |
 
 A Great Beast of Gorgoroth's Howdah has a capacity of nine models, in addition to the commander. Only Orc Warriors equipped with Orc bows may be selected to ride in the Howdah.
 

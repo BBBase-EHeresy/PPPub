@@ -56,13 +56,13 @@ Saruman the White can choose to re-roll one dice when making Casting or Resist t
 
 **MAGICAL POWERS**
 
-|      | Range | Casting |
+|   | Range | Casting |
 |:-----------------:|:-------:|:---------|
-| Aura of Command | -   | 2+   |
-| Immobilise   | 18"  | 2+   |
-| Terrifying Aura | -   | 2+   |
-| Command     | 18"  | 3+   |
-| Sorcerous Blast | 12"  | 4+   |
+| Aura of Command | -  | 2+  |
+| Immobilise  | 18" | 2+  |
+| Terrifying Aura | -  | 2+  |
+| Command   | 18" | 3+  |
+| Sorcerous Blast | 12" | 4+  |
 
 </div>
 
@@ -104,11 +104,11 @@ Galadriel, Lady of Light can expend a single point of Will each turn without dep
 
 **MAGICAL POWERS**
 
-|     | Range | Casting |
+|   | Range | Casting |
 |:---------------:|:-------:|:---------|
-| Fortify Spirit | 12"  | 2+   |
-| Banishment   | 12"  | 3+   |
-| Instill Fear  | 3"  | 4+   |
+| Fortify Spirit | 12" | 2+  |
+| Banishment  | 12" | 3+  |
+| Instill Fear | 3" | 4+  |
 
 </div>
 
@@ -147,10 +147,10 @@ Celeborn’s [Stand Fast!] is 12", rather than 6".
 
 **MAGICAL POWERS**
 
-|    | Range | Casting |
+|  | Range | Casting |
 |:-------------:|:-------:|:---------|
-| Aura of Command | -   | 2+   |
-| Enchanted Blades | 6"  | 3+   |
-| Immobilise   | 12"  | 3+   |
+| Aura of Command | -  | 2+  |
+| Enchanted Blades | 6" | 3+  |
+| Immobilise  | 12" | 3+  |
 
 </div>

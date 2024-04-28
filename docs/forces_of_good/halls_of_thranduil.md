@@ -13,7 +13,7 @@ This army may include: Thranduil, King of the Woodland Realm; Legolas Greenleaf,
 ### THRANDUIL, KING OF THE WOODLAND REALM [100 POINTS]
 *ELF, MIRKWOOD, INFANTRY, HERO — HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 6/2+ | 4 | 4 | 2 | 3 | 6 | 3 | 3 | 3 |
 
@@ -46,7 +46,7 @@ When equipped with an additional *[Elven-made]* [sword], Thranduil, King of the 
 
 **ELK**
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 10" | 4/5+ | 4 | 5 | 0 | 2 | 4 |
 
@@ -76,7 +76,7 @@ Whilst he has the Infantry keyword, Thranduil, King of the Woodland Realm receiv
 ### LEGOLAS GREENLEAF, PRINCE OF MIRKWOOD [95 POINTS]
 *ELF, MIRKWOOD, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 6/3+ | 4 | 5 | 2 | 2 | 6 | 3 | 2 | 3 |
 
@@ -116,7 +116,7 @@ Legolas may fire his bow three times in the Shoot phase rather than once. Each o
 ### TAURIEL [85 POINTS]
 *ELF, MIRKWOOD, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 6/3+ | 4 | 5 | 3 | 2 | 6 | 3 | 2 | 3 |
 

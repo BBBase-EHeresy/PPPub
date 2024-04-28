@@ -45,7 +45,7 @@ The profile for Great Eagles can be found on page 83.
 
 This is a mount with the following profile and the [Woodland Creature] special rule.
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 10" | 3/6+ | 2 | 3 | 4 | 4 | 2 |
 
@@ -69,14 +69,14 @@ Whilst he has the Infantry keyword, Radagast may move through areas of difficult
 
 **MAGICAL POWERS**
 
-|  | Range | Casting |
+| | Range | Casting |
 |-----------------|-------|---------|
-| Panic Steed   | 12" |  2+  |
-| Terrifying Aura |  -  |  2+  |
-| Immobilise   | 12" |  3+  |
-| Renew      | 12" |  3+  |
-| Nature’s Wrath |  6" |  4+  |
-| Aura of Dismay |  -  |  5+  |
+| Panic Steed  | 12" | 2+ |
+| Terrifying Aura | - | 2+ |
+| Immobilise  | 12" | 3+ |
+| Renew   | 12" | 3+ |
+| Nature’s Wrath | 6" | 4+ |
+| Aura of Dismay | - | 5+ |
 
 </div>
 
@@ -87,7 +87,7 @@ Whilst he has the Infantry keyword, Radagast may move through areas of difficult
 ### BEORN [200 POINTS]
 *MAN, INFANTRY, HERO — HERO OF VALOUR*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 6/4+ | 5 | 5 | 3 | 3 | 6 | 3 | 3 | 3 |
 
@@ -116,7 +116,7 @@ To change Beorn’s form, the controlling player may roll a D6 at the start of B
 ## BEORN THE BEAR
 *BEAR, MONSTER, INFANTRY, HERO*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |----|-----|---|---|---|---|---|---|---|---|
 | 8" | 8/4+| 8 | 8 | 3 | 3 | 6 | * | * | * |
 

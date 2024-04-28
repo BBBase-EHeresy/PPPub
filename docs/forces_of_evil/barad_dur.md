@@ -56,14 +56,14 @@ Sauron makes a single Strike against a single Infantry or Cavalry model Engaged 
 
 **MAGICAL POWERS**
 
-|  | Range | Casting |
+| | Range | Casting |
 |----------------|-------|---------|
-| [Drain Courage] | 18" |  2+  |
-| [Transfix]    | 18" |  2+  |
-| [Compel]     | 18" |  3+  |
-| [Instill Fear]  |  3" |  3+  |
-| [Chill Soul]   | 18" |  4+  |
-| [Sap Will]    | 18" |  4+  |
+| [Drain Courage] | 18" | 2+ |
+| [Transfix]  | 18" | 2+ |
+| [Compel]   | 18" | 3+ |
+| [Instill Fear] | 3" | 3+ |
+| [Chill Soul]  | 18" | 4+ |
+| [Sap Will]  | 18" | 4+ |
 
 </div>
 
@@ -125,15 +125,15 @@ When buying the Witch-king for your force, decide how many points of Might/Will/
 
 **MAGICAL POWERS**
 
-|     | Range | Casting |
+|   | Range | Casting |
 |-----------------------|-------|---------|
-| [Drain Courage]     | 12" |  2+  |
-| [Transfix]       | 12" |  3+  |
-| [Compel]        | 12" |  4+  |
-| [Instill Fear]     |  3" |  4+  |
-| [Your Staff is Broken] | 12" |  4+  |
-| [Black Dart]      | 12" |  5+  |
-| [Sap Will]       | 12" |  5+  |
+| [Drain Courage]   | 12" | 2+ |
+| [Transfix]    | 12" | 3+ |
+| [Compel]    | 12" | 4+ |
+| [Instill Fear]   | 3" | 4+ |
+| [Your Staff is Broken] | 12" | 4+ |
+| [Black Dart]   | 12" | 5+ |
+| [Sap Will]    | 12" | 5+ |
 
 </div>
 
@@ -181,12 +181,12 @@ There can only be a maximum of nine Ringwraith models, of any combination (inclu
 
 | | Range | Casting |
 |----------------|-------|---------|
-| [Drain Courage] | 12" |  2+  |
-| [Transfix]    | 12"  |  3+  |
-| [Compel]     | 12"  |  4+  |
-| [Black Dart]   | 12"  |  5+  |
-| [Instill Fear]  | 3"  |  5+  |
-| [Sap will]    | 12"  |  5+  |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix]  | 12" | 3+ |
+| [Compel]   | 12" | 4+ |
+| [Black Dart]  | 12" | 5+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap will]  | 12" | 5+ |
 
 </div>
 
@@ -274,10 +274,10 @@ Shelob hunts alone, those that are foolish enough to get in her way will end up 
 
 **MAGICAL POWERS**
 
-|    | Range | Casting |
+|  | Range | Casting |
 |-------------|-------|---------|
-| [Fury] (Mordor Orc)    | 6"  |  3+  |
-| [Transfix]  | 12"  |  5+  |
+| [Fury] (Mordor Orc)  | 6" | 3+ |
+| [Transfix] | 12" | 5+ |
 
 </div>
 
@@ -554,17 +554,17 @@ Each time a friendly Hero model within 6" of the Taskmaster from the same army l
 ### MORDOR SIEGE BOW [50 POINTS]
 *SIEGE ENGINE*
 
-| Siege Engine    | Strength | Defence | Wounds |
+| Siege Engine  | Strength | Defence | Wounds |
 |--------------------|----------|---------|--------|
-| Mordor Siege Bow |  (9)  |  10  |  3   |
+| Mordor Siege Bow | (9) | 10 | 3  |
 
 **CREW**
 
 A Mordor Siege Bow is a small Siege Engine and is crewed by three Orc Warriors with armour and sword. One of the crew is automatically the [Siege Veteran]. All crew members have the *Orc, Mordor, Infantry and Warrior* keywords.
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6' | 3/5+ | 3 | 4 | 1 | 1  | 2  |
+| 6' | 3/5+ | 3 | 4 | 1 | 1 | 2 |
 
 **OPTIONS**
 
@@ -591,9 +591,9 @@ A Mordor Siege Bow will only scatter 3" rather than 6".
 ### MORDOR WAR CATAPULT [160 POINTS]
 *SIEGE ENGINE*
 
-| Siege Engine    | Strength | Defence | Wounds |
+| Siege Engine  | Strength | Defence | Wounds |
 |---------------------|----------|---------|--------|
-| Mordor War Catapult |  (10)  |  10  |  4  |
+| Mordor War Catapult | (10) | 10 | 4 |
 
 **CREW**
 
@@ -601,13 +601,13 @@ A Mordor War Catapult is a large Siege Engine and is crewed by three Orc Warrior
 
 **ORCS**
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 3/4+ | 3 | 4 | 1 | 1 | 3 |
 
 **TROLL**
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 7/4+ | 7 | 7 | 3 | 3 | 3 |
 

@@ -15,7 +15,7 @@ Additionally, Dáin Ironfoot, Lord of the Iron Hills receives the [Master of Bat
 ### DÁIN IRONFOOT, LORD OF THE IRON HILLS [140 POINTS]
 *DWARF, IRON HILLS, INFANTRY, HERO — HERO OF LEGEND*
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 6/4+ | 5 | 8 | 3 | 3 | 7 | 3 | 3 | 3 |
 
@@ -40,7 +40,7 @@ Additionally, Dáin Ironfoot, Lord of the Iron Hills receives the [Master of Bat
 
 **WAR BOAR**
 
-| Mv | F  | S  | D  | A  | W  | C  |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 8" | 4/5+ | 4 | 6 | 0 | 2 | 3 |
 
@@ -77,7 +77,7 @@ If Dáin Ironfoot, Lord of the Iron Hills wins a Duel roll but fails to slay his
 
 **MÚRIN**
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/4+ | 4 | 8 | 2 | 2 | 5 | 3 | 1 | 1 |
 
@@ -96,7 +96,7 @@ This is a [sword]. Additionally, Múrin receives a bonus of +1 To Wound when mak
 
 **DRÁR**
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/4+ | 4 | 7 | 2 | 2 | 5 | 3 | 1 | 1 |
 
@@ -122,7 +122,7 @@ This is a [sword]. Additionally, Múrin receives a bonus of +1 To Wound when mak
 ### IRON HILLS CAPTAIN [80 POINTS]
 *DWARF, IRON HILLS, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S  | D  | A  | W  | C  | M  | W  | F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 5/4+ | 4 | 8 | 2 | 2 | 5 | 2 | 1 | 1 |
 
@@ -162,7 +162,7 @@ A mattock is a *[Two-handed]* weapon that can either use the [Bash][Hammer] or [
 ### IRON HILLS DWARF [11 POINTS]
 *DWARF, IRON HILLS, INFANTRY, WARRIOR*
 
-| Mv | F  | S  | D  | A  | W  | C  |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 7 | 1 | 1 | 4 |
 
@@ -196,7 +196,7 @@ A mattock is a *[Two-handed]* weapon that can either use the [Bash][Hammer] or [
 ### IRON HILLS GOAT RIDER [20 POINTS]
 *DWARF, IRON HILLS, CAVALRY, WARRIOR*
 
-| Mv | F  | S  | D  | A  | W  | C  |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 7 | 1 | 1 | 4 |
 
@@ -220,7 +220,7 @@ A mattock is a *[Two-handed]* weapon that can either use the [Bash][Hammer] or [
 
 **WAR GOAT (GOAT, IRON HILLS)**
 
-| Mv | F  | S  | D  | A  | W  | C  |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 8" | 2/6+ | 4 | 5 | 0 | 1 | 3 |
 
@@ -251,7 +251,7 @@ When this model Charges into combat against one or more Man-sized (or smaller) m
 
 An Iron Hills Ballista is a large Siege Engine and is crewed by four Iron Hills Dwarves with heavy armour and swords. One of these is automatically the [Siege Veteran] (we recommend the Dwarf who is pointing). All crew members have the *Dwarf, Iron Hills, Infantry and Warrior* keywords.
 
-| Mv | F  | S  | D  | A  | W  | C  |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 6 | 1 | 1 | 4 |
 
@@ -286,13 +286,13 @@ If an Iron Hills Ballista scores a hit against a Battlefield Target, all Man-siz
 
 **IRON HILLS CHARIOT CREW**
 
-| Mv | F  | S  | D  | A  | W  | C  |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 5" | 4/4+ | 4 | 6 | 1 | 1 | 4 |
 
 **IRON HILLS CHARIOT**
 
-| Mv | F  | S  | D  | A  | W  | C  |
+| Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
 | 8" | 4/4+ | 4 | 8 | 2 | 5 | 3 |
 

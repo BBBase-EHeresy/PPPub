@@ -106,10 +106,10 @@ A model with this special rule may re-roll a single D6 when making a Duel roll. 
 
 **MAGICAL POWERS**
 
-|         | **Range** | **Casting** |
+|     | **Range** | **Casting** |
 | ---------------- | --------------- | ----------------- |
-| [Wrath of Bruinen] | -        | 4+        |
-| [Renew]      | 12"       | 3+        |
+| [Wrath of Bruinen] | -    | 4+    |
+| [Renew]   | 12"    | 3+    |
 
 </div>
 
@@ -233,9 +233,9 @@ Asfaloth is a [horse] with a Move value of 12" rather than 10". Additionally, wh
 
 **MAGICAL POWERS**
 
-|         | **Range** | **Casting** |
+|     | **Range** | **Casting** |
 | ---------------- | --------------- | ----------------- |
-| [Wrath of Bruinen] | -        | 4+        |
+| [Wrath of Bruinen] | -    | 4+    |
 
 </div>
 
@@ -347,12 +347,12 @@ Cirdan may spend a single point of Will each turn without reducing his own store
 
 **MAGICAL POWERS**
 
-|         | **Range** | **Casting** |
+|     | **Range** | **Casting** |
 | ---------------- | --------------- | ----------------- |
-| [Aura of Command] | -        | 2+        |
-| [Blinding Light]  | -        | 2+        |
-| [Enchanted Blades] | 6"       | 4+        |
-| [Aura of Dismay]  | -        | 5+        |
+| [Aura of Command] | -    | 2+    |
+| [Blinding Light] | -    | 2+    |
+| [Enchanted Blades] | 6"    | 4+    |
+| [Aura of Dismay] | -    | 5+    |
 
 </div>
 
@@ -391,9 +391,9 @@ If your army includes Gildor Inglorion, you may include Wood Elf Warriors from t
 
 **MAGICAL POWERS**
 
-|      | **Range** | **Casting** |
+|   | **Range** | **Casting** |
 | ---------- | --------------- | ----------------- |
-| [Immobilise] | -        | 3+        |
+| [Immobilise] | -    | 3+    |
 
 </div>
 
@@ -463,10 +463,10 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 
 **MAGICAL POWERS**
 
-|         | **Range** | **Casting** |
+|     | **Range** | **Casting** |
 | --------------- | --------------- | ----------------- |
-| [Call Winds ]   | 12"       | 3+        |
-| [Strengthen Will] | 12"       | 4+        |
+| [Call Winds ]  | 12"    | 3+    |
+| [Strengthen Will] | 12"    | 4+    |
 
 </div>
 
@@ -511,7 +511,7 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 
 *ELF, RIVENDELL, CAVALRY, WARRIOR*
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 | --- | ---- | - | - | - | - | - |
 | 10" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
 

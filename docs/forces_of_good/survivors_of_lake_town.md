@@ -21,7 +21,7 @@ In the films, following Smaug’s destruction of Lake-town, some former members 
 ### BARD THE BOWMAN [140 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF LEGEND*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 5/3+ | 4 | 4 | 3 | 3 | 6 | 3 | 3 | 3 |
 
@@ -125,7 +125,7 @@ It is possible for two models to be the target of Bard’s rage if both Sigrid a
 ### PERCY [50 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 3/3+ | 4 | 4 | 2 | 2 | 4 | 3 | 1 | 1 |
 
@@ -153,7 +153,7 @@ Percy, and Lake-town Militia within 6" of Percy, may re-roll 1s To Hit when maki
 ### HILDA-BIANCA [30 POINTS]
 *WOMAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 2/4+ | 3 | 3 | 1 | 2 | 5 | 1 | 1 | 1 |
 
@@ -180,7 +180,7 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, Hilda-Bianca and L
 ### BILBO BAGGINS, MASTER BURGLAR [90 POINTS]
 *HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:---:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 4" | 3/3+ | 2 | 6 | 1 | 2 | 6 | 3 | 3 | 3 |
 
@@ -220,7 +220,7 @@ Bilbo Baggins, Master Burglar ignores the Sauron’s Will section of the One Rin
 ### LAKE-TOWN MILITIA CAPTAIN [40 POINTS]
 *MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF FORTITUDE*
 
-| Mv | F  | S | D | A | W | C | M | W | F |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:---:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6" | 3/4+ | 4 | 5 | 2 | 2 | 4 | 2 | 1 | 1 |
 
