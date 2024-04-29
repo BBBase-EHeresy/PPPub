@@ -132,7 +132,7 @@ At the end of each Battle phase, a Battle Company that controls Erebor gains an 
 
 ![](../media/battle_companies/erech_symbol.jpg) **ERECH**
 
-At the start of each Battle phase, a Battle Company that controls Erech rolls a D6. On a 4+, a single Warrior of the Dead joins the Battle Company for the upcoming game. Immediately after the game is completed, the Warrior of the Dead fades to dust and is not added to your company*'*s roster.
+At the start of each Battle phase, a Battle Company that controls Erech rolls a D6. On a 4+, a single Warrior of the Dead joins the Battle Company for the upcoming game. Immediately after the game is completed, the Warrior of the Dead fades to dust and is not added to your company's roster.
 
 ![](../media/battle_companies/fangorn_symbol.jpg) **FANGORN**
 

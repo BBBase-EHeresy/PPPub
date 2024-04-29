@@ -48,6 +48,8 @@ Warrior of Minas Tirith with bow – Ranger of Gondor
 
 This model gains a bonus of +1 to its Fight value on a turn in which it Charges.
 
+---
+
 ### OSGILIATH
 
 Once the proud capital of Gondor, Osgiliath stood as a beacon of hope and valour against the growing threat of Mordor. Over the centuries, it has been ravaged by war and eventually fell into ruin. In the later years of the Third Age, it has been garrisoned by Gondor's forces as a stronghold. From within its ruined walls, small groups are often dispatched into the wilderness and beyond, to aid settlements and allies under threat from evil forces.
@@ -95,6 +97,8 @@ Osgiliath Veterans in this Battle Company treat the company's leader in the same
 This model is never slowed by difficult terrain.
 
 
+---
+
 ### FIEFDOMS
 
 Since the days of old, the Fiefdoms of Gondor have stood ready to defend their realm in times of need. Despite the skilled standing armies hosted by the cities under Gondor’s protection, peace is an elusive goal. Orc packs frequently assault cities and outposts, spreading death and devastation, while Corsair slave raids are a constant threat along the southern coastlines.
@@ -131,6 +135,8 @@ Knight of Dol Amroth – Knight of Dol Amroth on armoured horse
 **'For the White City!'** – With a rousing cry, the hero plunges into the fray in defense of Minas Tirith. 
 
 This model gains a bonus of +1 to its Fight value on a turn in which it Charges.
+
+---
 
 ### ROHAN
 
@@ -186,6 +192,8 @@ Rider of Rohan – Rohan Outrider on horse
 
 Whilst mounted, this model gains a bonus of +1 Strength on a turn in which it Charges.
 
+---
+
 ### MEN OF THE WEST
 
 Following the Battle of Pelennor Fields, the Free Peoples of Middle-earth hatched one final plan to draw Sauron’s gaze away from Mordor and onto themselves. Yet, even as they rode to the Black Gate, Aragorn, Éomer, and Imrahil sent groups of trusted warriors to scour the lands outside Mordor for any enemy patrolling warbands or small outposts. 
@@ -233,6 +241,8 @@ Warrior of Minas Tirith – Knight of Minas Tirith with shield
 
 **Stand, Men of the West** – Standing side-by-side, the Men of the West fight to defend Middle-earth against the threat of Mordor. If the Hero has the Gondor keyword, they gain a bonus of +1 to their Duel rolls if there is a friendly Rohan model within 3". If the Hero has the Rohan keyword, they gain a bonus of +1 to their Duel rolls if there is a friendly Gondor model within 3".
 
+---
+
 ### DEAD OF DUNHARROW
 
 Having dwelt within the confines of the White Mountains for thousands of years, the Dead of Dunharrow have finally been called upon to fulfil their oath to the king of Gondor. Whilst most of these Warriors of the Dead went with Aragorn and their undead liege to the fields of Pelennor, some small contingents of undead warriors were sent to fend off Gondor’s enemies elsewhere in Middle-earth. Sent forth by the heir of Isildur, these Warriors of the Dead aimed to seek out the enemies of Gondor across Middle-earth, traveling far and wide to fulfill their duty. It is not until they had accomplished the task they had been set that they could finally be at peace.
@@ -264,6 +274,8 @@ Spectral Steed (5/10) – 3 Influence Points
 
 If the Hero makes one or more Strikes against an enemy model, and that model is not slain, the model must take a Courage test. If the test is failed, then in the following turn the model is treated as being under the effects of the Transfix Magical Power.
 
+---
+
 ### ARNOR
 
 Arnor was once a great realm, formed by Elendil in the Second Age, however, by the dwindling years of the Third Age, Arnor had fallen into ruin; a shadow of its former glory. Yet in days gone by, even as it fell into despair, the Kings of Arnor would send out patrols of their warriors to protect the realm against the swarms of fell creatures under the Witch-king’s command.
@@ -294,6 +306,8 @@ Hobbit Archers in this Battle Company do not count towards the total number of b
 **ARMY SPECIFIC HERO UPGRADE**
 
 **'Defend the North!'** – It is the hero’s sworn duty to protect the realm of Arnor, no matter the cost. The Hero will automatically pass the first Courage test it must take for their force being Broken.
+
+---
 
 ### RANGERS OF THE NORTH
 
@@ -327,6 +341,8 @@ A Rangers of the North Battle Company may have 100% of its models armed with a b
 **Dangerous Folk** – The Rangers of the North are a dangerous folk that wander the wilderness to the north, mastering every path and honing their skills. 
 
 This model gains the Woodland Creature special rule. Additionally, whilst on foot, this model adds 1 to their Attacks characteristic.
+
+---
 
 ### LAKE-TOWN
 
@@ -367,6 +383,8 @@ Lake-town Militia with bow – Lake-town Guard with bow
 
 **"The Master’s Purse Strings"** – The Hero is under the employment of the Master of Lake-town and can use their employer’s influence to rouse their followers into action. At the start of the Fight phase, before any Heroic Actions are declared, the Hero can spend 1 point of Might. If they do so, the Fight value of all friendly models within 6" is increased by 1 until the End phase of the turn.
 
+---
+
 ### THE LAST ALLIANCE
 
 In the closing years of the Second Age, the armies of Gil-galad and Elendil formed a compact that would become known as the Last Alliance of Men and Elves, to combat the ever-growing threat of Sauron. Marching to war upon the black lands of Mordor, they fought for many years against the hordes of Orcs that Sauron sent to oppose them. During these blighted years, it was not unusual for Gil-galad and Elendil to send small bands of their warriors to venture into Mordor to undermine the armies of the Dark Lord.
@@ -399,6 +417,8 @@ These companies would be tasked with dealing with enemy scouts before they could
 If the Hero is a Man, they gain a bonus of +1 to their Duel rolls if there is a friendly Elf within 3".
 
 If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a friendly Man within 3".
+
+---
 
 ### EREBOR AND DALE
 
@@ -440,6 +460,8 @@ Warrior of Erebor – Grim Hammer
 **UNIQUE WARGEAR**
 
 Pick Hammer (1/5) – 1 Influence Point
+
+---
 
 ### LOTHLÓRIEN
 
@@ -498,6 +520,8 @@ Galadhrim Warrior with spear & shield – Guard of the Galadhrim Court
 
 **"Blessing of the Golden Wood"** – Through the blessing of Galadriel, fortune smiles upon the hero, keeping them from harm. Each time this Hero suffers a Wound, roll a D6. On a 6, the Wound is ignored exactly as if 1 point of Fate had been spent.
 
+---
+
 ### RIVENDELL
 
 Located in the hidden valley in the western foothills of The Misty Mountains, Rivendell endures under the protection of Elrond and the Elven ring that he possesses. The power of Vilya has kept Rivendell safe, and made it a place of peace and refuge to all of the Free Peoples of Middle-earth, earning it the name ‘The Last Homely House’.
@@ -528,6 +552,8 @@ This hero does not suffer the -1 penalty to their Duel rolls for using their Elv
 | 4  | High Elf Warrior with Elf bow            |
 | 5  | High Elf Warrior with choice of weapon   |
 | 6  | Rivendell Knight                         |
+
+---
 
 ### HALLS OF THRANDUIL
 
@@ -583,6 +609,8 @@ This Hero always counts as having rolled a 6 for any Leap, Jump or Climb tests.
 
 **Elven-made glaive (2/5)** – Costs 2 Influence Points.
 
+---
+
 ### IRON HILLS
 
 The Dwarves of the Iron Hills are a stubborn and hardy folk, possessing one of the greatest fighting forces of the Third Age. Unlike the Dwarves of other Kingdoms, those of the Iron Hills are famed more for their accomplishments in war than their skill in forging items of great value. It is this that makes an Iron Hills army a deadly and feared foe, one that the forces of the Dark Lord will not eagerly face in battle.
@@ -620,6 +648,8 @@ This hero may re-roll To Wound rolls of a 1 when making Strikes against Orc mode
 | 4  | Iron Hills Dwarf with spear & shield    |
 | 5  | Iron Hills Dwarf with choice of weapon  |
 | 6  | Iron Hills Goat Rider                   |
+
+---
 
 ### DURIN'S FOLK
 
@@ -665,6 +695,8 @@ Dwarf Warrior with Dwarf bow – Dwarf Ranger with Dwarf Longbow
 **'Baruk Khazâd!'** – With a fury as hot as the iron forges of the Dwarves, the hero lunges at their foe in defence of the folk of Durin.
 
 This Hero may re-roll To Wound rolls of a 1 when making Strikes against Orc models, Goblin models, or Uruk-hai models.
+
+---
 
 ### MORIA EXPEDITION
 
@@ -723,6 +755,8 @@ Dwarf Ranger – Moria Expeditionary* with equivalent wargear
 
 *A Moria Expeditionary is a Dwarf Ranger that does not suffer the -1 To Hit for moving half its Move allowance and shooting.
 
+---
+
 ### THE SHIRE
 
 The Hobbits that reside within the Shire are a peaceful race, quite content to ignore, and be ignored by, the world of the big folk that lies outside their borders. In fact, to many who live in Middle-earth, Hobbits seem of little or no relevance at all and are not considered as warriors or counted among the wise. Hobbits will seldom leave the boundaries of the four Farthings of the Shire, preferring to stay within the comfort of what and where they know. Yet, on the rare occasion that their livelihoods are threatened, the Hobbits of the Shire can rally to form a fighting force if needed – though not one that possesses great martial prowess. There have even been occasions, following threats to their homeland, where small bands of Hobbits have ventured beyond the boundaries of the Shire to protect it from those who seek to bring ruin to their quaint and peaceful lives.
@@ -759,6 +793,8 @@ Hobbit Archer – Tookish Hunter
 **UNIQUE WARGEAR**
 
 (Leader only): Pony (2/5) – 2 Influence Points
+
+---
 
 ### WANDERERS IN THE WILD
 

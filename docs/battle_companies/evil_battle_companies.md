@@ -59,6 +59,8 @@ Mordor Uruk-hai – Black Guard of Barad-dûr
 
 Black Númenórean – Morgul Knight
 
+---
+
 ### CIRITH UNGOL
 
 To the west of Mordor is Cirith Ungol, a fortress that guards the pass that runs through the mountains between Mordor and Gondor. This tall and imposing structure is garrisoned by a rabble of Orcs and Mordor Uruk-hai, two factions that constantly bicker with each other over who truly commands the forces stationed within the tower. They are the first line of defence against whatever should come through the pass, whether that be Elves, Men, or something more sinister. Under the orders of the commanders of the tower, bands of Orcs and Uruk-hai are sent into the pass to patrol its borders in search of anyone brave (or foolish) enough to attempt to cross it, knowing full well that they risk being entwined in the clutches of Shelob, who lurks within its dank tunnels. It has been known for these bands to be set upon by lesser spiders, and sometimes they manage to fend off and ‘control’ them for long enough that they can utilise them against their enemies in times of need.
@@ -95,6 +97,8 @@ Mordor Orc with Orc bow – Orc Tracker
 | 2-3| Mordor Orc with choice of weaponry     |
 | 4-5| Mordor Uruk-hai with choice of weaponry|
 | 6  | Giant Spider                           |
+
+---
 
 ### MINAS MORGUL
 
@@ -136,6 +140,8 @@ Once a proud city of Gondor, Minas Morgul has long been under the Dark Lord’s 
 | 5-6| Dead Marsh Spectre (Rare 3)              |
 
 A Dead Marsh Spectre cannot gain Experience and therefore can never become a Hero.
+
+---
 
 ### ISENGARD
 
@@ -181,6 +187,8 @@ Uruk-hai Grog – Small (2) (Hero only) – 4 Influence Points
 
 - A Hero may elect to use their Uruk-hai Grog at the start of any game. If they do so, remove it from the Hero model’s profile. Every model within the Hero model’s Battle Company may re-roll a single D6 when making a Duel roll for the duration of that game.
 
+---
+
 ### WARG RIDERS
 
 The wolves of Isengard, known as Warg Riders, serve as the scouts of Saruman’s army, employed by the Wizard to ambush and harass his enemies. The sound of baying Wargs heralds their imminent arrival, and few witnesses live to tell the tale. Leaders of these packs are ambitious and cunning Orcs who view their role as a chance to improve their standing, gaining the best plunder and feeding their Wargs the freshest kills. These packs also include unridden Wargs, either too wild or not yet subdued by their Orc riders. Saruman’s Warg Riders roam across Middle-earth in search of fresh kills and valuable loot to aid the White Wizard in his quest for The One Ring.
@@ -214,6 +222,8 @@ Wild Warg – Warg Rider with choice of weapon
 
 The Hero model’s mount (or itself if the Hero is a Wild Warg) causes Terror.
 
+---
+
 ### DUNLAND
 
 When Saruman’s treachery was finally revealed, he called upon more than just Orcs and Uruk-hai to wage war upon the kingdom of Rohan. The Dunlending people hated the Rohirrim for centuries, and they required little persuasion to join the White Wizard’s cause to see to the destruction of those they have fought to supplant for many years. While most of the Dunlendings joined Saruman’s standing armies, some were gathered together and sent out to raid the settlements of Rohan in secret, causing panic before the main armies of Isengard would attack. These bands would often venture into the wider lands of Middle-earth in order to raid and pillage other settlements, gaining wealth and renown amongst their people as they slaughtered those in their path.
@@ -240,6 +250,8 @@ When Saruman’s treachery was finally revealed, he called upon more than just O
 **ARMY SPECIFIC HERO UPGRADE**
 
 **'Frenzied Fighter'** – Having been whipped into a maddened state by the words of the White Wizard, the Hero shrugs off all but the most grievous wounds in order to fight to the last. Roll a D6 each time the Hero suffers a Wound. On a 5+, the Wound is ignored.
+
+---
 
 ### SHARKEY’S ROGUES
 
@@ -270,6 +282,8 @@ After plotting and buying his way into control over the Shire, Sharkey assumed f
 **'Strength in Numbers'** – The hero is no more than a bully, and is in their element when fighting with the odds in their favour.
 
 If the Hero is involved in a Fight where there are more friendly models than enemy models, the Hero gains a bonus of +1 when rolling To Wound.
+
+---
 
 ### MORIA
 
@@ -319,6 +333,8 @@ Moria Goblin with Orc bow – Moria Goblin Prowler
 
 Every time this Hero suffers a Wound in combat that would result in it being slain, after Fate points have been spent, roll a D6. On a 2+, the Hero may select another friendly model within 1" of itself; that model suffers the Wound instead of the Hero. Models that suffer Wounds in this way may still use Fate points as normal.
 
+---
+
 ### GOBLIN-TOWN
 
 Whilst the Goblin-infested realm of Moria is splintered into countless factions all vying for their place at the top, the neighboring realm of Goblin-town suffers no such problems. For atop the throne of this blighted kingdom sits the bloated Goblin King, a vile and ruthless leader who towers over his Goblin subjects. The Goblins under their king’s rule are constantly sent out on hunting parties to cause destruction in the Goblin King’s name, or to quell any that plot to overthrow their blubbery overlord. Yet in more recent years, news of the price put upon the head of Thorin Oakenshield has seen these hunting parties put to a different use; hunting down the would-be Dwarf king and bringing him to his knees before The Goblin King.
@@ -347,6 +363,8 @@ Goblin Warrior – Goblin Mercenary
 **'Backstabber'** – When its victim is unable to escape, the Hero becomes even more deadly, viciously hacking at their foe until their life has ebbed away. 
 
 The Hero gains the 'Backstabbers' special rule.
+
+---
 
 ### ANGMAR
 
@@ -393,6 +411,8 @@ Angmar Orc with Orc bow – Orc Tracker
 
 During its Move phase, the Hero may target a single enemy model within 6". The target must then take a Courage test. If the test is passed, the target is unaffected. If the test is failed, the target may not move for the remainder of the turn.
 
+---
+
 ### GUNDABAD
 
 At the northernmost peaks of The Misty Mountains lies the fortress of Gundabad, the gateway to the fell kingdom of Angmar. Within its walls are harboured hosts of Gundabad Orcs, monsters and other vicious creatures, bred specifically for the purpose of waging war upon the enemies of the Dark Lord. Under the orders of Bolg, the Castellan of Mount Gundabad, small bands of Orcs and other foul creatures ventured forth from the fortress’ bowels in order to wreak havoc and destruction upon Middle-earth. These bands attacked outposts, raided settlements, and engaged travelling warbands in brutal melee, all in the name of the Dark Lord.
@@ -428,6 +448,8 @@ A War Bat cannot gain Experience and therefore cannot become a Hero.
 
 **'Devastating Strike'** – The hero composes themselves, raising their weapon high above their head in order to deliver a single bone-shattering blow. At the start of any Duel, before any dice are rolled, the Hero may choose to reduce their Attacks characteristic to 1. If they do so, they will gain an additional +1 to any To Wound rolls for the remainder of the Duel.
 
+---
+
 ### DOL GULDUR
 
 Within the southern reaches of the Greenwood, the old fortress of Dol Guldur was long thought to have been abandoned many years ago. As the years of the Third Age rolled on, a darkness fell upon its ruined walls. It was believed that a sorcerer now dwelt within its crumbling foundations, and that Evil emanated from it. In time, the woodsmen would no longer call the forest Greenwood. It would become known by a new name – Mirkwood. The truth was far worse than even the woodsmen could have imagined, for it was no mere sorcerer who dwelt within Dol Guldur, but the Dark Lord himself. Sauron had drawn all manner of Orcs and Wargs to his power, including the forces of Azog the Defiler. The Pale Orc still thirsted for the blood of Thorin Oakenshield, and news of the company’s travels had reached the Orc’s ears. With this new knowledge, Azog would send out warbands of Orcs and Wargs in search of the Dwarven travellers, their sole purpose to obtain the head of Thorin Oakenshield.
@@ -462,6 +484,8 @@ Fell Warg – Hunter Orc riding Fell Warg
 **ARMY SPECIFIC HERO UPGRADE**
 
 **Power of the Necromancer** – The hero has been infused with the dark sorcery of the Necromancer, prolonging its life beyond normal limits. Each time this Hero suffers a Wound, roll a D6. On a 5+, the Wound is ignored exactly as if a point of Fate had been spent.
+
+---
 
 ### DENIZENS OF MIRKWOOD
 
@@ -500,6 +524,8 @@ A Note on Broodlings: If you already have three Broodlings in your company, and 
 **Ravenous Charge (Warg only)** – Within its state of constant hunger, the Warg hurls itself at its prey with force enough to send it sprawling to the floor. The Hero gains the Extra Attack and Knock to the Ground bonuses as if it were a Cavalry model.
 
 **Bloated Creature (Spider only)** – Countless years spent feasting on the blood of its prey has made the frame of this creature swell beyond its natural size, causing all but the most precise blows to fall short of their mark. Whenever this Hero suffers a Wound, roll a D6. On a 5+, the Wound is ignored exactly as if a point of Fate had been spent.
+
+---
 
 ### HARAD
 
@@ -544,6 +570,8 @@ Serpent Guard – Serpent Rider
 **ARMY SPECIFIC HERO UPGRADE**
 
 **'Master of Poisons'** – The hero has mastered the study of the vile toxins of the Haradrim, and coats the blades of their weapons in the most potent of these. This Hero must re-roll all failed To Wound rolls.
+
+---
 
 ### KÂRNA
 
@@ -592,6 +620,8 @@ A Spectral Warrior has the same profile as a Warrior of the Dead. However, they 
 - Warrior of Kârna with spear – Watcher of Kârna with twin blades
 
 A Warrior of Kârna has a Shoot value of 3+, instead of 4+.
+
+---
 
 ### FAR HARAD
 
@@ -644,6 +674,8 @@ War Camel (6/10) – 3 Influence Points
 
 Blowpipe (1/5) – 1 Influence Point
 
+---
+
 ### CORSAIRS OF UMBAR
 
 Umbar is a ruthless city where treachery and corruption run rife within its shadowed streets. None that reside there better represent this than the Corsairs who man Umbar’s fleets. The captains of these ships are tyrannical and greedy Men, who will sail the coasts of Gondor and even further with the intent of pillaging the settlements upon the shores. The crew under these captains’ command will often share their lust for plunder, and need little convincing to set off upon the black-sailed ships in search of new settlements to raze to the ground. Once this band of malicious Men has raided a town, stealing whatever they can lay their hands on, they will splinter into smaller bands, each eager to unleash their own devious brand of destruction and murder upon the villages along the coast. The more fear these bands of Evil Men can instill in their enemies, the higher they will rise up the treacherous ranks of the Corsair fleets.
@@ -684,3 +716,67 @@ Umbar is a ruthless city where treachery and corruption run rife within its shad
 | 1-3| Corsair Reaver  |
 | 4-6| Corsair Arbalester |
 
+### THE EASTERLINGS
+
+It is said of the Easterlings that there is no mannish culture in Middle-earth so devoted to warfare, with every Easterling, male and female, learning to fight with spear and sword from their youth. Those who take their devotion to martial matters further will supplicate themselves at one of the many warrior shrines across the land, learning the art of bladecraft under the brutal tutelage of the Dragon Knights, in the hope of one day being raised to become one of their chosen 'Black Dragons'. To this end, aspirants will venture forth from their warrior shrine to test themselves, either against other shrines or, preferably, against the dwellers of other lands.
+
+A warband that succeeds in this task does not become rich in the conventional sense, for wealth is of no consequence to those who walk the blade-path. Indeed, any treasures plucked from the fallen are offered to their shrine as proof of their feats in battle. Victories inevitably draw more like-minded soldiers to their ranks, and while many warbands dwindle through defeat, the greatest will return back to their shrine triumphant, faces scarred from battle and their packs bulging with trophies taken from the vanquished.
+
+**STARTING BATTLECOMPANY**
+
+2x Easterling Warrior with shield
+
+2x Easterling Warrior with pike & shield
+
+2x Easterling Warrior with bow
+
+**ADVANCEMENTS**
+
+Easterling Warrior – Black Dragon with equivalent wargear
+
+Easterling Kataphrakt – Black Dragon with equivalent wargear
+
+**REINFORCEMENTS**
+
+| D6 | Result                                  |
+|----|-----------------------------------------|
+| 1  | Nothing                                 |
+| 2  | Easterling Warrior with shield          |
+| 3  | Easterling Warrior with pike & shield   |
+| 4  | Easterling Warrior with bow             |
+| 5  | Easterling Warrior with choice of weapon|
+| 6  | Easterling Kataphrakt                   |
+
+**ARMY SPECIFIC HERO UPGRADE**
+
+**'Skilled Duelist'** – An expert fighter, the Hero seeks out and issues a challenge to the leaders of the opposition, eager to prove themselves against the mightiest opponents in Middle-earth. When fighting an enemy Hero, this Hero may force their opponent to re-roll one of their dice in the Duel roll.
+
+### KHAND
+
+The people of Khand have long been allied with the Dark Lord of Mordor, their 'friendship' with the dark tower having proven extremely profitable over the many years. The Khandish warriors are mercenaries at heart, happy to fight for whomever will pay them the most. Their warriors have spent their lives fighting and raiding the outposts and settlements of the Free Peoples; with such ferocity that it has been deemed is worth paying for. The Khandish tribes are ruled over by chieftains and kings, warriors who command fear and renown through their endeavours in battle. But a budding chieftain cannot hope to rise to fame and fortune by remaining in their homeland. Instead, they must gather together their followers and ride out into Middle-earth to seek riches and fame before returning to Khand to challenge one of the current chieftains or kings.
+
+**STARTING BATTLECOMPANY**
+
+- 5x Khandish Warrior
+- 2x Khandish Warrior with bow
+
+**ARMY SPECIFIC HERO UPGRADE**
+
+**Master Skirmisher** – The horsemen of Khand are renowned for their skills as skirmishers, picking off the enemies from range or using their momentum to deliver a devastating axe-blow. If the Hero is mounted then they may still fire a bow even if they have moved over half their Move value this turn. Additionally, if the Hero is mounted, they do not suffer the -1 penalty for using a two-handed weapon in a turn in which they Charged.
+
+**UNIQUE WARGEAR**
+
+Khandish Chariot (25/35) (leader only) – 10 Influence Points
+
+**REINFORCEMENTS**
+
+| D6 | Result                             |
+|----|------------------------------------|
+| 1  | Nothing                            |
+| 2-3| Khandish Warrior                   |
+| 4-5| Khandish Warrior with bow          |
+| 6  | Khandish Horseman with choice of weapon |
+
+**ADVANCEMENTS**
+
+Khandish Warrior – Khandish Horseman with equivalent wargear

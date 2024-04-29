@@ -48,7 +48,7 @@ In this situation, the player with the Mûmak deploys their company within the H
 
 #### PLAYING TWO AGAINST ONE
 
-As a campaign goes on, you will often find that some Battle Companies*'* Ratings start to soar, whilst others seem to struggle to advance so far no matter how many Influence Points they gain from the Against the Odds bonus.
+As a campaign goes on, you will often find that some Battle Companies' Ratings start to soar, whilst others seem to struggle to advance so far no matter how many Influence Points they gain from the Against the Odds bonus.
 
 One way of counteracting this is to allow games where it is two against one, when the Battle Company Rating is roughly equal on both sides. For example, if two players with a Rating of 150 play against one player who has a rating of 300 that would, in theory, be a fair fight. This will provide the two lower Battle Companies a fair chance of knocking the other company down a peg or two, whilst providing them with a decent challenge along the way. If you do decide to do this, you should count the Ratings of both allied Battle Companies as one for the purposes of working out the Against the Odds bonus.
 

@@ -76,7 +76,7 @@ A model with this special rule may re-roll a single D6 when making a Duel roll. 
 
 This is an *[Elven-made]* *[hand-and-a-half]* [sword]. Additionally, Elrond gets a bonus of + 1 To Wound Spirit models when making strikes with Hadhafang.
 
-**- Vilya (ACTIVE)**
+- **Vilya (ACTIVE)**
 
 Elrond, Master of Rivendell may re-roll his dice when using Fate points.
 

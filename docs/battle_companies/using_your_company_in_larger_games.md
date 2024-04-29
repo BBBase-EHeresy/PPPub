@@ -8,7 +8,7 @@ You can also use your Battle Company in friendly Matched Play games with your fr
 
 When playing a Matched Play game using your Battle Company, there are a few additional things you should note as you play:
 
-- When deploying your Battle Company, treat the whole company as a single warband, with the company*'*s leader as the captain of the warband. Ignore the other rules and restrictions for building a warband when doing this.
+- When deploying your Battle Company, treat the whole company as a single warband, with the company's leader as the captain of the warband. Ignore the other rules and restrictions for building a warband when doing this.
 
 - Your Battle Company will count as being from the same army list as where their **Hero** and **Warrior** models are from for the purposes of Allies and whether the army will receive its Army Bonus. For example, a Minas Tirith Battle Company will count as being from the Minas Tirith army list, and a Kârna Battle Company will count as being from the Serpent Horde army list.
 
