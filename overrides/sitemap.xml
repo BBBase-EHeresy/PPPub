@@ -8,628 +8,728 @@
 
 
 <url>
-  <loc>https://bloodbowlbase.ru/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/.</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/.</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/cheat_sheet/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/quick_start/battlehost_quickstart_rules_guide/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/core_rules/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/matched_play/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/matched_play_guide/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/death_zone/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/dungeon_bowl/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/blitz_bowl/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/gutter_bowl/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/army_of_dale/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/scenarios/rules_manual/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/quick_start/isengard_battlehost_quickstart_guide/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/core_rules/blood_bowl_stadia/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/quick_start/minas_tirith_battlehost_quickstart_guide/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/core_rules/rules_and_regulations/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/quick_start/mordor_battlehost_quickstart_guide/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/core_rules/the_rules_of_blood_bowl/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/quick_start/rohan_battlehost_quickstart_guide/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/core_rules/post-game_sequence/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/the_rules/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/core_rules/skills_and_traits/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/turn_sequence/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/core_rules/inducements_in_detail/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/priority_phase/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/core_rules/league_and_exhibition_play/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/move_phase/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/core_rules/the_teams/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/shoot_phase/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/core_rules/faq_281123/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/fight_phase/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/matched_play/guide/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/courage/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/death_zone/new_inducements/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/cavalry/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/death_zone/fabulous_freebooters/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/heroes/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/death_zone/titanic_effort/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/monsters/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/death_zone/sponsorship/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/weapons_and_wargear/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/death_zone/blood_bowl_stadia/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/magical_powers/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/death_zone/a_load_of_balls/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/special_rules/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/death_zone/new_weather_tables/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/advanced_rules/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/death_zone/match_events/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/siege_engines/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/death_zone/blood_bowl_sevens/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/sieges/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/dungeon_bowl/the_game_of_dungeon_bowl/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/narrative_play/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/dungeon_bowl/rules_and_regulations/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/open_play/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/dungeon_bowl/set-up/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/rules_manual/matched_play/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/dungeon_bowl/the_rules_of_dungeon_bowl/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/matched_play_guide/recommended_tournament_style/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/dungeon_bowl/post-game_sequence/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/matched_play_guide/results_sheet/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/dungeon_bowl/skills_and_traits/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/matched_play_guide/scenario_pool_system/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/dungeon_bowl/inducements/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/matched_play_guide/doubles_events/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/dungeon_bowl/league_and_exhibition_play/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/matched_play_guide/campaign_events/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/dungeon_bowl/the_teams/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/matched_play_guide/additional_rules/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/blitz_bowl/components/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/mustering_your_warband/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/blitz_bowl/rules/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/wars_aftermath/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/blitz_bowl/teams/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/injuries/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/gutter_bowl/rules/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/experience/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/gutter_bowl/leagues/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/armoury/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Amazons/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/good_battle_companies/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Black_Orcs/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/evil_battle_companies/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Chaos_Chosen/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/scenarios/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Chaos_Dwarves/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/adventures_in_middle_earth/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Chaos_Renegades/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/narrative_campaign/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Dark_Elves/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/map_based_campaigns/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Dwarves/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/additional_rules/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Elven_Union/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/using_your_company_in_larger_games/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Goblins/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/battle_companies/battle_companies_roster/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Halflings/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/arnor/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/High_Elves/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/army_of_lake_town/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Humans/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/army_of_thror/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Imperial_Nobility/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/the_dead_of_dunharrow/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Khorne/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/erebor_reclaimed/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Lizardmen/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/fangorn/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Necromantic_Horror/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/the_fellowship/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Norses/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/the_fiefdoms/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Nurgle/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/garrison_of_dale/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Ogres/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/halls_of_thranduil/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Old_World_Alliance/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/the_iron_hills/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Orcs/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/the_kingdom_of_khazad_dum/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Shambling_Undeads/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/lothlorien/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Skavens/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/minas_tirith/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Snotlings/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/the_misty_mountains/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Tomb_Kings/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/numenor/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Underworld_Denizens/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/radagasts_alliance/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Vampires/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/the_rangers/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/teams/Wood_Elves/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/rivendell/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Akhorne_The_Squirrel/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/rohan/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Barik_Farblast/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/the_shire/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Bilerot_Vomitflesh/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/survivors_of_lake_town/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Boa_Kon%27ssstriktr/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/thorins_company/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Bomber_Dribblesnot/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/wanderers_in_the_wild/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Bryce_%27The_Slice%27_Cambuel/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/the_white_council/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/%27Captain%27_Karina_Von_Riesz/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_good/wildmen_of_druadan/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Cindy_Piewhistle/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/angmar/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Count_Luthor_von_Drakenborg/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/azogs_hunters/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Deeproot_Strongbranch/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/azogs_legion/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Dribl_and_Drull/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/barad_dur/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Eldril_Sidewinder/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/corsairs_of_umbar/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Estelle_la_Veneaux/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/dark_denizens_of_mirkwood/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Frank_%27n%27_Stein/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/dark_powers_of_dol_guldur/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Fungus_the_Loon/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/desolator_of_the_north/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Glart_Smashrip/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/the_easterlings/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Gloriel_Summerbloom/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/far_harad/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Glotl_Stop/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/goblin_town/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Grak_and_Crumbleberry/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/isengard/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Grashnak_Blackhoof/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/mordor/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Gretchen_W%C3%A4chter_%27The_Blood_Bowl_Widow%27/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/moria/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Griff_Oberwald/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/the_serpent_horde/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Grim_Ironjaw/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/sharkeys_rogues/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Grombrindal%2C_The_White_Dwarf/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/the_trolls/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Hakflem_Skuttlespike/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/forces_of_evil/variags_of_khand/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Helmut_Wulf/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/army_of_dunland/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Ivan_%27the_Animal%27_Deathshroud/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/the_army_of_gothmog/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Ivar_Eriksson/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/assault_on_lothlorien/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Karla_Von_Kill/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/assault_upon_helms_deep/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Kiroth_Krakeneye/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/azogs_hunters/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Kreek_Rustgouger/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/azogs_legion/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Lord_Borak/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/the_beornings/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Max_Spleenripper/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/the_black_gate_opens/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Mighty_Zug/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/the_black_riders/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Morg%27n_Thorg/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/breaking_of_the_fellowship/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Nobbla_Blackwart/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/the_chiefs_ruffians/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Puggy_Baconbreath/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/cirith_ungol/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Ripper_Blogrot/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/dark_denizens_of_mirkwood/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Roxanna_Darknail/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/dark_powers_of_dol_guldur/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Rumbelow_Sheepskin/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/defenders_of_erebor/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Scrappa_Sorehead/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/defenders_of_helms_deep/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Scyla_Anfingrimm/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/defenders_of_the_shire/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Skitter_Stab-stab/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/depths_of_moria/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Skrorg_Snowpelt/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/desolator_of_the_north/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Skrull_Halfheight/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/fell_beings_of_mirkwood/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/The_Black_Gobbo/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/the_grey_company/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/The_Swift_Twins/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/goblin_town/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Thorsson_Stouthead/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/grand_army_of_the_south/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Varag_Ghoul-Chewer/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/host_of_the_dragon_emperor/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Wilhelm_Chaney/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/lurtzs_scouts/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Willow_Rosebark/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/the_men_of_the_west/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Withergrasp_Doubledrool/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/paths_of_the_druadan/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloodbowlbase.ru/starplayers/Zolcath_the_Zoat/</loc>
-  <lastmod>2024-02-14T20:28:21+00:00</lastmod>
+  <loc>https://prancingponypub.ru/legendary_legions/pits_of_dol_guldur/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/legendary_legions/rangers_of_ithilien/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/legendary_legions/rangers_of_mirkwood/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/legendary_legions/the_return_of_the_king/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/legendary_legions/the_riders_of_theoden/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/legendary_legions/rise_of_the_necromancer/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/legendary_legions/the_trolls/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/legendary_legions/theodreds_guard/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/legendary_legions/ugluks_scouts/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/legendary_legions/the_vanquishers_of_the_necromancer/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/legendary_legions/wolves_of_isengard/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/scenarios/matched_play_guide/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/scenarios/armies_of_lord_of_the_rings/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/scenarios/armies_of_the_hobbit/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/scenarios/battle_companies/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/scenarios/gondor_at_war/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/scenarios/scouring_of_the_shire/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/scenarios/war_in_rohan/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/scenarios/quest_of_the_ringbearer/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/scenarios/fall_of_the_necromancer/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prancingponypub.ru/scenarios/defence_of_the_north/</loc>
+  <lastmod>2024-04-29T17:25:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
