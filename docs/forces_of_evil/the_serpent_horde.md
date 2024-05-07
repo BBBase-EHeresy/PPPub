@@ -420,7 +420,7 @@ A Watcher of Kama with twin blades increases their Attack characteristic to 2.
 
 - **Steely Nerve (ACTIVE)**
 
-Watchers of Kama receive a bonus of +2 to any Courage test they must u make for charging an enemy with the'lerror special rule. Additionally,,^ Watchers of Kama receive a bonus of +2 to their Courage when models with the Blades of the Dead special rule make Strikes against them.
+Watchers of Kama receive a bonus of +2 to any Courage test they must make for charging an enemy with the Terror special rule. Additionally, Watchers of Kama receive a bonus of +2 to their Courage when models with the Blades of the Dead special rule make Strikes against them.
 
 </div>
 

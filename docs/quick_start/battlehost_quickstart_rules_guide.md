@@ -510,7 +510,7 @@ The battlefield is sparse and ready for conflict. There is no terrain used in th
 
 **STARTING POSITIONS**
 
-The size of the playing area doesn't matter too much, but it should be large enough to allow players to deploy their forces at least 12" apart from each other. Both players roll a D6. The player who scored the highest chooses one half of the board and deploys their models within their chosen half with all their Warrior models deploying within 6^11^ of their Hero. The other player then deploys their models in their half of the board, but not within 12" of any opposing model, with all their Warrior models deploying within 6" of their Hero.
+The size of the playing area doesn't matter too much, but it should be large enough to allow players to deploy their forces at least 12" apart from each other. Both players roll a D6. The player who scored the highest chooses one half of the board and deploys their models within their chosen half with all their Warrior models deploying within 6" of their Hero. The other player then deploys their models in their half of the board, but not within 12" of any opposing model, with all their Warrior models deploying within 6" of their Hero.
 
 **INITIAL PRIORITY**
 

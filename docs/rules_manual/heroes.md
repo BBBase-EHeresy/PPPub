@@ -292,4 +292,4 @@ Whilst a **Hero** can use Fate to prevent any manner of Wound (whether caused by
 
 ![](../media/rules_manual/fate_2.jpg)
 
-*Kili has been shot by a Hunter Orc's arrow and suffered a Wound. Kili decides to spend a Fate point in an attempt to prevent the Wound and rolls a dice. On a 4+, the Wound is ignored.* []{#bookmark139 .anchor}*Unfortunately, Kili only scores a 3. Determined to avoid injury, the controlling player spends a Might point to turn the 3 into a 4 and prevent the Wound.*
+*Kili has been shot by a Hunter Orc's arrow and suffered a Wound. Kili decides to spend a Fate point in an attempt to prevent the Wound and rolls a dice. On a 4+, the Wound is ignored. Unfortunately, Kili only scores a 3. Determined to avoid injury, the controlling player spends a Might point to turn the 3 into a 4 and prevent the Wound.*
