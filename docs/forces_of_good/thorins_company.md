@@ -272,7 +272,7 @@ Whenever Bofur is targeted by a Magical Power or special rule, he may try to ign
 
 | Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5" | 4/3+ | 4 | 4 | 2 | 3 | 5 | 2 | 1 | ?1 |
+| 5" | 4/3+ | 4 | 4 | 2 | 3 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -449,7 +449,7 @@ Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendl
 
 | Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5" | 6/4+ | 4 | 7 | 3 | 2 | 7 | ? | ? | ? |
+| 5" | 6/4+ | 4 | 7 | 3 | 2 | 6 | 2 | 1 | 1 |
 
 **WARGEAR**
 

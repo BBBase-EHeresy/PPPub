@@ -93,7 +93,7 @@ When Bert wins a Fight, he may choose to perform a Roast 'em Slowly Brutal Power
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 6/5+ | 6 | 6 | 3 | 3 | 3 | ? | ? | ? |
+| 6" | 6/5+ | 6 | 6 | 3 | 3 | 3 | 1 | 3 | 1 |
 
 **WARGEAR**
 

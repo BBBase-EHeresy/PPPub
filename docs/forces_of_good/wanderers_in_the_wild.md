@@ -17,7 +17,7 @@ As the Wanderers in the Wild are not an army, and not even really a fighting for
 
 ---
 
-#### MURIN
+**MURIN**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -38,7 +38,7 @@ This is a [sword]. Additionally, Miirin receives a bonus of +1 To Wound when mak
 
 ---
 
-#### DRAR
+**DRAR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|

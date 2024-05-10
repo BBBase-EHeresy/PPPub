@@ -60,7 +60,7 @@ In the Shoot phase, if there is a friendly Goblin model in base contact with the
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 5" | 3/5+ | 4 | 2 | 2 | 3 | 4 | ? | ? | ? |
+| 5" | 3/5+ | 4 | 4 | 2 | 2 | 3 | 3 | 1 | 1 |
 
 **WARGEAR**
 

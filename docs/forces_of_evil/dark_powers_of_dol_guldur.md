@@ -211,7 +211,7 @@ An army may include up to two Slayers of Men. Additionally, a Slayer of Men neve
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 5/5+ | 5 | 6 | 2 | 2 | 5 | 3 | 3 | ? |
+| 6" | 5/5+ | 5 | 6 | 2 | 2 | 5 | 3 | 3 | 0 |
 
 **HEROIC ACTIONS**
 
