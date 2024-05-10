@@ -18,7 +18,7 @@ The Witch-king may also take the following options:
 
 * Crown of Morgul
 * Morgul Blade
-* Two-handed Flail
+* *[Two-handed]* Flail
 
 **SPECIAL RULES**
 
@@ -69,7 +69,7 @@ One of the following options:
 * Shield
 * Spear
 * Orc bow
-* Two-handed axe
+* *[Two-handed]* axe
 
 </div>
 

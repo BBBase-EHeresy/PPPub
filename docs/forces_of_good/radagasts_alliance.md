@@ -2,7 +2,7 @@
 
 This army may include: Radagast the Brown, Beorn, Gwaihir and Great Eagles.
 
-The profile for Gwaihir can be found on page 83. Gwaihir counts as a Hero of Valour if taken as part of a Radagast’s Alliance army list.
+The profile for Gwaihir can be found on page 83. Gwaihir counts as a Hero of Valour if taken as part of a Radagast's Alliance army list.
 
 The profile for Great Eagles can be found on page 83.
 
@@ -41,6 +41,7 @@ The profile for Great Eagles can be found on page 83.
 - **Great Eagle** – This is a mount. The Great Eagle profile is listed on page 83. Additionally, if Radagast dismounts, the Great Eagle automatically passes its Courage test to stay and fight.
 
 ---
+
 **SLEIGH**
 
 This is a mount with the following profile and the [Woodland Creature] special rule.
@@ -75,7 +76,7 @@ Whilst he has the Infantry keyword, Radagast may move through areas of difficult
 | Terrifying Aura | - | 2+ |
 | Immobilise  | 12" | 3+ |
 | Renew   | 12" | 3+ |
-| Nature’s Wrath | 6" | 4+ |
+| Nature's Wrath | 6" | 4+ |
 | Aura of Dismay | - | 5+ |
 
 </div>
@@ -109,7 +110,7 @@ Whilst he has the Infantry keyword, Radagast may move through areas of difficult
 - [Woodland Creature]
 - **Skin-changer (ACTIVE)**
 
-To change Beorn’s form, the controlling player may roll a D6 at the start of Beorn’s Move. On the roll of a 4+ (Might may be used to modify this roll), Beorn changes shape from a man into a bear (or vice-versa). Replace the Beorn model with the Beorn the Bear model (or vice-versa). Beorn can then continue with his move as normal, including making Charges. Beorn cannot change form if there is an enemy model in base contact with him.
+To change Beorn's form, the controlling player may roll a D6 at the start of Beorn's Move. On the roll of a 4+ (Might may be used to modify this roll), Beorn changes shape from a man into a bear (or vice-versa). Replace the Beorn model with the Beorn the Bear model (or vice-versa). Beorn can then continue with his move as normal, including making Charges. Beorn cannot change form if there is an enemy model in base contact with him.
 
 ---
 
@@ -137,9 +138,9 @@ Beorn the Bear must always Charge an enemy if he is able to. Additionally, Beorn
 
 - **Skin-changer (ACTIVE)**
 
-To change Beorn’s form, the Good player may roll a D6 at the start of Beorn’s Move. On the roll of a 4+ (Might may be used to modify this roll), Beorn changes shape from a man into a bear (or vice-versa). Replace the Beorn model with the Beorn the Bear model (or vice-versa). Beorn can then continue with his move as normal, including making Charges. Beorn cannot change form if there is an enemy model in base contact with him.
+To change Beorn's form, the Good player may roll a D6 at the start of Beorn's Move. On the roll of a 4+ (Might may be used to modify this roll), Beorn changes shape from a man into a bear (or vice-versa). Replace the Beorn model with the Beorn the Bear model (or vice-versa). Beorn can then continue with his move as normal, including making Charges. Beorn cannot change form if there is an enemy model in base contact with him.
 
-*Beorn is a very unusual character, in that he can shift between being a man and a bear. When he alters form, replace him with the appropriate model. Also, when he changes, he adopts the appropriate profile and characteristics. Beorn’s Might, Will, Fate and Wounds remain unchanged when he changes form.*
+*Beorn is a very unusual character, in that he can shift between being a man and a bear. When he alters form, replace him with the appropriate model. Also, when he changes, he adopts the appropriate profile and characteristics. Beorn's Might, Will, Fate and Wounds remain unchanged when he changes form.*
 
 ---
 

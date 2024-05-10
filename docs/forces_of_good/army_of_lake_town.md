@@ -10,7 +10,7 @@ The profile for Sigrid & Tilda can be found on page 50. Sigrid & Tilda count as 
 
 ## ARMY BONUS
 
-**The Master's Purse-strings** – The Master of Lake-town’s Moneybags special rule has a range of 12" rather than 6".
+**The Master's Purse-strings** – The Master of Lake-town's Moneybags special rule has a range of 12" rather than 6".
 
 
 ## HEROES OF THE ARMY OF LAKE-TOWN
@@ -63,7 +63,7 @@ At the start of the game, your opponent may select one of their Hero models to b
 
 - **Dubious Counsel (ACTIVE)**
 
-Alfrid can choose to expend any number of Will points at the start of the Priority phase, before any dice are rolled. For each point of Will he expends, nominate a single friendly Lake-town Hero model within 6" and roll a D6. For each roll of a 2+, the nominated Lake-town Hero gains a point of Might. On the roll of a 1, however, the nominated Lake-town Hero instead loses a point of Might and Alfrid gains a point of Might. Might gained in this way can take the chosen Lake-town Hero model’s store of Might points beyond its initial level.
+Alfrid can choose to expend any number of Will points at the start of the Priority phase, before any dice are rolled. For each point of Will he expends, nominate a single friendly Lake-town Hero model within 6" and roll a D6. For each roll of a 2+, the nominated Lake-town Hero gains a point of Might. On the roll of a 1, however, the nominated Lake-town Hero instead loses a point of Might and Alfrid gains a point of Might. Might gained in this way can take the chosen Lake-town Hero model's store of Might points beyond its initial level.
 
 </div>
 
@@ -92,7 +92,7 @@ Alfrid can choose to expend any number of Will points at the start of the Priori
 
 - **The Master's Puppet (ACTIVE)**
 
-As long as the Master of Lake-town has Will points remaining, if Braga declares a Heroic Action within 6" of the Master of Lake-town, roll a D6. On a 4+, the Heroic Action is 'free’ and no points of Might are spent.
+As long as the Master of Lake-town has Will points remaining, if Braga declares a Heroic Action within 6" of the Master of Lake-town, roll a D6. On a 4+, the Heroic Action is 'free' and no points of Might are spent.
 
 - **Air of Self-importance (PASSIVE)**
 

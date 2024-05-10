@@ -42,8 +42,8 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
+- [Armoured Fell Beast]: 70 points
+- [Fell Beast]: 50 points
 - [Armoured horse]: 15 points
 - [Horse]: 10 points
 
@@ -93,8 +93,8 @@ Additionally, Khamul may expend a single point of Will at the start of the Fight
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
+- [Armoured Fell Beast]: 70 points
+- [Fell Beast]: 50 points
 - [Armoured horse]: 15 points
 - [Horse]: 10 points
 
@@ -142,8 +142,8 @@ At the start of the Fight phase, before Heroic Actions are declared, The Dark Ma
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
+- [Armoured Fell Beast]: 70 points
+- [Fell Beast]: 50 points
 - [Horse]: 10 points
 
 **SPECIAL RULES**
@@ -191,8 +191,8 @@ At the start of the Move phase, before Heroic Actions are declared, The Shadow L
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
+- [Armoured Fell Beast]: 70 points
+- [Fell Beast]: 50 points
 - [Horse]: 10 points
 
 **SPECIAL RULES**
@@ -247,8 +247,8 @@ The Knight of Umbar only loses a point of Will for having been in a Fight if he 
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
+- [Armoured Fell Beast]: 70 points
+- [Fell Beast]: 50 points
 - [Horse]: 10 points
 
 **SPECIAL RULES**
@@ -295,8 +295,8 @@ At the start of any Fight phase, before Heroic Actions are declared, The Knight 
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
+- [Armoured Fell Beast]: 70 points
+- [Fell Beast]: 50 points
 - [Horse]: 10 points
 
 **SPECIAL RULES**
@@ -779,6 +779,32 @@ Models within the Great Beasts' Howdah do not count towards your force's Bow Lim
 | Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
 | 3" | 5/5+ | 6 | 6 | 2 | 3 | 3 |
+
+**WARGEAR**
+
+- Teeth and claws
+
+**SPECIAL RULES**
+
+- [Fly]
+- [Monstrous Charge]
+- [Terror]
+- **Feral (PASSIVE)**
+
+If the Ringwraith riding a Fell Beast is slain or dismounts, the creature automatically fails its Courage test and flees the battlefield.
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### ARMOURED FELL BEAST
+*MONSTER, CAVALRY*
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:-:|:--:|:-:|:-:|:-:|
+| 3" | 5/5+ | 6 | 7 | 2 | 3 | 3 |
 
 **WARGEAR**
 

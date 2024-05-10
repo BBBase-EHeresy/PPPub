@@ -93,17 +93,13 @@ Sauron makes a single Strike against a single Infantry or Cavalry model Engaged 
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
+- [Armoured Fell Beast]: 70 points
+- [Fell Beast]: 50 points
 - Crown of Morgul: 25 points
 - [Armoured horse]: 15 points
 - [Horse]: 10 points
 - Morgul Blade: 10 points
-- Two-handed flail: 5 points
-
-- **Armoured Fell Beast**
-
-This is a [Fell Beast] with a Defence of 7 rather than 6.
+- *[Two-handed]* [flail]: 5 points
 
 - **Crown of Morgul (PASSIVE)**
 
@@ -160,7 +156,7 @@ When buying the Witch-king for your force, decide how many points of Might/Will/
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
+- [Armoured Fell Beast]: 70 points
 - [Fell Beast]: 50 points
 - [Horse]: 10 points
 
@@ -458,7 +454,7 @@ Each time a friendly Hero model within 6" of the Taskmaster from the same army l
 - [Banner]: 25 points
 - [Orc bow][Bow]: 1 point
 - [Shield]: 1 point
-- [Throwing spears][Throwing weapon]: 1 point
+- [Throwing spears][Throwing Weapon][Throwing weapon]: 1 point
 
 </div>
 

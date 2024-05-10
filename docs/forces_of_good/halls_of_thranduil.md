@@ -4,7 +4,7 @@ This army may include: Thranduil, King of the Woodland Realm; Legolas Greenleaf,
 
 ## ARMY BONUS
 
-"The Elves of Mirkwood are not like their kin. They are less wise, and more dangerous" — Mirkwood Rangers from this force do not count towards the army’s Bow Limit. Additionally, whilst they are within 3" of Thranduil, all Palace Guard Captains, Mirkwood Elf Captains, Palace Guard, Mirkwood Cavalry and Mirkwood Elves will also gain +1 to their To Wound rolls when making Strikes.
+"The Elves of Mirkwood are not like their kin. They are less wise, and more dangerous" — Mirkwood Rangers from this force do not count towards the army's Bow Limit. Additionally, whilst they are within 3" of Thranduil, all Palace Guard Captains, Mirkwood Elf Captains, Palace Guard, Mirkwood Cavalry and Mirkwood Elves will also gain +1 to their To Wound rolls when making Strikes.
 
 ## HEROES OF THE HALLS OF THRANDUIL
 
@@ -50,13 +50,13 @@ When equipped with an additional *[Elven-made]* [sword], Thranduil, King of the 
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 10" | 4/5+ | 4 | 5 | 0 | 2 | 4 |
 
-If Thranduil Charges into combat whilst riding his Elk, Thranduil’s Strikes are resolved at Strength 5.
+If Thranduil Charges into combat whilst riding his Elk, Thranduil's Strikes are resolved at Strength 5.
 
 ---
 
 - **Circlet of Kings (ACTIVE)**
 
-This crown allows Thranduil, King of the Mirkwood Realm to cast the Magical Powers Aura of Dismay and Nature’s Wrath once each per game. The spell is automatically cast, counting the result as a 6, and no Will points need be expended.
+This crown allows Thranduil, King of the Mirkwood Realm to cast the Magical Powers Aura of Dismay and Nature's Wrath once each per game. The spell is automatically cast, counting the result as a 6, and no Will points need be expended.
 
 **SPECIAL RULES**
 
@@ -141,7 +141,7 @@ Tauriel receives an additional Attack for each enemy model she is Engaged with a
 
 - **Vengeful Fury (PASSIVE)**
 
-If Kíli the Dwarf, Champion of Erebor is in your army, and is killed, Tauriel’s Strength is immediately increased to 5 and her Defence is reduced to 4 for the remainder of the battle.
+If Kíli the Dwarf, Champion of Erebor is in your army, and is killed, Tauriel's Strength is immediately increased to 5 and her Defence is reduced to 4 for the remainder of the battle.
 
 </div>
 
@@ -169,7 +169,7 @@ If Kíli the Dwarf, Champion of Erebor is in your army, and is killed, Tauriel�
 
 - [Bodyguard]
 - [Woodland Creature]
-- **King’s Guard (PASSIVE)**
+- **King's Guard (PASSIVE)**
 
 Whilst within 3" of Thranduil, King of the Woodland Realm, this model receives a bonus of +1 to their Fight value.
 
@@ -258,7 +258,7 @@ Mirkwood Rangers receive an additional Attack for each enemy model they are Enga
 
 - [Bodyguard]
 - [Woodland Creature]
-- **King’s Guard (PASSIVE)**
+- **King's Guard (PASSIVE)**
 
 Whilst within 3" of Thranduil, King of the Woodland Realm, Palace Guard receive a bonus of +1 to their Fight value.
 
@@ -317,7 +317,7 @@ Whilst within 3" of Thranduil, King of the Woodland Realm, Palace Guard receive 
 
 - [Expert Rider]
 - [Woodland Creature]
-- **King’s Knights (PASSIVE)**
+- **King's Knights (PASSIVE)**
 
 Whilst mounted, Mirkwood Cavalry models count as being in range of a banner if they are within 6" of Thranduil, King of the Woodland Realm.
 

@@ -81,7 +81,7 @@ Theoden's [Stand Fast!] is 12" rather than 6".
 
 - [Horse]: 10 points
 - [Shield]: 5 points
-- [Throwing spears]: 5 points
+- [Throwing spears][Throwing Weapon]: 5 points
 
 **SPECIAL RULES**
 
@@ -119,7 +119,7 @@ Theodred must Charge an enemy model if he is able to do so. Additionally, on a t
 - [Armoured horse]: 15 points
 - [Horse]: 10 points
 - [Shield]: 5 points
-- [Throwing spears]: 5 points
+- [Throwing spears][Throwing Weapon]: 5 points
 
 **SPECIAL RULES**
 
@@ -157,7 +157,7 @@ If Theoden or Eowyn are in the same force as Eomer, and either (or both) are sla
 - [Horse]: 10 points
 - [Armour]: 5 points
 - [Shield]: 5 points
-- [Throwing spears]: 5 points
+- [Throwing spears][Throwing Weapon]: 5 points
 
 **SPECIAL RULES**
 
@@ -363,7 +363,7 @@ Also, if your army includes Eorl, then every alliance will be Impossible Allies.
 - [Heavy armour]
 - [Sword]
 - [Shield]
-- [Throwing spears]
+- [Throwing spears][Throwing Weapon]
 - Felarof
 - **Felarof**
 
@@ -441,7 +441,7 @@ King's Huntsmen only fail In The Way rolls on the roll of a 1. Additionally, eac
 - [Bow]: 5 points
 - [Heavy armour]: 5 points
 - [Shield]: 5 points
-- [Throwing spears]: 5 points
+- [Throwing spears][Throwing Weapon]: 5 points
 
 **SPECIAL RULES**
 
@@ -476,7 +476,7 @@ Charge.
 
 - [War horn]: 30 points
 - [Banner]: 25 points
-- [Throwing spears]: 2 points
+- [Throwing spears][Throwing Weapon]: 2 points
 - [Bow]: 1 point
 - [Shield]: 1 point
 
@@ -505,7 +505,7 @@ Charge.
 
 - [War horn]: 30 points
 - [Banner]: 25 points
-- [Throwing spears]: 2 points
+- [Throwing spears][Throwing Weapon]: 2 points
 
 **SPECIAL RULES**
 
@@ -537,7 +537,7 @@ Charge.
 **OPTIONS**
 
 - [Horse]: 5 points
-- [Throwing spears]: 2 points
+- [Throwing spears][Throwing Weapon]: 2 points
 - [Banner]: 25 points
 
 **SPECIAL RULES**

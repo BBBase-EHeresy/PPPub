@@ -36,7 +36,7 @@ This army may include: Girion, Lord of Dale; Captains of Dale; Warriors of Dale.
 
 - **Windlance Trained (ACTIVE)**
 
-Girion, Lord of Dale’s, Windlance follows all the rules for Bard the Bowman’s Windlance – see page 49.
+Girion, Lord of Dale's, Windlance follows all the rules for Bard the Bowman's Windlance – see page 49.
 
 - **Rapid Fire (ACTIVE)**
 

@@ -89,11 +89,17 @@ Heroic Channelling is a Heroic Action (see page 68). When a **Hero** uses this H
 
 ## MAGICAL POWERS LIST
 
-### AURA OF DISMAY
+### AURA OF COMMAND
 
 **DURATION: EXHAUSTION**
 
-*Weaving a web of deceit, or some other darker power, the caster conjures the image of what their enemies most fear.*
+This power targets the caster themselves. While this power is in effect, the caster and all friendly models within 6" automatically pass any Courage tests they are required to make.
+
+**Channelled** – The range of this power is increased to 12".
+
+### AURA OF DISMAY
+
+**DURATION: EXHAUSTION**
 
 This power targets the caster themself. While this power is in effect, the caster and all friendly models within 6" cause Terror.
 
@@ -103,8 +109,6 @@ This power targets the caster themself. While this power is in effect, the caste
 
 **DURATION: INSTANT**
 
-*By unleashing a blast of pure and brilliant light, the caster is able to drive off spirits and creatures of the undead.*
-
 This power targets one enemy model within range. This power only affects Spirit models. The target model automatically suffers 1 Wound, exactly as if it had been wounded in combat. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount suffers the effects.
 
 **Channelled** — The target suffers D3 Wounds rather than 1.
@@ -112,8 +116,6 @@ This power targets one enemy model within range. This power only affects Spirit 
 ### BLACK DART
 
 **DURATION: INSTANT**
-
-*A mysterious power that thrusts itself into the flesh of its targets, only the Dark Lord's most deadly of servants possess this means of murder from afar.*
 
 This power targets one enemy model within range. The target immediately suffers one Strength 9 hit. Do not roll To Hit or for In The Way tests. If the target is a **Cavalry** model then the Attacker must choose whether the rider or the mount is hit. This power can still be used on a target that is Engaged in combat.
 
@@ -123,8 +125,6 @@ This power targets one enemy model within range. The target immediately suffers 
 
 **DURATION: TEMPORARY**
 
-*The caster's chanting causes the blades of their allies to glow dark red with a molten power.*
-
 This power targets one friendly model within range. In the Fight phase, all Strikes made by the target model are resolved at Strength 6, regardless of other modifiers.
 
 **Channelled** — All Strikes are instead resolved at Strength 10.
@@ -132,8 +132,6 @@ This power targets one friendly model within range. In the Fight phase, all Stri
 ### BLESSING OF THE VALAR
 
 **DURATION: INSTANT**
-
-*The words spoken by the caster are imbued with power, those who hear them find their hope renewed; arrows seem to miss and what would have been fatal blows become no more than a close call.*
 
 This power targets one friendly model within range. They immediately recover a Fate point spent earlier in the battle. This may not take a model's Fate beyond its starting level. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount recovers the Fate point.
 
@@ -143,8 +141,6 @@ This power targets one friendly model within range. They immediately recover a F
 
 **DURATION: TEMPORARY**
 
-*Conjuring a brilliant white light, the caster illuminates the area around them, allowing the caster's allies to see as clear as day and dazzling their enemies with the sudden brightness.*
-
 This power targets the caster themselves. While this power is in effect, any shooting attacks directed at the caster, or a friendly model within 6" of them, will only hit on a To Hit roll of a 6. Additionally, an area within a 12" radius around the caster is illuminated as if it were daylight (perfect when you are fighting underground!).
 
 **Channelled** — The duration becomes Exhaustion.
@@ -152,8 +148,6 @@ This power targets the caster themselves. While this power is in effect, any sho
 ### CALL WINDS
 
 **DURATION: INSTANT**
-
-*Summoning the winds of nature, the caster forces their foes away from their allies with a strong gale that is capable of knocking enemies to the ground.*
 
 This power targets one enemy model within range. The target is blown D6" directly away from the caster in a straight line. If the model comes into contact with another model or terrain such as an Obstacle like a hedge, house or large rock, then it will stop 1" away from it. In either case the target model is knocked Prone. If the target is in combat, the effect is the same as described above, but every other model in the combat is also knocked Prone.
 
@@ -163,8 +157,6 @@ This power targets one enemy model within range. The target is blown D6" directl
 
 **DURATION: INSTANT**
 
-*A vile magical power that targets its victim's very life essence, Chill Soul ignores physical defences, sparing only those that have enough willpower to resist its dark magic.*
-
 This power targets one enemy model within range. The target model suffers a Wound, exactly as if it had been wounded in combat. If cast on a **Cavalry** model, the Attacker decides whether the rider or the mount suffers the Wound. This power may be cast on a model Engaged in close combat.
 
 **Channelled** — The range of this Magical Power is increased by 6".
@@ -172,8 +164,6 @@ This power targets one enemy model within range. The target model suffers a Woun
 ### COLLAPSE ROCKS
 
 **DURATION: INSTANT**
-
-*The caster harnesses their magical power unleashing a deafening blast that sunders rock and stone, causing blocks and boulders to tumble onto the heads of their foe.*
 
 This power targets one enemy model within range. This power may only be cast on a model that is within a ruin, stone or brick building, cave, rock pile or another similar piece of terrain where a Wizard could crack rocks either underfoot or overhead. The target suffers one Strength 5 hit.
 
@@ -183,8 +173,6 @@ This power targets one enemy model within range. This power may only be cast on 
 
 **DURATION: TEMPORARY**
 
-*The caster is able to infiltrate the mind of their target, rendering them powerless against the caster's commands. Often those who fall prey to this power will lose control of not just their mind, but their body as well.*
-
 This power targets one enemy model within range. The caster may move the target model up to half of its maximum Move distance. They can do this even if the model has already moved this turn. The move cannot force the target to jump, leap, climb, dismount or lie down, but can take them into difficult terrain, and even make them Charge an enemy. No Courage test is required to Charge Terror-causing foes. It can even force an unengaged victim to drop an object (but not wargear) that it is holding or to put on The One Ring (if they carry it). Once the target has finished the move, it may move no further that turn for any reason. Finally, the target suffers the effect of the Immobilise/Transfix magical power.
 
 **Channelled** — Additionally, while this power is in effect, the target will halve their Fight and Attacks characteristics (rounding up), and may not Strike if they win a Duel.
@@ -192,8 +180,6 @@ This power targets one enemy model within range. The caster may move the target 
 ### CURSE
 
 **DURATION: INSTANT**
-
-*Some in Middle-earth seem destined for greatness or glory, protected by fate, or some other power. The most potent of curses, however, are capable of stripping away that protection, leaving their targets vulnerable to the blades and bows of their foes.*
 
 This power targets one enemy model within range. The target model immediately loses 1 Fate point. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount loses the Fate point.
 
@@ -203,8 +189,6 @@ This power targets one enemy model within range. The target model immediately lo
 
 **DURATION: INSTANT**
 
-*Even the bravest of heroes cannot hold their nerve forever, especially when the dark powers of their enemies are gnawing at their resolve, gradually draining their valour away.*
-
 This power targets one enemy model within range. The target immediately reduces their Courage characteristic by 1 for the remainder of the battle, to a minimum of 1. This power can take effect multiple times over the course of a battle, reducing the target's Courage each time. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount reduces their Courage value.
 
 **Channelled** — The target's Courage is instead reduced by D3.
@@ -212,8 +196,6 @@ This power targets one enemy model within range. The target immediately reduces 
 ### ENCHANTED BLADES
 
 **DURATION: TEMPORARY**
-
-*The caster is able to imbue the blades of their allies with powerful and ancient magic, making their weapons more likely to find a chink in their enemy's armour.*
 
 This power targets one friendly model within range. In the Fight phase, the target may re-roll all failed To Wound rolls.
 
@@ -223,8 +205,6 @@ This power targets one friendly model within range. In the Fight phase, the targ
 
 **DURATION: TEMPORARY**
 
-*Having spent long periods of time in the wilderness, the caster is able to whip the beasts of the wild into a frenzy and imbue them with a thirst for blood. Such fury is not without its drawbacks — many of these beasts will collapse with exhaustion moments later.*
-
 This power targets one friendly model within range. This power can be used against a single Bat, (unridden) Warg or Spider model within range. If successful, the target's Fight, Attacks, Strength and Courage are increased by 2 until the End phase. During the End phase, the target suffers one Strength 10 hit.
 
 **Channelled** — The target's Fight, Attacks, Strength and Courage are instead increased by 3.
@@ -232,8 +212,6 @@ This power targets one friendly model within range. This power can be used again
 ### FLAMEBURST
 
 **DURATION: INSTANT**
-
-*The caster summons forth a jet of searing flame, which jumps from their outstretched palm in an attempt to burn and slay their foe.*
 
 This power targets one enemy model within range. The target immediately suffers one Strength 6 hit.
 
@@ -243,8 +221,6 @@ This power targets one enemy model within range. The target immediately suffers 
 
 **DURATION: EXHAUSTION**
 
-*This magical power shields the caster's allies against the dark magics of their enemies, renewing hope and rekindling spirits against the malign forces that seek to bring despair.*
-
 This power may target one friendly model within range. While this power is in effect, the target rolls two extra dice when making Resist tests. These extra dice do not reduce the target's store of Will and can even be rolled if the target has no Will points remaining or chooses not to expend any Will.
 
 **Channelled** — The target also adds 1 to their highest dice score when resisting magic.
@@ -252,8 +228,6 @@ This power may target one friendly model within range. While this power is in ef
 ### FURY (X)
 
 **DURATION: EXHAUSTION**
-
-*Chanting strange incantations to invoke a crude form of magic, the caster incites those around them into a reckless and fearless mob of warriors who believe themselves impervious to pain.*
 
 Every model with this Magical Power will have a bracket after Fury denoting the models that will be affected by the power (e.g., Fury (Goblin)). This power targets all friendly models within 6" that are included in the bracket. Whilst this power is in effect, all targets will automatically pass any Courage tests they are required to make. In the case of **Cavalry** models, a degree of common sense is required when applying this effect.
 
@@ -263,8 +237,6 @@ Every model with this Magical Power will have a bracket after Fury denoting the 
 
 **DURATION: TEMPORARY**
 
-*The victim's limbs become as heavy as lead, leaving them rooted to the ground. Defending themselves becomes more difficult, leaving them susceptible to attack or unable to keep up with their allies.*
-
 This power targets one enemy model within range. While this power is in effect, the target model may not move (except to Back Away should they lose a Fight), shoot, cast Magical Powers, declare Heroic Actions, call a Stand Fast! or use Active abilities and may not Strike if they win a Duel.
 
 **Channelled** — Additionally, while this power is in effect, the target will halve their Fight and Attacks characteristics (rounding up).
@@ -272,8 +244,6 @@ This power targets one enemy model within range. While this power is in effect, 
 ### INSTILL FEAR
 
 **DURATION: INSTANT**
-
-*Whether they conjure an image that terrifies their foes or unleash an unnatural and bloodcurdling screech, the caster causes such fear that nearby foes will flee in terror.*
 
 This power targets all enemy models within range. Each affected model must take a Courage test, in an order chosen by the caster; if the test is failed then the model must move its maximum Move distance directly away from the caster. If a model comes into base contact with the edge of the board, they will immediately stop moving.
 
@@ -283,8 +253,6 @@ This power targets all enemy models within range. Each affected model must take 
 
 **DURATION: INSTANT**
 
-*Unleashing the awesome power of nature, the caster causes the ground to shake, gales to blow and rivers to surge — knocking their foes to the ground with tremendous force.*
-
 This power targets all enemy models within range. All enemy models within 6" of the caster are knocked Prone. **Cavalry** models are automatically treated as having suffered a Knocked Flying result on the Thrown Rider table — both rider and mount are then knocked Prone.
 
 **Channelled** — All enemy models suffer one Strength 2 hit after being knocked Prone.
@@ -292,8 +260,6 @@ This power targets all enemy models within range. All enemy models within 6" of 
 ### PANIC STEED
 
 **DURATION: INSTANT**
-
-*The mind of a simple beast is much easier to infiltrate than overcoming the willpower of a warrior. The caster can create a strong sense of fear within a mount, causing it to buck its rider and bolt from the field of battle.*
 
 This power targets one enemy model within range. This power may only target **Cavalry** models. The rider is immediately thrown and the mount instantly flees. Remove the mount from play and roll on the Thrown Rider table to determine the effect on the rider.
 
@@ -303,8 +269,6 @@ This power targets one enemy model within range. This power may only target **Ca
 
 **DURATION: INSTANT**
 
-*Drawing upon their dark powers, the caster inflicts this wicked spell upon their foe, rendering their victim utterly helpless. In their paralysed and vulnerable state, those that find themselves under this power often find themselves at the mercy of their enemies.*
-
 This power targets one enemy model within range. The target is immediately paralysed. It is knocked Prone and may do nothing until it recovers, including using Active special rules. The target may make no Duel rolls and will automatically lose any Duels it takes part in unless joined by a friendly model.
 
 **Channelled** — At the end of each turn that the target remains Paralysed, they suffer one Strength 5 hit.
@@ -312,8 +276,6 @@ This power targets one enemy model within range. The target is immediately paral
 ### PROTECTION OF THE VALAR
 
 **DURATION: TEMPORARY**
-
-*Drawing on their own reserves of inner strength, the caster surrounds themselves in a glowing nimbus of pure energy, providing a shield of light that protects against dark powers and thwarting the will of Evil.*
 
 This power may target the caster or a single friendly model within 3". The target may not be targeted by an enemy's Magical Powers or special rules.
 
@@ -323,8 +285,6 @@ This power may target the caster or a single friendly model within 3". The targe
 
 **DURATION: INSTANT**
 
-*With a merry song, as pure as a tinkling bell, wounds of the body and the weariness of the mind are forgotten, and hurt and sorrow are washed away as if by cool, clear water.*
-
 This power targets one friendly model within range. The target immediately recovers a single lost Wound, as well as a single lost Might, Will and Fate point spent earlier in the battle. The target also immediately recovers from the effects of any Magical Power they wish.
 
 **Channelled** — The target instead recovers all lost Wounds rather than just one, in addition to all other effects.
@@ -332,8 +292,6 @@ This power targets one friendly model within range. The target immediately recov
 ### RENEW
 
 **DURATION: INSTANT**
-
-*Wounds heal quickly, and bones fuse back together as weary and tired warriors suddenly find themselves ready to jump back into the thick of battle.*
 
 This power targets a single friendly model within range. The target immediately regains a single Wound lost earlier in the battle. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount regains the Wound.
 
@@ -343,8 +301,6 @@ This power targets a single friendly model within range. The target immediately 
 
 **DURATION: INSTANT**
 
-*This is an attack directly upon the willpower of the victim, overpowering them and leaving them helpless against the magical barrage that will undoubtedly follow.*
-
 This power targets one enemy model within range. The target immediately loses D3 Will points. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount loses the Will.
 
 **Channelled** — The target loses D6 Will points.
@@ -352,8 +308,6 @@ This power targets one enemy model within range. The target immediately loses D3
 ### SHATTER
 
 **DURATION: INSTANT**
-
-*The caster mutters terrible words of power and, as they do so, the equipment carried by their foes shatters or crumbles apart, leaving them unarmed.*
 
 This power targets one enemy model within range. Pick a single piece of wargear on the target model. The selected item is immediately destroyed and cannot be used for the remainder of the game. All special rules associated with the selected item are lost.
 
@@ -363,8 +317,6 @@ This power targets one enemy model within range. Pick a single piece of wargear 
 
 **DURATION: TEMPORARY**
 
-*The caster calls down dark shadows to conceal their allies from the eyes of their enemies.*
-
 This power targets a friendly model within range. The target is considered to be invisible until the End phase. They cannot be targeted by enemy models' Magical Powers, special rules or shooting attacks.
 
 **Channelled** — Additionally, during the Fight phase, any enemy model Engaged in combat with the target halves its Fight value for the duration of the Duel.
@@ -372,8 +324,6 @@ This power targets a friendly model within range. The target is considered to be
 ### SORCEROUS BLAST
 
 **DURATION: INSTANT**
-
-*The caster hurls their target aside with an unseen force, sending them, and those unlucky enough to be nearby, sprawling to the ground.*
 
 This power targets one enemy model within range. The target is blasted D6" directly away from the caster and knocked Prone. If the target comes into contact with another model that is Strength 5 or less, it will immediately stop and both models will be knocked Prone.
 
@@ -383,8 +333,6 @@ This power targets one enemy model within range. The target is blasted D6" direc
 
 **DURATION: INSTANT**
 
-*Channelling their own fortitude, the caster is able to instill greater resolve into their allies, renewing their flagging spirits to continue the fight.*
-
 This power targets one friendly model within range. The caster can use this spell to give 1 Will point to a friendly **Hero** within range. The target's Will can be increased past their starting amount.
 
 **Channelled** — The target instead receives D3 Will points.
@@ -392,8 +340,6 @@ This power targets one friendly model within range. The caster can use this spel
 ### TERRIFYING AURA
 
 **DURATION: EXHAUSTION**
-
-*Drawing upon their power, the caster's visage becomes suddenly more ferocious, their physique more intimidating — causing their foes to quake in fear.*
 
 This power targets the caster themselves. While this power is in effect, the caster causes Terror.
 
@@ -403,8 +349,6 @@ This power targets the caster themselves. While this power is in effect, the cas
 
 **DURATION: INSTANT**
 
-*The caster causes the ground beneath their feet to tremble and shake, sending a crack towards the enemy that throws their foes to the floor as a gaping fissure spreads across the battlefield.*
-
 This power targets one enemy model within range, and any model that falls under the line. Draw a straight line, 1mm wide, that extends D6" from the target in the direction directly away from the caster.
 
 **Channelled** — The line instead extends out 2D6".
@@ -412,8 +356,6 @@ This power targets one enemy model within range, and any model that falls under 
 ### WITHER
 
 **DURATION: INSTANT**
-
-*The caster harnesses a crude form of dark magic, causing their victims to wither and weaken. Bones become brittle and muscles begin to waste away.*
 
 This power targets one enemy model within range. The target's Strength is reduced by 1 (to a minimum of 1) for the remainder of the game. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount has their Strength reduced.
 
@@ -423,8 +365,6 @@ This power targets one enemy model within range. The target's Strength is reduce
 
 **DURATION: INSTANT**
 
-*Harnessing the mighty power of nature, the caster summons forth bubbling, surging waters to spring from the ground and sweep their enemies from their feet. Those who venture too close to a river or pond will feel the full force of this power as they are buffeted by the raging currents the caster summons.*
-
 This power targets all enemy models within range. All enemy models within 6" of the caster are knocked Prone. **Cavalry** models are automatically treated as having suffered a Knocked Flying result on the Thrown Rider table — both rider and mount are then knocked Prone.
 
 **Channelled** — All enemy models instead suffer one Strength 3 hit after being knocked Prone or one Strength 9 hit if they are in a stream, river or similar water terrain feature.
@@ -432,8 +372,6 @@ This power targets all enemy models within range. All enemy models within 6" of 
 ### YOUR STAFF IS BROKEN
 
 **DURATION: INSTANT**
-
-*A rare magical power that can shatter the formidable Staffs of Power belonging to the Wizards, only the greatest of sorcerers and magic users can harness this power.*
 
 This power targets one enemy model within range, so long as they have a staff. This power destroys the staff of the target model. All the advantages associated with the staff are immediately lost.
 

@@ -33,19 +33,19 @@ This army may include: Azog; Bolg; Gundabad Orc Captains; Goblin Mercenary Capta
 
 - Signal Tower: 200 points
 - The White Warg: 50 points
-- Stone flail: 20 points
+- Stone [flail]: 20 points
 - [Heavy armour]: 10 points
 
 - **Stone Flail (ACTIVE)**
 
-The stone flail is a two-handed weapon that follows the normal rules for flails, with the following exceptions. When fighting with the stone flail, Azog’s Fight value is reduced to 6/5+. Azog does not reduce his Fight value for using the Whirl Special Strike. Additionally, Wounds inflicted by the stone flail cause not 1 Wound but D3 Wounds instead (determine the number of Wounds after Fate points are used), and any model that is struck, but not slain, is knocked Prone.
+The stone flail is a two-handed weapon that follows the normal rules for flails, with the following exceptions. When fighting with the stone flail, Azog's Fight value is reduced to 6/5+. Azog does not reduce his Fight value for using the Whirl Special Strike. Additionally, Wounds inflicted by the stone flail cause not 1 Wound but D3 Wounds instead (determine the number of Wounds after Fate points are used), and any model that is struck, but not slain, is knocked Prone.
 
 **SPECIAL RULES**
 
 - [Burly]
 - **General of the North (ACTIVE)**
 
-Azog’s [Stand Fast!] rule has a range of 12" and, unlike any other Hero model’s [Stand Fast!] rule, can affect other Orc Hero models.
+Azog's [Stand Fast!] rule has a range of 12" and, unlike any other Hero model's [Stand Fast!] rule, can affect other Orc Hero models.
 
 - **I am the Master (ACTIVE)**
 
@@ -62,7 +62,7 @@ The Signal Tower consists of four major parts:
 - The Banner of Angmar – The central stationary banner. 
 - The Horn of Gorgoroth – The giant horn. 
 
-The Signal Tower also comes with seven of Azog’s Lieutenants, armed with swords, to man the tower. These Lieutenants do not count as part of Azog’s warband and may not lead troops.
+The Signal Tower also comes with seven of Azog's Lieutenants, armed with swords, to man the tower. These Lieutenants do not count as part of Azog's warband and may not lead troops.
 
 **AZOG'S LIEUTENANTS**
 
@@ -90,11 +90,11 @@ The Signal Tower also comes with seven of Azog’s Lieutenants, armed with sword
 
 The Tower is placed in position before a battle commences, allowing for Azog to command his troops effectively from the start of the battle.
 
-Before deployment, but after players have decided on their board edges, the controlling player may place the Signal Tower, plus the seven of Azog’s Lieutenants, anywhere on the battlefield. The Signal Tower may not be subsequently moved. Note: the Lieutenants must be deployed on the Signal Tower.
+Before deployment, but after players have decided on their board edges, the controlling player may place the Signal Tower, plus the seven of Azog's Lieutenants, anywhere on the battlefield. The Signal Tower may not be subsequently moved. Note: the Lieutenants must be deployed on the Signal Tower.
 
 - **It must always be Manned (PASSIVE)**
 
-Any of Azog’s Lieutenants may man a part of the Signal Tower – to do this they must be in base contact with the part they wish to man. Whilst manned, each part of the Signal Tower has a different effect, as follows:
+Any of Azog's Lieutenants may man a part of the Signal Tower – to do this they must be in base contact with the part they wish to man. Whilst manned, each part of the Signal Tower has a different effect, as follows:
 
 • The Banner of Dol Guldur – All friendly Gundabad models on the battlefield count themselves as being in range of a banner.
 
@@ -106,7 +106,7 @@ Any of Azog’s Lieutenants may man a part of the Signal Tower – to do this th
 
 - **Summoning of the Hosts (PASSIVE)**
 
-If the Signal Tower is taken as an upgrade for Azog, then 24 Warriors may be included in Azog’s warband rather than 18. These may deploy within 12" of Azog rather than the usual 6".
+If the Signal Tower is taken as an upgrade for Azog, then 24 Warriors may be included in Azog's warband rather than 18. These may deploy within 12" of Azog rather than the usual 6".
 
 - **Destroying the Signal Tower (PASSIVE)** 
 
@@ -132,11 +132,11 @@ Each part of the Tower has a Defence value of 10 with 3 Wounds, and each is cons
 - [Terror]
 - **Deadly Union (PASSIVE)**
 
-As long as Azog is mounted upon the White Warg, you can expend either Azog’s or the White Warg’s stores of Might, Will and Fate as if they shared the same profile (though you should still mark down which of the two actually expended each point).
+As long as Azog is mounted upon the White Warg, you can expend either Azog's or the White Warg's stores of Might, Will and Fate as if they shared the same profile (though you should still mark down which of the two actually expended each point).
 
 - **Pack Master (PASSIVE)**
 
-Once separated from Azog, only Warg models may use the White Warg’s [Stand Fast!] rule or benefit from its Heroic Actions.
+Once separated from Azog, only Warg models may use the White Warg's [Stand Fast!] rule or benefit from its Heroic Actions.
 
 - **Raging Beast (PASSIVE)**
 
@@ -184,7 +184,7 @@ Every time that Bolg slays an enemy model, take note of it. Once he has killed t
 
 - **Morgul Arrows (PASSIVE)**
 
-Any model that suffers a Wound from a model with this special rule’s shooting attacks, and isn’t slain, must roll a D6 at the start of each subsequent turn. On the roll of a 1, that model suffers a Wound.
+Any model that suffers a Wound from a model with this special rule's shooting attacks, and isn't slain, must roll a D6 at the start of each subsequent turn. On the roll of a 1, that model suffers a Wound.
 
 </div>
 
@@ -250,11 +250,11 @@ Models with this special rule can Support as if they had spears, with the except
 
 Warbands led by a Goblin Mercenary Captain that contain solely Goblin Mercenaries do not have to deploy on the board at the start of the game. Instead, they may be kept in reserve.
 
-From turn 2 onwards, the controlling player must test to see if their Goblin Mercenaries have arrived. To do this, the Goblin Mercenary Captain must make a Courage test at any point during the controlling player’s Move phase.
+From turn 2 onwards, the controlling player must test to see if their Goblin Mercenaries have arrived. To do this, the Goblin Mercenary Captain must make a Courage test at any point during the controlling player's Move phase.
 
 If the test is passed, the controlling player may choose whether or not the Goblin Mercenaries have arrived. If the test is failed, then the opposing player may choose whether or not the Goblin Mercenaries have arrived.
 
-Once they have arrived, the controlling player places the warband fully within any eligible terrain piece on the board. Models deployed in this way may not be placed within the Control Zones of any enemy models. This counts as the Goblin Mercenaries’ movement for that turn. If the entire warband cannot be placed for any reason (such as there are no eligible terrain pieces), then they may arrive as Reinforcements from a board edge of the controlling player’s choice instead.
+Once they have arrived, the controlling player places the warband fully within any eligible terrain piece on the board. Models deployed in this way may not be placed within the Control Zones of any enemy models. This counts as the Goblin Mercenaries' movement for that turn. If the entire warband cannot be placed for any reason (such as there are no eligible terrain pieces), then they may arrive as Reinforcements from a board edge of the controlling player's choice instead.
 
 </div>
 
@@ -315,7 +315,7 @@ Once they have arrived, the controlling player places the warband fully within a
 - [Ancient Enemies] (Elf)
 - **Oblivious to Pain (PASSIVE)**
 
-Every time a Gundabad Berserker suffers a Wound, roll a D6. On a roll of a 6 (or a 5+, if the Banner of Angmar on Azog’s Signal Tower is on the battlefield and manned), the Wound is ignored exactly as if a point of Fate had been spent. This is not cumulative with other special rules that confer the same effect.
+Every time a Gundabad Berserker suffers a Wound, roll a D6. On a roll of a 6 (or a 5+, if the Banner of Angmar on Azog's Signal Tower is on the battlefield and manned), the Wound is ignored exactly as if a point of Fate had been spent. This is not cumulative with other special rules that confer the same effect.
 
 </div>
 
@@ -436,7 +436,7 @@ Each time a Troll Brute moves into base contact with another model, it must infl
 - [Terror]
 - **Relentless Advance (ACTIVE)**
 
-When an Ogre charges into combat, they can pass 'through’ friendly Orc, Goblin and Bat models when they move and each model that they pass through suffers a Strength 3 hit. A model that they end their move on is automatically removed as a casualty. A model with this special rule cannot be Compelled/Commanded over friendly models if it is forced to Charge as part of that Magical Power.
+When an Ogre charges into combat, they can pass 'through' friendly Orc, Goblin and Bat models when they move and each model that they pass through suffers a Strength 3 hit. A model that they end their move on is automatically removed as a casualty. A model with this special rule cannot be Compelled/Commanded over friendly models if it is forced to Charge as part of that Magical Power.
 
 </div>
 
@@ -461,11 +461,11 @@ When an Ogre charges into combat, they can pass 'through’ friendly Orc, Goblin
 
 - Piercing Talons (ACTIVE)
 
-When a War Bat Charges, the Defence of the charged model, and any models that subsequently counter-charge, is reduced by 2 against the War Bat’s Strikes.
+When a War Bat Charges, the Defence of the charged model, and any models that subsequently counter-charge, is reduced by 2 against the War Bat's Strikes.
 
 - Pluck (ACTIVE)
 
-At the end of a War Bat’s Move, pick an unengaged Man-sized (or smaller) enemy model that it has moved over and roll a D6. On a 4+, that model suffers a Strength 4 hit. If it survives, roll another dice. On a 4+, that model is Knocked to the Ground.
+At the end of a War Bat's Move, pick an unengaged Man-sized (or smaller) enemy model that it has moved over and roll a D6. On a 4+, that model suffers a Strength 4 hit. If it survives, roll another dice. On a 4+, that model is Knocked to the Ground.
 
 </div>
 

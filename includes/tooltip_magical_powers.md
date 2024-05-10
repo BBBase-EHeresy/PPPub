@@ -1,3 +1,4 @@
+[Aura of Command]: ../rules_manual/magical_powers.md#aura-of-command
 [Aura of Dismay]: ../rules_manual/magical_powers.md#aura-of-dismay
 [Banishment]: ../rules_manual/magical_powers.md#banishment
 [Black Dart]: ../rules_manual/magical_powers.md#black-dart

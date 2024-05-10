@@ -30,8 +30,8 @@ The profile for The Witch-king of Angmar can be found on page 114. The Witch-kin
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
+- [Armoured Fell Beast]: 70 points
+- [Fell Beast]: 50 points
 - [Armoured horse]: 15 points
 - [Horse]: 10 points
 
@@ -83,8 +83,8 @@ At the start of the Fight phase, roll a D6 for each non-Spirit model (friendly o
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
+- [Armoured Fell Beast]: 70 points
+- [Fell Beast]: 50 points
 - [Armoured horse]: 15 points
 - [Horse]: 10 points
 
@@ -378,7 +378,7 @@ Only friendly Warg models may benefit from a Wild Warg Chieftain's [Stand Fast!]
 - [Banner]: 25 points
 - [Orc bow][Bow]: 1 point
 - [Shield]: 1 point
-- [Throwing spears]: 1 point
+- [Throwing spears][Throwing Weapon]: 1 point
 
 </div>
 

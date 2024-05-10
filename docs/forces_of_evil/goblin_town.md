@@ -39,7 +39,7 @@ The profile for Goblin Mercenaries can be found on page 103.
 - [Terror]
 - **Relentless Advance (ACTIVE)**
 
-When the Goblin King Charges into combat, he can pass 'through’ friendly Goblin models when he moves. Each Goblin he moves through suffers a Strength 3 hit. Any Goblin that he ends his move on is automatically slain. A model with this special rule cannot be Compelled/Commanded over friendly models if it is forced to Charge as a part of that Magical Power.
+When the Goblin King Charges into combat, he can pass 'through' friendly Goblin models when he moves. Each Goblin he moves through suffers a Strength 3 hit. Any Goblin that he ends his move on is automatically slain. A model with this special rule cannot be Compelled/Commanded over friendly models if it is forced to Charge as a part of that Magical Power.
 
 - **Blubbery Mass (PASSIVE)**
 

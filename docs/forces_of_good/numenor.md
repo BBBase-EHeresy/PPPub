@@ -63,7 +63,7 @@ Elendil always counts as having had the [Fortify Spirit] Magical Power cast upon
 **WARGEAR**
 
 - [Heavy Armour]
-- *[hand-and-a-half]* [Sword]
+- *[Hand-and-a-Half]* [Sword]
 
 **HEROIC ACTIONS**
 

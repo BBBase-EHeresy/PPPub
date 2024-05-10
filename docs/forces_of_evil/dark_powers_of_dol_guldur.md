@@ -73,12 +73,12 @@ Note: The Necromancer is in fact Sauron. This means you cannot have both Sauron 
 
 <div class="unitCard" markdown>
 
-### NAZGÛL OF DOL GULDUR [75 POINTS]
+### THE NAZGÛL OF DOL GULDUR [75 POINTS]
 *SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO - HERO OF VALOUR*
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 5/4+ | 4 | 6 | 2 | 1 | 6 | 3 | 25 | * |
+| 6" | 5/4+ | 4 | 6 | 2 | 1 | 6 | 2 | 1 | 0 |
 
 **SPECIAL RULES**
 
@@ -97,6 +97,7 @@ When choosing which Nazgûl to field, pick one option from the list that follows
 If a model with this special rule is slain, place a marker where it was removed from the board. In the next Priority phase, after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound and may be placed anywhere within 6" of the marker, so long as it is not placed in base contact with an enemy model. Any Might or Will points that were spent remain spent. Whilst the marker is in play, the Nazgûl counts as on the board for the purpose of working out whether your force is Broken or reduced to 25% – though they cannot hold objectives and will still count as slain for the purposes of any special rules that would require a model to be slain (such as a Heroic Combat). If the roll is a 1 or a 2, then the Nazgûl has been banished – remove the marker and the Nazgûl from play. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to the Unholy Resurrection roll. If, when the game ends, a marker is in play and the corresponding Nazgûl is not on the board, that Nazgûl will count as having been slain for the purposes of victory conditions.
 
 ---
+
 **THE WITCH-KING OF ANGMAR**
 
 **WARGEAR**
@@ -255,7 +256,7 @@ The Keeper of the Dungeons gets a bonus of +1 To Wound against any model that be
 
 - **Morgul Blade (ACTIVE)**
 
-Once per game, this model’s controlling player may declare they are using their Morgul blade during the Fight phase before rolling To Wound. If a model is using a Morgul blade, they must direct all of their Strikes against a single target. An enemy that suffers a Wound from the Morgul blade is automatically slain, regardless of the number of Wounds on their profile. Heroes may use Fate to avoid these Wounds, but if even a single Wound is not saved, they are slain. If the model using the Morgul blade is mounted, they must use the rider’s Attacks and Strength if using the Morgul blade.
+Once per game, this model's controlling player may declare they are using their Morgul blade during the Fight phase before rolling To Wound. If a model is using a Morgul blade, they must direct all of their Strikes against a single target. An enemy that suffers a Wound from the Morgul blade is automatically slain, regardless of the number of Wounds on their profile. Heroes may use Fate to avoid these Wounds, but if even a single Wound is not saved, they are slain. If the model using the Morgul blade is mounted, they must use the rider's Attacks and Strength if using the Morgul blade.
 
 **SPECIAL RULES**
 

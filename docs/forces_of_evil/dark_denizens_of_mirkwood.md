@@ -6,7 +6,7 @@ The profile for Fell Wargs can be found on page 107.
 
 ## ARMY BONUS
 
-**Beasts of Mirkwood** – So long as your army includes the Spider Queen, warbands composed entirely of Warg models do not need a Hero to lead them if they number six or more models; warbands composed entirely of Spider models do not need a Hero to lead them if they number two or more models; and warbands composed of a mixture of models do not need a Hero to lead them if they number ten or more models. Instead, one Warrior within the warband takes on the role of the warband’s captain for the purpose of deployment.
+**Beasts of Mirkwood** – So long as your army includes the Spider Queen, warbands composed entirely of Warg models do not need a Hero to lead them if they number six or more models; warbands composed entirely of Spider models do not need a Hero to lead them if they number two or more models; and warbands composed of a mixture of models do not need a Hero to lead them if they number ten or more models. Instead, one Warrior within the warband takes on the role of the warband's captain for the purpose of deployment.
 
 ## HEROES OF THE DARK DENIZENS OF MIRKWOOD
 

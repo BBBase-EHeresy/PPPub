@@ -2,9 +2,9 @@
 
 This army may include: Azog; Bolg; Yazneg; Narzug; Fimbul the Hunter; Hunter Orc Captains; Hunter Orcs and Fell Wargs.
 
-The profile for Azog can be found on page 93. Azog counts as a Hero of Legend if taken as part of an Azog’s Hunters army list. Azog may not take the Signal Tower, heavy armour or stone flail if taken as part of an Azog’s Hunters army list.
+The profile for Azog can be found on page 93. Azog counts as a Hero of Legend if taken as part of an Azog's Hunters army list. Azog may not take the Signal Tower, heavy armour or stone flail if taken as part of an Azog's Hunters army list.
 
-The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if taken as part of an Azog’s Hunters army list.
+The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if taken as part of an Azog's Hunters army list.
 
 ## ARMY BONUS
 

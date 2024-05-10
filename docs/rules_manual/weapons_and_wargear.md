@@ -188,7 +188,7 @@ Missile weapons are used to make shooting attacks. As with close combat weapons,
 
 *Bows come in a wide variety, from the long, elegantly curved bows of the Elves to the stunted, crude bows fashioned by Orcs.*
 
-The term bow covers a wide range of weapons including bows, Elf bows, Dwarf bows and great bows, but since they all work in much the same fashion, we have a simple set of rules to represent them all. The major differences between the various types of bow are the characteristics that the bow has (see the Missile Weapon chart below). A model can shoot a bow in the Shoot phase provided it has not moved more than half of its maximum allowance in the preceding Move phase.
+The term bow covers a wide range of weapons including bows, Elf bows, Dwarf bows and great bows, but since they all work in much the same fashion, we have a simple set of rules to represent them all. The major differences between the various types of bow are the characteristics that the bow has (see [the Missile Weapon chart](#missile-weapon-chart) below). A model can shoot a bow in the Shoot phase provided it has not moved more than half of its maximum allowance in the preceding Move phase.
 
 ### CROSSBOWS
 
@@ -229,7 +229,7 @@ If the target is not slain, the charger then moves into base contact with the sa
 
 Throwing Weapons do not count towards an army's bow limit.
 
-Throwing spears follow the rules for throwing weapons, but have a slightly different profile (see the Missile Weapon chart).
+Throwing spears follow the rules for throwing weapons, but have a slightly different profile (see [the Missile Weapon chart](#missile-weapon-chart)).
 
 ### BLOWPIPE
 

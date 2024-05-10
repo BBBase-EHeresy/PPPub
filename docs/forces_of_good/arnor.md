@@ -62,7 +62,7 @@ Arvedui's [Stand Fast!] is 12" rather than 6".
 
 **SPECIAL RULES**
 
-* Gift of Foresight (ACTIVE)
+* **Gift of Foresight (ACTIVE)**
 
 Every time a friendly Arnor model within 6" of Malbeth suffers a Wound, roll a D6. On a 5+, the Wound has been prevented, exactly as if a point of Fate had been expended. Note that if this roll is failed, Hero models may still use Fate points as normal.
 
@@ -84,7 +84,7 @@ Every time a friendly Arnor model within 6" of Malbeth suffers a Wound, roll a D
 
 * [Heavy armour]
 * [Sword]
-* [Shield].
+* [Shield]
 
 **HEROIC ACTIONS**
 

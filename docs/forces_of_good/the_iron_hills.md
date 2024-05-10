@@ -344,7 +344,7 @@ The Iron Hills Chariot is an unusual model and moves in the following way:
 
 The Chariot counts as one model in a fight. Any surviving crew member that is not driving the Chariot adds their Attacks to the Duel roll. Additionally, the Chariot will also use the highest Fight value of any Dwarf that is on the Chariot (including the driver). No model that is riding on an Iron Hills Chariot can declare a Heroic Combat.
 
-If beaten, any model wishing to Strike the crew must roll to see if they hit the crew or the Chariot. To do this, roll a D6 for each Strike. On a 4+, the Strike hits the crew member of the attacker’s choice – anything else hits the Chariot.
+If beaten, any model wishing to Strike the crew must roll to see if they hit the crew or the Chariot. To do this, roll a D6 for each Strike. On a 4+, the Strike hits the crew member of the attacker's choice – anything else hits the Chariot.
 
 If the Chariot loses the Fight, it does not Back Away. It also never counts as Trapped. If the Chariot is slain, then the crew inside are lost – remove the model as a casualty.
 
@@ -354,13 +354,13 @@ On a turn in which the Iron Hills Chariot Charges, it gains the Extra Attack and
 
 - **The Chariot and Magic (ACTIVE)**
 
-Models with Magical Powers can use them on the Chariot, selecting either the Chariot itself or one of the crew members as the target. Magical Powers that affect multiple targets will automatically affect both the Chariot and its crew, if in range of the model. Only by affecting the Driver will a Magical Power such as Transfix or Compel impede the Chariot’s movement (thereby causing it to remain stationary or take a move as described by the Magical Power). Finally, Magical Powers such as Sorcerous Blast, Nature’s Wrath and Call Winds will not move the Chariot or knock it Prone, although they will still inflict any damage as detailed in the Magical Power’s description.
+Models with Magical Powers can use them on the Chariot, selecting either the Chariot itself or one of the crew members as the target. Magical Powers that affect multiple targets will automatically affect both the Chariot and its crew, if in range of the model. Only by affecting the Driver will a Magical Power such as Transfix or Compel impede the Chariot's movement (thereby causing it to remain stationary or take a move as described by the Magical Power). Finally, Magical Powers such as Sorcerous Blast, Nature's Wrath and Call Winds will not move the Chariot or knock it Prone, although they will still inflict any damage as detailed in the Magical Power's description.
 
 - **Iron Hills Captain (ACTIVE)**
 
 If this upgrade is taken for the Chariot, then an Iron Hills Captain will replace the driver. The Iron Hills Captain will have all of the usual wargear and special rules that an Iron Hills Captain would normally possess whilst riding the Chariot (see page 29). The Chariot counts as a Hero for the Iron Hills army list and may be the army leader. If the Iron Hills Captain is taken, replace the Warrior keyword with Hero whilst the Captain remains alive.
 
-#### CHAMPIONS OF EREBOR AS CREW: DESIGNER’S NOTE
+#### CHAMPIONS OF EREBOR AS CREW: DESIGNER'S NOTE
 
 * **Champions of Erebor (ACTIVE)**
 
@@ -378,7 +378,7 @@ The Chariot is also subject to the following exceptions:
 
 • Magical Powers may be directed at the Dwarves individually, in which case they will Resist and be affected individually with no impact on each other.
 
-• In combat, the Chariot is very unusual in that a Duel can effectively have multiple models on both sides of the Fight. When making a Duel roll, make sure to roll each Dwarf’s attacks separately for the purpose of using Might points. Additionally, each Dwarf may decide to use Special Strikes. If Kili or Fili use the Feint Special Strike, then the Fight values of all of the crew and the Chariot itself will be reduced by D3. If Kili or Fili use the Stab Special Strike, then only they will be affected. If Dwalin uses the Piercing Strike Special Strike then only his Strength and Defence will be affected.
+• In combat, the Chariot is very unusual in that a Duel can effectively have multiple models on both sides of the Fight. When making a Duel roll, make sure to roll each Dwarf's attacks separately for the purpose of using Might points. Additionally, each Dwarf may decide to use Special Strikes. If Kili or Fili use the Feint Special Strike, then the Fight values of all of the crew and the Chariot itself will be reduced by D3. If Kili or Fili use the Stab Special Strike, then only they will be affected. If Dwalin uses the Piercing Strike Special Strike then only his Strength and Defence will be affected.
 
 • This version of the Chariot counts as four models for the purpose of working out Break points.
 
@@ -390,7 +390,7 @@ The Chariot is also subject to the following exceptions:
 
 On this page is a template for use with your Iron Hills Chariot.
 
-It is ideal for measuring the angle for pivoting your Iron Hills Chariot during its movement, and for working out which enemy models are within the rapid fire bolt thrower’s field of fire.
+It is ideal for measuring the angle for pivoting your Iron Hills Chariot during its movement, and for working out which enemy models are within the rapid fire bolt thrower's field of fire.
 
 Feel free to print out this page for your own personal use or simply use the template on screen.
 
@@ -398,6 +398,6 @@ To use this template, place the corner marked X over the centre of the rapid fir
 
 When pivoting the Chariot, keep the template still and pivot the Chariot about point X so that the pole is now facing up to 45º to either the left or the right, as shown by the template.
 
-When firing the rapid fire bolt thrower, place the template as described above. This is the rapid fire bolt thrower’s field of fire.
+When firing the rapid fire bolt thrower, place the template as described above. This is the rapid fire bolt thrower's field of fire.
 
 </div>

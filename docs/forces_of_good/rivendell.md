@@ -39,7 +39,7 @@ Aiglos is an *[Elven-made]* [spear]. Additionally, Gil-galad may add +1 to all o
 - [Horse]: 10 points
 - [Shield]: 5 points
 
-If your army includes Gil-galad, High King of the Elves, then you may upgrade any number of High Elf Warriors in his warband to become King’s Guard for a cost of +1 point per model. King’s Guard have a Fight value of 6/3+.
+If your army includes Gil-galad, High King of the Elves, then you may upgrade any number of High Elf Warriors in his warband to become King's Guard for a cost of +1 point per model. King's Guard have a Fight value of 6/3+.
 
 **SPECIAL RULES**
 

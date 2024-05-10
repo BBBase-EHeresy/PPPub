@@ -45,3 +45,5 @@
 [Pony]: ../rules_manual/cavalry.md#pony
 [Warg]: ../rules_manual/cavalry.md#warg
 [Fell Warg]: ../rules_manual/cavalry.md#fell-warg
+[Fell Beast]: ../forces_of_evil/mordor.md#fell-beast
+[Armoured Fell Beast]: ../forces_of_evil/mordor.md#armoured-fell-beast

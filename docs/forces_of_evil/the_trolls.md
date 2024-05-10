@@ -36,7 +36,7 @@ The Three Trolls may be deployed as one warband if you wish.
 
 - Campfire (PASSIVE) 
 
-After forces are deployed, but before the first turn begins, place the Campfire anywhere on the board outside of your opponent’s deployment area. Bill, Tom and Bert gain the Resistant to Magic special rule and a bonus of +1 to their Courage value whilst they are within 6" of the Campfire.
+After forces are deployed, but before the first turn begins, place the Campfire anywhere on the board outside of your opponent's deployment area. Bill, Tom and Bert gain the Resistant to Magic special rule and a bonus of +1 to their Courage value whilst they are within 6" of the Campfire.
 
 **SPECIAL RULES**
 

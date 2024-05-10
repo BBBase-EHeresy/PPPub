@@ -39,7 +39,7 @@ The Desolator of the North army list does not have a special rule — having Sma
 - [Terror]
 - **Breathe Fire (ACTIVE)**
 
-Smaug must expend a point of Will to Breathe Fire. Treat Smaug’s fiery breath as a bow with a range of 18". If the shot hits, the target and all models (friendly or enemy) within 2" of the target suffer from the Set Ablaze special rule, though the immediate hit these models suffer is Strength 10 instead of Strength 9. Cavalry models suffer these hits on both the rider and the mount. Fate rolls may be taken as normal to prevent wounds, but any model that suffers a wound from Smaug’s fiery breath is
+Smaug must expend a point of Will to Breathe Fire. Treat Smaug's fiery breath as a bow with a range of 18". If the shot hits, the target and all models (friendly or enemy) within 2" of the target suffer from the Set Ablaze special rule, though the immediate hit these models suffer is Strength 10 instead of Strength 9. Cavalry models suffer these hits on both the rider and the mount. Fate rolls may be taken as normal to prevent wounds, but any model that suffers a wound from Smaug's fiery breath is
 automatically slain.
 
 - ***Desolator of the North (PASSIVE)**
